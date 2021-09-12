@@ -1,3 +1,3 @@
-module github.com/YourOnly-One/youronlyone-hugo-content
+module github.com/YourOnly-One/yoo-hugo-content
 
 go 1.17
