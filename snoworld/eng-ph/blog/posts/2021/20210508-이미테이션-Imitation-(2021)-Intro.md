@@ -1,0 +1,625 @@
++++
+title = "What K-Pop Idols Go Through According to 「Imitation」"
+description = "The road to becoming a K-Pop idol is not as easy as most assume."	# For Schema.org; OpenGraph; Twitter Cards
+
+date = "2021-05-08T13:54:00"
+#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+
+#aliases = [""]
+slug = "이미테이션 Imitation (2021)"
+translationKey = "이미테이션 Imitation (2021)"
+relCanonical = "https://im.youronly.one/snoworld/이미테이션-imitation-2021-2021128/"														# only needed when this is not the original post
+disqus_url = "https://youronly.one/snoworld/imitation-2021-2021128/"															# canonical URL for disqus
+#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+
+channels = ["Snoworld"]
+categories = ["TV"]														# taxonomy
+keywords = ["이미테이션", "Imitation", "K-Drama"]															# meta keywords
+series = [""]																# subset of series taxonomy
+tags = ["kdrama", "reviews"]																	# taxonomy
+
+comments = true
+#weight = ""
+
+#featured = true															# theme specific
+#math = true																	# theme specific
+
+#draft = true
+
+#license = ""
+
+contenttypes = ["CriticReview"]
+
+#videos = [""]																# og:video
+#audio = [""]																# og:audio
+images = ["https://img.youronly.one/p/Imitation-(2021)-Title.webp", "https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"]    # og:images
+cover = "https://img.youronly.one/p/Imitation-(2021)-Title.webp"       # theme specific
+
+[author]
+#name = ""
+#email = ""
+homepage = "https://im.youronly.one/snoworld/"
+avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+
+[semweb]
+type = "TVSeries"
+
+# If different from our website
+#[semweb.publisher]
+#name = ""
+#sameas = [""]
+
+# If different from default author
+#[semweb.author]
+#sameas = [""]
+
+# For adaptations
+[semweb.product.isbasedon]
+name = "이미테이션"
+alternatenames = ["Imitation"]
+sameas = ["https://page.kakao.com/home?seriesId=46908316"]
+
+[semweb.product.isbasedon.author]
+name = "박경란"
+alternatenames = ["Park Kyung Ran"]
+#sameas = [""]
+
+# Video URLs can be any, YouTube provided as a guide only
+[semweb.video]
+name = "Official Trailer: Imitation"
+description = "「Imitation」 trailer"
+uploaddate = "2021-04-27"
+thumbnailurl = "https://img.youtube.com/vi/m7WhnM4mU4w/hqdefault.jpg"
+contenturl = "https://www.youtube.com/watch?v=m7WhnM4mU4w"
+embedurl = "https://www.youtube-nocookie.com/embed/m7WhnM4mU4w"
+
+[semweb.review]
+snippet = "Should you watch this new Korean drama? Definitely, especially if you are also a K-Pop fan. Hopefully through this short form TV series, more fans will be enlightened to the kind of life their idols are living every single day."
+rating = "8.4"
+
+[semweb.product]
+name = "이미테이션"
+alternatenames = ["Imitation"]
+sameas = ["https://en.wikipedia.org/wiki/Imitation_(TV_series)", "https://www.imdb.com/title/tt14371376/"]
+countryoforigin = "Korea"
+description = "「Imitation」 is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see."
+datepublished = "2021-05-07"
+categories = ["Drama", "K-pop", "Romance"]
+
+# For TVSeries
+[semweb.product.season]
+name = "Season 1"
+totalepisodes = "12"
+start = "2021-05-07"
+end = "2021-07-23"
+
+# For TVSeries and if reviewing an episode
+[semweb.product.season.episode]
+epnumber = "1"
+name = "Episode 1"
+datepublished = "2021-05-07"
+
+# Duplicate for more Actor entries
+[[semweb.actor]]
+name = "정지소"
+alternatenames = ["Jeong Ji So"]
+sameas = ["https://en.wikipedia.org/wiki/Jung_Ji-so", "https://www.imdb.com/name/nm7616095/"]
+[[semweb.actor]]
+name = "이준영"
+alternatenames = ["Lee Jun Young"]
+sameas = ["https://en.wikipedia.org/wiki/Lee_Jun-young_(entertainer)", "https://www.imdb.com/name/nm9273705/"]
+[[semweb.actor]]
+name = "박지연"
+alternatenames = ["Park Ji Yeon"]
+sameas = ["https://en.wikipedia.org/wiki/Park_Ji-yeon", "https://www.imdb.com/name/nm4875362/"]
+[[semweb.actor]]
+name = "정윤호"
+alternatenames = ["Jeong Yun Ho"]
+sameas = ["https://en.wikipedia.org/wiki/Ateez", "https://www.imdb.com/name/nm11013930/"]
+[[semweb.actor]]
+name = "강찬희"
+alternatenames = ["Chani", "Kang Chan Hee"]
+sameas = ["https://en.wikipedia.org/wiki/Kang_Chan-hee", "https://www.imdb.com/name/nm10843801/"]
+[[semweb.actor]]
+name = "임나영"
+alternatenames = ["Im Na Young", "Lim Na Young"]
+sameas = ["https://en.wikipedia.org/wiki/Lim_Na-young", "https://www.imdb.com/name/nm9683590/"]
+[[semweb.actor]]
+name = "김민서"
+alternatenames = ["Kim Min Seo", "민서", "Minseo"]
+sameas = ["https://www.imdb.com/name/nm12455035/"]
+
+# Duplicate for more Character entries
+[[semweb.character]]
+name = "Lee Ma Ha"
+#alternatenames = [""]
+sameas = ["https://www.imdb.com/title/tt14371376/characters/nm7616095"]
+[[semweb.character]]
+name = "Kwon Ryok"
+#alternatenames = [""]
+sameas = ["https://www.imdb.com/title/tt14371376/characters/nm9273705"]
+[[semweb.character]]
+name = "La Li Ma"
+#alternatenames = [""]
+sameas = ["https://www.imdb.com/title/tt14371376/characters/nm4875362"]
+[[semweb.character]]
+name = "Lee Yoo Jin"
+#alternatenames = [""]
+sameas = ["https://www.imdb.com/title/tt14371376/characters/nm11013930"]
+[[semweb.character]]
+name = "Lee Eun Jo"
+#alternatenames = [""]
+sameas = ["https://www.imdb.com/title/tt14371376/characters/nm10843801"]
+[[semweb.character]]
+name = "Shim Hyun Ji"
+#alternatenames = [""]
+sameas = ["https://www.imdb.com/title/tt14371376/characters/nm9683590"]
+[[semweb.character]]
+name = "Yu Ri Ah"
+#alternatenames = [""]
+sameas = ["https://www.imdb.com/title/tt14371376/characters/nm12455035"]
+
+# Duplicate for more Director entries
+[[semweb.director]]
+name = "한현희"
+alternatenames = ["Han Hyun Hee"]
+sameas = ["https://www.imdb.com/name/nm10727746/"]
++++
+
+「**Imitation**」 is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see. It stars 「Jeong Ji So」 as 「Lee Ma Ha」, 「Lee Jun Young」 as 「Kwon Ryok」, 「Park Ji Yeon」 as 「La Li Ma」, 「Jeong Yun Ho」 as 「Lee Yoo Jin」, together with 「Chani」 as 「Lee Eun Jo」, 「Im Na Young」 as 「Shim Hyun Ji」, and 「Kim Min Seo」 as 「Yu Ri Ah」.
+
+<!--more-->
+
+> In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut.
+
+## Synopsis
+「Lee Ma Ha」 is a member of the new K-pop girl group 「Tea Party」, formed by 「Ji Hak」, who was once the manager of the famous boy group 「Shax」, but resigned after the sudden disappearance of member 「Eun Jo」 in the middle of a concert. Prior to joining 「Tea Party」, 「Ma Ha」 was a member of the group 「Omega III」, which disbanded on its debut day due to a tragic incident involving a former trainee at the group's company. This led 「Ma Ha」 to support herself by performing as an impersonator of the popular solo singer 「La Li Ma」, gaining her public notoriety.[^a]
+
+Starting anew with 「Tea Party」, 「Ma Ha」 finds herself repeatedly crossing paths with 「Kwon Ryok」, the center and most popular member of 「Shax」 who is still haunted by 「Eun Jo」's disappearance three years later. While 「Ryok」 initially dislikes 「Ma Ha」 due to her imitation of 「Li Ma」, the two eventually begin to grow interested in one another and start a secret relationship that could put both of their careers in jeopardy.[^a]
+
+Meanwhile, 「Lee Yu Jin」, 「Ma Ha」's loyal friend who is the center of the rising boy group 「Sparkling」, has been in love with 「Ma Ha」 since their idol trainee days. When he notices the budding relationship between 「Ma Ha」 and 「Ryok」, he determines to protect her from 「Ryok」 and lead 「Sparkling」 to beat out 「Shax」 as the most popular boy group in the industry.[^a]
+
+[^a]: Wikipedia: [「Imitation」 synopsis](https://en.wikipedia.org/wiki/Imitation_(TV_series)#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+
+## Story
+This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of K-Pop or Korean Music. It tells the story K-Pop idols went through when they dreamed of debuting in the industry and the life they experience as an idol that the public rarely sees. This was the tone they established in episode 1 as 「Lee Ma Ha」, an aspiring idol, spent her teenage years training hard and non-stop just to be selected to debut on the elusive stage of Korean Music.
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 sets her goal"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 sets her goal"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 dreams of debuting in a grand stage"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 dreams of debuting in a grand stage"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 prepares to run"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 prepares to run"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 running"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 running"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 ran more than 11 km"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 ran more than 11 km"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+## What is it like to aspire as a K-Pop idol?
+In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. Other than the instense training, what are the other challenges aspiring K-Pop idols go through? These are what were revealed in episode 1 of 「Imitation」.
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Shax」"
+  imgalt="Imitation (2021) 「Shax」"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+And being selected does not mean a trainee will debut as was depicted in the first episode, anything can happen, like a member quitting and committing suicide due to stress, unfulfilled dreams, and the harsh environment some agencies provide.
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="Omega III member quit a few days before debut"
+  imgalt="Imitation (2021) Omega III member quit a few days before debut"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="Former Omega III member about to jump into the river"
+  imgalt="Imitation (2021) Former Omega III member about to jump into the river"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="Agency Accommodation"
+  imgalt="Imitation (2021) Agency Accommodation"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+Being away from your family, especially in special occasions, is very depressing.
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 celebrated her birthday away from her family"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 celebrated her birthday away from her family"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular company.
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 packing her things"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 packing her things"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Lee Ma Ha」 packing her things"
+  imgalt="Imitation (2021) 「Lee Ma Ha」 packing her things"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+### Debuting is also an internal process
+Regardless if one is a solo act or a group, they have to market themselves within the industry and introduce themselves to their seniors. In a very competitive industry such as K-Pop idol world, getting your seniors to like your music, your act, and them saying something positive about you or your group, will help in exposure and potential success. Like what 「Omega III」 did in episode 1, they even gave a free copy of their single to their seniors.
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Omega III」 debut"
+  imgalt="Imitation (2021) 「Omega III」 debut"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Omega III」 debut"
+  imgalt="Imitation (2021) 「Omega III」 debut"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Omega III」 debut"
+  imgalt="Imitation (2021) 「Omega III」 debut"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation (2021)"
+  imgcaption="「Omega III」 debut"
+  imgalt="Imitation (2021) 「Omega III」 debut"
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}
+
+## Verdict
+Should you watch this new Korean drama? Definitely, especially if you are also a K-Pop fan. Hopefully through this short form TV series, more fans will be enlightened to the kind of life their idols are living every single day. Yes, many of them are wealthy today but for them to get where they are today they have to go through the eye of the needle and sweat blood.
+
+Respect them. Stop bullying them.
+
+## Official trailer
+{{< youtube id="m7WhnM4mU4w" title="「Imitation」 trailer" >}}
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://img.youronly.one/p/Imitation-(2021)-Title.webp"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Imitation"
+  imgcaption=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Hidden Sequence"
+  attriblink=""
+  attribrel="noopener external nofollow"
+>}}

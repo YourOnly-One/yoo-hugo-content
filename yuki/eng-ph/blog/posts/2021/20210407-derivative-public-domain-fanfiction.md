@@ -1,0 +1,138 @@
++++
+title = "Is a derivative of a Public Domain work, fanfiction?"
+description = "A derivative work based on a public domain work is not fanfiction."	# For Schema.org; OpenGraph; Twitter Cards
+
+date = "2021-04-07T17:53:01"
+
+#aliases = [""]
+slug = "derivative public domain fanfiction"
+translationKey = "derivative public domain fanfiction"
+relCanonical = "https://im.youronly.one/yuki/derivative-public-domain-fanfiction-202197/"                           # only needed when this is not the original post
+disqus_url = "https://youronly.one/yuki/derivative-public-domain-fanfiction-202197/"                              # canonical URL for disqus
+#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+
+channels = ["Verses.Space"]
+categories = ["Literature"]														# taxonomy
+keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction"]															# meta keywords
+series = [""]																# subset of series taxonomy
+tags = ["publicdomain", "fanfiction"]																	# taxonomy
+
+comments = true
+#weight = ""
+
+#featured = true															# theme specific
+#math = true																	# theme specific
+
+#draft = true
+
+#license = ""
+
+contenttypes = ["Article"]
+
+#videos = [""]																# og:video
+#audio = [""]																# og:audio
+images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images
+cover = "https://img.youronly.one/p/Timeless_Books-1280w.jpg"				# theme specific
+
+[author]
+#name = ""
+#email = ""
+homepage = "https://verses.space"
+rel = "noopener external"
+avatar = "https://rsc.youronly.one/img/y/KWWP-logo-01-1280wh-transparent.webp"
+
+#[semweb]
+#type = ""
+
+# If different from our website
+#[semweb.publisher]
+#name = ""
+#sameas = [""]
+
+# If different from default author
+#[semweb.author]
+#sameas = [""]
+
+# For adaptations
+#[semweb.product.isbasedon]
+#name = ""
+#alternatenames = [""]
+#sameas = [""]
+
+#[semweb.product.isbasedon.author]
+#name = ""
+#alternatenames = [""]
+#sameas = [""]
+
+# Video URLs can be any, YouTube provided as a guide only
+#[semweb.video]
+#name = ""
+#description = "「CHANGE_THIS」 trailer/予告編/예고편"
+#uploaddate = ""
+#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
+#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
+#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
++++
+
+Recently, I have been encountering threads asking and discussing if a work based on a Public Domain work is fanfiction. It is good that writers are now concerned if their new work is within the bounds of the Copyright law, unfortunately, many are still under the assumption any work based on someone else's work is automatically fanfiction.
+
+<!--more-->
+
+## What is "Public Domain"?
+Let's quote Wikipedia in this as they wrote the shortest explanation I've seen.
+
+> The public domain consists of all the creative works to which no exclusive intellectual property rights apply. Those rights may have expired, been forfeited, expressly waived, or may be inapplicable.[^a]
+
+In other words, works in the **Public Domain** no longer have an exclusive intellectual property rights. For creative works like stories, poems, films, and music, it means there is no longer a Copyright owner. The work can be adapted, remixed, and/or reused by anyone, however they want, and the creator of the new work automatically owns the Copyright to his or her derivative.
+
+[^a]: Wikipedia: [Public Domain](https://en.wikipedia.org/wiki/Public_domain); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+
+## What is "Fanfiction"?
+Fanfiction is any derivative work of fiction created based on another's original work of fiction. These are stories commonly written by fans after enjoying the characters, settings, and stories they have watched, played, and/or read. Fanfictions are mostly unauthorised and are generally understood as infringing on the Copyright of the original creator.
+
+Explaining it another way, as long as there is a legal **Copyright owner** of a work, any unauthorised derivative work falls under fanfiction (or fan art; or [music] cover). Like it or not, it is Copyright infringement. If, and only if, the Copyright owner issues a public statement regarding fanfiction, does infringement usually goes out of the window.
+
+There are creative fiction authors who specifically allows fanfiction. Most do not read it to avoid fans claiming "it was my idea" but they allow it and so they probably will not go after anyone. "Probably" because authors usually license a lot of Rights to their publishers, and it may happen that the Copyright owner is fine with all fanfiction works but their Publisher does not like one particular fanfiction. Depending on their License agreement with the Copyright owner, they may file a Copyright infringement case.
+
+In short, be careful. We can probably talk about this deeper in another post, for now, let's go back to our main topic.
+
+## Is a derivative of a Public Domain work, fanfiction?
+**No.** As long as a work is in the Public Domain (in your country/state), any new work based from it are not under fanfiction. In fact, the creator of the new work automatically acquire Copyright to his or her derivative work!
+
+A creator can mix different Public Domain works together, or continue the story of that single Public Domain work. It does not matter. The new work is not fanfiction. The new work is a legal derivative work and has a Copyright of its own.
+
+But as I've mentioned earlier, be careful. Copyright Law differs in each country. There are some works already in the Public Domain almost everywhere but in the United States of America, the works are still under the protection of their Copyright law. Or, the Royal Crown in the United Kingdom has retained some rights or through some law royalties has to be paid even though a work is already in the Public Domain.
+
+There are also Public Domain works with brands and characters that were trademarked. Some descendants, groups, corporations, and family-clans, do use the trademark law to stop their ancestor's work that has fallen in the Public Domain from ever seeing a derivative work they do not earn any royalty from.
+
+Regardless, a work based on a Public Domain work is not a fanfiction, rather the new work is a legal derivative work protected by Copyright named for the derivate work's creator.
+
+## Start writing your own!
+Here are some places where you can read more about the **Public Domain** and check works that you can use to your heart's content.
+
+* [Public Domain Day: January 1, 2019](https://law.duke.edu/cspd/publicdomainday/2019/)
+* [Open Library](https://openlibrary.org)
+* Verses.Space: Compatible works
+* [Project Gutenberg](https://www.gutenberg.org)
+* [Gitenberg](https://www.gitenberg.org/)
+* [unglue.it Public Domain list](https://unglue.it/free/kw.fiction/cc0/)
+* [unglue.it US Public Domain list](https://unglue.it/free/kw.fiction/pd-us/)
+* [Center for the Study of the Public Domain](hhttps://law.duke.edu/cspd/)
+* [The Public Domain Review](https://publicdomainreview.org/)
+* [Internet Archive: eBooks and Texts](https://archive.org/details/texts)
+* [Feedbooks: Public Domain](http://www.feedbooks.com/publicdomain)
+* [LibriVox](https://librivox.org/)
+* [Legamus!](https://legamus.eu/blog/)
+
+-------
+
+{{< imagecoverattr
+  link="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
+  rel="noopener"
+  alt="Timeless Books"
+  licensecode="ccby2"
+  licenseurl="https://creativecommons.org/licenses/by/2.0/deed.en"
+  licensename="CC-BY 2.0 Generic"
+  attr="Lin Kristensen"
+  attrlink="https://www.flickr.com/people/23701579@N00"
+>}}

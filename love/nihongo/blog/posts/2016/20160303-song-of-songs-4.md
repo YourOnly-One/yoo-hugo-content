@@ -1,0 +1,169 @@
++++
+title = "雅歌 4"
+description = "Tソロモン王への手紙"  # For Schema.org; OpenGraph; Twitter Cards
+
+date = "2016-03-03T22:48:15"
+#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+
+#aliases = [""]
+slug = "Song of Songs 4"
+translationKey = "Song of Songs 4"
+relCanonical = "https://im.youronly.one/love/ja/song-of-songs-4-201663/"														# only needed when this is not the original post
+disqus_url = "https://youronly.one/love/song-of-songs-4-201663/"															# canonical URL for disqus
+#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+
+channels = ["Love and Relationship"]
+categories = ["Literature"]														# taxonomy
+keywords = [""]															# meta keywords
+series = [""]																# subset of series taxonomy
+tags = ["poems"]																	# taxonomy
+
+comments = true
+#weight = ""
+
+featured = true															# theme specific
+#math = true																	# theme specific
+
+type = "post"                                 # for theme parsa-hugo
+
+#draft = true
+
+#license = ""
+
+contenttypes = ["Article"]
+
+#videos = [""]																# og:video
+#audio = [""]																# og:audio
+images = ["https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fVM2c8k/s1600/A_Love_for_the_Arts_by_Delacorr.jpg"]    # og:images
+cover = "https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fVM2c8k/s1600/A_Love_for_the_Arts_by_Delacorr.jpg"       # theme specific
+
+[author]
+#name = ""
+#email = ""
+homepage = "https://im.youronly.one/love/"
+avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
+
+#[semweb]
+#type = "Movie"
+
+# If different from our website
+#[semweb.publisher]
+#name = ""
+#sameas = [""]
+
+# If different from default author
+#[semweb.author]
+#sameas = [""]
+
+# For adaptations
+#[semweb.product.isbasedon]
+#name = ""
+#alternatenames = [""]
+#sameas = [""]
+
+#[semweb.product.isbasedon.author]
+#name = ""
+#alternatenames = [""]
+#sameas = [""]
+
+# Video URLs can be any, YouTube provided as a guide only
+#[semweb.video]
+#name = ""
+#description = "「CHANGE_THIS」 trailer/予告編/예고편"
+#uploaddate = ""
+#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
+#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
+#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
++++
+
+詩に関しては、通常、ソロモン王の花嫁への詩が思い浮かびます。 彼は自分の花嫁についてこれまでに言える最高のセリフの1つを書きました。
+
+こちらがリビングバイブルの雅歌4です[^a]。
+
+[^a]: BibleGateway.com: [「아가 4」](https://www.biblegateway.com/passage/?search=Song+of+Songs+4&version=JLB)
+
+<!--more-->
+
+{{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shir Ha'Shirim (雅歌) 4:1-15" srclink="" srcrel="noopener external nofollow" attribto="日本のリビングバイブル" attriblink="" attribrel="noopener external nofollow" %}}
+<sup>1</sup> 愛する人よ。あなたはなんと美しいのだろう。
+私は全く心を奪われてしまっている。
+その鳩のような目がきれいだ。
+あなたの顔にかかる髪は、
+ギルアデの山腹を跳ね回るやぎの群れのようだ。
+
+<sup>2</sup> あなたの歯は、
+毛を刈って体を洗ってもらったばかりの
+羊の群れのように真っ白で、きれいな歯ならびだ。
+
+<sup>3</sup> くちびるは赤い糸のようで、
+かわいらしい口もとが魅力的だ。
+巻き毛のかかる頬は愛らしく、ふくよかだ。
+
+<sup>4</sup> 首は、千人の英雄の盾で飾られた
+ダビデのやぐらのようにしっかりしている。
+
+<sup>5</sup> 二つの乳房は、ゆりの間で草を食べている
+ふたごの子鹿のようだ。
+
+<sup>6</sup> 夜が明け、影が消えるまでに、
+私は没薬の山、香料の丘に行っていよう。
+
+<sup>7</sup> 愛する人よ。あなたのすべてが美しい。
+あなたには何の汚れもない。
+
+<sup>8</sup> 花嫁よ、私といっしょにレバノンから来なさい。
+山の頂上から、ヘルモン山の頂から見下ろしてみよう。
+そこにはライオンのほら穴があり、
+ひょうがうろついている。
+
+<sup>9</sup> 美しい花嫁よ。あなたは私をとりこにしてしまった。
+あなたのただ一度のまなざしと、
+首飾りのただ一つの宝石で、
+私はすっかり心を奪われてしまった。
+
+<sup>10</sup> いとしい花嫁よ。あなたの愛はなんと甘いことか。
+ぶどう酒も比べものにならない。
+あなたの愛の香水は、
+最高の香料よりかぐわしい香りを放っている。
+
+<sup>11</sup> いとしい人よ。
+あなたのくちびるは、はちみつでできている。
+舌の裏にはみつとクリームがある。
+あなたの服は山やレバノン杉の香りがする。
+
+<sup>12</sup> 私のいとしい花嫁は、ほかの人の入れない庭園、
+私だけの泉だ。
+
+<sup>13</sup> あなたはまるで最高の実の取れる、
+すばらしい果樹園のようだ。
+そこでは、ナルド、サフラン、しょうぶ、
+<sup>14</sup> シナモン、没薬、アロエをはじめ、
+さまざまな最上の香料が取れる。
+<sup>15</sup> あなたは庭園の泉、湧き水の井戸で、
+レバノンの山々から流れ落ちる冷たい水のように、
+私をさわやかな気分にしてくれる。
+{{% /quotebox %}}
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://commons.wikimedia.org/wiki/File:A_Love_for_the_Arts_by_Delacorr.jpg"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Delacorrによる芸術への愛"
+  imgcaption=""
+
+  licensecode="publicdomain"
+  licenseurl=""
+  licensename=""
+
+  attribto="Infamous Hussy"
+  attriblink="https://en.wikipedia.org/wiki/User:Infamous_Hussy"
+  attribrel="noopener external nofollow"
+>}}
+
+-------
+
+注意：Google翻訳

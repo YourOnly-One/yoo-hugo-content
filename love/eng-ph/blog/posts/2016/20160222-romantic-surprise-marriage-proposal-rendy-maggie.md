@@ -1,0 +1,83 @@
++++
+title = "[Video] Romantic & Surprise Marriage Proposal Rendy & Maggie"
+description = "A very romantic and surprise marriage proposal by Rendy to Maggie."	# For Schema.org; OpenGraph; Twitter Cards
+
+date = "2016-02-22T22:23:12"
+#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+
+#aliases = [""]
+slug = "Romantic & Surprise Marriage Proposal Rendy & Maggie"
+translationKey = "Romantic & Surprise Marriage Proposal Rendy & Maggie"
+relCanonical = "https://im.youronly.one/love/romantic-surprise-marriage-proposal-rendy-maggie-201653/"														# only needed when this is not the original post
+disqus_url = "https://youronly.one/love/romantic-surprise-marriage-proposal-rendy-maggie-201653/"															# canonical URL for disqus
+#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+
+channels = ["Love and Relationship"]
+categories = ["Love"]														# taxonomy
+keywords = ["love", "relationships"]															# meta keywords
+series = [""]																# subset of series taxonomy
+tags = ["videos", "marriageproposals"]																	# taxonomy
+
+comments = true
+#weight = ""
+
+#featured = true															# theme specific
+#math = true																	# theme specific
+
+type = "post"                                 # for theme parsa-hugo
+
+#draft = true
+
+#license = ""
+
+contenttypes = ["Article"]
+
+#videos = [""]																# og:video
+#audio = [""]																# og:audio
+images = ["https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"]    # og:images
+cover = "https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"       # theme specific
+
+[author]
+#name = ""
+#email = ""
+homepage = "https://im.youronly.one/love/"
+avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
+
+#[semweb]
+#type = "Movie"
+
+# If different from our website
+#[semweb.publisher]
+#name = ""
+#sameas = [""]
+
+# If different from default author
+#[semweb.author]
+#sameas = [""]
+
+# For adaptations
+#[semweb.product.isbasedon]
+#name = ""
+#alternatenames = [""]
+#sameas = [""]
+
+#[semweb.product.isbasedon.author]
+#name = ""
+#alternatenames = [""]
+#sameas = [""]
+
+# Video URLs can be any, YouTube provided as a guide only
+[semweb.video]
+name = "Romantic & Surprise Marriage Proposal Rendy & Maggie"
+description = "With the help of my friends, I proposed to my longtime girlfriend in Pisa Cafe. Everything took 2 weeks of planning without her knowing. I thought of this original plan and had to do all the arts and crafts myself."
+uploaddate = "2013-04-24"
+thumbnailurl = "https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"
+contenturl = "https://www.youtube.com/watch?v=iTgyPmvzWKg"
+embedurl = "https://www.youtube-nocookie.com/embed/iTgyPmvzWKg"
++++
+
+What a romantic marriage proposal by Rendy.
+
+<!--more-->
+
+{{< youtube id="iTgyPmvzWKg" title="Romantic & Surprise Marriage Proposal Rendy & Maggie" >}}

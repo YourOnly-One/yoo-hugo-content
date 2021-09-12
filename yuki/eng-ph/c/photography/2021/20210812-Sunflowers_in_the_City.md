@@ -1,0 +1,249 @@
++++
+title = "Sunflowers in the City"
+description = "Photos I took of the Sunflowers in Makati, Philippines"	# For Schema.org; OpenGraph; Twitter Cards
+
+date = "2021-08-12T08:21:02"
+#nolastmod = true
+
+#aliases = [""]
+slug = "Sunflowers in the City"
+translationKey = "Sunflowers in the City"
+relCanonical = "https://im.youronly.one/yuki/c/photography/sunflowers-in-the-city-2021224/"                           # only needed when this is not the original post
+disqus_url = "https://youronly.one/yuki/c/photography/sunflowers-in-the-city-2021224/"                              # canonical URL for disqus
+#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+
+channels = ["Confident Traveler"]
+categories = ["Photography"]														# taxonomy
+keywords = ["photography", "sunflowers", "macro", "mobile photography"]															# meta keywords
+series = [""]																# subset of series taxonomy
+tags = ["nature", "mobilephotography", "ccbysa"]																	# taxonomy
+
+comments = true
+#weight = ""
+
+#featured = true															# theme specific
+#math = true																	# theme specific
+
+#draft = true
+
+#license = ""
+
+contenttypes = ["Photograph"]
+
+#videos = [""]																# og:video
+#audio = [""]																# og:audio
+images = ["https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"]    # og:images
+cover = "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"				# theme specific
+
+[author]
+#name = ""
+#email = ""
+homepage = "https://im.youronly.one/confidentraveler/"
+avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
+
+[semweb]
+type = "Photograph"
+
+# Duplicate for more Image entries
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "Sunflowers in the City"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+contentlocation = "Makati City, Philippines"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "Credit to https://youronly.one"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
+
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "Sunflowers in the City"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+contentlocation = "Makati City, Philippines"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "Credit to https://youronly.one"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
+
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "Sunflowers in the City"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+contentlocation = "Makati City, Philippines"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "Credit to https://youronly.one"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
+
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "Sunflowers in the City"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+contentlocation = "Makati City, Philippines"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "Credit to https://youronly.one"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
++++
+
+These were the photos I took while testing the camera that came with Nokia 3. These were taken in late 2018 in macro mode in Makati City, Philippines.
+
+<!--more-->
+
+These photos are now under a Creative Commons Attribution-ShareAlike 4.0 International license as of today, 2018-08-12.
+
+## Like in Instagram
+{{< instagram CSachaHhDP- hidecaption >}}
+
+Do not forget to follow me in Instagram!
+
+## What is a Sunflower?
+Sunflower is the common name given to the *Helianthus* genus of flowers. It has more or less 70 species. The sunflowers in my photos are more likely from the *Helianthus annuus* species, the species that is commonly referred to by the name "sunflower" and "common sunflower" by everyone.
+
+### Trivia: Do sunflower heads track the Sun across the sky?
+A common misconception is that flowering sunflower heads track the Sun across the sky. Although immature flower buds exhibit this behaviour, the mature flowering heads point in a fixed (and typically easterly) direction throughout the day. This old misconception was disputed in 1597 by the English botanist John Gerard, who grew sunflowers in his famous herbal garden: "[some] have reported it to turn with the Sun, the which I could never observe, although I have endeavored to find out the truth of it." The uniform alignment of sunflower heads in a field might give some people the false impression that the flowers are tracking the Sun.[^a] When I took these photos, I definitely observed the sunflowers facing Eastward when it was 15:00 in the afternoon.
+
+[^a]: Wikipedia: [Heliotropism in *Helianthus annuus*](https://en.wikipedia.org/wiki/Helianthus_annuus#Heliotropism_in_Helianthus_annuus); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+
+## Higher resolution
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+## Attribution, Usage, &amp; Leave your links
+Simply follow the attribution shown underneath each photo, or whichever is acceptable within the bounds of CC-BY-SA 4.0 International license. In addition to that, I would also appreciate if you leave your links below or in Instagram, who knows, I might mention your site (and usage) one day.
+
+Enjoy and Shalom!
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  imgrel="noopener"
+
+  imgtitle="Sunflower in the City"
+  imgcaption=""
+
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="noopener"
+>}}

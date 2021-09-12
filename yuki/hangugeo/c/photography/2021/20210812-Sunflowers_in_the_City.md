@@ -1,0 +1,253 @@
++++
+title = "도시의 해바라기"
+description = "필리핀 마카티에서 해바라기에서 찍은 사진들"	# For Schema.org; OpenGraph; Twitter Cards
+
+date = "2021-08-12T09:21:02"
+#nolastmod = true
+
+#aliases = [""]
+slug = "Sunflowers in the City"
+translationKey = "Sunflowers in the City"
+relCanonical = "https://im.youronly.one/yuki/ko/c/photography/sunflowers-in-the-city-2021224/"                           # only needed when this is not the original post
+disqus_url = "https://youronly.one/yuki/c/photography/sunflowers-in-the-city-2021224/"                              # canonical URL for disqus
+#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+
+channels = ["Confident Traveler"]
+categories = ["Photography"]														# taxonomy
+keywords = ["photography", "sunflowers", "macro", "mobile photography"]															# meta keywords
+series = [""]																# subset of series taxonomy
+tags = ["nature", "mobilephotography", "ccbysa"]																	# taxonomy
+
+comments = true
+#weight = ""
+
+#featured = true															# theme specific
+#math = true																	# theme specific
+
+#draft = true
+
+#license = ""
+
+contenttypes = ["Photograph"]
+
+#videos = [""]																# og:video
+#audio = [""]																# og:audio
+images = ["https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"]    # og:images
+cover = "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"				# theme specific
+
+[author]
+#name = ""
+#email = ""
+homepage = "https://im.youronly.one/confidentraveler/"
+avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
+
+[semweb]
+type = "Photograph"
+
+# Duplicate for more Image entries
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "도시의 해바라기"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+contentlocation = "필리핀 마카티시"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "https://youronly.one 에 대한 크레딧"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
+
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "도시의 해바라기"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+contentlocation = "필리핀 마카티시"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "https://youronly.one 에 대한 크레딧"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
+
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "도시의 해바라기"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+contentlocation = "필리핀 마카티시"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "https://youronly.one 에 대한 크레딧"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
+
+[[semweb.image]]
+# If different from default author
+#author = ""
+#sameas = [""]
+#name = ""
+about = "도시의 해바라기"
+#caption = ""
+url = "https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+contentlocation = "필리핀 마카티시"
+contentreferencetime = "2018-04-09"
+datecreated = "2018-04-09"
+datepublished = "2018-04-09"
+copyrightholder = "JC John Sese Cuneta"
+copyrightnotice = "https://youronly.one 에 대한 크레딧"
+copyrightyear = "2018"
+licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
+acquirelicenseurl = "https://youronly.one/p/legal-notice/"
+#usageinfo = ""
++++
+
+Nokia 3와 함께 제공된 카메라를 테스트하면서 찍은 사진입니다. 2018년 말 필리핀 Makati City에서 매크로 모드로 찍은 사진입니다.
+
+<!--more-->
+
+이 사진은 현재 2018-08-12일 현재 Creative Commons Attribution-ShareAlike 4.0 International 라이선스 하에 있습니다.
+
+## 인스타그램에서처럼
+{{< instagram CSachaHhDP- hidecaption >}}
+
+Instagram에서 나를 팔로우하는 것을 잊지 마세요!
+
+## 해바라기 란 무엇입니까?
+해바라기는 꽃의 *Helianthus* 속에 주어진 일반적인 이름입니다. 그것은 70 종 이상 또는 이하입니다. 내 사진의 해바라기는 모든 사람들이 일반적으로 "해바라기" 및 "일반 해바라기"라는 이름으로 부르는 종인 *Helianthus annuus* 종일 가능성이 더 큽니다.
+
+### 퀴즈: 해바라기 머리가 하늘을 가로질러 태양을 추적합니까?
+일반적인 오해는 꽃이 만발한 해바라기 머리가 하늘을 가로질러 태양을 추적한다는 것입니다. 미성숙한 꽃봉오리는 이러한 행동을 나타내지만 성숙한 꽃이 피는 머리는 하루 종일 고정된(일반적으로 동쪽) 방향을 가리킵니다. 이 오래된 오해는 1597년 영국의 식물학자 존 제라드(John Gerard)가 그의 유명한 허브 정원에서 해바라기를 재배하면서 이의를 제기했습니다. 그 진실." 들판에 있는 해바라기 머리의 균일한 정렬은 일부 사람들에게 꽃이 태양을 추적하고 있다는 잘못된 인상을 줄 수 있습니다.[^a] 이 사진들을 찍을 때 오후 15시경에 해바라기가 동쪽을 향하고 있는 것이 확실히 보였다.
+
+[^a]: Wikipedia: [Heliotropism in *Helianthus annuus*](https://en.wikipedia.org/wiki/Helianthus_annuus#Heliotropism_in_Helianthus_annuus); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+
+## 더 높은 해상도
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+{{< image
+  class1="figure_box"
+  link="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+  rel="noopener"
+  loading="lazy"
+  src="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+  alt="Sunflower in the City"
+  caption=""
+  height=""
+  width=""
+
+  class2="attribution_copyright caption_txt txt_center"
+  title=""
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+  attr="YourOnly.One"
+  attrlink="https://youronly.one"
+>}}
+
+## 저작자 표시, 사용 및 링크 남기기
+각 사진 아래에 표시된 속성을 따르거나 CC-BY-SA 4.0 국제 라이선스의 범위 내에서 허용되는 속성을 따르십시오. 그 외에도 아래 또는 Instagram에 링크를 남겨주시면 언젠가 제가 귀하의 사이트(및 사용)를 언급할 수 있다는 것을 알고 있습니다.
+
+즐기고 샬롬!
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  imgrel="noopener"
+
+  imgtitle="Sunflower in the City"
+  imgcaption=""
+
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="noopener"
+>}}
+
+-------
+
+고시 : Google 번역
