@@ -5,7 +5,7 @@ description = "The last but equally important commandment: You shall not covet y
 date = "2016-09-10T11:40:20"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/09/the-10th-commandment.html"]
 slug = "The 10th Commandment"
 translationKey = "The 10th Commandment"
 relCanonical = "https://im.youronly.one/way/the-10th-commandment-2016254/"                           # only needed when this is not the original post

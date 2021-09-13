@@ -5,7 +5,7 @@ description = "March 25, 2020 is the True New Year! Happy New Year!"  # For Sche
 date = "2020-03-25T21:32:17"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2020/03/happy-true-new-year.html"]
 slug = "Happy True New Year!"
 translationKey = "Happy True New Year!"
 relCanonical = "https://im.youronly.one/way/happy-true-new-year-202085/"                           # only needed when this is not the original post

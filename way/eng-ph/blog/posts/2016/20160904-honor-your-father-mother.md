@@ -5,7 +5,7 @@ description = "The 5th Torah/Instruction commands us to honor our father and our
 date = "2016-09-04T22:31:27"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/09/honor-father-mother.html"]
 slug = "Honor Your Father and Your Mother"
 translationKey = "Honor Your Father and Your Mother"
 relCanonical = "https://im.youronly.one/way/honor-your-father-and-your-mother-2016248/"                           # only needed when this is not the original post

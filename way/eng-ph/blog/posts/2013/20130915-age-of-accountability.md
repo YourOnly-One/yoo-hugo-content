@@ -5,7 +5,7 @@ description = "Is the Age of Accountability really 12 years old? Or is it person
 date = "2013-09-05T13:09:00"                 # manually adjust to local timezone
 #lastmod = "2013-09-05T13:09:00"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2013/09/age-of-accountability.html"]
 slug = "The Age of Accountability"
 translationKey = "The Age of Accountability"
 relCanonical = "https://im.youronly.one/way/the-age-of-accountability-2013248/"                           # only needed when this is not the original post

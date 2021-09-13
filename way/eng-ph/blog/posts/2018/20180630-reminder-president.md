@@ -5,7 +5,7 @@ description = "President Duterte made comments about the G-d of the Bible which 
 date = "2018-06-30T10:23:33"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2018/06/a-reminder-from-president.html"]
 slug = "A Reminder from the President?"
 translationKey = "A Reminder from the President?"
 relCanonical = "https://im.youronly.one/way/a-reminder-from-the-president-2018181/"                           # only needed when this is not the original post

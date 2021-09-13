@@ -5,7 +5,7 @@ description = "This is a question many Christians ask every time Christmas arriv
 date = "2009-12-24T19:21:01"                 # manually adjust to local timezone
 #lastmod = "2009-12-24T19:21:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["2009/12/should-christians-not-celebrate-christmas.html"]
 slug = "Should Christians Not Celebrate Christmas"
 translationKey = "Should Christians Not Celebrate Christmas"
 relCanonical = "https://im.youronly.one/way/should-christians-not-celebrate-christmas-2009358/"                           # only needed when this is not the original post

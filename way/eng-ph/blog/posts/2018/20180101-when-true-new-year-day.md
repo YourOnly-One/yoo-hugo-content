@@ -5,7 +5,7 @@ description = "New Year and new day. When does it really begin? Is it in the dea
 date = "2018-01-01T18:26:00"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2018/01/true-new-year-day.html"]
 slug = "When is the True New Year and Day"
 translationKey = "When is the True New Year and Day"
 relCanonical = "https://im.youronly.one/way/when-is-the-true-new-year-and-day-20181/"                           # only needed when this is not the original post

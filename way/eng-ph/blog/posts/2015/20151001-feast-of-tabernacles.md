@@ -5,7 +5,7 @@ description = "Three very important verses reminding us that we should observe a
 date = "2015-10-01T02:32:24"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2015/10/feast-of-tabernacles.html"]
 slug = "Feast of Tabernacles Verses"
 translationKey = "Feast of Tabernacles Verses"
 relCanonical = "https://im.youronly.one/way/feast-of-tabernacles-verses-2015274/"                           # only needed when this is not the original post

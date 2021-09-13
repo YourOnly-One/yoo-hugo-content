@@ -5,7 +5,7 @@ description = "You shall not steal. The 8th commandment of YaHuWaH. Be it as sma
 date = "2016-09-07T12:46:34"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/09/stealing-is-against-the-law.html"]
 slug = "Stealing is Against the Law"
 translationKey = "Stealing is Against the Law"
 relCanonical = "https://im.youronly.one/way/stealing-is-against-the-law-2016251/"                           # only needed when this is not the original post

@@ -5,7 +5,7 @@ description = "A study of the popularly known as The Lord's Prayer reveals how w
 date = "2017-04-06T00:49:20"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2017/04/how-we-ought-to-pray.html"]
 slug = "How We Ought to Pray"
 translationKey = "How We Ought to Pray"
 relCanonical = "https://im.youronly.one/way/how-we-ought-to-pray-201796/"                           # only needed when this is not the original post

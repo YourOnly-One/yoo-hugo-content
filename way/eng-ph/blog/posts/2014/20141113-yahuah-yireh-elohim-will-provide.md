@@ -5,7 +5,7 @@ description = "Whenever I think about the future depression sets in. The sad rea
 date = "2014-11-13T16:30:27"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2014/11/yahuah-yireh-elohim-will-provide.html"]
 slug = " 𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "
 translationKey = " 𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "
 relCanonical = "https://im.youronly.one/way/𐤉𐤄𐤅𐤄-yahuah-yireh-elohim-will-provide-2014317/"                           # only needed when this is not the original post

@@ -5,7 +5,7 @@ description = "We often hear from preachers that the Old Testament Law, or Torah
 date = "2020-03-04T17:39:27"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2020/03/testament-law-torah-nailed-cross.html"]
 slug = "The Old Testament Law, or Torah, was Nailed On The Cross"
 translationKey = "The Old Testament Law, or Torah, was Nailed On The Cross"
 relCanonical = "https://im.youronly.one/way/the-old-testament-law-or-torah-was-nailed-on-the-cross-202064/"                           # only needed when this is not the original post

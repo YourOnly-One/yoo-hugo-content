@@ -5,7 +5,7 @@ description = "Joel Rosenberg is currently here in the Philippines. Yesterday, h
 date = "2010-01-19T21:30:49"									# manually adjust to local timezone
 #lastmod = "2010-01-19T21:30:49"                  # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2010/01/joel-rosenberg-lunch-president-arroyo.html"]
 slug = "Joel Rosenberg's Lunch with President Arroyo"
 translationKey = "Joel Rosenberg's Lunch with President Arroyo"
 relCanonical = "https://im.youronly.one/way/joel-rosenbergs-lunch-with-president-arroyo-201019/"                           # only needed when this is not the original post

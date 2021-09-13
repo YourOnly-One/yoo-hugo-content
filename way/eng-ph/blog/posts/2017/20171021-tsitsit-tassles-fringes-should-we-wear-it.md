@@ -5,7 +5,7 @@ description = "Tsitsit, tassles, or fringes, was commanded to be worn. But in th
 date = "2017-10-21T13:57:27"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2017/10/tsitsit-tassles-fringes-should-we-wear.html"]
 slug = "Tsitsit, Tassles, Fringes, Should We Wear It?"
 translationKey = "Tsitsit, Tassles, Fringes, Should We Wear It?"
 relCanonical = "https://im.youronly.one/way/tsitsit-tassles-fringes-should-we-wear-it-2017294/"                           # only needed when this is not the original post

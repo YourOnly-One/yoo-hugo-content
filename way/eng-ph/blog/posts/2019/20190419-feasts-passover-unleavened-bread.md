@@ -5,7 +5,7 @@ description = "The Feasts of Passover (Pesach) & Unleavened Bread (Matstsah) are
 date = "2019-04-19T07:00:00"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2019/04/feasts-passover-unleavened-bread.html"]
 slug = "Feasts of Passover and Unleavened Bread"
 translationKey = "Feasts of Passover and Unleavened Bread"
 relCanonical = "https://im.youronly.one/way/feasts-of-passover-and-unleavened-bread-2019109/"                           # only needed when this is not the original post

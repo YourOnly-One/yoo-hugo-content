@@ -5,7 +5,7 @@ description = "Even as Christians/Messianics/Natsarim, we still complain to our 
 date = "2016-02-16T20:59:30"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/02/job-complains.html"]
 slug = "Job Complains"
 translationKey = "Job Complains"
 relCanonical = "https://im.youronly.one/way/job-complains-201647/"                           # only needed when this is not the original post

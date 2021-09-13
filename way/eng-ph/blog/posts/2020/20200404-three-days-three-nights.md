@@ -5,7 +5,7 @@ description = "Was Yahushua / Jesus literally 3 Days and 3 Nights in the Heart o
 date = "2020-04-04T21:59:01"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2020/04/three-days-three-nights.html"]
 slug = "Three Days and Three Nights in the Heart of the Earth"
 translationKey = "Three Days and Three Nights in the Heart of the Earth"
 relCanonical = "https://im.youronly.one/way/three-days-and-three-nights-in-the-heart-of-the-earth-202095/"                           # only needed when this is not the original post

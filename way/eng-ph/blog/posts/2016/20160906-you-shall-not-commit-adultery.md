@@ -5,7 +5,7 @@ description = "In our continuing preparation for the  coming Day of Atonement, t
 date = "2016-09-06T12:47:55"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/09/shall-not-commit-adultery.html"]
 slug = "7th: You Shall Not Commit Adultery"
 translationKey = "7th: You Shall Not Commit Adultery"
 relCanonical = "https://im.youronly.one/way/7th-you-shall-not-commit-adultery-2016250/"                           # only needed when this is not the original post

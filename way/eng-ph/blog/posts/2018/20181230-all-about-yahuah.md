@@ -5,7 +5,7 @@ description = "Do you know the Name of your GOD? Did they tell you His Name is t
 date = "2018-12-30T12:00:00"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2018/12/it-is-all-about-yahuah.html"]
 slug = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
 translationKey = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
 relCanonical = "https://im.youronly.one/way/its-all-about-𐤉𐤄𐤅𐤄-yahuah-2018364/"                           # only needed when this is not the original post

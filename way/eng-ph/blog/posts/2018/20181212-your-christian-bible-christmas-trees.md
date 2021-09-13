@@ -5,7 +5,7 @@ description = "People say Christmas Trees are pagan. But what does the Christian
 date = "2018-12-12T07:57:02"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2018/12/christian-bible-christmas-trees.html"]
 slug = "Your Christian Bible and Christmas Trees"
 translationKey = "Your Christian Bible and Christmas Trees"
 relCanonical = "https://im.youronly.one/way/your-christian-bible-and-christmas-trees-2018346/"                           # only needed when this is not the original post

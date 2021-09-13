@@ -5,7 +5,7 @@ description = "What is bearing false witness against our neighbor? Is it only ap
 date = "2016-09-08T12:14:42"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/09/the-9th-commandment.html"]
 slug = "The 9th: You Shall Not Bear False Witness"
 translationKey = "The 9th: You Shall Not Bear False Witness"
 relCanonical = "https://im.youronly.one/way/the-9th-you-shall-not-bear-false-witness-2016252/"                           # only needed when this is not the original post

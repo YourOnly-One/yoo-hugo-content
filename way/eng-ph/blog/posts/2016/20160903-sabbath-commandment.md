@@ -5,7 +5,7 @@ description = "Sabbath Day. Did we truly rested on the Sabbath these past months
 date = "2016-09-03T12:38:24"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/09/meditate-sabbath-commandment.html"]
 slug = "Today's Meditation: The Sabbath Commandment"
 translationKey = "Today's Meditation: The Sabbath Commandment"
 relCanonical = "https://im.youronly.one/way/todays-meditation-the-sabbath-commandment-2016247/"                           # only needed when this is not the original post

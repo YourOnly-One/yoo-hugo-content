@@ -5,7 +5,7 @@ description = "Today is 7th New Moon Day of the year 6003 Since Creation / Scrip
 date = "2016-09-02T12:45:07"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/09/feast-trumpets-6003.html"]
 slug = "Feast of Trumpets"
 translationKey = "Feast of Trumpets"
 relCanonical = "https://im.youronly.one/way/feast-of-trumpets-2016246/"                           # only needed when this is not the original post

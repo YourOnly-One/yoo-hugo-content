@@ -5,7 +5,7 @@ description = "Discussions about the transliteration & pronunciation of our Mess
 date = "2016-02-03T02:13:44"                          # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2016/02/messiah-yahushua-yahusha.html"]
 slug = "Messiah's name: Yahushua or Yahusha?"
 translationKey = "Messiah's name: Yahushua or Yahusha?"
 relCanonical = "https://im.youronly.one/way/messiahs-name-yahushua-or-yahusha-201634/"                           # only needed when this is not the original post
