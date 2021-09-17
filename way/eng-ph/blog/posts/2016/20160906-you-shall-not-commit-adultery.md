@@ -9,8 +9,8 @@ aliases = ["/2016/09/shall-not-commit-adultery.html"]
 slug = "7th: You Shall Not Commit Adultery"
 translationKey = "7th: You Shall Not Commit Adultery"
 relCanonical = "https://im.youronly.one/way/7th-you-shall-not-commit-adultery-2016250/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/7th-you-shall-not-commit-adultery-2016250/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

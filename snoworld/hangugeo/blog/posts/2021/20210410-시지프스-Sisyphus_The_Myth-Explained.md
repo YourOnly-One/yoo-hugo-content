@@ -9,8 +9,8 @@ date = "2021-04-10T22:12:21"
 slug = "시지프스 Sisyphus The Myth (2021) Explained Logically"
 translationKey = "시지프스 Sisyphus The Myth (2021) Explained Logically"
 relCanonical = "https://im.youronly.one/snoworld/ko/시지프스-sisyphus-the-myth-2021-explained-logically-2021100/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/sisyphus-the-myth-2021-explained-logically-2021100/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]														# taxonomy

@@ -1,6 +1,6 @@
 +++
 title = "パブリックドメインの派生物は作品、ファンフィクションですか？"
-description = "パブリックドメインの著作物に基づく二次的著作物は、ファンフィクションではありません。"	# For Schema.org; OpenGraph; Twitter Cards
+description = "パブリックドメインの著作物に基づく二次的著作物は、ファンフィクションではありません。"  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-04-07T18:53:01"
 
@@ -8,20 +8,20 @@ date = "2021-04-07T18:53:01"
 slug = "derivative public domain fanfiction"
 translationKey = "derivative public domain fanfiction"
 relCanonical = "https://im.youronly.one/yuki/ja/derivative-public-domain-fanfiction-202197/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/derivative-public-domain-fanfiction-202197/"                              # canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Verses.Space"]
-categories = ["Literature"]														# taxonomy
-keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction"]															# meta keywords
-series = [""]																# subset of series taxonomy
-tags = ["publicdomain", "fanfiction"]																	# taxonomy
+categories = ["Literature"]                           # taxonomy
+keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction"]                             # meta keywords
+series = [""]                               # subset of series taxonomy
+tags = ["publicdomain", "fanfiction"]                                 # taxonomy
 
 comments = true
 #weight = ""
 
-#featured = true															# theme specific
-#math = true																	# theme specific
+#featured = true                              # theme specific
+#math = true                                  # theme specific
 
 #draft = true
 
@@ -29,10 +29,10 @@ comments = true
 
 contenttypes = ["Article"]
 
-#videos = [""]																# og:video
-#audio = [""]																# og:audio
+#videos = [""]                                # og:video
+#audio = [""]                               # og:audio
 images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Timeless_Books-1280w.jpg"				# theme specific
+cover = "https://img.youronly.one/p/Timeless_Books-1280w.jpg"       # theme specific
 
 [author]
 #name = ""

@@ -9,8 +9,8 @@ aliases = ["/ja/제발-그-남자-만나지-마요-please-dont-date-him-2020-202
 slug = "제발 그 남자 만나지 마요 Please Don't Date Him (2020)"
 translationKey = "제발 그 남자 만나지 마요 Please Don't Date Him (2020)"
 relCanonical = "https://im.youronly.one/snoworld/ja/제발-그-남자-만나지-마요-please-dont-date-him-2020-202111/"                            # only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/please-dont-date-him-2020-202111/"                             # canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]														# taxonomy

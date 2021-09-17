@@ -9,8 +9,8 @@ aliases = ["/2017/04/how-we-ought-to-pray.html"]
 slug = "How We Ought to Pray"
 translationKey = "How We Ought to Pray"
 relCanonical = "https://im.youronly.one/way/how-we-ought-to-pray-201796/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/how-we-ought-to-pray-201796/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

@@ -9,8 +9,8 @@ date = "2016-03-03T21:48:15"
 slug = "Song of Songs 4"
 translationKey = "Song of Songs 4"
 relCanonical = "https://im.youronly.one/love/song-of-songs-4-201663/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/love/song-of-songs-4-201663/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Love and Relationship"]
 categories = ["Literature"]														# taxonomy

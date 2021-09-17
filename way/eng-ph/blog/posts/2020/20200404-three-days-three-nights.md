@@ -9,8 +9,8 @@ aliases = ["/2020/04/three-days-three-nights.html"]
 slug = "Three Days and Three Nights in the Heart of the Earth"
 translationKey = "Three Days and Three Nights in the Heart of the Earth"
 relCanonical = "https://im.youronly.one/way/three-days-and-three-nights-in-the-heart-of-the-earth-202095/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/three-days-and-three-nights-in-the-heart-of-the-earth-202095/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

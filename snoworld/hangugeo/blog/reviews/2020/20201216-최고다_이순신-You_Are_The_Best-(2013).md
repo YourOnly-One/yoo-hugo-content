@@ -9,8 +9,8 @@ date = "2020-12-16T20:04:36"
 slug = "최고다 이순신 You Are The Best (2013)"
 translationKey = "최고다 이순신 You Are The Best (2013)"
 relCanonical = "https://im.youronly.one/snoworld/ko/최고다-이순신-you-are-the-best-2013-2020351/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/you-are-the-best-2013-2020351/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]														# taxonomy

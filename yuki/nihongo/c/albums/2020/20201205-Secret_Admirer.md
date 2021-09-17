@@ -1,34 +1,34 @@
 +++
 title = "[ミックス] Secret Admirer (「隠れファン」)"
-description = "《Secret Admirer》は、私たちの心を奪った人への愛と誠実さを約束する曲を集めたものです。 これらは私たちが彼/彼女に伝えたいメッセージのある曲です。"													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
-summary = "《Secret Admirer》は、私たちの心を奪った人への愛と誠実さを約束する曲を集めたものです。 これらは私たちが彼/彼女に伝えたいメッセージのある曲です。"																											# for summary text in list displays
+description = "《Secret Admirer》は、私たちの心を奪った人への愛と誠実さを約束する曲を集めたものです。 これらは私たちが彼/彼女に伝えたいメッセージのある曲です。"                          # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
+summary = "《Secret Admirer》は、私たちの心を奪った人への愛と誠実さを約束する曲を集めたものです。 これらは私たちが彼/彼女に伝えたいメッセージのある曲です。"                                                      # for summary text in list displays
 
-cover = "https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600k9j3gF-uyVdBV9jXMetFS88lpnACPcBGAYYCw/s0/Album-Secret%2BAdmirer-01.png"																					# only for some themes
-images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600k9j3gF-uyVdBV9jXMetFS88lpnACPcBGAYYCw/s0/Album-Secret%2BAdmirer-01.png"]																											# og:images
-#videos = [""]																											# og:video
-#audio = [""]																												# og:audio
+cover = "https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600k9j3gF-uyVdBV9jXMetFS88lpnACPcBGAYYCw/s0/Album-Secret%2BAdmirer-01.png"                                         # only for some themes
+images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600k9j3gF-uyVdBV9jXMetFS88lpnACPcBGAYYCw/s0/Album-Secret%2BAdmirer-01.png"]                                                      # og:images
+#videos = [""]                                                      # og:video
+#audio = [""]                                                       # og:audio
 
 date = "2020-12-05T12:12:14"
 #expiryDate = ""
 
-aliases = ["/ja/mix-secret-admirer-2020340"]	# Permanent (old FB posts)
+aliases = ["/ja/mix-secret-admirer-2020340"]  # Permanent (old FB posts)
 slug = "Secret Admirer"
 translationKey = "[Mix] Secret Admirer"
-#url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
-relCanonical = "https://im.youronly.one/yuki/ja/c/albums/secret-admirer-2020340/"																									# only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/c/albums/secret-admirer-2020340/"																										# canonical URL for disqus
-#disqus_identifier = ""																						# unique identifier variable; usually automatic and not needed
+#url = ""                                                           # the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
+relCanonical = "https://im.youronly.one/yuki/ja/c/albums/secret-admirer-2020340/"                                                 # only needed when this is not the original post
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Yūgen Bard"]
-categories = ["Music"]																									# taxonomy
-keywords = ["album", "playlist"]																										# meta keywords
-series = [""]																											# subset of series taxonomy
-tags = [""]																						# taxonomy
+categories = ["Music"]                                                  # taxonomy
+keywords = ["album", "playlist"]                                                    # meta keywords
+series = [""]                                                     # subset of series taxonomy
+tags = [""]                                           # taxonomy
 
 #weight = ""
 
-#featured = true																									# only for some themes
-#math = true																											# only for some themes
+#featured = true                                                  # only for some themes
+#math = true                                                      # only for some themes
 
 #draft = true
 
@@ -54,7 +54,7 @@ Spotifyアカウントのプレイリストを「フォロー」/「いいね」
 * [Spotifyアプリで開く](spotify:playlist:43emZgYoSDRR277EyIA8p5)
 
 <aside class="figure_box">
-	<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="375" data-original-width="300" src="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png"/></a></div>
+  <div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="375" data-original-width="300" src="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png"/></a></div>
 </aside>
 
 <hr/>

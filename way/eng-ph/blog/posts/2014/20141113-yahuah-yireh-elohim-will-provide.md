@@ -9,8 +9,8 @@ aliases = ["/2014/11/yahuah-yireh-elohim-will-provide.html"]
 slug = " 𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "
 translationKey = " 𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "
 relCanonical = "https://im.youronly.one/way/𐤉𐤄𐤅𐤄-yahuah-yireh-elohim-will-provide-2014317/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/yahuah-yireh-elohim-will-provide-2014317/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Life"]                           # taxonomy

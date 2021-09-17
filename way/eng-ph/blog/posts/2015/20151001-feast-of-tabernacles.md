@@ -9,8 +9,8 @@ aliases = ["/2015/10/feast-of-tabernacles.html"]
 slug = "Feast of Tabernacles Verses"
 translationKey = "Feast of Tabernacles Verses"
 relCanonical = "https://im.youronly.one/way/feast-of-tabernacles-verses-2015274/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/feast-of-tabernacles-verses-2015274/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["AppointedTimes"]                           # taxonomy

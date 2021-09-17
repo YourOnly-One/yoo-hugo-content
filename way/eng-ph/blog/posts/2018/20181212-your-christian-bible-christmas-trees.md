@@ -9,8 +9,8 @@ aliases = ["/2018/12/christian-bible-christmas-trees.html"]
 slug = "Your Christian Bible and Christmas Trees"
 translationKey = "Your Christian Bible and Christmas Trees"
 relCanonical = "https://im.youronly.one/way/your-christian-bible-and-christmas-trees-2018346/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/your-christian-bible-and-christmas-trees-2018346/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

@@ -8,8 +8,8 @@ date = "2021-04-09T14:57:34"
 slug = "Yoyo Is Proudly Pinoy"
 translationKey = "Yo-yo Is Proudly Pinoy"
 relCanonical = "https://im.youronly.one/yuki/ko/yoyo-is-proudly-pinoy-202199/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/yoyo-is-proudly-pinoy-202199/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["YOOki Chronicles"]
 categories = ["Literature"]                           # taxonomy

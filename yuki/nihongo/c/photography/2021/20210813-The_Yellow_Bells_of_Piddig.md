@@ -9,8 +9,8 @@ date = "2021-08-13T08:17:25"
 slug = "The Yellow Bells of Piddig"
 translationKey = "The Yellow Bells of Piddig"
 relCanonical = "https://im.youronly.one/yuki/ja/c/photography/the-yellow-bells-of-piddig-2021225/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/c/photography/the-yellow-bells-of-piddig-2021225/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Confident Traveler"]
 categories = ["Photography"]                            # taxonomy

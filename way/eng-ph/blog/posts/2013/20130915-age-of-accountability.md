@@ -9,8 +9,8 @@ aliases = ["/2013/09/age-of-accountability.html"]
 slug = "The Age of Accountability"
 translationKey = "The Age of Accountability"
 relCanonical = "https://im.youronly.one/way/the-age-of-accountability-2013248/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/the-age-of-accountability-2013248/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Opinion"]                           # taxonomy

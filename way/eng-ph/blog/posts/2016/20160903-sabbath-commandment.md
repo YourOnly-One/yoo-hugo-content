@@ -9,8 +9,8 @@ aliases = ["/2016/09/meditate-sabbath-commandment.html"]
 slug = "Today's Meditation: The Sabbath Commandment"
 translationKey = "Today's Meditation: The Sabbath Commandment"
 relCanonical = "https://im.youronly.one/way/todays-meditation-the-sabbath-commandment-2016247/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/todays-meditation-the-sabbath-commandment-2016247/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

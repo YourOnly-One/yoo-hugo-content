@@ -9,8 +9,8 @@ date = "2019-02-25T17:06:21"
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"
 translationKey = "Alpha Gateway (2018) Parallel Worlds Explained"
 relCanonical = "https://im.youronly.one/snoworld/ja/alpha-gateway-2018-parallel-worlds-explained-201956/"                            # only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/alpha-gateway-2018-parallel-worlds-explained-201956/"                             # canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["Films"]														# taxonomy

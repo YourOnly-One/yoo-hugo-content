@@ -9,8 +9,8 @@ aliases = ["/2016/09/the-9th-commandment.html"]
 slug = "The 9th: You Shall Not Bear False Witness"
 translationKey = "The 9th: You Shall Not Bear False Witness"
 relCanonical = "https://im.youronly.one/way/the-9th-you-shall-not-bear-false-witness-2016252/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/the-9th-you-shall-not-bear-false-witness-2016252/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

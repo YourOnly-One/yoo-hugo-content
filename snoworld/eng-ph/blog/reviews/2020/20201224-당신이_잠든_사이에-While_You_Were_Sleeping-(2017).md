@@ -9,8 +9,8 @@ date = "2020-12-24T16:57:34"
 slug = "당신이 잠든 사이에 While You Were Sleeping (2017)"
 translationKey = "당신이 잠든 사이에 While You Were Sleeping (2017)"
 relCanonical = "https://im.youronly.one/snoworld/당신이-잠든-사이에-while-you-were-sleeping-2017-2020359/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/while-you-were-sleeping-2017-202168/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]														# taxonomy

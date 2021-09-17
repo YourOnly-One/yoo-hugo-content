@@ -8,8 +8,8 @@ date = "2021-04-07T17:53:01"
 slug = "derivative public domain fanfiction"
 translationKey = "derivative public domain fanfiction"
 relCanonical = "https://im.youronly.one/yuki/derivative-public-domain-fanfiction-202197/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/derivative-public-domain-fanfiction-202197/"                              # canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Verses.Space"]
 categories = ["Literature"]														# taxonomy

@@ -9,8 +9,8 @@ date = "2021-01-17T09:17:39"
 slug = "도시남녀의 사랑법 Lovestruck in the City (2020)"
 translationKey = "도시남녀의 사랑법 Lovestruck in the City (2020)"
 relCanonical = "https://im.youronly.one/snoworld/ja/도시남녀의-사랑법-lovestruck-in-the-city-2020-202117/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/lovestruck-in-the-city-2020-202117/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]														# taxonomy

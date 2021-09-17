@@ -9,8 +9,8 @@ aliases = ["/2016/09/honor-father-mother.html"]
 slug = "Honor Your Father and Your Mother"
 translationKey = "Honor Your Father and Your Mother"
 relCanonical = "https://im.youronly.one/way/honor-your-father-and-your-mother-2016248/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/honor-your-father-and-your-mother-2016248/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

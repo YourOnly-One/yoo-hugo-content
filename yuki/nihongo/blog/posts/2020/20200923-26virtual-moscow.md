@@ -1,12 +1,12 @@
 +++
 title = "26virtual モスクワ、私の前半マラソン"
-description = "私の最初のハーフマラソンは26virtual:モスクワのレース中だった"													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
-summary = "私の最初のハーフマラソンは26virtual:モスクワのレース中だった"																											# for summary text in list displays
+description = "私の最初のハーフマラソンは26virtual:モスクワのレース中だった"                         # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
+summary = "私の最初のハーフマラソンは26virtual:モスクワのレース中だった"                                                     # for summary text in list displays
 
-cover = "https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"																					# only for some themes
-images = ["https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"]																											# og:images
-#videos = [""]																											# og:video
-#audio = [""]																												# og:audio
+cover = "https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"                                          # only for some themes
+images = ["https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"]                                                     # og:images
+#videos = [""]                                                      # og:video
+#audio = [""]                                                       # og:audio
 
 date = "2020-09-23T21:15:00"
 #expiryDate = ""
@@ -14,21 +14,21 @@ date = "2020-09-23T21:15:00"
 #aliases = [""]
 slug = "26virtual Moscow, My First Half-marathon"
 translationKey = "26virtual Moscow, My First Half-marathon"
-#url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
-relCanonical = "https://im.youronly.one/yuki/ja/26virtual-moscow-my-first-half-marathon-2020267/"																									# only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/26virtual-moscow-my-first-half-marathon-2020267/"																										# canonical URL for disqus
-#disqus_identifier = ""																						# unique identifier variable; usually automatic and not needed
+#url = ""                                                           # the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
+relCanonical = "https://im.youronly.one/yuki/ja/26virtual-moscow-my-first-half-marathon-2020267/"                                                 # only needed when this is not the original post
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Faithful Athlete"]
-categories = ["Sports"]																									# taxonomy
-keywords = ["Moscow", "race"]																										# meta keywords
-series = ["26virtual"]																											# subset of series taxonomy
-tags = ["running"]																						# taxonomy
+categories = ["Sports"]                                                 # taxonomy
+keywords = ["Moscow", "race"]                                                   # meta keywords
+series = ["26virtual"]                                                      # subset of series taxonomy
+tags = ["running"]                                            # taxonomy
 
 #weight = ""
 
-#featured = true																									# only for some themes
-#math = true																											# only for some themes
+#featured = true                                                  # only for some themes
+#math = true                                                      # only for some themes
 
 #draft = true
 
@@ -47,10 +47,10 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 これは26virtual:モスクワのレースでもありました。
 
 <figure class="figure_box">
-	<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/cShMNxRJ27o" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-	<figcaption class="attribution_copyright txt_center">
-		<p><small>免許: CC BY-SA 4.0 International</small></p>
-	</figcaption>
+  <div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/cShMNxRJ27o" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+  <figcaption class="attribution_copyright txt_center">
+    <p><small>免許: CC BY-SA 4.0 International</small></p>
+  </figcaption>
 </figure>
 
 購読して、次のエピソードのアラートを受け取りましょう！

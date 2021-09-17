@@ -9,8 +9,8 @@ aliases = ["/2018/12/it-is-all-about-yahuah.html"]
 slug = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
 translationKey = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
 relCanonical = "https://im.youronly.one/way/its-all-about-𐤉𐤄𐤅𐤄-yahuah-2018364/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/its-all-about-yahuah-2018364/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

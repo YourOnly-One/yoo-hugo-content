@@ -1,6 +1,6 @@
 +++
 title = "市内のひまわり"
-description = "フィリピンのマカティでひまわりを撮った写真"	# For Schema.org; OpenGraph; Twitter Cards
+description = "フィリピンのマカティでひまわりを撮った写真" # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-08-12T09:21:02"
 #nolastmod = true
@@ -9,20 +9,20 @@ date = "2021-08-12T09:21:02"
 slug = "Sunflowers in the City"
 translationKey = "Sunflowers in the City"
 relCanonical = "https://im.youronly.one/yuki/ja/c/photography/sunflowers-in-the-city-2021224/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/c/photography/sunflowers-in-the-city-2021224/"                              # canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Confident Traveler"]
-categories = ["Photography"]														# taxonomy
-keywords = ["photography", "sunflowers", "macro", "mobile photography"]															# meta keywords
-series = [""]																# subset of series taxonomy
-tags = ["nature", "mobilephotography", "ccbysa"]																	# taxonomy
+categories = ["Photography"]                            # taxonomy
+keywords = ["photography", "sunflowers", "macro", "mobile photography"]                             # meta keywords
+series = [""]                               # subset of series taxonomy
+tags = ["nature", "mobilephotography", "ccbysa"]                                  # taxonomy
 
 comments = true
 #weight = ""
 
-#featured = true															# theme specific
-#math = true																	# theme specific
+#featured = true                              # theme specific
+#math = true                                  # theme specific
 
 #draft = true
 
@@ -30,10 +30,10 @@ comments = true
 
 contenttypes = ["Photograph"]
 
-#videos = [""]																# og:video
-#audio = [""]																# og:audio
+#videos = [""]                                # og:video
+#audio = [""]                               # og:audio
 images = ["https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"]    # og:images
-cover = "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"				# theme specific
+cover = "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"       # theme specific
 
 [author]
 #name = ""

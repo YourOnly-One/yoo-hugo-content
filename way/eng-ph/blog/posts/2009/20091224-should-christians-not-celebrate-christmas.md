@@ -9,8 +9,8 @@ aliases = ["2009/12/should-christians-not-celebrate-christmas.html"]
 slug = "Should Christians Not Celebrate Christmas"
 translationKey = "Should Christians Not Celebrate Christmas"
 relCanonical = "https://im.youronly.one/way/should-christians-not-celebrate-christmas-2009358/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/should-christians-not-celebrate-christmas-2009358/"                              # canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Opinion"]														# taxonomy

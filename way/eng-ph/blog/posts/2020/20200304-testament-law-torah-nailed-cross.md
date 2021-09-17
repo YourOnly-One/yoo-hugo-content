@@ -9,8 +9,8 @@ aliases = ["/2020/03/testament-law-torah-nailed-cross.html"]
 slug = "The Old Testament Law, or Torah, was Nailed On The Cross"
 translationKey = "The Old Testament Law, or Torah, was Nailed On The Cross"
 relCanonical = "https://im.youronly.one/way/the-old-testament-law-or-torah-was-nailed-on-the-cross-202064/"                           # only needed when this is not the original post
-disqus_url = "https://youronly.one/way/the-old-testament-law-or-torah-was-nailed-on-the-cross-202064/"                              # canonical URL for disqus
-#disqus_identifier = ""                     # unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Way of Believers"]
 categories = ["Discourse"]                           # taxonomy

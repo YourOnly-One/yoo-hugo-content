@@ -11,8 +11,8 @@ slug = "달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo (2016)"
 translationKey = "달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo (2016)"
 #url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
 relCanonical = "https://im.youronly.one/snoworld/달의-연인-보보경심-려-moon-lovers-scarlet-heart-ryeo-2016-20213/"																									# only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/moon-lovers-scarlet-heart-ryeo-2016-20213/"																										# canonical URL for disqus
-#disqus_identifier = ""																						# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]																									# taxonomy

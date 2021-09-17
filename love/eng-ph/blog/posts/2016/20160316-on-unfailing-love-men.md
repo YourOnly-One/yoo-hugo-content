@@ -9,8 +9,8 @@ date = "2016-03-16T01:22:39"
 slug = "On Unfailing Love and Men"
 translationKey = "On Unfailing Love and Men"
 relCanonical = "https://im.youronly.one/love/on-unfailing-love-and-men-201676/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/love/on-unfailing-love-and-men-201676/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Love and Relationship"]
 categories = ["Literature"]														# taxonomy

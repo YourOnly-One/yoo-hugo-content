@@ -9,8 +9,8 @@ date = "2021-01-25T17:20:30"
 slug = "경이로운 소문 The Uncanny Counter (2020)"
 translationKey = "경이로운 소문 The Uncanny Counter (2020)"
 relCanonical = "https://im.youronly.one/snoworld/ko/경이로운-소문-the-uncanny-counter-2020-202125/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/the-uncanny-counter-2020-202125/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]														# taxonomy

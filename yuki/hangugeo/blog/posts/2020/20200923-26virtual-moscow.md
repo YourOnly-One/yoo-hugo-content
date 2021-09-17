@@ -16,8 +16,8 @@ slug = "26virtual Moscow, My First Half-marathon"
 translationKey = "26virtual Moscow, My First Half-marathon"
 #url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
 relCanonical = "https://im.youronly.one/yuki/ko/26virtual-moscow-my-first-half-marathon-2020267/"																									# only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/26virtual-moscow-my-first-half-marathon-2020267/"																										# canonical URL for disqus
-#disqus_identifier = ""																						# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Faithful Athlete"]
 categories = ["Sports"]																									# taxonomy

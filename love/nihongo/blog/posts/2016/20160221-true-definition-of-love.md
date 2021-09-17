@@ -9,8 +9,8 @@ aliases = ["/ja/true-definition-of-love-201652"]  # Permanent timezone
 slug = "True Definition of Love"
 translationKey = "True Definition of Love"
 relCanonical = "https://im.youronly.one/love/ja/true-definition-of-love-201652/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/love/true-definition-of-love-201652/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Love and Relationship"]
 categories = ["Love"]														# taxonomy

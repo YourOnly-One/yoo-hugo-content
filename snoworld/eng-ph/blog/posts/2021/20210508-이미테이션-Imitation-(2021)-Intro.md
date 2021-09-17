@@ -9,8 +9,8 @@ date = "2021-05-08T13:54:00"
 slug = "이미테이션 Imitation (2021)"
 translationKey = "이미테이션 Imitation (2021)"
 relCanonical = "https://im.youronly.one/snoworld/이미테이션-imitation-2021-2021128/"														# only needed when this is not the original post
-disqus_url = "https://youronly.one/snoworld/imitation-2021-2021128/"															# canonical URL for disqus
-#disqus_identifier = ""											# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Snoworld"]
 categories = ["TV"]														# taxonomy

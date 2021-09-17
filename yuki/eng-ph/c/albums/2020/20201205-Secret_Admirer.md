@@ -16,8 +16,8 @@ slug = "Secret Admirer"
 translationKey = "[Mix] Secret Admirer"
 #url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
 relCanonical = "https://im.youronly.one/albums/secret-admirer-2020340/"																									# only needed when this is not the original post
-disqus_url = "https://youronly.one/yuki/albums/secret-admirer-2020340/"																										# canonical URL for disqus
-#disqus_identifier = ""																						# unique identifier variable; usually automatic and not needed
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["Yūgen Bard"]
 categories = ["Music"]																									# taxonomy
