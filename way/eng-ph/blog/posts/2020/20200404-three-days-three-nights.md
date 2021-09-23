@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/way/three-days-and-three-nights-in-the-h
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["Discourse"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["discourse"]                           # taxonomy
 keywords = ["heart of the earth", "three days and three nights"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy

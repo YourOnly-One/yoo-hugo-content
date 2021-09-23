@@ -11,8 +11,8 @@ relCanonical = "https://im.youronly.one/yuki/derivative-public-domain-fanfiction
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Verses.Space"]
-categories = ["Literature"]														# taxonomy
+channels = ["versesspace"]
+categories = ["literature"]														# taxonomy
 keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["publicdomain", "fanfiction"]																	# taxonomy
@@ -126,13 +126,20 @@ Here are some places where you can read more about the **Public Domain** and che
 
 -------
 
-{{< imagecoverattr
-  link="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
-  rel="noopener"
-  alt="Timeless Books"
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Timeless Books"
+  imgcaption=""
+
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/deed.en"
   licensename="CC-BY 2.0 Generic"
-  attr="Lin Kristensen"
-  attrlink="https://www.flickr.com/people/23701579@N00"
+
+  attribto="Lin Kristensen"
+  attriblink="https://www.flickr.com/people/23701579@N00"
+  attribrel="noopener external nofollow"
 >}}

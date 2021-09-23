@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ko/도시남녀의-사랑법-lo
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Snoworld"]
-categories = ["TV"]														# taxonomy
+channels = ["snoworld"]
+categories = ["tv"]                           # taxonomy
 keywords = ["도시남녀의 사랑법", "Lovestruck in the City", "K-Drama"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["kdrama", "reviews"]																	# taxonomy

@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/love/on-unfailing-love-and-men-201676/"	
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Love and Relationship"]
-categories = ["Literature"]														# taxonomy
+channels = ["loverelationship"]
+categories = ["literature"]														# taxonomy
 keywords = [""]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["quotes"]																	# taxonomy

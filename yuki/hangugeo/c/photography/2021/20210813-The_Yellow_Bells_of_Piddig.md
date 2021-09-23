@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/yuki/ko/c/photography/the-yellow-bells-o
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Confident Traveler"]
-categories = ["Photography"]                            # taxonomy
+channels = ["confidentraveler"]
+categories = ["photography"]                            # taxonomy
 keywords = ["yellow bells", "Allamanda cathartica"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = ["nature", "ccbysa"]                                 # taxonomy
@@ -160,103 +160,128 @@ acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 ## 더 높은 해상도
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
-  alt="Allamanda cathartica or Yellow Bell"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
+  imglink="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Allamanda cathartica or Yellow Bell"
+  imgcaption=""
+  imgalt="Allamanda cathartica or Yellow Bell"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
-  alt="Allamanda cathartica or Yellow Bell"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
+  imglink="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Allamanda cathartica or Yellow Bell"
+  imgcaption=""
+  imgalt="Allamanda cathartica or Yellow Bell"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
-  alt="Allamanda cathartica or Yellow Bell"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
+  imglink="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Allamanda cathartica or Yellow Bell"
+  imgcaption=""
+  imgalt="Allamanda cathartica or Yellow Bell"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
-  alt="Allamanda cathartica or Yellow Bell"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
+  imglink="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Allamanda cathartica or Yellow Bell"
+  imgcaption=""
+  imgalt="Allamanda cathartica or Yellow Bell"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
-  alt="Allamanda cathartica or Yellow Bell"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
+  imglink="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Allamanda cathartica or Yellow Bell"
+  imgcaption=""
+  imgalt="Allamanda cathartica or Yellow Bell"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 ## 저작자 표시, 사용 및 링크 남기기

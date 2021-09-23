@@ -19,8 +19,8 @@ relCanonical = "https://im.youronly.one/yuki/ja/26virtual-boston-post-run-vlog-2
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Faithful Athlete"]
-categories = ["Sports"]                                                 # taxonomy
+channels = ["faithfulathlete"]
+categories = ["sports"]                                                 # taxonomy
 keywords = ["Boston", "race"]                                                   # meta keywords
 series = ["26virtual"]                                                      # subset of series taxonomy
 tags = ["running"]                                            # taxonomy

@@ -12,10 +12,10 @@ relCanonical = "https://im.youronly.one/way/the-old-testament-law-or-torah-was-n
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["Discourse"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["discourse"]                           # taxonomy
 keywords = ["Torah", "Old Testament", "Law", "Nailed on the cross"]                             # meta keywords
-series = ["Torah"]                               # subset of series taxonomy
+series = ["torah"]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy
 
 comments = true

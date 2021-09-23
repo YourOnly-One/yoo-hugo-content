@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/way/todays-meditation-the-sabbath-comman
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["Discourse"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["discourse"]                           # taxonomy
 keywords = ["Sabbath", "Sabbath Day", "7th Day", "Seventh Day", "Rest Day", "Day of Rest", "4th Commandment", "4th Law", "4th Instruction"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy

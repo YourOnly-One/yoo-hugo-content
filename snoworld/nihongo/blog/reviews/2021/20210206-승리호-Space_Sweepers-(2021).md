@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/승리호-space-sweepers-202
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Snoworld"]
-categories = ["Films"]																									# taxonomy
+channels = ["snoworld"]
+categories = ["films"]																									# taxonomy
 keywords = ["Space Sweepers", "승리호", "movie"]																										# meta keywords
 series = [""]																											# subset of series taxonomy
 tags = ["adaptations", "reviews", "kdrama"]																						# taxonomy

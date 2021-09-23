@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/way/stealing-is-against-the-law-2016251/
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["Discourse"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["discourse"]                           # taxonomy
 keywords = ["thievery", "thieving", "stealing", "commandment", "law", "instruction"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy

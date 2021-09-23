@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/love/ko/true-definition-of-love-201652/"
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Love and Relationship"]
-categories = ["Love"]														# taxonomy
+channels = ["loverelationship"]
+categories = ["love"]														# taxonomy
 keywords = ["love"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = [""]																	# taxonomy

@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/alpha-gateway-2018-parallel-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Snoworld"]
-categories = ["Films"]														# taxonomy
+channels = ["snoworld"]
+categories = ["films"]														# taxonomy
 keywords = ["Alpha Gateway", "The Gateway", "Film"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = [""]																	# taxonomy

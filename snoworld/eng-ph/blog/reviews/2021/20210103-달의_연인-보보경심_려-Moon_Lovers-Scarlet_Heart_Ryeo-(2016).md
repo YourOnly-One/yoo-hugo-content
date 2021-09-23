@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/달의-연인-보보경심-려-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Snoworld"]
-categories = ["TV"]																									# taxonomy
+channels = ["snoworld"]
+categories = ["tv"]                           # taxonomy
 keywords = ["Moon Lovers: Scarlet Heart Ryeo", "달의 연인 - 보보경심 려", "TV"]																										# meta keywords
 series = [""]																											# subset of series taxonomy
 tags = ["adaptations", "kdrama", "reviews"]																						# taxonomy

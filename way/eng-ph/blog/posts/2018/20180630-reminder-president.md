@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/way/a-reminder-from-the-president-201818
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["Opinion"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["opinion"]                           # taxonomy
 keywords = ["Rodrigo Duterte"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy

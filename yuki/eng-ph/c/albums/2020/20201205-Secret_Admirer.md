@@ -19,8 +19,8 @@ relCanonical = "https://im.youronly.one/albums/secret-admirer-2020340/"									
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Yūgen Bard"]
-categories = ["Music"]																									# taxonomy
+channels = ["yugenbard"]
+categories = ["music"]																									# taxonomy
 keywords = ["album", "playlist"]																										# meta keywords
 series = [""]																											# subset of series taxonomy
 tags = [""]																						# taxonomy

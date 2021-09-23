@@ -11,8 +11,8 @@ relCanonical = "https://im.youronly.one/yuki/ja/derivative-public-domain-fanfict
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Verses.Space"]
-categories = ["Literature"]                           # taxonomy
+channels = ["versesspace"]
+categories = ["literature"]                           # taxonomy
 keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = ["publicdomain", "fanfiction"]                                 # taxonomy
@@ -126,15 +126,22 @@ avatar = "https://rsc.youronly.one/img/y/KWWP-logo-01-1280wh-transparent.webp"
 
 -------
 
-{{< imagecoverattr
-  link="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
-  rel="noopener"
-  alt="時代を超越した本"
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
+  imgrel="noopener external nofollow"
+
+  imgtitle="時代を超越した本"
+  imgcaption=""
+
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/deed.en"
   licensename="CC-BY 2.0 Generic"
-  attr="Lin Kristensen"
-  attrlink="https://www.flickr.com/people/23701579@N00"
+
+  attribto="Lin Kristensen"
+  attriblink="https://www.flickr.com/people/23701579@N00"
+  attribrel="noopener external nofollow"
 >}}
 
 -------

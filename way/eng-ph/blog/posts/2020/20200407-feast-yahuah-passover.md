@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/way/the-feast-of-𐤉𐤄𐤅𐤄-yahuah
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["AppointedTimes"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["appointedtimes"]                           # taxonomy
 keywords = ["feast", "festival", "fiesta", "passover", "pesach", "pasach", "holiday", "holy day"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy

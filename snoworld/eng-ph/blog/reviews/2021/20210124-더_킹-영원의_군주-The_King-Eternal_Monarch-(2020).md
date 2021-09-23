@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/더-킹-영원의-군주-the-ki
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Snoworld"]
-categories = ["TV"]																									# taxonomy
+channels = ["snoworld"]
+categories = ["tv"]                           # taxonomy
 keywords = ["The King: Eternal Monarch", "더 킹: 영원의 군주", "TV"]                                                   # meta keywords
 series = [""]																											# subset of series taxonomy
 tags = ["kdrama", "reviews"]																						# taxonomy

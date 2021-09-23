@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/yuki/ko/c/photography/sunflowers-in-the-
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Confident Traveler"]
-categories = ["Photography"]														# taxonomy
+channels = ["confidentraveler"]
+categories = ["photography"]														# taxonomy
 keywords = ["photography", "sunflowers", "macro", "mobile photography"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["nature", "mobilephotography", "ccbysa"]																	# taxonomy
@@ -143,84 +143,103 @@ Instagram에서 나를 팔로우하는 것을 잊지 마세요!
 
 ## 더 높은 해상도
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
-  alt="Sunflower in the City"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+  imglink="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Sunflower in the City"
+  imgcaption=""
+  imgalt="Sunflower in the City"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
->}}
 
-
-{{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
-  alt="Sunflower in the City"
-  caption=""
-  height=""
-  width=""
-
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
-  licensecode="ccbysa4"
-  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
-  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
-  alt="Sunflower in the City"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+  imglink="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Sunflower in the City"
+  imgcaption=""
+  imgalt="Sunflower in the City"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
-  rel="noopener"
-  loading="lazy"
-  src="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
-  alt="Sunflower in the City"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title=""
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  imglink="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Sunflower in the City"
+  imgcaption=""
+  imgalt="Sunflower in the City"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
-  attr="YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
+>}}
+
+{{< image
+  type="image"
+
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+  imglink="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
+  imgrel="me noopener"
+
+  imgtitle="Sunflower in the City"
+  imgcaption=""
+  imgalt="Sunflower in the City"
+
+  attribalign=""
+
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="Creative Commons Attribution-ShareAlike 4.0 International"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 ## 저작자 표시, 사용 및 링크 남기기

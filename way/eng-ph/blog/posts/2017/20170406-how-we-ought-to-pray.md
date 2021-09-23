@@ -12,10 +12,10 @@ relCanonical = "https://im.youronly.one/way/how-we-ought-to-pray-201796/"       
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["Discourse"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["discourse"]                           # taxonomy
 keywords = ["pray", "prayer", "Our Father", "The Lord's Prayer", "praying"]                             # meta keywords
-series = ["Pray"]                               # subset of series taxonomy
+series = ["pray"]                               # subset of series taxonomy
 tags = [""]                                 # taxonomy
 
 comments = true

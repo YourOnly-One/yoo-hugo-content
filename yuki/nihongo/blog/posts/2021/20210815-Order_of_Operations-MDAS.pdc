@@ -11,8 +11,8 @@ relCanonical = "https://im.youronly.one/yuki/ja/how-to-correctly-use-mdas-pemdas
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["YOOki Chronicles"]
-categories = ["Literature"]                           # taxonomy
+channels = ["yookichronicles"]
+categories = ["literature"]                           # taxonomy
 keywords = ["MDAS", "PEMDAS", "BEDMAS", "BODMAS", "BIDMAS", "GEMDAS", "Order of Operations", "Operator Precedence"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = ["mathematics"]                                  # taxonomy
@@ -194,15 +194,22 @@ MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASは、学生と大人�
 
 -------
 
-{{< imagecoverattr
-  link="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
-  rel="noopener"
-  alt="Mathematics chalkboard"
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
+  imgrel="noopener external nofollow"
+
+  imgtitle="Mathematics chalkboard"
+  imgcaption=""
+
   licensecode="pixabay"
   licenseurl="https://pixabay.com/service/license/"
   licensename="Pixabay License"
-  attr="ArtsyBee"
-  attrlink="https://pixabay.com/users/artsybee-462611/"
+
+  attribto="ArtsyBee"
+  attriblink="https://pixabay.com/users/artsybee-462611/"
+  attribrel="noopener external nofollow"
 >}}
 
 -------

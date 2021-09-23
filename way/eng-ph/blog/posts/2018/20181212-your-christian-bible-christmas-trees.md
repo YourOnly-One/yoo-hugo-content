@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/way/your-christian-bible-and-christmas-t
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Way of Believers"]
-categories = ["Discourse"]                           # taxonomy
+channels = ["waybelievers"]
+categories = ["discourse"]                           # taxonomy
 keywords = ["traditions", "christmas", "christmas trees", "holiday"]                             # meta keywords
 series = [""]                               # subset of series taxonomy
 tags = ["traditions"]                                 # taxonomy

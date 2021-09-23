@@ -1,6 +1,6 @@
 +++
 title = "「都会の男女の恋愛法」 批評"
-description = "Fun, Relatable, Full of Lessons"	# For Schema.org; OpenGraph; Twitter Cards
+description = "楽しく、親しみやすく、レッスンがいっぱい"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-01-17T09:17:39"
 #lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/도시남녀의-사랑법-lo
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Snoworld"]
-categories = ["TV"]														# taxonomy
+channels = ["snoworld"]
+categories = ["tv"]                           # taxonomy
 keywords = ["도시남녀의 사랑법", "Lovestruck in the City", "K-Drama"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["kdrama", "reviews"]																	# taxonomy

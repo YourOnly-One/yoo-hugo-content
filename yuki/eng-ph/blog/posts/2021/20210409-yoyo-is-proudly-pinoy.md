@@ -11,8 +11,8 @@ relCanonical = "https://im.youronly.one/yuki/yoyo-is-proudly-pinoy-202199/"     
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["YOOki Chronicles"]
-categories = ["Literature"]														# taxonomy
+channels = ["yookichronicles"]
+categories = ["literature"]														# taxonomy
 keywords = ["Yoyo", "Yo-yo", "toys", "trivia", "meme"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["toys", "trivia"]																	# taxonomy
@@ -90,23 +90,28 @@ The principal distinction between the Filipino design popularized by Flores and 
 [^b]: Merriam-Webster: [History and Etymology for yo-yo](https://www.merriam-webster.com/dictionary/yo-yo)
 
 {{< image
-  class1="figure_box"
-  link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  rel="noopener me"
-  loading="lazy"
-  src="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  alt="Yo-yo Trivia"
-  caption=""
-  height=""
-  width=""
+  type="image"
 
-  class2="attribution_copyright caption_txt txt_center"
-  title="Yo-yo Trivia"
+  imgheight=""
+  imgwidth=""
+
+  imgsrc="https://img.youronly.one/works/Yo-yo-Trivia.webp"
+  imglink="https://img.youronly.one/works/Yo-yo-Trivia.webp"
+  imgrel="me noopener"
+
+  imgtitle="Yo-yo Trivia"
+  imgcaption=""
+  imgalt="Yo-yo Trivia"
+
+  attribalign=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
-  attr="ᜌᜓᜃᜒ YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}
 
 ## Trademark
@@ -119,13 +124,20 @@ Whenever we use the word *yo-yo*, remember that it was originally a company name
 
 -------
 
-{{< imagecoverattr
-  link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  rel="noopener me"
-  alt="Yo-yo Trivia"
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://img.youronly.one/works/Yo-yo-Trivia.webp"
+  imgrel="me noopener"
+
+  imgtitle="Yo-yo Trivia"
+  imgcaption=""
+
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
-  attr="ᜌᜓᜃᜒ YourOnly.One"
-  attrlink="https://youronly.one"
+
+  attribto="YourOnly.One"
+  attriblink="https://youronly.one"
+  attribrel="me noopener"
 >}}

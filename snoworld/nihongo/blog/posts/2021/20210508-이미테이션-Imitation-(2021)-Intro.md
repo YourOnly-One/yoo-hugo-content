@@ -12,8 +12,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/이미테이션-imitation-20
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Snoworld"]
-categories = ["TV"]														# taxonomy
+channels = ["snoworld"]
+categories = ["tv"]                           # taxonomy
 keywords = ["이미테이션", "Imitation", "K-Drama"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["kdrama", "reviews"]																	# taxonomy

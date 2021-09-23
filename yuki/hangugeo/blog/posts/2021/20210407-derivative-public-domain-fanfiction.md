@@ -11,8 +11,8 @@ relCanonical = "https://im.youronly.one/yuki/ko/derivative-public-domain-fanfict
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Verses.Space"]
-categories = ["Literature"]														# taxonomy
+channels = ["versesspace"]
+categories = ["literature"]														# taxonomy
 keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction"]															# meta keywords
 series = [""]																# subset of series taxonomy
 tags = ["publicdomain", "fanfiction"]																	# taxonomy
@@ -126,15 +126,22 @@ Fanfiction은 다른 사람의 소설 원본을 바탕으로 만든 소설의 �
 
 -------
 
-{{< imagecoverattr
-  link="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
-  rel="noopener"
-  alt="시대를 초월한 책"
+{{< image
+  type="imagecoverattrib"
+
+  imglink="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
+  imgrel="noopener external nofollow"
+
+  imgtitle="시대를 초월한 책"
+  imgcaption=""
+
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/deed.en"
   licensename="CC-BY 2.0 Generic"
-  attr="Lin Kristensen"
-  attrlink="https://www.flickr.com/people/23701579@N00"
+
+  attribto="Lin Kristensen"
+  attriblink="https://www.flickr.com/people/23701579@N00"
+  attribrel="noopener external nofollow"
 >}}
 
 -------

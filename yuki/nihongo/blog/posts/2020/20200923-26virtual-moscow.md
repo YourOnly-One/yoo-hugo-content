@@ -19,8 +19,8 @@ relCanonical = "https://im.youronly.one/yuki/ja/26virtual-moscow-my-first-half-m
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = ["Faithful Athlete"]
-categories = ["Sports"]                                                 # taxonomy
+channels = ["faithfulathlete"]
+categories = ["sports"]                                                 # taxonomy
 keywords = ["Moscow", "race"]                                                   # meta keywords
 series = ["26virtual"]                                                      # subset of series taxonomy
 tags = ["running"]                                            # taxonomy
