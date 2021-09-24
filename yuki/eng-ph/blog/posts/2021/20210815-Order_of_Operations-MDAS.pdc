@@ -22,8 +22,7 @@ comments = true
 #weight = ""
 
 #featured = true															# theme specific
-#math = true																	# theme specific
-mathjax = true
+math = true																	# theme specific
 toc = true
 
 #draft = true
