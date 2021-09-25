@@ -2,8 +2,8 @@
 title = "LANG 속성"
 description = "LANG 속성은 웹사이트를 디자인할 때 강력한 코드 조각입니다. LANG 속성을 올바르게 사용하는 방법을 보여드리겠습니다."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-06-21T00:20:37"                                        # manually adjust to local timezone
-lastmod = "2021-09-24T18:32:17"                                     # manually adjust to local timezone
+date = "2009-06-21T01:20:37"                                        # manually adjust to local timezone
+lastmod = "2021-09-24T19:32:17"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "The LANG Attribute"
@@ -35,11 +35,11 @@ toc = true
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwOEWDcMF2UU48Fbn4Pz-vZe7pgiLQCLcBGAsYHQ/s1600/lave%2Bt%2527es%2Bmains-1800x.jpg"]                                                       # used by og:images, etc.; first image is cover image
 
-#[author]                                                            # use only if different from site author
+[author]                                                            # use only if different from site author
 #  name = ""
 #  #email = ""
-#  homepage = ""
-#  avatar = ""
+  homepage = "https://im.youronly.one/techmagus/"
+  avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
 #  #emoji = ""
 #  #descriptionshort = ""
 #  #descriptionlong = ""
@@ -167,8 +167,7 @@ HTML lang 속성은 선언된 요소 내에 포함된 콘텐츠의 언어를 정
 
 최신 목록(이 글을 쓰는 현재)에 따르면 필리핀과 관련된 하위 태그는 다음과 같습니다.
 
-{{< tabs Languages Region Scripts >}}
-  {{< tab >}}
+### 언어
 * Tagalog
   * Type: language
   * Subtag: tl
@@ -222,15 +221,15 @@ HTML lang 속성은 선언된 요소 내에 포함된 콘텐츠의 언어를 정
   * Subtag: war
   * Description: Waray
   * Added: 2005-10-16
-  {{< /tab >}}
-  {{< tab >}}
+
+### 지역
 * Philippines
   * Type: region
   * Subtag: PH
   * Description: Philippines
   * Added: 2005-10-16
-  {{< /tab >}}
-  {{< tab >}}
+
+### 스크립트 작성
 * Buhid
   * Type: script
   * Subtag: Buhd
@@ -253,8 +252,6 @@ HTML lang 속성은 선언된 요소 내에 포함된 콘텐츠의 언어를 정
   * Description: Baybayin
   * Description: Alibata
   * Added: 2005-10-16
-  {{< /tab >}}
-{{< /tabs >}}
 
 이제 필요한 하위 태그가 있으므로 모든 필리핀 언어 및 스크립트에 대해 올바른 `lang` 값을 코딩할 수 있습니다. 다음 예를 참조하십시오.
 

@@ -35,11 +35,11 @@ toc = true
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwOEWDcMF2UU48Fbn4Pz-vZe7pgiLQCLcBGAsYHQ/s1600/lave%2Bt%2527es%2Bmains-1800x.jpg"]                                                       # used by og:images, etc.; first image is cover image
 
-#[author]                                                            # use only if different from site author
+[author]                                                            # use only if different from site author
 #  name = ""
 #  #email = ""
-#  homepage = ""
-#  avatar = ""
+  homepage = "https://im.youronly.one/techmagus/"
+  avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
 #  #emoji = ""
 #  #descriptionshort = ""
 #  #descriptionlong = ""
@@ -167,8 +167,7 @@ If you want to find the subtags for a particular language, previously we have to
 
 According to the latest list (as of this writing), the subtags that are related to the Philippines are the following (if I missed anything, please leave a comment below):
 
-{{< tabs Languages Region Scripts >}}
-  {{< tab >}}
+### Languages
 * Tagalog
   * Type: language
   * Subtag: tl
@@ -222,15 +221,15 @@ According to the latest list (as of this writing), the subtags that are related 
   * Subtag: war
   * Description: Waray
   * Added: 2005-10-16
-  {{< /tab >}}
-  {{< tab >}}
+
+### Region
 * Philippines
   * Type: region
   * Subtag: PH
   * Description: Philippines
   * Added: 2005-10-16
-  {{< /tab >}}
-  {{< tab >}}
+
+### Scripts
 * Buhid
   * Type: script
   * Subtag: Buhd
@@ -253,8 +252,6 @@ According to the latest list (as of this writing), the subtags that are related 
   * Description: Baybayin
   * Description: Alibata
   * Added: 2005-10-16
-  {{< /tab >}}
-{{< /tabs >}}
 
 Now that we have the subtags we need we can start coding the correct `lang` value for any Philippines language and script. See these examples:
 

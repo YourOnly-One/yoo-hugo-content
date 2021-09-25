@@ -2,8 +2,8 @@
 title = "LANG属性"
 description = "LANG属性は、Webサイトを設計する際の強力なコードです。 LANG属性を正しく使用する方法を紹介します。"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-06-21T00:20:37"                                        # manually adjust to local timezone
-lastmod = "2021-09-24T18:32:17"                                     # manually adjust to local timezone
+date = "2009-06-21T01:20:37"                                        # manually adjust to local timezone
+lastmod = "2021-09-24T19:32:17"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "The LANG Attribute"
@@ -35,11 +35,11 @@ toc = true
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwOEWDcMF2UU48Fbn4Pz-vZe7pgiLQCLcBGAsYHQ/s1600/lave%2Bt%2527es%2Bmains-1800x.jpg"]                                                       # used by og:images, etc.; first image is cover image
 
-#[author]                                                            # use only if different from site author
+[author]                                                            # use only if different from site author
 #  name = ""
 #  #email = ""
-#  homepage = ""
-#  avatar = ""
+  homepage = "https://im.youronly.one/techmagus/"
+  avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
 #  #emoji = ""
 #  #descriptionshort = ""
 #  #descriptionlong = ""
@@ -167,8 +167,7 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
 
 最新のリスト（この記事の執筆時点）によると、フィリピンに関連するサブタグは次のとおりです（何か見落とした場合は、以下にコメントを残してください）。
 
-{{< tabs Languages Region Scripts >}}
-  {{< tab >}}
+### 言語
 * Tagalog
   * Type: language
   * Subtag: tl
@@ -222,15 +221,15 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
   * Subtag: war
   * Description: Waray
   * Added: 2005-10-16
-  {{< /tab >}}
-  {{< tab >}}
+
+### 領域
 * Philippines
   * Type: region
   * Subtag: PH
   * Description: Philippines
   * Added: 2005-10-16
-  {{< /tab >}}
-  {{< tab >}}
+
+### スクリプトを書く
 * Buhid
   * Type: script
   * Subtag: Buhd
@@ -253,8 +252,6 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
   * Description: Baybayin
   * Description: Alibata
   * Added: 2005-10-16
-  {{< /tab >}}
-{{< /tabs >}}
 
 必要なサブタグができたので、フィリピンの言語とスクリプトの正しい `lang`値のコーディングを開始できます。 次の例を参照してください。
 
