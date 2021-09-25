@@ -1,6 +1,9 @@
 +++
 title = "Albums"
+translationKey = "section-albums"
 #aliases = [""]
 #url = ""
-translationKey = "section-albums"
+relcanonical = "tags/albums"
+metarobots = "noindex"
+redirectto = "tags/albums"
 +++

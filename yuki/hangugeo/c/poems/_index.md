@@ -3,7 +3,7 @@ title = "시"
 translationKey = "section-poems"
 #aliases = [""]
 #url = ""
-relcanonical = "categories/poems"
+relcanonical = "tags/poems"
 metarobots = "noindex"
-redirectto = "categories/poems"
+redirectto = "tags/poems"
 +++

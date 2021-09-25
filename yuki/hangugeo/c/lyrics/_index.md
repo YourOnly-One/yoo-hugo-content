@@ -3,6 +3,7 @@ title = "가사"
 #aliases = [""]
 #url = ""
 translationKey = "section-lyrics"
-
-draft = true
+relcanonical = "tags/lyrics"
+metarobots = "noindex"
+redirectto = "tags/lyrics"
 +++

@@ -1,8 +1,9 @@
 +++
 title = "Lyrics"
+translationKey = "section-lyrics"
 #aliases = [""]
 #url = ""
-translationKey = "section-lyrics"
-
-draft = true
+relcanonical = "tags/lyrics"
+metarobots = "noindex"
+redirectto = "tags/lyrics"
 +++
