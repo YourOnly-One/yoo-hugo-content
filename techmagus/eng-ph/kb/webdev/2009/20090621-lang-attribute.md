@@ -13,10 +13,10 @@ relCanonical = "https://im.youronly.one/techmagus/kb/webdev/the-lang-attribute-2
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
-categories = [""]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
+categories = ["howto"]                                                   # taxonomy
+keywords = ["lang"]                                                     # meta keywords
 series = [""]                                                       # subset of series taxonomy
-tags = [""]                                                         # taxonomy
+tags = ["html"]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
@@ -108,7 +108,7 @@ Putting it all together, our basic HTML should be.
 Now let's dig-in…
 
 ## The *lang* attribute
-The HTML lang attribute defines the language of the content enclosed within the element it was declared. The codes are called *subtag* , and for my Filipino readers, there are only three subtag types you should worry about: language-Script-REGION. The full format: language-extended_language-Script-REGION-variant-extension-privateuse.
+The HTML lang attribute defines the language of the content enclosed within the element it was declared. The codes are called *subtag*, and for my Filipino readers, there are only three subtag types you should worry about: language-Script-REGION. The full format: language-extended_language-Script-REGION-variant-extension-privateuse.
 
 See the table below:
 <style>
@@ -162,6 +162,7 @@ See the table below:
   </tbody>
 </table>
 <p></p>
+
 If you want to find the subtags for a particular language, previously we have to check different websites and plenty of official code lists. A time-consuming task (although normally you only have to do this once), right? Well, the latest official subtags can now be found in the [IANA Language Subtag Registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). It is now the universal source for all valid subtags.
 
 According to the latest list (as of this writing), the subtags that are related to the Philippines are the following (if I missed anything, please leave a comment below):
@@ -286,7 +287,7 @@ There is another subtag that you should learn if you want to target [dialects an
 * If in Iriga Bikolano using the Baybayin script: `lang="bik-bto-Tglg"`
 * If in Pandan (Northern Catanduanes) using the Baybayin script: `lang="bik-cts-Tglg"`
 
-The language- ***extended_language*** -Script is, as of this article, still not yet implemented. The basis for the lang attribute is always the [IANA Language Subtag Registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), once it has been updated to include *extended_language*s then we can start using it where needed.
+The language-***extended_language***-Script is, as of this article, still not yet implemented. The basis for the lang attribute is always the [IANA Language Subtag Registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), once it has been updated to include *extended_language*s then we can start using it where needed.
 
 ### The *phi* language subtag
 Next is if your language have an ISO-639-3 code and is under or part of the language code "phi" in ISO-639-2, then the *phi* subtag is to be used. This subtag code is considered a **collective language**. Good examples are:
@@ -350,8 +351,3 @@ Easy? Yes it is. It takes time to get used to it, and yes, it is confusing at fi
   attriblink="https://www.flickr.com/photos/29233640@N07/"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

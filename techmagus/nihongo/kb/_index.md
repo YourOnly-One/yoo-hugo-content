@@ -1,5 +1,5 @@
 +++
-title = "Knowledgebase"
+title = "知識ベース"
 translationKey = "section-knowledgebase"
 #aliases = [""]
 #url = ""

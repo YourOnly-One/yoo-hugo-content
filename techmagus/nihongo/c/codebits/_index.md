@@ -1,8 +1,9 @@
 +++
 title = "コードスニペット"
+translationKey = "section-codebits"
 #aliases = [""]
 #url = ""
-translationKey = "section-codebits"
-
-#draft = true
+#relcanonical = ""
+metarobots = "noindex"
+#redirectto = ""
 +++
