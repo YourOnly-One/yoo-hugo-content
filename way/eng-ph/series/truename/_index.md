@@ -1,6 +1,9 @@
 +++
 title = "True Name"
-aliases = ["/series/true-name"]
-url = "series/truename"
 translationKey = "series-truename"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

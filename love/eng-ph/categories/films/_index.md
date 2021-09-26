@@ -1,6 +1,9 @@
 +++
 title = "Films"
-#aliases = [""]
-url = "cat/films"
 translationKey = "cat-films"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

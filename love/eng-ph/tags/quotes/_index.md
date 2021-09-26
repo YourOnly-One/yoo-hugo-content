@@ -1,6 +1,9 @@
 +++
 title = "Quotes"
-#aliases = [""]
-url = "tag/quotes"
 translationKey = "tag-quotes"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

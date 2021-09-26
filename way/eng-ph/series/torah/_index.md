@@ -1,6 +1,9 @@
 +++
 title = "Torah"
-#aliases = [""]
-url = "series/torah"
 translationKey = "series-torah"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

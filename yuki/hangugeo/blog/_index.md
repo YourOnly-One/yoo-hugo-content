@@ -1,9 +1,9 @@
 +++
 title = "블로그"
 translationKey = "section-blog"
-#aliases = [""]
 #url = ""
+#aliases = [""]
 #relcanonical = ""
-metarobots = "noindex"
 #redirectto = ""
+metarobots = "noindex"
 +++

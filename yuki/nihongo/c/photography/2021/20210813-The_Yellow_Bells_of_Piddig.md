@@ -5,10 +5,10 @@ description = "イロコスノルテ州ピディグの美しいイエローベ�
 date = "2021-08-13T08:17:25"
 #nolastmod = true
 
-#aliases = [""]
+aliases = ["/ja/c/photography/the-yellow-bells-of-piddig-2021225"]       # Permanent, old share links
 slug = "The Yellow Bells of Piddig"
 translationKey = "The Yellow Bells of Piddig"
-relCanonical = "https://im.youronly.one/yuki/ja/c/photography/the-yellow-bells-of-piddig-2021225/"                           # only needed when this is not the original post
+relCanonical = "https://im.youronly.one/yuki/ja/photography/the-yellow-bells-of-piddig-2021225/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

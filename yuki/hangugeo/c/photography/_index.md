@@ -1,9 +1,9 @@
 +++
 title = "사진술"
 translationKey = "section-photography"
-#aliases = [""]
 #url = ""
-relcanonical = "categories/photography"
+#aliases = [""]
+relcanonical = "cat/사진술"
+redirectto = "cat/사진술"
 metarobots = "noindex"
-redirectto = "categories/photography"
 +++

@@ -1,6 +1,9 @@
 +++
 title = "Mobile Photography"
-aliases = ["/tag/mobile-photography"]
-url = "tag/mobilephotography"
 translationKey = "tag-mobilephotography"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

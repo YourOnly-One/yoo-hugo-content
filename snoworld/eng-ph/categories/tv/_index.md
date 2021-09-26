@@ -1,6 +1,9 @@
 +++
 title = "TV"
-#aliases = [""]
-url = "cat/tv"
 translationKey = "cat-tv"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

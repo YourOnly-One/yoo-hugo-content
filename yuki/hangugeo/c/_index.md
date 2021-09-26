@@ -1,9 +1,9 @@
 +++
 title = "수집"
 translationKey = "section-collection"
-#aliases = [""]
 #url = ""
+#aliases = [""]
 #relcanonical = ""
-metarobots = "noindex"
 #redirectto = ""
+metarobots = "noindex"
 +++

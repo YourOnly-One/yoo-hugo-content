@@ -5,10 +5,10 @@ description = "フィリピンのマカティでひまわりを撮った写真" 
 date = "2021-08-12T09:21:02"
 #nolastmod = true
 
-#aliases = [""]
+aliases = ["/ja/c/photography/sunflowers-in-the-city-2021224"]       # Permanent, old share links
 slug = "Sunflowers in the City"
 translationKey = "Sunflowers in the City"
-relCanonical = "https://im.youronly.one/yuki/ja/c/photography/sunflowers-in-the-city-2021224/"                           # only needed when this is not the original post
+relCanonical = "https://im.youronly.one/yuki/ja/photography/sunflowers-in-the-city-2021224/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

@@ -1,6 +1,9 @@
 +++
 title = "人生"
-#aliases = [""]
-url = "cat/life"
 translationKey = "cat-life"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

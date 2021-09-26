@@ -1,6 +1,9 @@
 +++
 title = "Opinion"
-#aliases = [""]
-url = "cat/opinion"
 translationKey = "cat-opinion"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

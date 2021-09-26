@@ -1,6 +1,9 @@
 +++
 title = "Photography"
-#aliases = [""]
-url = "cat/photography"
 translationKey = "cat-photography"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

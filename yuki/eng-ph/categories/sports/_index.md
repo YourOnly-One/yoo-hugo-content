@@ -1,6 +1,9 @@
 +++
 title = "Sports"
-#aliases = [""]
-url = "cat/sports"
 translationKey = "cat-sports"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

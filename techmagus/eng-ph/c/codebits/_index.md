@@ -1,9 +1,9 @@
 +++
 title = "Code Bits"
 translationKey = "section-codebits"
-#aliases = [""]
 #url = ""
+#aliases = [""]
 #relcanonical = ""
-metarobots = "noindex"
 #redirectto = ""
+metarobots = "noindex"
 +++

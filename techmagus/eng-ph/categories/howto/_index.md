@@ -1,6 +1,9 @@
 +++
 title = "How-To"
-#aliases = [""]
-url = "cat/howto"
 translationKey = "cat-howto"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

@@ -11,11 +11,11 @@ images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600
 date = "2020-12-05T12:12:14"
 #expiryDate = ""
 
-aliases = ["/ja/mix-secret-admirer-2020340"]  # Permanent (old FB posts)
+aliases = ["/ja/mix-secret-admirer-2020340", "/ja/c/albums/secret-admirer-2020340"]  # Permanent (old FB posts)
 slug = "Secret Admirer"
 translationKey = "[Mix] Secret Admirer"
 #url = ""                                                           # the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
-relCanonical = "https://im.youronly.one/yuki/ja/c/albums/secret-admirer-2020340/"                                                 # only needed when this is not the original post
+relCanonical = "https://im.youronly.one/yuki/ja/albums/secret-admirer-2020340/"                                                 # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

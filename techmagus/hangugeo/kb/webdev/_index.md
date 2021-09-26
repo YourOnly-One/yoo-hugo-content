@@ -1,9 +1,9 @@
 +++
 title = "웹 개발"
 translationKey = "section-webdev"
-#aliases = [""]
 #url = ""
+#aliases = [""]
 #relcanonical = ""
+#redirectto = ""
 metarobots = "noindex"
-#redirectto
 +++

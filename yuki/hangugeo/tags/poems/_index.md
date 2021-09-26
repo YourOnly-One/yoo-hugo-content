@@ -1,6 +1,9 @@
 +++
 title = "시"
-aliases = ["/ko/tag/poems"]
-#url = "tag/poems"
 translationKey = "tag-poems"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

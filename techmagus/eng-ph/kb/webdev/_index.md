@@ -1,9 +1,9 @@
 +++
 title = "Web Development"
 translationKey = "section-webdev"
-#aliases = [""]
 #url = ""
+#aliases = [""]
 #relcanonical = ""
-metarobots = "noindex"
 #redirectto = ""
+metarobots = "noindex"
 +++

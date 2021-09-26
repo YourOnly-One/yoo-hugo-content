@@ -5,10 +5,10 @@ description = "Piddig, Ilocos Norte에 있는 아름다운 노란 종 꽃."  # F
 date = "2021-08-13T08:17:25"
 #nolastmod = true
 
-#aliases = [""]
+aliases = ["/ko/c/photography/the-yellow-bells-of-piddig-2021225"]       # Permanent, old share links
 slug = "The Yellow Bells of Piddig"
 translationKey = "The Yellow Bells of Piddig"
-relCanonical = "https://im.youronly.one/yuki/ko/c/photography/the-yellow-bells-of-piddig-2021225/"                           # only needed when this is not the original post
+relCanonical = "https://im.youronly.one/yuki/ko/photography/the-yellow-bells-of-piddig-2021225/"                           # only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

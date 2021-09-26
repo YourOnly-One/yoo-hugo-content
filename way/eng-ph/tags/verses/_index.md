@@ -1,6 +1,9 @@
 +++
 title = "Verses"
-#aliases = [""]
-url = "tag/verses"
 translationKey = "tag-verses"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

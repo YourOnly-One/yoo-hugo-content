@@ -1,6 +1,9 @@
 +++
 title = "Videos"
-#aliases = [""]
-url = "tag/videos"
 translationKey = "tag-videos"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

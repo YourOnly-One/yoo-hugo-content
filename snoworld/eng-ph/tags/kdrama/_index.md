@@ -1,6 +1,9 @@
 +++
 title = "K-Drama"
-#aliases = [""]
-url = "tag/kdrama"
 translationKey = "tag-kdrama"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

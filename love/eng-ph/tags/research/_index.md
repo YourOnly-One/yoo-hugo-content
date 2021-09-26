@@ -1,6 +1,9 @@
 +++
 title = "Research"
-#aliases = [""]
-url = "tag/research"
 translationKey = "tag-research"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

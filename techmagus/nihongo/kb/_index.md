@@ -1,9 +1,9 @@
 +++
 title = "知識ベース"
 translationKey = "section-knowledgebase"
-#aliases = [""]
 #url = ""
+#aliases = [""]
 #relcanonical = ""
-metarobots = "noindex"
 #redirectto = ""
+metarobots = "noindex"
 +++

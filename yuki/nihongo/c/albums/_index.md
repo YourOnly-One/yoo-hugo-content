@@ -1,9 +1,9 @@
 +++
 title = "アルバム"
 translationKey = "section-albums"
-#aliases = [""]
 #url = ""
-relcanonical = "tags/albums"
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
 metarobots = "noindex"
-redirectto = "tags/albums"
 +++

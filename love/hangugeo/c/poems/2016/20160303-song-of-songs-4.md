@@ -8,7 +8,7 @@ date = "2016-03-03T22:48:15"
 #aliases = [""]
 slug = "Song of Songs 4"
 translationKey = "Song of Songs 4"
-relCanonical = "https://im.youronly.one/love/ko/song-of-songs-4-201663/"														# only needed when this is not the original post
+relCanonical = "https://im.youronly.one/love/ko/poems/song-of-songs-4-201663/"														# only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

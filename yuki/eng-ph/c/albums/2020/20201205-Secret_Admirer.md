@@ -11,7 +11,7 @@ images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600
 date = "2020-12-05T11:12:14"
 #expiryDate = ""
 
-aliases = ["/mix-secret-admirer-2020340"]	# Permanent (old FB posts)
+aliases = ["/mix-secret-admirer-2020340", "/c/albums/secret-admirer-2020340"]	# Permanent (old FB posts)
 slug = "Secret Admirer"
 translationKey = "[Mix] Secret Admirer"
 #url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.

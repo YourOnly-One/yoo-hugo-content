@@ -1,6 +1,9 @@
 +++
 title = "Discourse"
-#aliases = [""]
-url = "cat/discourse"
 translationKey = "cat-discourse"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

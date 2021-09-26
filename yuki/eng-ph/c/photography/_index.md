@@ -1,9 +1,9 @@
 +++
 title = "Photography"
 translationKey = "section-photography"
-#aliases = [""]
 #url = ""
-relcanonical = "categories/photography"
+#aliases = [""]
+relcanonical = "cat/photography"
+redirectto = "cat/photography"
 metarobots = "noindex"
-redirectto = "categories/photography"
 +++

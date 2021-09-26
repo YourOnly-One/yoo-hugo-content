@@ -1,6 +1,9 @@
 +++
 title = "Adaptations"
-#aliases = [""]
-url = "tag/adaptations"
 translationKey = "tag-adaptations"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

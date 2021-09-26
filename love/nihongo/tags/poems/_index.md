@@ -1,6 +1,9 @@
 +++
-title = "詩"
-aliases = ["/ja/tag/poems"]
-#url = "tag/poems"
+title = "ポエム"
 translationKey = "tag-poems"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

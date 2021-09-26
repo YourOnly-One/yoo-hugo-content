@@ -1,6 +1,9 @@
 +++
 title = "Literature"
-#aliases = [""]
-url = "cat/literature"
 translationKey = "cat-literature"
+#url = ""
+#aliases = [""]
+#relcanonical = ""
+#redirectto = ""
+metarobots = "noindex"
 +++

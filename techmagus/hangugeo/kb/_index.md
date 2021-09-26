@@ -1,9 +1,9 @@
 +++
 title = "기술 자료"
 translationKey = "section-knowledgebase"
-#aliases = [""]
 #url = ""
+#aliases = [""]
 #relcanonical = ""
-metarobots = "noindex"
 #redirectto = ""
+metarobots = "noindex"
 +++
