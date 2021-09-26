@@ -1,6 +1,6 @@
 +++
 title = "결혼 제안"
-translationKey = "tag-marriage-proposals"
+translationKey = "tag-marriageproposals"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

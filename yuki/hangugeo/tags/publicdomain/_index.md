@@ -1,6 +1,6 @@
 +++
 title = "공개 도메인"
-translationKey = "tag-public-domain"
+translationKey = "tag-publicdomain"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

@@ -1,6 +1,6 @@
 +++
 title = "Confident Traveler"
-translationKey = "channel-confident-traveler"
+translationKey = "channel-confidentraveler"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

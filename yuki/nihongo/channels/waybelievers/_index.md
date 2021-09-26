@@ -1,6 +1,6 @@
 +++
 title = "信者の道"
-translationKey = "channel-way-believers"
+translationKey = "channel-waybelievers"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

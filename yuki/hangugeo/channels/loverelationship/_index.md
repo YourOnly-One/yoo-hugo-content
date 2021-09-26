@@ -1,6 +1,6 @@
 +++
 title = "사랑과 관계"
-translationKey = "channel-love-relationship"
+translationKey = "channel-loverelationship"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

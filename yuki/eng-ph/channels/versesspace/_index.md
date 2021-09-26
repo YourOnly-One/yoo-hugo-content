@@ -1,6 +1,6 @@
 +++
 title = "Verses.Space"
-translationKey = "channel-verses-space"
+translationKey = "channel-versesspace"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

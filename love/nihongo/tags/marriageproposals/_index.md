@@ -1,6 +1,6 @@
 +++
 title = "結婚の申し込み"
-translationKey = "tag-marriage-proposals"
+translationKey = "tag-marriageproposals"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

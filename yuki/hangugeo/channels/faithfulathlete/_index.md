@@ -1,6 +1,6 @@
 +++
 title = "충실한 운동 선수"
-translationKey = "channel-faithful-athlete"
+translationKey = "channel-faithfulathlete"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

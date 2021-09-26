@@ -1,5 +1,5 @@
 +++
-title = "K-Drama"
+title = "K-drama"
 translationKey = "tag-kdrama"
 #url = ""
 #aliases = [""]

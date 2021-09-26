@@ -1,6 +1,6 @@
 +++
 title = "Yūgen Bard"
-translationKey = "channel-yūgen-bard"
+translationKey = "channel-yūgenbard"
 #url = ""
 #aliases = [""]
 #relcanonical = ""
