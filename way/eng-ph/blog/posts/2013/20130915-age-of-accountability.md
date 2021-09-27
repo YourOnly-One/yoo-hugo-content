@@ -124,8 +124,3 @@ People who dies without reaching their age of accountability then becomes clear,
   attriblink="https://www.maxpixel.net/utility/donate/jeffjacobs1990-7438739"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

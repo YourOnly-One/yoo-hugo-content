@@ -128,8 +128,3 @@ You can read the complete account <a href="https://flashtrafficblog.wordpress.co
   attriblink="https://openclipart.org/artist/rduris"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

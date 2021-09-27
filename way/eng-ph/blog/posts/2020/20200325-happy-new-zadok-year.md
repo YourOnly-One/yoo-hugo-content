@@ -108,8 +108,3 @@ If you would like to know more about the true New Year, read: [When is the True 
   attriblink="https://unsplash.com/@aniket940518"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

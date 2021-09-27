@@ -186,8 +186,3 @@ That's being wise. Stay strong. Stay alive. Stay safe. Keep studying!
   attriblink="https://iam.youronly.one"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

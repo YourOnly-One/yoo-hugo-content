@@ -235,8 +235,3 @@ I hope with the disclaimers above, there will be no attempts to spark debates. Y
   attriblink="https://youronly.one"
   attribrel="noopener"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

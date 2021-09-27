@@ -120,8 +120,3 @@ Scriptural date today: 6003-07-02 S.C. (Since Creation / Scriptural Calendar)
   attriblink="https://www.freeimages.com/photographer/nighthawk7-46069"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

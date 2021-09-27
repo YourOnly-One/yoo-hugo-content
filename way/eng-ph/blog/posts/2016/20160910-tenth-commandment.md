@@ -114,8 +114,3 @@ Shalom!
   attriblink="https://en.wikipedia.org/wiki/Jean_Auguste_Dominique_Ingres"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

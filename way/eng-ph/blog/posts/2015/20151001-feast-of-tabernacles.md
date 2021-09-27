@@ -122,8 +122,3 @@ On the 1st yom (day) is a rest, and on the 8th yom (day) a rest [22nd of the 7th
   attriblink="https://www.flickr.com/photos/88663091@N04"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

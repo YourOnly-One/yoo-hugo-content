@@ -134,8 +134,3 @@ Again I repeat, this is not an attack on anyone, not even the Roman Catholic chu
   attriblink="https://unsplash.com/@walterch"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

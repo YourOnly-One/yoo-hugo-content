@@ -110,8 +110,3 @@ Shalom!
   attriblink="https://www.flickr.com/photos/samiksha/"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

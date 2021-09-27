@@ -138,8 +138,3 @@ Shalom my brethren!
   attriblink="https://en.wikipedia.org/wiki/William-Adolphe_Bouguereau"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

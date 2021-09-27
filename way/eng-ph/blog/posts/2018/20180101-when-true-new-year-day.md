@@ -175,8 +175,3 @@ If you want to use this article to ridicule people who chose to practice the Gre
   attriblink="https://pixabay.com/en/users/MixailMixail-2979612/"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

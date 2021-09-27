@@ -186,8 +186,3 @@ Thank you for reading.
   attriblink="https://commons.wikimedia.org/wiki/User:Phillip_Medhurst"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

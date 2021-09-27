@@ -211,8 +211,3 @@ We close our prayer by giving back all the glory and thanks to our Father in hea
   attriblink="https://www.freeimages.com/photographer/nighthawk7-46069"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

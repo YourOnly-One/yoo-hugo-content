@@ -184,8 +184,3 @@ I used to believe and practice these things until the Most High, our Abba in hea
   attriblink="https://www.flickr.com/photos/sunshinecity/"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

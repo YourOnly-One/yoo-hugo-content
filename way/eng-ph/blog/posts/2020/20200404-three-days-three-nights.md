@@ -194,8 +194,3 @@ That, my friend, is the simplest and shortest version. I hope you were able to f
   attriblink="https://www.flickr.com/photos/seetheholyland/"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

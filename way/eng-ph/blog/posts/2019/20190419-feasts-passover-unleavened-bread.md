@@ -333,8 +333,3 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   attriblink="https://youronly.one"
   attribrel="noopener"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

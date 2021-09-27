@@ -144,8 +144,3 @@ Our Abba Himself said He will not give His glory, honour, praise, thanks that is
   attriblink="https://youronly.one"
   attribrel="noopener"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역
