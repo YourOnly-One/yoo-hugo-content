@@ -5,10 +5,10 @@ description = "Browser Wars 3 is not about Chromium and Firefox. The third Brows
 date = "2018-12-10T06:54:23"                                        # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
-#aliases = [""]
-slug = "Browser Wars III: Blink vs Gecko Quantum"
+aliases = ["/2018/12/browser-wars-3-blink-gecko-quantum.html"]
+slug = "browser-wars-3-blink-gecko"
 translationKey = "Browser Wars III: Blink vs Gecko Quantum"
-relCanonical = "https://im.youronly.one/techmagus/browser-wars-iii-blink-vs-gecko-quantum-2018344/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-2018344/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

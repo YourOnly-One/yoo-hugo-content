@@ -5,10 +5,10 @@ description = "The LANG attribute is a powerful piece of code when designing web
 date = "2009-06-21T00:20:37"                                        # manually adjust to local timezone
 lastmod = "2021-09-24T18:32:17"                                     # manually adjust to local timezone
 
-#aliases = [""]
-slug = "The LANG Attribute"
+aliases = ["/2009/06/the-lang-attribute.html"]
+slug = "lang-attribute"
 translationKey = "The LANG Attribute"
-relCanonical = "https://im.youronly.one/techmagus/kb/webdev/the-lang-attribute-2009172/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/webdev/lang-attribute-2009172/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

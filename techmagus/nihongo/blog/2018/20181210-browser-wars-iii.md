@@ -2,13 +2,13 @@
 title = "Browser Wars III：Blink vs Gecko Quantum"
 description = "Browser Wars 3は、ChromiumとFirefoxに関するものではありません。 3番目のブラウザ戦争はBlinkとGeckoQuantumの間の戦争についてです。"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2018-12-10T06:54:23"                                        # manually adjust to local timezone
+date = "2018-12-10T07:54:23"                                        # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
 #aliases = [""]
-slug = "Browser Wars III: Blink vs Gecko Quantum"
+slug = "browser-wars-3-blink-gecko"
 translationKey = "Browser Wars III: Blink vs Gecko Quantum"
-relCanonical = "https://im.youronly.one/techmagus/ja/browser-wars-iii-blink-vs-gecko-quantum-2018344/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/ja/browser-wars-3-blink-gecko-2018344/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

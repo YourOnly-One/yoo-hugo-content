@@ -6,9 +6,9 @@ date = "2009-06-21T01:20:37"                                        # manually a
 lastmod = "2021-09-24T19:32:17"                                     # manually adjust to local timezone
 
 #aliases = [""]
-slug = "The LANG Attribute"
+slug = "lang-attribute"
 translationKey = "The LANG Attribute"
-relCanonical = "https://im.youronly.one/techmagus/ko/kb/webdev/the-lang-attribute-2009172/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/ko/kb/webdev/lang-attribute-2009172/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
