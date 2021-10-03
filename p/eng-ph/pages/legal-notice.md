@@ -1,45 +1,52 @@
 +++
 title = "Legal Notice"
 description = "YourOnly.One™ Legal Notice"
-summary = ""    # for summary text in list displays
-author = "ᜌᜓᜃᜒ (Yuki ・ 雪亮)"
-authorlink = "https://youronly.one"   # only for some themes
-#avatar = "/img/author.jpg"   # only for some themes
 
 date = "2020-03-25T06:00:00"
-#expiryDate = ""
 #lastmod = "{{ .Date }}"    # automatic, do not use unless necessary
-#publishDate = ""    # date var should be enough
 
 #aliases = ["", ""]
 #slug = ""
-#translationKey = ""
-#url = "/path/"   # the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
 #relCanonical = "https://im.youronly.one/p/legal-notice/"
+#translationKey = ""
+#disqus_url = ""                                                    # automatic in YourOnly.One setup
+#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-#categories = ["", ""]   #taxonomy
-#keywords = ["", ""]   # meta keywords
-#series = ["", ""]   # subset of series taxonomy
-#tags = ["", "showcase"]   # taxonomy
+#channels = [""]
+#categories = [""]                                                   # taxonomy
+#keywords = [""]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
+#tags = [""]                                                         # taxonomy
 
-#audio = ["/path/", "/path/"]
-#images = ["/path/", "/path/"]
-#videos = ["/path/", "/path"]
+comments = false
+#weight = ""                                                        # post weight, if we want granular control of post order
 
-#isCJKLanguage = true   # default to true in our config.toml settings
-weight = "5"
+#featured = true
+#math = true
+toc = true
+
+#videos = [""]                                                       # used by og:video, etc.
+#audio = [""]                                                        # used by og:audio, etc.
+images = [""]                                                       # used by og:images, etc.; first image is cover image
 
 #draft = true
 
-#featured = true    # only for some themes
-#math = true   # only for some themes
+#license = ""                                                       # only set if the post license is not the same as the site license
 
-#thumbnail = "images/building.png"   # only for some themes
-#cover = "/img/cover.jpg"   # only for some themes
+#contenttypes = [""]                                                 # Semantic Web JSON-LD
 
-# https://gohugo.io/content-management/front-matter/#front-matter-cascade
-#[cascade]
-#  banner = "/path/"
+[author]
+  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
+  #email = ""
+  homepage = "https://im.youronly.one/yuki/"
+  avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
+  #emoji = ""
+  #descriptionshort = ""
+  #descriptionlong = ""
+  #motto = ""
+  #locationorigin = ""
+  #locationcurrent = ""
+  #rel = "me noopener"
 +++
 
 <!-- <a href="https://creativecommons.org/licenses/by-sa/4.0/" aria-label="License: Creative Commons Attribution-ShareAlike 4.0 International" referrerpolicy="strict-origin-when-cross-origin" rel="license noopener external nofollow"><i aria-hidden="true" class="cc cc-cc cc-2x text-red" title="License: Creative Commons Attribution-ShareAlike 4.0 International"></i> <i aria-hidden="true" class="cc cc-by cc-2x text-green" title="License: Creative Commons Attribution-ShareAlike 4.0 International"></i> <i aria-hidden="true" class="cc cc-sa cc-2x text-blue" title="License: Creative Commons Attribution-ShareAlike 4.0 International"></i></a><br/> -->
