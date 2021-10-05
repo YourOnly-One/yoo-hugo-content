@@ -27,7 +27,7 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.gif"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 
 #draft = true
 
