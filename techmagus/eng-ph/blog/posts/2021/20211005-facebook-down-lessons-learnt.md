@@ -1,5 +1,5 @@
 +++
-title = "Lessons learnt from #FacebookDown"
+title = "Lessons learnt from FacebookDown"
 description = "What lessons should we learn from the longest downtime of Facebook, Instagram, Messenger, and WhatsApp?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-10-06T06:21:07"                                        # manually adjust to local timezone
@@ -8,7 +8,7 @@ date = "2021-10-06T06:21:07"                                        # manually a
 #aliases = [""]
 slug = "lessons-learned-facebook-down"
 translationKey = "Lessons learnt from Facebook Down"
-relCanonical = ""                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/lessons-learned-facebook-down-2021279/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
