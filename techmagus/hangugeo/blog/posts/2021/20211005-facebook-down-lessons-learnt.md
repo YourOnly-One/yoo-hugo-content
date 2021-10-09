@@ -7,7 +7,7 @@ date = "2021-10-06T07:21:07"                                        # manually a
 
 #aliases = [""]
 slug = "lessons-learned-facebook-down"
-translationKey = "Lessons learnt from Facebook Down"
+translationKey = "lessons-learned-facebook-down-2021279"
 relCanonical = "https://im.youronly.one/techmagus/ko/lessons-learned-facebook-down-2021279/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
@@ -127,7 +127,7 @@ Facebook과 해당 서비스의 가장 긴 다운타임에 기여한 많은 요�
 
   attribalign=""
 
-  licensecode="copyright"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
@@ -209,7 +209,7 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
 
   attribalign=""
 
-  licensecode="copyright"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 

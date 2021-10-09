@@ -7,7 +7,7 @@ date = "2018-12-10T07:54:23"                                        # manually a
 
 #aliases = [""]
 slug = "browser-wars-3-blink-gecko"
-translationKey = "Browser Wars III: Blink vs Gecko Quantum"
+translationKey = "browser-wars-3-blink-gecko-2018344"
 relCanonical = "https://im.youronly.one/techmagus/ko/browser-wars-3-blink-gecko-2018344/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup

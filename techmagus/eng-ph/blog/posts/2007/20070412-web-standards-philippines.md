@@ -7,8 +7,8 @@ date = "2007-04-12T09:10:38"                                        # manually a
 
 aliases = ["/2007/04/web-standards-philippines.html"]
 slug = "web-standards-philippines"
-translationKey = "Web Standards Philippines"
-relCanonical = ""                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "web-standards-philippines-2007102"
+relCanonical = "https://im.youronly.one/techmagus/web-standards-philippines-2007102/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

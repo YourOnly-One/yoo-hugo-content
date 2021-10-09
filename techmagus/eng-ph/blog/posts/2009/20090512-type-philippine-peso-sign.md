@@ -1,35 +1,35 @@
 +++
-title = ""
-description = ""                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "[How-To] Type the Philippine Peso Currency Sign"
+description = "In this post, I am going to show you how you can type the Philippine Peso sign - the real way. The Peso sign has been available for a long-time!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "{{ .Date }}"                                        # manually adjust to local timezone
+date = "2009-05-12T14:36:38"                                        # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
-#aliases = [""]
-slug = ""
-translationKey = ""
-relCanonical = ""                                                   # the actual URL of the post; also used for disqus ID and url
+aliases = ["/2009/05/how-to-type-the-peso-sign.html"]
+slug = "type-philippines-peso-sign"
+translationKey = "type-philippines-peso-sign-2009132"
+relCanonical = "https://im.youronly.one/techmagus/type-philippines-peso-sign-2009132/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = [""]
-categories = [""]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
+channels = ["techmagus"]
+categories = ["howto"]                                                   # taxonomy
+keywords = ["philippines", "peso", "currency", "sign", "symbol"]                                                     # meta keywords
 series = [""]                                                       # subset of series taxonomy
 tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
 
-#featured = true
+featured = true
 #math = true
 toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = [""]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://3.bp.blogspot.com/-mD1PvPYiByQ/XqojsqGYt-I/AAAAAAAAhbc/zyUcpXv5TSISNrejahgZKAix-YnJ8KRBQCLcBGAsYHQ/s1600/Peso_sign.svg.png"]                                                       # used by og:images, etc.; first image is cover image
 
-draft = true
+#draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license
 
@@ -70,78 +70,73 @@ draft = true
   #rel = "me noopener"
 +++
 
-SUMMARY
+Last night, I searched if there were fonts updated to include the Philippine Peso currency sign which has been added in Unicode since version 3.2 release. The Unicode position of the Peso sign is at point 20B1 if you want to check it out for yourself.
+
+I was planning on creating a Peso font if I can not find one, this was after the availability of the Peso sign was discussed during the <a class="tooltip animate" data-tooltip="[Event] Philippine Ubuntu 9.04 Release Party" href="https://techmagus.icu/philippine-ubuntu-9-04-release-party/">Philippine Ubuntu 9.04 Jaunty Jackalope Release Party</a>. My search turned-out positive, there's not just one but countless of fonts with the Peso sign already included.
 
 <!--more-->
 
-> ***TAGLINE***
+This is the real Peso sign: ₱ -- it is not an uppercase strike-through <span style="text-decoration: line-through;">P</span>. Here's a comparison:
 
-## Header
-Test here.[^a]
+<table class="grid_center" style="width: 50%; margin-bottom: 10px;">
+  <tbody>
+    <tr>
+      <td class="txt_center" style="width: 50%;"><span style="font-size: 5em;">₱</span></td>
+      <td class="txt_center" style="width: 50%;"><span style="text-decoration: line-through; font-size: 5em;">P</span></td>
+    </tr>
+  </tbody>
+  <tfooter>
+    <tr>
+      <td class="txt_center">Correct way</td>
+      <td class="txt_center">old way</td>
+    </tr>
+  </tfooter>
+</table>
 
-[^a]: Florabase: [Allamanda L.](https://florabase.dpaw.wa.gov.au/browse/profile/21926); [Fair Use](https://florabase.dpaw.wa.gov.au/help/copyright)
+If you can not see the Peso sign above, then you do not have an updated font, or any font for that matter, with a Peso sign included. This also means that your fonts are possibly non-Unicode compliant. Time to update.
 
-## Image code
-{{< image
-  type="image"
+## Let's Start Typing the Peso Sign!
+<ul class="custom_liststyle omark-black list-blue">
+  <li>For Microsoft® Office (2002+) and WordPad, there are two ways to do this:
+    <ol class="custom_liststyle circles-list">
+      <li>Simply Copy &amp; Paste the Peso sign above to your document; or</li>
+      <li>Type in your document the hexadecimal value of the Peso sign: 20B1 or U+20B1. Then press Alt+X (do not put a space after the hexadecimal code)</li>
+    </ol>
+  </li>
+  <li>For Firefox users, install the <a href="https://addons.mozilla.org/en-US/firefox/addon/unicode-input-toolconverter/" target="_blank">Unicode Input Tool/Converter</a> extension. Then just type "Peso" in the field "Search by character name".</li>
+</ul>
 
-  imgheight=""
-  imgwidth=""
+## Let's Put A Peso Sign In Your Computer
+Here are some of the free-of-charge fonts that you can freely download and install, which already have the Peso sign included (U+20B1).
 
-  imgsrc=""
-  imglink=""
-  imgrel="noopener external nofollow"
+* <a href="https://www.code2000.net/code2000_page.htm" target="_blank">Code2000</a>
+* <a href="https://dejavu-fonts.org/wiki/Main_Page" target="_blank">DejaVu family</a>
+* <a href="https://www-01.sil.org/~gaultney/Gentium/" target="_blank">Gentium family</a>
+* <a href="https://linuxlibertine.sourceforge.net" target="_blank">Linux Libertine family</a>
+* <a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=UnicodeBMPFallbackFont&amp;_sc=1" target="_blank">Unicode BMP Fallback SIL</a>
 
-  imgtitle=""
-  imgcaption=""
-  imgalt=""
+Start typing those Peso signs, the correct way!
 
-  attribalign=""
+---
 
-  licensecode=""
-  licenseurl=""
-  licensename=""
-
-  attribto=""
-  attriblink=""
-  attribrel="noopener external nofollow"
->}}
-
-## Other markdown codes
-[SOME_LINK](https://example.com)
-
-[POST_TITLE]({{< ref "/FILENAME.md" >}} "TITLE_ATTRIBUTE")
-
-## Official trailer / 公式予告編 / 공식 예고편
-{{< youtube id="CHANGE_THIS" title="「CHANGE_THIS」 trailer/予告編/예고편" >}}
-
-## OST
-{{< music src="https://open.spotify.com/embed/playlist/CHANGE_THIS" >}}
-
-## Attribution, Usage, &amp; Leave your links
-Simply follow the attribution shown underneath each photo, or whichever is acceptable within the bounds of CC-BY-SA 4.0 International license. In addition to that, I would also appreciate if you leave your links below or in Instagram, who knows, I might mention your site (and usage) one day.
+**Update 2010-11-14**: You can now type the ₱eso sign directly from your keyboard simply by pressing RightAlt+P or AltGr+P.&nbsp; But before you can do that, you need to add the <a href="https://techmagus.icu/paninap-unicode-keyboard-layout/the-philippines-national-keyboard-layout/" target="_blank">Philippines Keyboard Layout</a> which is now available in both GNU/Linux and Windows®.
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink=""
+  imglink="https://commons.wikimedia.org/wiki/File:Peso_sign.svg"
   imgrel="noopener external nofollow"
 
-  imgtitle=""
+  imgtitle="Peso sign"
   imgcaption=""
 
-  licensecode=""
-  licenseurl=""
-  licensename=""
+  licensecode="publicdomain"
+  licenseurl="https://creativecommons.org/publicdomain/mark/1.0/"
+  licensename="Public Domain"
 
-  attribto=""
-  attriblink=""
+  attribto="Amit6"
+  attriblink="https://commons.wikimedia.org/wiki/User:Amit6"
   attribrel="noopener external nofollow"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

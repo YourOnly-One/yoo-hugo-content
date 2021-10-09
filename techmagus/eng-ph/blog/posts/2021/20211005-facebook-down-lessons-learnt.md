@@ -7,7 +7,7 @@ date = "2021-10-06T06:21:07"                                        # manually a
 
 #aliases = [""]
 slug = "lessons-learned-facebook-down"
-translationKey = "Lessons learnt from Facebook Down"
+translationKey = "lessons-learned-facebook-down-2021279"
 relCanonical = "https://im.youronly.one/techmagus/lessons-learned-facebook-down-2021279/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
@@ -127,7 +127,7 @@ If you think that this is new, surprise! Federation has been around since 2008, 
 
   attribalign=""
 
-  licensecode="copyright"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
@@ -209,7 +209,7 @@ You can sign-up for a Hubzilla channel (or account if you will) in any of the av
 
   attribalign=""
 
-  licensecode="copyright"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
