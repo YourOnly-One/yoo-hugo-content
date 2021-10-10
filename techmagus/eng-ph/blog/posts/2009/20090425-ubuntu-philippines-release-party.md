@@ -13,10 +13,10 @@ relCanonical = "https://im.youronly.one/techmagus/ubuntu-philippines-release-par
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
-categories = ["events"]                                                   # taxonomy
+categories = ["events", "linux"]                                                   # taxonomy
 keywords = [""]                                                     # meta keywords
 series = [""]                                                       # subset of series taxonomy
-tags = ["linux"]                                                         # taxonomy
+tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order

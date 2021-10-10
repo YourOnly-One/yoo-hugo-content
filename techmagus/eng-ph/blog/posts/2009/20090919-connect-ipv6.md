@@ -13,10 +13,10 @@ relCanonical = "https://im.youronly.one/techmagus/ipv6-connect-today-2009262/"  
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
-categories = ["howto"]                                                   # taxonomy
+categories = ["howto", "linux"]                                                   # taxonomy
 keywords = [""]                                                     # meta keywords
 series = [""]                                                       # subset of series taxonomy
-tags = ["linux"]                                                         # taxonomy
+tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
