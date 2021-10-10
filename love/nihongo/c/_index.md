@@ -1,8 +1,8 @@
 +++
 title = "収集"
-translationKey = "section-collection"
-#aliases = [""]
+translationKey = "section-collections"
 #url = ""
+#aliases = [""]
 #relcanonical = ""
 #redirectto = ""
 metarobots = "noindex"

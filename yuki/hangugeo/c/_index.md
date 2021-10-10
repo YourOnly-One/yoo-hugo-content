@@ -1,6 +1,6 @@
 +++
 title = "수집"
-translationKey = "section-collection"
+translationKey = "section-collections"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

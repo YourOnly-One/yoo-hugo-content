@@ -1,6 +1,6 @@
 +++
-title = "Collection"
-translationKey = "section-collection"
+title = "Collections"
+translationKey = "section-collections"
 #url = ""
 #aliases = [""]
 #relcanonical = ""
