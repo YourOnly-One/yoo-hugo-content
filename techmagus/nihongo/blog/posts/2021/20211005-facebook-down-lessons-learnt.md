@@ -13,7 +13,7 @@ relCanonical = "https://im.youronly.one/techmagus/ja/lessons-learned-facebook-do
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
-categories = ["web3"]                                                   # taxonomy
+categories = ["web"]                                                   # taxonomy
 keywords = [""]                                                     # meta keywords
 series = [""]                                                       # subset of series taxonomy
 tags = ["federation", "decentralization"]                                                         # taxonomy

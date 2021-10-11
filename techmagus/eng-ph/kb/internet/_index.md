@@ -1,6 +1,6 @@
 +++
-title = "웹 3.0"
-translationKey = "cat-web3"
+title = "Internet"
+translationKey = "section-internet"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

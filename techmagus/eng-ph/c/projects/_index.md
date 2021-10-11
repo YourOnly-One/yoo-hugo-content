@@ -8,3 +8,5 @@ translationKey = "section-projects"
 #redirectto = ""
 metarobots = "noindex"
 +++
+
+Various projects techmagus contributes to.

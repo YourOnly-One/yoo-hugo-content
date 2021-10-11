@@ -7,7 +7,7 @@ lastmod = "2021-09-24T19:32:17"                                     # manually a
 
 #aliases = [""]
 slug = "lang-attribute"
-translationKey = "The LANG Attribute"
+translationKey = "lang-attribute-2009172"
 relCanonical = "https://im.youronly.one/techmagus/ja/kb/webdev/lang-attribute-2009172/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup

@@ -8,7 +8,7 @@ lastmod = "2010-03-29T17:53:01"                                     # manually a
 aliases = ["/2011/09/how-to-ipv6-is-not-scary-connect-now.html"]
 slug = "ipv6-connect-today"
 translationKey = "ipv6-connect-today-2009262"
-relCanonical = "https://im.youronly.one/techmagus/ipv6-connect-today-2009262/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/internet/ipv6-connect-today-2009262/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

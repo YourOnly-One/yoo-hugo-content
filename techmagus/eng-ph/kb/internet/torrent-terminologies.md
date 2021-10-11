@@ -8,7 +8,7 @@ date = "2011-01-24T15:01:48"                                        # manually a
 aliases = ["/2011/01/torrent-terminologies-and-acronyms.html"]
 slug = "torrent-terms-acronyms"
 translationKey = "torrent-terms-acronyms-201124"
-relCanonical = "https://im.youronly.one/techmagus/torrent-terms-acronyms-201124/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/internet/torrent-terms-acronyms-201124/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

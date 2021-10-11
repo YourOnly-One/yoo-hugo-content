@@ -6,9 +6,9 @@ date = "2010-10-23T19:40:10"                                        # manually a
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-keyboard-linux.html"]
-slug = "philippines-baybayin-linux"
-translationKey = "philippines-baybayin-linux-2010296"
-relCanonical = "https://im.youronly.one/techmagus/projects/keyboard/philippines-baybayin-linux-2010296/"                                                   # the actual URL of the post; also used for disqus ID and url
+slug = "philippines-baybayin-unicode-linux"
+translationKey = "philippines-baybayin-unicode-linux-2010296"
+relCanonical = "https://im.youronly.one/techmagus/projects/keyboard/philippines-baybayin-unicode-linux-2010296/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -71,241 +71,245 @@ images = ["https://3.bp.blogspot.com/-IPzJrxh1_vg/TncoS7FQ61I/AAAAAAAAAVQ/65UR2j
   #rel = "me noopener"
 +++
 
-Today, 23<sup>rd</sup> of October 2010, Filipino Linux users around the world can now download and use the first release of the <b>Philippines Unicode Keyboard Layout</b>, officially launched at the [Philippines Ubuntu 10.10 Maverick Meerkat Release Party]({{/* < ref "20101018-ubuntu-release-party.md" > */}} "Philippines Ubuntu 10.10 Maverick Meerkat Release Party")!
+Today, 23<sup>rd</sup> of October 2010, Filipino Linux users around the world can now download and use the first release of the **Philippines Unicode Keyboard Layout**, officially launched during the Philippines Ubuntu 10.10 Maverick Meerkat Release Party.
 
 What is this all about? Simple: being able to type the characters that Filipinos use, especially the ₱eso sign and <span lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</span> (Baybayin) glyphs that has been available for use since Unicode 3.2 (March 2002). Other characters are: Ññ, ©, ®, ™, ¢, ¥, ¶, Pahilís (acute diacritic), Paiwà (grave diacritic), Pakupyâ (circumflex diacritic), Ng̃ (the shortened form of nan͠g), and many more.
 
-How about Windows users? <del>You will have to wait more or less 2 weeks, it will be usable for Windows 7, Vista, and XP; both 64-bit and 32-bit installations.</del> <ins>It is now available for [download]({{< ref "philippines-unicode-keyboard-layout-windows.md" >}} "Philippines Unicode Keyboard Layout for Windows").</ins> Windows is too complicated as compared to Linux (seriously).
+How about Windows users? <del>You will have to wait more or less 2 weeks, it will be usable for Windows 7, Vista, and XP; both 64-bit and 32-bit installations.</del> It is now available for [download]({{< ref "philippines-unicode-keyboard-layout-windows.md" >}} "Philippines Unicode Keyboard Layout for Windows").
 
 Without further ado, here are the steps to get you started with using our very own Unicode Keyboard Layout.
 
 <!--more-->
 
-<ol>
-  <li>Download the PH-UKL-Linux file (available in 7-zip and zip format) <a href="https://bitbucket.org/paninap/ph-ukl/downloads" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">here</a></li>
-  <li>Extract the content of the archive file you just downloaded</li>
-  <li>Install the font included so your system can display Baybayin (Alibata) glyphs</li>
-  <li>Then copy the file "ph" to the correct folder by typing in the terminal (be sure to adjust ~/Downloads/ to where the file is on your end)
-    <pre class="command-line" data-user="me" data-host="host"><code class="language-shell-session">
-      sudo cp ~/Downloads/ph /usr/share/X11/xkb/symbols
-    </code></pre>
-  </li>
-  <li>Open these two files by typing:
-    <pre class="command-line" data-user="me" data-host="host"><code class="language-shell-session">
-      gksu gedit /usr/share/X11/xkb/rules/evdev.lst
-    </code></pre>
-    <pre class="command-line" data-user="me" data-host="host"><code class="language-shell-session">
-      gksu gedit /usr/share/X11/xkb/rules/base.lst
-    </code></pre>
-  </li>
-  <li>Search for:
-    <pre><code class="language-clike match-braces rainbow-braces">
-      ! layout
-    </code></pre>
-  </li>
-  <li>After it add:
-    <pre><code class="language-clike match-braces rainbow-braces">
-      ph              Philippines
-    </code></pre>
-  </li>
-  <li>Search for:
-    <pre><code class="language-clike match-braces rainbow-braces">
-      ! variant
-    </code></pre>
-  </li>
-  <li>After it add:
-    <pre class="line-numbers"><code class="language-clike match-braces rainbow-braces">
-      qwerty-bay            ph: QWERTY (Baybayin)
-      capewell-dvorak       ph: Capewell-Dvorak (Latin)
-      capewell-dvorak-bay   ph: Capewell-Dvorak (Baybayin)
-      capewell-qwerf2k6     ph: Capewell-QWERF 2006 (Latin)
-      capewell-qwerf2k6-bay ph: Capewell-QWERF 2006 (Baybayin)
-      colemak               ph: Colemak (Latin)
-      colemak-bay           ph: Colemak (Baybayin)
-      dvorak                ph: Dvorak (Latin)
-      dvorak-bay            ph: Dvorak (Baybayin)
-    </code></pre>
-  </li>
-  <li>Open these two files by typing:
-    <pre class="command-line" data-user="me" data-host="host"><code class="language-shell-session">
-      gksu gedit /usr/share/X11/xkb/rules/evdev.xml
-    </code></pre>
-    <pre class="command-line" data-user="me" data-host="host"><code class="language-shell-session">
-      gksu gedit /usr/share/X11/xkb/rules/base.xml
-    </code></pre>
-  </li>
-  <li>Search for:
-    <pre><code class="language-clike match-braces rainbow-braces">
-      &lt;layoutlist>
-    </code></pre>
-  </li>
-  <li>After it add:
-    <pre class="line-numbers"><code class="language-clike match-braces rainbow-braces">
-      &lt;layout>
-        &lt;configItem>
-          &lt;name>ph&lt;/name>
-          &lt;shortDescription>Phi&lt;/shortDescription>
-          &lt;description>Philippines&lt;/description>
-          &lt;languageList>&lt;iso639Id>eng&lt;/iso639Id>
-                        &lt;iso639Id>bik&lt;/iso639Id>
-                        &lt;iso639Id>ceb&lt;/iso639Id>
-                        &lt;iso639Id>fil&lt;/iso639Id>
-                        &lt;iso639Id>hil&lt;/iso639Id>
-                        &lt;iso639Id>ilo&lt;/iso639Id>
-                        &lt;iso639Id>pam&lt;/iso639Id>
-                        &lt;iso639Id>pag&lt;/iso639Id>
-                        &lt;iso639Id>phi&lt;/iso639Id>
-                        &lt;iso639Id>tgl&lt;/iso639Id>
-                        &lt;iso639Id>war&lt;/iso639Id>&lt;/languageList>
-        &lt;/configItem>
-        &lt;variantList>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>qwerty-bay&lt;/name>
-              &lt;description>QWERTY (Baybayin)&lt;/description>
-              &lt;languageList>&lt;iso639Id>bik&lt;/iso639Id>
-                            &lt;iso639Id>ceb&lt;/iso639Id>
-                            &lt;iso639Id>fil&lt;/iso639Id>
-                            &lt;iso639Id>hil&lt;/iso639Id>
-                            &lt;iso639Id>ilo&lt;/iso639Id>
-                            &lt;iso639Id>pam&lt;/iso639Id>
-                            &lt;iso639Id>pag&lt;/iso639Id>
-                            &lt;iso639Id>phi&lt;/iso639Id>
-                            &lt;iso639Id>tgl&lt;/iso639Id>
-                            &lt;iso639Id>war&lt;/iso639Id>&lt;/languageList>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>capewell-dvorak&lt;/name>
-              &lt;description>Capewell-Dvorak (Latin)&lt;/description>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>capewell-dvorak-bay&lt;/name>
-              &lt;description>Capewell-Dvorak (Baybayin)&lt;/description>
-              &lt;languageList>&lt;iso639Id>bik&lt;/iso639Id>
-                            &lt;iso639Id>ceb&lt;/iso639Id>
-                            &lt;iso639Id>fil&lt;/iso639Id>
-                            &lt;iso639Id>hil&lt;/iso639Id>
-                            &lt;iso639Id>ilo&lt;/iso639Id>
-                            &lt;iso639Id>pam&lt;/iso639Id>
-                            &lt;iso639Id>pag&lt;/iso639Id>
-                            &lt;iso639Id>phi&lt;/iso639Id>
-                            &lt;iso639Id>tgl&lt;/iso639Id>
-                            &lt;iso639Id>war&lt;/iso639Id>&lt;/languageList>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>capewell-qwerf2k6&lt;/name>
-              &lt;description>Capewell-QWERF 2006 (Latin)&lt;/description>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>capewell-qwerf2k6-bay&lt;/name>
-              &lt;description>Capewell-QWERF 2006 (Baybayin)&lt;/description>
-              &lt;languageList>&lt;iso639Id>bik&lt;/iso639Id>
-                            &lt;iso639Id>ceb&lt;/iso639Id>
-                            &lt;iso639Id>fil&lt;/iso639Id>
-                            &lt;iso639Id>hil&lt;/iso639Id>
-                            &lt;iso639Id>ilo&lt;/iso639Id>
-                            &lt;iso639Id>pam&lt;/iso639Id>
-                            &lt;iso639Id>pag&lt;/iso639Id>
-                            &lt;iso639Id>phi&lt;/iso639Id>
-                            &lt;iso639Id>tgl&lt;/iso639Id>
-                            &lt;iso639Id>war&lt;/iso639Id>&lt;/languageList>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>colemak&lt;/name>
-              &lt;description>Colemak (Latin)&lt;/description>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>colemak-bay&lt;/name>
-              &lt;description>Colemak (Baybayin)&lt;/description>
-              &lt;languageList>&lt;iso639Id>bik&lt;/iso639Id>
-                            &lt;iso639Id>ceb&lt;/iso639Id>
-                            &lt;iso639Id>fil&lt;/iso639Id>
-                            &lt;iso639Id>hil&lt;/iso639Id>
-                            &lt;iso639Id>ilo&lt;/iso639Id>
-                            &lt;iso639Id>pam&lt;/iso639Id>
-                            &lt;iso639Id>pag&lt;/iso639Id>
-                            &lt;iso639Id>phi&lt;/iso639Id>
-                            &lt;iso639Id>tgl&lt;/iso639Id>
-                            &lt;iso639Id>war&lt;/iso639Id>&lt;/languageList>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>dvorak&lt;/name>
-              &lt;description>Dvorak (Latin)&lt;/description>
-            &lt;/configItem>
-          &lt;/variant>
-          &lt;variant>
-            &lt;configItem>
-              &lt;name>dvorak-bay&lt;/name>
-              &lt;description>Dvorak (Baybayin)&lt;/description>
-              &lt;languageList>&lt;iso639Id>bik&lt;/iso639Id>
-                            &lt;iso639Id>ceb&lt;/iso639Id>
-                            &lt;iso639Id>fil&lt;/iso639Id>
-                            &lt;iso639Id>hil&lt;/iso639Id>
-                            &lt;iso639Id>ilo&lt;/iso639Id>
-                            &lt;iso639Id>pam&lt;/iso639Id>
-                            &lt;iso639Id>pag&lt;/iso639Id>
-                            &lt;iso639Id>phi&lt;/iso639Id>
-                            &lt;iso639Id>tgl&lt;/iso639Id>
-                            &lt;iso639Id>war&lt;/iso639Id>&lt;/languageList>
-            &lt;/configItem>
-          &lt;/variant>
-        &lt;/variantList>
-      &lt;/layout>
-    </code></pre>
-  </li>
-</ol>
+* Download the PH-UKL-Linux file (available in 7-zip and zip format) <a href="https://bitbucket.org/paninap/ph-ukl/downloads" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">here</a>
+* Extract the content of the archive file you just downloaded
+* Install the font included so your system can display Baybayin (Alibata) glyphs
+* Then copy the file "ph" to the correct folder by typing in the terminal (be sure to adjust ~/Downloads/ to where the file is on your end)
+  ```shell
+  sudo cp ~/Downloads/ph /usr/share/X11/xkb/symbols
+  ```
+* Open these two files by typing:
+  ```shell
+  gksu gedit /usr/share/X11/xkb/rules/evdev.lst
+  ```
+  ```shell
+  gksu gedit /usr/share/X11/xkb/rules/base.lst
+  ```
+* Search for:
+  ```
+  ! layout
+  ```
+* After it add:
+  ```
+  ph              Philippines
+  ```
+* Search for:
+  ```
+  ! variant
+  ```
+* After it add:
+  ```
+  qwerty-bay            ph: QWERTY (Baybayin)
+  capewell-dvorak       ph: Capewell-Dvorak (Latin)
+  capewell-dvorak-bay   ph: Capewell-Dvorak (Baybayin)
+  capewell-qwerf2k6     ph: Capewell-QWERF 2006 (Latin)
+  capewell-qwerf2k6-bay ph: Capewell-QWERF 2006 (Baybayin)
+  colemak               ph: Colemak (Latin)
+  colemak-bay           ph: Colemak (Baybayin)
+  dvorak                ph: Dvorak (Latin)
+  dvorak-bay            ph: Dvorak (Baybayin)
+  ```
+* Open these two files by typing:
+  ```shell
+  gksu gedit /usr/share/X11/xkb/rules/evdev.xml
+  ```
+  ```shell
+  gksu gedit /usr/share/X11/xkb/rules/base.xml
+  ```
+* Search for:
+  ```xml
+  <layoutlist>
+  ```
+* After it add:
+  ```xml
+  <layout>
+    <configItem>
+      <name>ph</name>
+      <shortDescription>Phi</shortDescription>
+      <description>Philippines</description>
+      <languageList><iso639Id>eng</iso639Id>
+                    <iso639Id>bik</iso639Id>
+                    <iso639Id>ceb</iso639Id>
+                    <iso639Id>fil</iso639Id>
+                    <iso639Id>hil</iso639Id>
+                    <iso639Id>ilo</iso639Id>
+                    <iso639Id>pam</iso639Id>
+                    <iso639Id>pag</iso639Id>
+                    <iso639Id>phi</iso639Id>
+                    <iso639Id>tgl</iso639Id>
+                    <iso639Id>war</iso639Id></languageList>
+    </configItem>
+    <variantList>
+      <variant>
+        <configItem>
+          <name>qwerty-bay</name>
+          <description>QWERTY (Baybayin)</description>
+          <languageList><iso639Id>bik</iso639Id>
+                        <iso639Id>ceb</iso639Id>
+                        <iso639Id>fil</iso639Id>
+                        <iso639Id>hil</iso639Id>
+                        <iso639Id>ilo</iso639Id>
+                        <iso639Id>pam</iso639Id>
+                        <iso639Id>pag</iso639Id>
+                        <iso639Id>phi</iso639Id>
+                        <iso639Id>tgl</iso639Id>
+                        <iso639Id>war</iso639Id></languageList>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>capewell-dvorak</name>
+          <description>Capewell-Dvorak (Latin)</description>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>capewell-dvorak-bay</name>
+          <description>Capewell-Dvorak (Baybayin)</description>
+          <languageList><iso639Id>bik</iso639Id>
+                        <iso639Id>ceb</iso639Id>
+                        <iso639Id>fil</iso639Id>
+                        <iso639Id>hil</iso639Id>
+                        <iso639Id>ilo</iso639Id>
+                        <iso639Id>pam</iso639Id>
+                        <iso639Id>pag</iso639Id>
+                        <iso639Id>phi</iso639Id>
+                        <iso639Id>tgl</iso639Id>
+                        <iso639Id>war</iso639Id></languageList>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>capewell-qwerf2k6</name>
+          <description>Capewell-QWERF 2006 (Latin)</description>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>capewell-qwerf2k6-bay</name>
+          <description>Capewell-QWERF 2006 (Baybayin)</description>
+          <languageList><iso639Id>bik</iso639Id>
+                        <iso639Id>ceb</iso639Id>
+                        <iso639Id>fil</iso639Id>
+                        <iso639Id>hil</iso639Id>
+                        <iso639Id>ilo</iso639Id>
+                        <iso639Id>pam</iso639Id>
+                        <iso639Id>pag</iso639Id>
+                        <iso639Id>phi</iso639Id>
+                        <iso639Id>tgl</iso639Id>
+                        <iso639Id>war</iso639Id></languageList>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>colemak</name>
+          <description>Colemak (Latin)</description>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>colemak-bay</name>
+          <description>Colemak (Baybayin)</description>
+          <languageList><iso639Id>bik</iso639Id>
+                        <iso639Id>ceb</iso639Id>
+                        <iso639Id>fil</iso639Id>
+                        <iso639Id>hil</iso639Id>
+                        <iso639Id>ilo</iso639Id>
+                        <iso639Id>pam</iso639Id>
+                        <iso639Id>pag</iso639Id>
+                        <iso639Id>phi</iso639Id>
+                        <iso639Id>tgl</iso639Id>
+                        <iso639Id>war</iso639Id></languageList>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>dvorak</name>
+          <description>Dvorak (Latin)</description>
+        </configItem>
+      </variant>
+      <variant>
+        <configItem>
+          <name>dvorak-bay</name>
+          <description>Dvorak (Baybayin)</description>
+          <languageList><iso639Id>bik</iso639Id>
+                        <iso639Id>ceb</iso639Id>
+                        <iso639Id>fil</iso639Id>
+                        <iso639Id>hil</iso639Id>
+                        <iso639Id>ilo</iso639Id>
+                        <iso639Id>pam</iso639Id>
+                        <iso639Id>pag</iso639Id>
+                        <iso639Id>phi</iso639Id>
+                        <iso639Id>tgl</iso639Id>
+                        <iso639Id>war</iso639Id></languageList>
+        </configItem>
+      </variant>
+    </variantList>
+  </layout>
+  ```
 
 You're done! Sort of. You need to activate it to actually use it, follow the next few steps to do so.
 
-<ol>
-  <li>Go to: Preferences &gt; Keyboard &gt; Layouts</li>
-  <li>Click the "Add…" button</li>
-  <li>Search for the new keyboard you installed either "By country" (Philippines) or "By language" (English; Filipino; Cebuano; Philippine Languages; etc.)</li>
-  <li>There are different variants that you can choose from:
-    <ol style="list-style: lower-alpha;">
-      <li>Philippines (default; QWERTY - Latin)</li>
-      <li>Philippines - QWERTY (Baybayin)</li>
-      <li>Philippines - Capewell-Dvorak (Latin)</li>
-      <li>Philippines - Capewell-Dvorak (Baybayin)</li>
-      <li>Philippines - Capewell-QWERF 2006 (Latin)</li>
-      <li>Philippines - Capewell-QWERF 2006 (Baybayin)</li>
-      <li>Philippines - Colemak (Latin)</li>
-      <li>Philippines - Colemak (Baybayin)</li>
-      <li>Philippines - Dvorak (Latin)</li>
-      <li>Philippines - Dvorak (Baybayin)</li>
-    </ol>
-  </li>
-  <li>Click the "Add" button</li>
-  <li>Select the new layout that you added then click the "Move Up" button and place it on top
-    <figure class="figure_box">
-      <div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img loading="lazy" border="0" src="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png" data-original-width="576" data-original-height="551" /></a></div>
-    </figure>
-  </li>
-</ol>
+* Go to: Preferences > Keyboard > Layouts
+* Click the "Add…" button
+* Search for the new keyboard you installed either "By country" (Philippines) or "By language" (English; Filipino; Cebuano; Philippine Languages; etc.)
+* There are different variants that you can choose from:
+  * Philippines (default; QWERTY - Latin)
+  * Philippines - QWERTY (Baybayin)
+  * Philippines - Capewell-Dvorak (Latin)
+  * Philippines - Capewell-Dvorak (Baybayin)
+  * Philippines - Capewell-QWERF 2006 (Latin)
+  * Philippines - Capewell-QWERF 2006 (Baybayin)
+  * Philippines - Colemak (Latin)
+  * Philippines - Colemak (Baybayin)
+  * Philippines - Dvorak (Latin)
+  * Philippines - Dvorak (Baybayin)
+* Click the "Add" button
+* Select the new layout that you added then click the "Move Up" button and place it on top
+  {{< image
+    type="image"
 
-Let's not forget to add the first Baybayin <span lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</span>) keyboard layout, it is QWERTY-based. Simply repeat the process above but place it as second in your Layouts list. Then if you want to switch between Philippines Latin and Philippines Baybayin scripts, simply press <b>Shift+CAPS_Lock</b>. It is the default shortcut in Ubuntu 10.10 Maverick Meerkat.
+    imgheight=""
+    imgwidth=""
 
-The font included in the zip file is a Unicode-only and Website-embed compatible version of <a href="https://nordenx.com" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Nordenx</a>'s Baybayin brush font.
+    imgsrc="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
+    imglink="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
+    imgrel="me noopener"
+
+    imgtitle="Keyboard Preferences"
+    imgcaption="Select Philippines Keyboard Layouts"
+    imgalt="Keyboard Preferences - Select Philippines Keyboard Layouts"
+
+    attribalign=""
+
+    licensecode="ccbysa4"
+    licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+    licensename="CC BY-SA 4.0 International"
+
+    attribto="YourOnly.One"
+    attriblink="https://youronly.one"
+    attribrel="me noopener"
+  >}}
+
+Let's not forget to add the first Baybayin <span lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</span>) keyboard layout, it is QWERTY-based. Simply repeat the process above but place it as second in your Layouts list. Then if you want to switch between Philippines Latin and Philippines Baybayin scripts, simply press **Shift+CAPS_Lock**. It is the default shortcut in Ubuntu 10.10 Maverick Meerkat.
+
+The font included in the zip file is a Unicode-only and Website-embed compatible version of [Nordenx](https://nordenx.com)'s Baybayin brush font.
 
 See the [keyboard layout images here]({{< ref "philippines-unicode-keyboard-layout.md" >}} "Philippines Unicode Keyboard Layout").
 
-Official source repository: <a href="https://bitbucket.org/paninap/ph-ukl/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">https://bitbucket.org/paninap/ph-ukl/</a><br />If you have suggestions or bugs to report, please do not hesitate to <a href="https://bitbucket.org/paninap/ph-ukl/issues" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">file a ticket here</a>.
+Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitbucket.org/paninap/ph-ukl/). If you have suggestions or bugs to report, please do not hesitate to [file a ticket here](https://bitbucket.org/paninap/ph-ukl/issues).
 
-*** The <b>Philippines Unicode Keyboard Layout</b> is a project of <i>Ubuntu Philippines LoCo Team</i>. Project contact: JC John Sese Cuneta; XMPP/Jabber jcjohn.sesecuneta@talkr.im. ***
+*** The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines LoCo Team*. ***
 
 -------
 

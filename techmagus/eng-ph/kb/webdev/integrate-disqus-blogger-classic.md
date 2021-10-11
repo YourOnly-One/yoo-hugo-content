@@ -8,7 +8,7 @@ lastmod = "2021-10-09T09:08:38"                                     # manually a
 aliases = ["/2008/05/how-to-integrate-disqus-on-blogger-blogs.html"]
 slug = "integrate-disqus-blogger-blogspot-classic"
 translationKey = "integrate-disqus-blogger-blogspot-classic-2008146"
-relCanonical = "https://im.youronly.one/techmagus/integrate-disqus-blogger-blogspot-classic-2008146/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/webdev/integrate-disqus-blogger-blogspot-classic-2008146/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -74,7 +74,7 @@ images = ["https://4.bp.blogspot.com/-g0D8KJDIhYA/XqVTmie0X2I/AAAAAAAAhY8/aYSBg3
   This only applies to "first-generation classic themes" or "traditional templates".
 {{% /sembox %}}
 
-Maybe you have read my [HOW TO: Add DISQUS Manually on Blogger/BlogSpot]({{< ref "20080523-add-disqus-blogger.md" >}} "HOW TO: Add DISQUS Manually on Blogger/BlogSpot") but found it is for XML-based templates. Fret not, in this how-to, we are going to integrate DISQUS on your Blogger/BlogSpot Classic/Custom Template!
+Maybe you have read my [HOW TO: Add DISQUS Manually on Blogger/BlogSpot]({{< ref "add-disqus-blogger.md" >}} "HOW TO: Add DISQUS Manually on Blogger/BlogSpot") but found it is for XML-based templates. Fret not, in this how-to, we are going to integrate DISQUS on your Blogger/BlogSpot Classic/Custom Template!
 
 <!--more-->
 

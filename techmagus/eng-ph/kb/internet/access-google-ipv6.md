@@ -8,7 +8,7 @@ lastmod = "2010-09-20T17:53:01"                                     # manually a
 aliases = ["/2009/12/how-to-access-google-sites-and-services.html"]
 slug = "access-google-ipv6"
 translationKey = "access-google-ipv6-2009337"
-relCanonical = "https://im.youronly.one/techmagus/access-google-ipv6-2009337/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/internet/access-google-ipv6-2009337/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -70,7 +70,7 @@ images = ["https://4.bp.blogspot.com/-h6sAKgKjLWA/XrBAaaYaHtI/AAAAAAAAhe8/Rv-FK3
   #rel = "me noopener"
 +++
 
-Google, the largest search engine today (and the "Microsoft" of the cyberworld), is slowly deploying <abbr class="popper animate" data-popper="Internet Protocol version 6">IPv6</abbr> across their sites. But even if you are already <a class="popper animate" href="https://techmagus.icu/ipv6-is-not-scary-connect-to-next-gen-internet-now/" data-popper="IPv6 is Not Scary, Connect to Next Gen Internet Now">connected to IPv6</a>, you will still not get an IPv6 Google.
+Google, the largest search engine today (and the "Microsoft" of the cyberworld), is slowly deploying <abbr class="popper animate" data-popper="Internet Protocol version 6">IPv6</abbr> across their sites. But even if you are already [connected to IPv6]({{< ref "connect-ipv6.md" >}} "IPv6 Is Not Scary!! Connect to Next-Gen Internet Now"), you will still not get an IPv6 Google.
 
 Why? Their current IPv6 implementation is currently in its testing phase. All IPv6 access must come from a reliable network that they have to pre-approve, this is the <i>Google over IPv6</i> project.
 

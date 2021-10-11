@@ -8,7 +8,7 @@ lastmod = "2020-05-01T18:03:29"                                     # manually a
 aliases = ["/2009/10/comparison-typhoon-signals-hurricane-category.html"]
 slug = "comparison-typhoon-signals-hurricane-categories"
 translationKey = "comparison-typhoon-signals-hurricane-categories-2009275"
-relCanonical = "https://im.youronly.one/techmagus/comparison-typhoon-signals-hurricane-categories-2009275/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/meteorology/comparison-typhoon-signals-hurricane-categories-2009275/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

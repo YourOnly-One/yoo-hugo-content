@@ -1,6 +1,6 @@
 +++
-title = "ウェブ3.0"
-translationKey = "cat-web3"
+title = "Web"
+translationKey = "cat-web"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

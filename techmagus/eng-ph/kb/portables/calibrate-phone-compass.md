@@ -8,7 +8,7 @@ lastmod = "2021-10-09T18:10:20"                                     # manually a
 aliases = ["/2011/12/calibrate-your-samsung-galaxy-y-s5360.html"]
 slug = "calibrate-phone-compass"
 translationKey = "calibrate-phone-compass-2011363"
-relCanonical = "https://im.youronly.one/techmagus/calibrate-phone-compass-2011363/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/portables/calibrate-phone-compass-2011363/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

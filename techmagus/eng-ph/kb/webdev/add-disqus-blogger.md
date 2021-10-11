@@ -8,7 +8,7 @@ lastmod = "2021-10-09T08:48:39"                                     # manually a
 aliases = ["/2008/05/how-to-add-disqus-manually-on-blogger.html"]
 slug = "add-disqus-blogger-blogspot"
 translationKey = "add-disqus-blogger-blogspot-2008144"
-relCanonical = "https://im.youronly.one/techmagus/add-disqus-blogger-blogspot-2008144/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/kb/webdev/add-disqus-blogger-blogspot-2008144/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -76,7 +76,7 @@ images = ["https://4.bp.blogspot.com/-g0D8KJDIhYA/XqVTmie0X2I/AAAAAAAAhY8/aYSBg3
 
 If like me you are using <a class="popper animate" href="https://disqus.com" target="_blank" rel="noopener" data-popper="DISQUS">DISQUS</a> for your blog or site comments system, then maybe you've encountered a problem with integrating it to your custom theme/template. In this simple tutorial, I will show you which code bits to edit to successfully integrate Disqus into your Google Blogger/BlogSpot XML-based template. (Basically it is the same with any theme/template regardless of your blog platform or CMS.)
 
-But if you have a Classic Template, then read my [HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template]({{< ref "20080525-integrate-disqus-blogger-classic.md" >}} "HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template") instead.
+But if you have a Classic Template, then read my [HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template]({{< ref "integrate-disqus-blogger-classic.md" >}} "HOW TO: Integrate DISQUS on Blogger/BlogSpot Classic Template") instead.
 
 <!--more-->
 

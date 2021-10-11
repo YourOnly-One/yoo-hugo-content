@@ -1,6 +1,6 @@
 +++
-title = "Web 3.0"
-translationKey = "cat-web3"
+title = "CSS"
+translationKey = "tag-css"
 #url = ""
 #aliases = [""]
 #relcanonical = ""

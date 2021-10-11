@@ -119,7 +119,7 @@ Start typing those Peso signs, the correct way!
 
 ---
 
-**Update 2010-11-14**: You can now type the ₱eso sign directly from your keyboard simply by pressing RightAlt+P or AltGr+P.&nbsp; But before you can do that, you need to add the <a href="https://techmagus.icu/paninap-unicode-keyboard-layout/the-philippines-national-keyboard-layout/" target="_blank">Philippines Keyboard Layout</a> which is now available in both GNU/Linux and Windows®.
+**Update 2010-11-14**: You can now type the ₱eso sign directly from your keyboard simply by pressing RightAlt+P or AltGr+P.&nbsp; But before you can do that, you need to add the [Philippines Unicode Keyboard Layout]({{< ref "philippines-unicode-keyboard-layout.md" >}} "Philippines Unicode Keyboard Layout") which is now available in both [GNU/Linux]({{< ref "philippines-unicode-keyboard-layout-linux.md" >}} "GNU/Linux") and [Windows]({{< ref "philippines-unicode-keyboard-layout-linux.md" >}} "Windows®")®.
 
 -------
 
