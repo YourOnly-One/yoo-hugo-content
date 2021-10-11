@@ -2,7 +2,7 @@
 title = "Keybase"
 translationKey = "cat-keybase"
 #url = ""
-#aliases = [""]
+aliases = ["/p/keybase-series.html"]
 #relcanonical = ""
 #redirectto = ""
 metarobots = "noindex"

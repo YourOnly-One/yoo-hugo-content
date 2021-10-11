@@ -5,7 +5,7 @@ description = "The wait was worth it as Google's Gboard team releases Baybayin-B
 date = "2019-08-01T07:34:39"                                        # manually adjust to local timezone
 lastmod = "2021-09-27T12:22:40"                                     # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["/2019/08/baybayin-gboard-now-available.html"]
 slug = "baybayin-gboard-available"
 translationKey = "Baybayin in Gboard App Now Available!"
 relCanonical = "https://im.youronly.one/techmagus/baybayin-gboard-available-2019213/"                                                   # the actual URL of the post; also used for disqus ID and url
