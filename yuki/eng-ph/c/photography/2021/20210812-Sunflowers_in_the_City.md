@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/yuki/photography/sunflowers-in-the-city-
 
 channels = ["confidentraveler"]
 categories = ["photography"]														# taxonomy
-keywords = ["photography", "sunflowers", "macro", "mobile photography"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["photography", "sunflowers", "macro", "mobile photography", "Confident Traveler", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["nature", "mobilephotography", "ccbysa"]																	# taxonomy
 
 comments = true
@@ -23,6 +23,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

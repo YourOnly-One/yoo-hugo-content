@@ -16,14 +16,16 @@ relCanonical = "https://im.youronly.one/snoworld/ko/승리호-space-sweepers-202
 
 channels = ["snoworld"]
 categories = ["films"]																									# taxonomy
-keywords = ["Space Sweepers", "승리호", "movie"]																										# meta keywords
-series = [""]																											# subset of series taxonomy
+keywords = ["Space Sweepers", "승리호", "movie", "Snoworld", "YourOnlyOne", "YourOnly.One"]																										# meta keywords
+#series = [""]																											# subset of series taxonomy
 tags = ["adaptations", "reviews", "kdrama"]																						# taxonomy
 
 #weight = ""
 
 #featured = true																									# only for some themes
 #math = true																											# only for some themes
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

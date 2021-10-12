@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/이미테이션-imitation-2021-
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
-keywords = ["이미테이션", "Imitation", "K-Drama"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["이미테이션", "Imitation", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["kdrama", "reviews"]																	# taxonomy
 
 comments = true
@@ -23,6 +23,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

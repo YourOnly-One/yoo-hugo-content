@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/baybayin-gboard-available-2019
 
 channels = ["techmagus"]
 categories = ["android"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["android", "baybayin", "gboard", "keyboard", "ᜊᜌ᜔ᜊᜌᜒᜈ᜔", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["baybayin"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://1.bp.blogspot.com/-y_Q6Werhn58/XuOQU0Tb4nI/AAAAAAAAivM/ro_fU8XNH00JijIgcz6GfeY6G16Sj_lBgCLcBGAsYHQ/s1600/GBoard-Baybayin_cover-01.png"]                                                       # used by og:images, etc.; first image is cover image
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license

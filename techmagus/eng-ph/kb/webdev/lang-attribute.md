@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/kb/webdev/lang-attribute-20091
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy
-keywords = ["lang"]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["lang", "language", "multilang", "multi-language", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["html"]                                                         # taxonomy
 
 comments = true
@@ -24,6 +24,8 @@ comments = true
 #featured = true
 #math = true
 toc = true
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/philippines-isp-hijack-connect
 
 channels = ["techmagus"]
 categories = ["internet"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["internet", "privacy", "security", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["privacy","security"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

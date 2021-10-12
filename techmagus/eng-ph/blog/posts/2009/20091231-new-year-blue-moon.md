@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/rare-new-year-blue-moon-200936
 
 channels = ["techmagus"]
 categories = ["astronomy"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["astronomy", "outer space", "new year", "blue moon", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["space"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://3.bp.blogspot.com/-TuaNKujl8AM/XrPKpsSdVhI/AAAAAAAAhg0/jvTerpvtpMA1dNxOoE0EEhb_TGPX1vNdgCPcBGAsYHg/s1600/Sky_2010-01-01T0000%252B08.png"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

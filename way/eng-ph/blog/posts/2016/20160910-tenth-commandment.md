@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/the-10th-commandment-2016254/"      
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["10th Commandment", "10th Law", "10th Instruction", "covetous", "greed"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+keywords = ["10th Commandment", "10th Law", "10th Instruction", "covetous", "greed", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

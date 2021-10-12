@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/ko/도시남녀의-사랑법-lo
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
-keywords = ["도시남녀의 사랑법", "Lovestruck in the City", "K-Drama"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["도시남녀의 사랑법", "Lovestruck in the City", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["kdrama", "reviews"]																	# taxonomy
 
 comments = true
@@ -24,6 +24,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

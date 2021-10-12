@@ -14,7 +14,7 @@ date = "2020-03-25T06:00:00"
 
 #channels = [""]
 #categories = [""]                                                   # taxonomy
-#keywords = [""]                                                     # meta keywords
+keywords = ["YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
 #tags = [""]                                                         # taxonomy
 
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = [""]                                                       # used by og:images, etc.; first image is cover image
+
+#type = "sitepage"                                                           # article, sitepage, review
 
 #draft = true
 

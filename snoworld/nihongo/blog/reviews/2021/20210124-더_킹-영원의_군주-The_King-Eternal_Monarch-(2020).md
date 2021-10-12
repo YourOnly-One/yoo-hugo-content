@@ -16,14 +16,16 @@ relCanonical = "https://im.youronly.one/snoworld/ja/더-킹-영원의-군주-the
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
-keywords = ["The King: Eternal Monarch", "더 킹: 영원의 군주", "TV"]                                                   # meta keywords
-series = [""]																											# subset of series taxonomy
+keywords = ["The King: Eternal Monarch", "더 킹: 영원의 군주", "TV", "Snoworld", "YourOnlyOne", "YourOnly.One"]                                                   # meta keywords
+#series = [""]																											# subset of series taxonomy
 tags = ["kdrama", "reviews"]																						# taxonomy
 
 #weight = ""
 
 #featured = true																									# only for some themes
 #math = true																											# only for some themes
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

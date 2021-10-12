@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/love/ko/video-best-marriage-proposal-of-
 
 channels = ["loverelationship"]
 categories = ["love"]														# taxonomy
-keywords = ["love", "relationships"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["love", "relationships", "proposals", "marriage", "Love and Relationship", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["videos", "marriageproposals"]																	# taxonomy
 
 comments = true
@@ -24,7 +24,7 @@ comments = true
 #featured = true															# theme specific
 #math = true																	# theme specific
 
-type = "post"                                 # for theme parsa-hugo
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

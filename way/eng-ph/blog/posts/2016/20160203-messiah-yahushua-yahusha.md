@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/messiahs-name-yahushua-or-yahusha-20
 
 channels = ["waybelievers"]
 categories = ["literature"]                           # taxonomy
-keywords = ["Name", "True Name", "Real Name", "Actual Name", "Yahushua", "Yahusha"]                             # meta keywords
+keywords = ["Name", "True Name", "Real Name", "Actual Name", "Yahushua", "Yahusha", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 series = ["truename"]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

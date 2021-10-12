@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/kb/webdev/integrate-disqus-blo
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy
-keywords = ["disqus"]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["disqus", "how to", "comment system", "comments", "blogger", "blogspot", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["bloggercom"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://4.bp.blogspot.com/-g0D8KJDIhYA/XqVTmie0X2I/AAAAAAAAhY8/aYSBg3dpOzYlHLAV60sJdXgYMNRua4RQQCPcBGAYYCw/s1600/Blog-01.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

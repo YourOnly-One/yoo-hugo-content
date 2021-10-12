@@ -13,9 +13,9 @@ relCanonical = "https://im.youronly.one/techmagus/google-open-dns-2009341/"     
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
-categories = [""]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+#categories = [""]                                                   # taxonomy
+keywords = ["reviews", "google", "dns", "opendns", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["reviews"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-My6VQMwrbWw/XrFatMOpyCI/AAAAAAAAhfU/SNcOBNQsm8cqpGfY60VVSYYMrNKXdKHuACPcBGAsYHg/s1600/GoogleDNS-vs-OpenDNS.png"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/how-we-ought-to-pray-201796/"       
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["pray", "prayer", "Our Father", "The Lord's Prayer", "praying"]                             # meta keywords
+keywords = ["pray", "prayer", "Our Father", "The Lord's Prayer", "praying", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 series = ["pray"]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

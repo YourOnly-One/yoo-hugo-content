@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/kb/internet/torrent-terms-acro
 
 channels = ["techmagus"]
 categories = ["internet"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["internet", "torrent", "bittorrent", "acronyms", "terminologies", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["torrent"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://4.bp.blogspot.com/-Tz_OK7NPXd0/Xrpa1qEiTvI/AAAAAAAAiGc/k141RRQnbJUuA81pZmjLMYyNXtpFZ3tGgCLcBGAsYHQ/s1600/Torrent-abbreviations.png"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

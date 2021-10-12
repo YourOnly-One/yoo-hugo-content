@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/earth-rings-2009330/"         
 
 channels = ["techmagus"]
 categories = ["astronomy"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["astronomy", "videos", "earth", "rings", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["videos"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-_zlKTT3lw8s/Xq0GzvbtiKI/AAAAAAAAhc8/NxfWKoxOdfcFBHz8pf63f83MhemfOGZlQCLcBGAsYHQ/s1600/Saturn%2527s%2BRings%2Bin%2BUltraviolet%2BLight-1600x.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

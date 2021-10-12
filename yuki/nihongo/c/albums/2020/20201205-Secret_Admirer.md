@@ -21,14 +21,16 @@ relCanonical = "https://im.youronly.one/yuki/ja/albums/secret-admirer-2020340/" 
 
 channels = ["yugenbard"]
 categories = ["music"]                                                  # taxonomy
-keywords = ["album", "playlist"]                                                    # meta keywords
-series = [""]                                                     # subset of series taxonomy
-tags = [""]                                           # taxonomy
+keywords = ["album", "playlist", "Yugen Bard", "YourOnlyOne", "YourOnly.One"]                                                    # meta keywords
+#series = [""]                                                     # subset of series taxonomy
+#tags = [""]                                           # taxonomy
 
 #weight = ""
 
 #featured = true                                                  # only for some themes
 #math = true                                                      # only for some themes
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

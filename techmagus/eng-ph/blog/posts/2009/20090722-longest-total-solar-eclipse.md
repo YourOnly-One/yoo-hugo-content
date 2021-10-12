@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/longest-total-solar-eclipse-20
 
 channels = ["techmagus"]
 categories = ["astronomy"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["eclipse", "astronomy", "solar eclipse", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["eclipses"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-OVgRpmlAU2w/XqrhrNp7fOI/AAAAAAAAhcA/ZR3RUwjFg0YQwN5JKkzBsN0E_agCm6aUwCPcBGAsYHg/s1600/IMG_0464.JPG"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

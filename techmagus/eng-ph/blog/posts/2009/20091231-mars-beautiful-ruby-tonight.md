@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/mars-beautiful-ruby-tonight-20
 
 channels = ["techmagus"]
 categories = ["astronomy"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["astronomy", "outer space", "planet mars", "mars", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["space"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-d-GRT0feifM/XrPKps34XhI/AAAAAAAAhg0/B7E_sYYyk3Q_LyhO0uoh1IxV5i2gptBnwCPcBGAsYHg/s1600/Sirius_2010-01-01T0000%252B08.png"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

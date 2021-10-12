@@ -13,8 +13,8 @@ relCanonical = "https://im.youronly.one/yuki/yoyo-is-proudly-pinoy-202199/"     
 
 channels = ["yookichronicles"]
 categories = ["literature"]														# taxonomy
-keywords = ["Yoyo", "Yo-yo", "toys", "trivia", "meme"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["Yoyo", "Yo-yo", "toys", "trivia", "meme", "YOOki Chronicles", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["toys", "trivia"]																	# taxonomy
 
 comments = true
@@ -22,6 +22,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

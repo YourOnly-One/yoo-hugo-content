@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/techmagus/kb/internet/ipv6-connect-today
 
 channels = ["techmagus"]
 categories = ["howto", "linux"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
-tags = [""]                                                         # taxonomy
+keywords = ["how to", "linux", "IPv6", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
+#tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/publicdomain/ball-63527_1280.webp"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

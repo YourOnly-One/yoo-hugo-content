@@ -21,7 +21,7 @@ relCanonical = "https://im.youronly.one/yuki/26virtual-moscow-my-first-half-mara
 
 channels = ["faithfulathlete"]
 categories = ["sports"]																									# taxonomy
-keywords = ["Moscow", "race"]																										# meta keywords
+keywords = ["Moscow", "race", "Faithful Athlete", "YourOnlyOne", "YourOnly.One"]																										# meta keywords
 series = ["26virtual"]																											# subset of series taxonomy
 tags = ["running"]																						# taxonomy
 
@@ -29,6 +29,8 @@ tags = ["running"]																						# taxonomy
 
 #featured = true																									# only for some themes
 #math = true																											# only for some themes
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

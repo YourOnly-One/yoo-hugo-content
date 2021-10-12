@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/way/feast-of-tabernacles-verses-2015274/
 
 channels = ["waybelievers"]
 categories = ["appointedtimes"]                           # taxonomy
-keywords = ["feast of tabernacles", "tabernacles", "Sukkot", "Succot"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
+keywords = ["feast of tabernacles", "tabernacles", "Sukkot", "Succot", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
 tags = ["verses"]                                 # taxonomy
 
 comments = true
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

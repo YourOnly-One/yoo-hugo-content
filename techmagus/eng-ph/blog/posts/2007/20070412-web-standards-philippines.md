@@ -13,10 +13,10 @@ relCanonical = "https://im.youronly.one/techmagus/web-standards-philippines-2007
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
-categories = [""]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
-tags = [""]                                                         # taxonomy
+categories = ["web"]                                                   # taxonomy
+keywords = ["web", "standards", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
+#tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-tmNYWbX20wY/XqLEfgbdjtI/AAAAAAAAhW8/sFqdo-amIeILdtqXDIftgRAcNa0VGyHnACLcBGAsYHQ/s1600/Web-01.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

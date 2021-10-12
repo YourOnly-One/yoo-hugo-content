@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/techmagus/projects/keyboard/philippines-
 
 channels = ["techmagus"]
 categories = ["unicode"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
-tags = [""]                                                         # taxonomy
+keywords = ["unicode", "keyboard", "philippines", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
+#tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = "10"                                                        # post weight, if we want granular control of post order
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

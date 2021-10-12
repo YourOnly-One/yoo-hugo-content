@@ -13,9 +13,9 @@ relCanonical = "https://im.youronly.one/techmagus/testcases/font-face-browser-te
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["techmagus"]
-categories = [""]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+#categories = [""]                                                   # taxonomy
+keywords = ["css", "font-face", "webfonts", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["css"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://4.bp.blogspot.com/-h6sAKgKjLWA/XrBAaaYaHtI/AAAAAAAAhe8/Rv-FK3as0hICWlYSC2U2JwizFb0q0IKYACLcBGAsYHQ/s1600/ball-63527_1280.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

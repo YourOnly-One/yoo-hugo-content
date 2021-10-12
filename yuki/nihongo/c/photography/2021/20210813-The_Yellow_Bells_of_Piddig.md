@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/yuki/ja/photography/the-yellow-bells-of-
 
 channels = ["confidentraveler"]
 categories = ["photography"]                            # taxonomy
-keywords = ["yellow bells", "Allamanda cathartica"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
+keywords = ["yellow bells", "Allamanda cathartica", "Confident Traveler", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
 tags = ["nature", "ccbysa"]                                 # taxonomy
 
 comments = true
@@ -23,6 +23,8 @@ comments = true
 
 #featured = true                              # theme specific
 #math = true                                  # theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

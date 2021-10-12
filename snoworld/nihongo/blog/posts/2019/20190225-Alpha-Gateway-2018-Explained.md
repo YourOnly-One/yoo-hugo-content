@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/alpha-gateway-2018-parallel-
 
 channels = ["snoworld"]
 categories = ["films"]														# taxonomy
-keywords = ["Alpha Gateway", "The Gateway", "Film"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["Alpha Gateway", "The Gateway", "Film", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = [""]																	# taxonomy
 
 comments = true
@@ -23,6 +23,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

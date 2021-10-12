@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/techmagus/create-keybase-2020160/"      
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
+keywords = ["keybase", "how to", "security", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
 series = ["keybase"]                                                       # subset of series taxonomy
 tags = ["security"]                                                         # taxonomy
 
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://4.bp.blogspot.com/-C2wlSllD_lI/Xt2Kldt_6UI/AAAAAAAAij0/OR-gnn9XeegyhNqAylkX2tFg6xdCBbXtQCPcBGAYYCw/s1600/Keybase_logo_official.png"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

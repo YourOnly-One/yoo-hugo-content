@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/the-9th-you-shall-not-bear-false-wit
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["9th Commandment", "9th Law", "9th Instruction", "False Witness", "Witness", "Testimony", "False Testimony"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+keywords = ["9th Commandment", "9th Law", "9th Instruction", "False Witness", "Witness", "Testimony", "False Testimony", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

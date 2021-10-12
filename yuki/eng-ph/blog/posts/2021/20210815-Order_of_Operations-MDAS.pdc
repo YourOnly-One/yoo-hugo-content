@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/yuki/how-to-correctly-use-mdas-pemdas-be
 
 channels = ["yookichronicles"]
 categories = ["literature"]														# taxonomy
-keywords = ["MDAS", "PEMDAS", "BEDMAS", "BODMAS", "BIDMAS", "GEMDAS", "Order of Operations", "Operator Precedence"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["MDAS", "PEMDAS", "BEDMAS", "BODMAS", "BIDMAS", "GEMDAS", "Order of Operations", "Operator Precedence", "YOOki Chronicles", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["mathematics"]																	# taxonomy
 
 comments = true
@@ -24,6 +24,8 @@ comments = true
 #featured = true															# theme specific
 math = true																	# theme specific
 toc = true
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

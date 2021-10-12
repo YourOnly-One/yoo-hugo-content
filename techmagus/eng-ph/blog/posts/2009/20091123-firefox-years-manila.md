@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/five-years-firefox-manila-2009
 
 channels = ["techmagus"]
 categories = ["events"]                                                   # taxonomy
-keywords = ["firefox", "mozilla"]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["firefox", "mozilla", "browser wars", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["browserwars"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-FqcULxVAeVc/Xqw8QKoJPQI/AAAAAAAAhco/EwiHWyDi3yQTyzVQic9ssVYQFqF6F3EIACPcBGAsYHg/s1600/DSC00204.JPG"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

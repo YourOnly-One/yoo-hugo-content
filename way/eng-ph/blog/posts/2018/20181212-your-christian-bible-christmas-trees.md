@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/way/your-christian-bible-and-christmas-t
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["traditions", "christmas", "christmas trees", "holiday"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
+keywords = ["traditions", "christmas", "christmas trees", "holiday", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
 tags = ["traditions"]                                 # taxonomy
 
 comments = true
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

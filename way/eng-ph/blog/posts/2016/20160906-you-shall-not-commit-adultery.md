@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/7th-you-shall-not-commit-adultery-20
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["adultery", "7th Commandment", "7th Law", "7th Instruction"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+keywords = ["adultery", "7th Commandment", "7th Law", "7th Instruction", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

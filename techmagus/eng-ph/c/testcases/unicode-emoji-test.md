@@ -2,7 +2,7 @@
 title = "Unicode 14 and Emoji 14 Test Page"
 description = "A Unicode and Emoji test page. You can use this to test if your browser can display Unicode and Emoji characters."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2015-08-18T10:23:28"                                        # manually adjust to local timezone
+date = "2015-08-12T10:23:28"                                        # manually adjust to local timezone
 lastmod = "2021-09-23T07:53:01"                                     # manually adjust to local timezone
 
 aliases = ["/p/unicode-emoji-test.html"]
@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/techmagus/testcases/unicode-emoji-test-2
 
 channels = ["techmagus"]
 categories = ["unicode"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
-tags = [""]                                                         # taxonomy
+keywords = ["unicode", "emoji", "standards", "standardization", "standardisation", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
+#tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://4.bp.blogspot.com/-h6sAKgKjLWA/XrBAaaYaHtI/AAAAAAAAhe8/Rv-FK3as0hICWlYSC2U2JwizFb0q0IKYACLcBGAsYHQ/s1600/ball-63527_1280.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

@@ -13,8 +13,8 @@ relCanonical = "https://im.youronly.one/yuki/ko/derivative-public-domain-fanfict
 
 channels = ["versesspace"]
 categories = ["literature"]														# taxonomy
-keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["Writing", "Creative Writing", "Public Domain", "Fanfiction", "Verses.Space", "KWWP", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["publicdomain", "fanfiction"]																	# taxonomy
 
 comments = true
@@ -22,6 +22,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/love/ja/poems/song-of-songs-4-201663/"		
 
 channels = ["loverelationship"]
 categories = ["literature"]														# taxonomy
-keywords = [""]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["poems", "poetry", "verse", "bible verse", "Love and Relationship", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["poems"]																	# taxonomy
 
 comments = true
@@ -24,7 +24,7 @@ comments = true
 featured = true															# theme specific
 #math = true																	# theme specific
 
-type = "post"                                 # for theme parsa-hugo
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

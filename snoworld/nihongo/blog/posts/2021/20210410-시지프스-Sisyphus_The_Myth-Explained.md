@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/시지프스-sisyphus-the-my
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
-keywords = ["시지프스: The Myth", "Sisyphus: The Myth", "K-Drama"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["시지프스: The Myth", "Sisyphus: The Myth", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["kdrama"]																	# taxonomy
 
 comments = true
@@ -23,6 +23,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

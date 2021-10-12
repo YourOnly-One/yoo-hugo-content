@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/kb/webdev/css-font-face-suppor
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["how to", "css", "font-face", "webfonts", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["css"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://3.bp.blogspot.com/-tmNYWbX20wY/XqLEfgbdjtI/AAAAAAAAhXA/JI64YoxA9Ok2jchMsBEpq1VY8RQ2mj63QCPcBGAYYCw/s1600/Web-01.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

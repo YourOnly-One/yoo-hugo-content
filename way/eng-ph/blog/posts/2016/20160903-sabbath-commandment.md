@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/todays-meditation-the-sabbath-comman
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["Sabbath", "Sabbath Day", "7th Day", "Seventh Day", "Rest Day", "Day of Rest", "4th Commandment", "4th Law", "4th Instruction"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+keywords = ["Sabbath", "Sabbath Day", "7th Day", "Seventh Day", "Rest Day", "Day of Rest", "4th Commandment", "4th Law", "4th Instruction", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

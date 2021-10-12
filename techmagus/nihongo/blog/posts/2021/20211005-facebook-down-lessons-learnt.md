@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/ja/lessons-learned-facebook-do
 
 channels = ["techmagus"]
 categories = ["web"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["web", "web 3.0", "federation", "decentralisation", "decentralization", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["federation", "decentralization"]                                                         # taxonomy
 
 comments = true
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

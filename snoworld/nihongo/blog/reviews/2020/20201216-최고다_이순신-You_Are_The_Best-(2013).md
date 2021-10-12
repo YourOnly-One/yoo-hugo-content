@@ -14,14 +14,16 @@ relCanonical = "https://im.youronly.one/snoworld/ja/최고다-이순신-you-are-
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
-keywords = ["최고다 이순신", "You Are The Best!", "K-Drama"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["최고다 이순신", "You Are The Best!", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["kdrama", "reviews"]																	# taxonomy
 
 #weight = ""
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

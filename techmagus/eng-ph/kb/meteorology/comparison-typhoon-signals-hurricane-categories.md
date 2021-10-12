@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/techmagus/kb/meteorology/comparison-typh
 
 channels = ["techmagus"]
 categories = ["Meteorology"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
-tags = [""]                                                         # taxonomy
+keywords = ["meteorology", "typhoon", "signals", "hurricane", "category", "categories", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
+#tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://3.bp.blogspot.com/-MODv08wv6fo/XqwtRy4oM_I/AAAAAAAAhcY/OnSAKxxMcAwOq7FA8gtxGFUhWO1Pn-HZwCLcBGAsYHQ/s1600/Typhoon%2BSoudelor%2BSeen%2Bfrom%2Bthe%2BISS-1600x.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

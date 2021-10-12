@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/techmagus/ubuntu-philippines-release-par
 
 channels = ["techmagus"]
 categories = ["events", "linux"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
-tags = [""]                                                         # taxonomy
+keywords = ["events", "linux", "ubuntu", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
+#tags = [""]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-lEJK3ee-o1Y/XqlV6Zp3r8I/AAAAAAAAhbM/L0GBa15te-E_NmMkM_Bw6jL8CU8rdd4OgCPcBGAsYHg/s1600/IMG_0001.JPG"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

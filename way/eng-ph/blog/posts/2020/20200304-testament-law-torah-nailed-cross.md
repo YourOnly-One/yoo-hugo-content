@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/the-old-testament-law-or-torah-was-n
 
 channels = ["waybelievers"]
 categories = ["discourse"]                           # taxonomy
-keywords = ["Torah", "Old Testament", "Law", "Nailed on the cross"]                             # meta keywords
+keywords = ["Torah", "Old Testament", "Law", "Nailed on the cross", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
 series = ["torah"]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

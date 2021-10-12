@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/snoworld/ja/당신이-잠든-사이에-w
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
-keywords = ["당신이 잠든 사이에", "While You Were Sleeping", "K-Drama"]															# meta keywords
-series = [""]																# subset of series taxonomy
+keywords = ["당신이 잠든 사이에", "While You Were Sleeping", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
 tags = ["kdrama", "reviews"]																	# taxonomy
 
 comments = true
@@ -25,6 +25,8 @@ comments = true
 
 #featured = true															# theme specific
 #math = true																	# theme specific
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

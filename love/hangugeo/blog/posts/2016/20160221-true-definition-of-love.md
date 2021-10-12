@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/love/ko/true-definition-of-love-201652/"
 
 channels = ["loverelationship"]
 categories = ["love"]														# taxonomy
-keywords = ["love"]															# meta keywords
-series = [""]																# subset of series taxonomy
-tags = [""]																	# taxonomy
+keywords = ["love", "Love and Relationship", "YourOnlyOne", "YourOnly.One"]															# meta keywords
+#series = [""]																# subset of series taxonomy
+#tags = [""]																	# taxonomy
 
 comments = true
 #weight = ""
@@ -24,7 +24,7 @@ comments = true
 featured = true															# theme specific
 #math = true																	# theme specific
 
-type = "post"                                 # for theme parsa-hugo
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

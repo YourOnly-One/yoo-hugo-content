@@ -14,9 +14,9 @@ relCanonical = "https://im.youronly.one/way/the-age-of-accountability-2013248/" 
 
 channels = ["waybelievers"]
 categories = ["opinion"]                           # taxonomy
-keywords = ["accountabiltiy", "age"]                             # meta keywords
-series = [""]                               # subset of series taxonomy
-tags = [""]                                 # taxonomy
+keywords = ["accountabiltiy", "age", "Way of Believers", "YourOnlyOne", "YourOnly.One"]                             # meta keywords
+#series = [""]                               # subset of series taxonomy
+#tags = [""]                                 # taxonomy
 
 comments = true
 #weight = ""
@@ -25,6 +25,8 @@ comments = true
 #math = true                                  # theme specific
 
 hidden = false
+type = "article"                                                           # article, sitepage, review
+
 #draft = true
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes

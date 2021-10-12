@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/techmagus/verify-account-keybase-2020161
 
 channels = ["techmagus"]
 categories = ["howto"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
+keywords = ["how to", "keybase", "security", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
 series = ["Keybase"]                                                       # subset of series taxonomy
 tags = ["security"]                                                         # taxonomy
 
@@ -28,6 +28,8 @@ toc = true
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://2.bp.blogspot.com/-ZixU71JAIVE/Xt5h_ntdKjI/AAAAAAAAiqM/iPFlUGoSssAIkij8kp3Mx7F7EfBQruX4gCLcBGAsYHQ/s1600/privacy%2Band%2Bencryption.jpg"]                                                       # used by og:images, etc.; first image is cover image
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

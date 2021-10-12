@@ -14,8 +14,8 @@ relCanonical = "https://im.youronly.one/techmagus/browser-wars-3-blink-gecko-201
 
 channels = ["techmagus"]
 categories = ["literature"]                                                   # taxonomy
-keywords = [""]                                                     # meta keywords
-series = [""]                                                       # subset of series taxonomy
+keywords = ["browsers", "browser wars", "blink", "gecko", "chromium", "google", "chrome", "mozilla", "firefox", "techmagus", "YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+#series = [""]                                                       # subset of series taxonomy
 tags = ["browserwars"]                                                         # taxonomy
 
 comments = true
@@ -24,6 +24,8 @@ comments = true
 featured = true
 #math = true
 toc = true
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 

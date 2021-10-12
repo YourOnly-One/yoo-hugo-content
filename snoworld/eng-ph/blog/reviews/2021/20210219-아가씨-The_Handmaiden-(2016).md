@@ -16,14 +16,16 @@ relCanonical = "https://im.youronly.one/snoworld/아가씨-the-handmaiden-2016-2
 
 channels = ["snoworld"]
 categories = ["films"]																									# taxonomy
-keywords = ["The Handmaiden", "아가씨", "movie"]																										# meta keywords
-series = [""]																											# subset of series taxonomy
+keywords = ["The Handmaiden", "아가씨", "movie", "Snoworld", "YourOnlyOne", "YourOnly.One"]																										# meta keywords
+#series = [""]																											# subset of series taxonomy
 tags = ["adaptations", "reviews", "kdrama"]																						# taxonomy
 
 #weight = ""
 
 #featured = true																									# only for some themes
 #math = true																											# only for some themes
+
+type = "article"                                                           # article, sitepage, review
 
 #draft = true
 
