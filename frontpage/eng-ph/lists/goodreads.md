@@ -2,10 +2,10 @@
 title = ""
 subtitle = ""
 date = "2020-03-25T06:00:00"
-link = "https://www.goodreads.com/snoworld"
+link = "https://www.goodreads.com/youronlyone"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/Goodreads.svg"
 metarobots = "noindex"
 +++
 
-<a href="https://www.goodreads.com/snoworld" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Goodreads</a>
+<a href="https://www.goodreads.com/youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Goodreads</a>
