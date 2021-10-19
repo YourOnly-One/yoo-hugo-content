@@ -34,10 +34,10 @@ type = "article"                                                           # art
 
 #draft = true
 
-[author]
+[[author]]
+id = "https://iam.youronly.one/#yuki"
 #name = ""
-#email = ""
-homepage = "https://im.youronly.one/faithfulathlete/"
+url = "https://im.youronly.one/faithfulathlete/"
 avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 +++
 

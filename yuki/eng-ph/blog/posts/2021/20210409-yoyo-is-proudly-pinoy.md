@@ -36,10 +36,10 @@ contenttypes = ["Article"]
 images = ["https://img.youronly.one/works/Yo-yo-Trivia.webp"]    # og:images
 cover = "https://img.youronly.one/works/Yo-yo-Trivia.webp"				# theme specific
 
-[author]
+[[author]]
+id = "https://iam.youronly.one/#yuki"
 #name = ""
-#email = ""
-homepage = "https://im.youronly.one/yuki/"
+url = "https://im.youronly.one/yuki/"
 avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 
 #[semweb]

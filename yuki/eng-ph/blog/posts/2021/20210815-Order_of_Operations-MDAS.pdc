@@ -38,10 +38,10 @@ type = "article"                                                           # art
 images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images
 cover = "https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"				# theme specific
 
-[author]
+[[author]]
+id = "https://iam.youronly.one/#yuki"
 #name = ""
-#email = ""
-homepage = "https://im.youronly.one/yuki/"
+url = "https://im.youronly.one/yuki/"
 avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 
 #[semweb]

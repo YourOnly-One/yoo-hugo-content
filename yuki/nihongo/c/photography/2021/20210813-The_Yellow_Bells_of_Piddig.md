@@ -37,10 +37,10 @@ contenttypes = ["Photograph"]
 images = ["https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp", "https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"]    # og:images
 cover = "https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"       # theme specific
 
-[author]
+[[author]]
+id = "https://iam.youronly.one/#yuki"
 #name = ""
-#email = ""
-homepage = "https://im.youronly.one/confidentraveler/"
+url = "https://im.youronly.one/confidentraveler/"
 avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 
 [semweb]

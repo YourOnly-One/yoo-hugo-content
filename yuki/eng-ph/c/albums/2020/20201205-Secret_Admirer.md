@@ -34,10 +34,10 @@ type = "article"                                                           # art
 
 #draft = true
 
-[author]
+[[author]]
+id = "https://iam.youronly.one/#yuki"
 #name = ""
-#email = ""
-homepage = "https://im.youronly.one/yugenbard/"
+url = "https://im.youronly.one/yugenbard/"
 avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 +++
 
