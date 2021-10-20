@@ -39,10 +39,12 @@ images = ["https://4.bp.blogspot.com/-lblomuxfIJg/Xlnyvibmb7I/AAAAAAAAgCA/c2McI5
 cover = "https://4.bp.blogspot.com/-lblomuxfIJg/Xlnyvibmb7I/AAAAAAAAgCA/c2McI5C5bYAe77nLalzxBbJDz_0BwdRFACLcBGAsYHQ/s1600/The%2BSeventh%2BCommandment_o.jpg"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/way/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = ""

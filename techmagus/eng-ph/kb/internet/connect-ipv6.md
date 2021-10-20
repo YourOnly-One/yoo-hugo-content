@@ -59,17 +59,12 @@ type = "article"                                                           # art
 #  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 *IPv6* or *Internet Protocol version 6* is the answer to our *IPv4* problem. What problem? By 2011 or 2012 (according to estimates), there will be no more IPv4 addresses left. This means that, anyone with a need to have a static IP address will not be able to get any for their project or service.

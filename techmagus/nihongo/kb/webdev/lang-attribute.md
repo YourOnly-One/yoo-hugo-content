@@ -38,17 +38,12 @@ type = "article"                                                           # art
 images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwOEWDcMF2UU48Fbn4Pz-vZe7pgiLQCLcBGAsYHQ/s1600/lave%2Bt%2527es%2Bmains-1800x.jpg"]                                                       # used by og:images, etc.; first image is cover image
 
 [author]
-  #name = "techmagus"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 
 #[semweb]                                                            # Semantic Web JSON-LD
 #  type = ""

@@ -34,11 +34,13 @@ type = "article"                                                           # art
 
 #draft = true
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/yugenbard/"
 avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
+#rel = "noopener external nofollow"
 +++
 
 《__Secret Admirer__》는 우리의 마음을 훔친 사람에게 사랑과 성실을 약속하는 노래 모음집입니다. 우리가 그 / 그녀에게 전할 수 있기를 바라는 메시지가 담긴 노래입니다.

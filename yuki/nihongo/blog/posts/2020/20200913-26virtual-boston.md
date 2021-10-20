@@ -34,11 +34,13 @@ type = "article"                                                           # art
 
 #draft = true
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/faithfulathlete/"
 avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
+#rel = "noopener external nofollow"
 
 +++
 

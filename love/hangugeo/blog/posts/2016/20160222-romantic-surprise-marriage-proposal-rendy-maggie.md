@@ -38,10 +38,12 @@ images = ["https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"]    # og:images
 cover = "https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/love/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = "Movie"

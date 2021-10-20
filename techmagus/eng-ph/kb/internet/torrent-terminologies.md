@@ -59,17 +59,12 @@ type = "article"                                                           # art
 #  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 We all use the bittorrent protocol, anyone who claims they do not download anything "torrent" is probably someone from the 90s or possibly from the future where a new technology replaced it. For example, if you are playing <a href="https://gameshogun.xyz/game/warcraft/" target="_blank" rel="noopener">World of Warcraft</a> then you are getting the game patches via the bittorrent protocol, because **Blizzard**'s game launcher uses this technology.

@@ -39,10 +39,12 @@ cover = "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"				# 
 images = ["https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg", "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"]		# og:images
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/snoworld/"
-avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/snoworld/"
+  avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  #rel = "noopener external nofollow"
 
 [semweb]
 type = "TVSeries"

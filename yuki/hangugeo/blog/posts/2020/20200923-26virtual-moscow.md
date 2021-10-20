@@ -34,11 +34,13 @@ type = "article"                                                           # art
 
 #draft = true
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/faithfulathlete/"
 avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
+#rel = "noopener external nofollow"
 +++
 
 내 전반부 마라톤. 달리기 / 걷기. 원래는 17km로만 계획되었지만 남은 킬로미터는 집으로 돌아 가기에 충분했습니다.

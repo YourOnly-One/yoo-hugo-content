@@ -59,17 +59,12 @@ type = "article"                                                           # art
 #  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 Finally someone took the job in establishing a group in the Philippines to be "web standard" compliant. With the sudden influx of Filipino sites (thanks to blogging), many Filipinos are venturing into website creation. However, most learned from the not-so-good resources, usually from other people who also are not knowledgeable enough about the importance of being compliant to current web standards.

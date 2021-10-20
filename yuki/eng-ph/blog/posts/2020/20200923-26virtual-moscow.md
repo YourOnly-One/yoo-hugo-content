@@ -34,11 +34,13 @@ type = "article"                                                           # art
 
 #draft = true
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/faithfulathlete/"
 avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
+#rel = "noopener external nofollow"
 +++
 
 My first half marathon. Run/walk. Originally planned for 17 km only but the remaining kilometers were enough to get back home.

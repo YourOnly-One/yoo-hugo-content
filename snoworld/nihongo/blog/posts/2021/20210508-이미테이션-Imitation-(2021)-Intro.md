@@ -38,10 +38,12 @@ images = ["https://img.youronly.one/p/Imitation-(2021)-Title.webp", "https://img
 cover = "https://img.youronly.one/p/Imitation-(2021)-Title.webp"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/snoworld/"
-avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/snoworld/"
+  avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  #rel = "noopener external nofollow"
 
 [semweb]
 type = "TVSeries"

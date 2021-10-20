@@ -34,12 +34,13 @@ type = "article"                                                           # art
 
 #draft = true
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/yugenbard/"
 avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
-
+#rel = "noopener external nofollow"
 +++
 
 《__Secret Admirer__》は、私たちの心を盗んだ人への愛と忠実さを約束する曲のコンピレーションです。 これらは私たちが彼/彼女に伝えたいメッセージのある曲です。

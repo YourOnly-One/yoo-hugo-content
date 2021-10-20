@@ -59,17 +59,12 @@ type = "article"                                                           # art
 #  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 Freedom, anonymity, privacy, &amp; security, are the most important part of our lives, and this is especially true today as we move faster into the digital world. We need to secure our online communications to prevent anyone from listening. We need to prove the identity of the other person we are working with. We need an easy way to use encryption to keep private data from being seen by unauthorised individuals.

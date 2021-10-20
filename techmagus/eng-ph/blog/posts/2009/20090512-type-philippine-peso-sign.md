@@ -59,17 +59,12 @@ type = "article"                                                           # art
 #  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 Last night, I searched if there were fonts updated to include the Philippine Peso currency sign which has been added in Unicode since version 3.2 release. The Unicode position of the Peso sign is at point 20B1 if you want to check it out for yourself.

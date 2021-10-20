@@ -39,10 +39,12 @@ cover = "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"      
 images = ["https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"]    # og:images
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/snoworld/"
-avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/snoworld/"
+  avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  #rel = "noopener external nofollow"
 
 [semweb]
 type = "TVSeries"

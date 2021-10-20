@@ -38,10 +38,12 @@ images = ["https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fV
 cover = "https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fVM2c8k/s1600/A_Love_for_the_Arts_by_Delacorr.jpg"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/love/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = "Movie"

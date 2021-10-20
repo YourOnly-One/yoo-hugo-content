@@ -60,17 +60,12 @@ type = "article"                                                           # art
 
 # For /yuki/ choose one and remove everything else
 [author]
-  #name = "techmagus"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 Welcome to the official page for the **Ubuntu Philippines LoCo Team** project **Philippines Unicode Keyboard Layout**. Everything that has to do with the PH-UKL project will be posted here, from How-To's to downloading to installing and setting up your machine so you can start using the keyboard layout.

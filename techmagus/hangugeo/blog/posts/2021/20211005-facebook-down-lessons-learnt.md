@@ -60,17 +60,12 @@ type = "article"                                                           # art
 
 # For /yuki/ choose one and remove everything else
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 페이스북, 인스타그램, 메신저, 왓츠앱 역사상 가장 긴 다운타임은 많은 기업에서 비즈니스 연속성과 플랜 B와 플랜 C의 중요성에 대한 회의를 촉발했어야 했습니다. 이것은 학교와 학교에서도 기억되고 사용될 것입니다. 보안 시스템을 설정하지 않는 방법에 대한 첫 번째 사례로 연구합니다.

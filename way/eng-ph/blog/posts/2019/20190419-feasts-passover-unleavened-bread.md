@@ -39,10 +39,12 @@ images = ["https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-
 cover = "https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-F5BZ8TiB5qrunaWrHhoeMJxNRPgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085901_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/way/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = ""

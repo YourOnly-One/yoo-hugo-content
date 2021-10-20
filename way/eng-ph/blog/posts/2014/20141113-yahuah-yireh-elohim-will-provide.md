@@ -39,10 +39,12 @@ images = ["https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"]    # og
 cover = "https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/way/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = ""

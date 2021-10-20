@@ -60,17 +60,12 @@ type = "article"                                                           # art
 
 # For /yuki/ choose one and remove everything else
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 The longest downtime in the history of Facebook, Instagram, Messenger, and WhatsApp, should have had triggered meetings in many companies on business continuity and the importance of having a Plan B and a Plan C. This will also be remembered and used in schools and studies as the number one example on how not to setup security systems.

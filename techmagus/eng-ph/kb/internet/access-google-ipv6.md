@@ -59,17 +59,12 @@ type = "article"                                                           # art
 #  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 Google, the largest search engine today (and the "Microsoft" of the cyberworld), is slowly deploying <abbr class="popper animate" data-popper="Internet Protocol version 6">IPv6</abbr> across their sites. But even if you are already [connected to IPv6]({{< ref "connect-ipv6.md" >}} "IPv6 Is Not Scary!! Connect to Next-Gen Internet Now"), you will still not get an IPv6 Google.

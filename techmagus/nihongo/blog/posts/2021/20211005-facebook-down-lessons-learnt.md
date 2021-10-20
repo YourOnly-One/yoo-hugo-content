@@ -60,17 +60,12 @@ type = "article"                                                           # art
 
 # For /yuki/ choose one and remove everything else
 [author]
-  #name = "techmagus / ハイテク マギ / 테크 마구스"
-  #email = ""
-  homepage = "https://im.youronly.one/techmagus/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 Facebook、Instagram、Messenger、WhatsAppの歴史の中で最も長いダウンタイムは、ビジネスの継続性と、プランBとプランCを持つことの重要性について、多くの企業で会議を引き起こしたはずです。これは、学校や セキュリティシステムをセットアップしない方法に関する一番の例として研究します。

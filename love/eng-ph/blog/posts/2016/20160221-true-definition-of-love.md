@@ -38,10 +38,12 @@ images = ["https://3.bp.blogspot.com/-xqpogUZC3bQ/VsnSNlLlhuI/AAAAAAAAQ-4/eNLFbb
 cover = "https://3.bp.blogspot.com/-xqpogUZC3bQ/VsnSNlLlhuI/AAAAAAAAQ-4/eNLFbbPSK3Y/s1600/Love%2BHeart%2BMade%2BWith%2BHands%2BAt%2BSunset.jpg"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/love/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = "Movie"

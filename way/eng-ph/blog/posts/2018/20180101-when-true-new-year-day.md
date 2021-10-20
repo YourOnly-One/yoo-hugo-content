@@ -39,10 +39,12 @@ images = ["https://4.bp.blogspot.com/-xXsTe2zNI-g/XlqUnNUNpfI/AAAAAAAAgC8/EaOG_D
 cover = "https://4.bp.blogspot.com/-xXsTe2zNI-g/XlqUnNUNpfI/AAAAAAAAgC8/EaOG_DpY-TcHFpNSq6WT0ejsx0FGcS3FwCLcBGAsYHQ/s1600/spring-2333943_1280.jpg"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/way/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = ""

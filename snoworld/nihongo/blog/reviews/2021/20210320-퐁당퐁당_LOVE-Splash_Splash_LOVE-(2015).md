@@ -39,10 +39,12 @@ cover = "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"   
 images = ["https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif", "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"]    # og:images
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/snoworld/"
-avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/snoworld/"
+  avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  #rel = "noopener external nofollow"
 
 [semweb]
 type = "TVSeries"

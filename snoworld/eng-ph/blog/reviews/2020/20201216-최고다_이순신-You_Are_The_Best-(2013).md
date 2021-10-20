@@ -37,10 +37,12 @@ cover = "https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"				# theme 
 images = ["https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp", "https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"]		# og:images
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/snoworld/"
-avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/snoworld/"
+  avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
+  #rel = "noopener external nofollow"
 
 [semweb]
 type = "TVSeries"

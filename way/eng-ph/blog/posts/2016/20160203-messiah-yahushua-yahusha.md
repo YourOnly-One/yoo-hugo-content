@@ -39,10 +39,12 @@ images = ["https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_Int
 cover = "https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"       # theme specific
 
 [author]
-#name = ""
-#email = ""
-homepage = "https://im.youronly.one/way/"
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
+#rel = "noopener external nofollow"
 
 #[semweb]
 #type = ""

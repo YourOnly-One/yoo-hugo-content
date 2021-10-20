@@ -34,12 +34,13 @@ type = "article"                                                           # art
 
 #draft = true
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/faithfulathlete/"
 avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
-
+#rel = "noopener external nofollow"
 +++
 
 私の前半のマラソン。 走る/歩く。 当初は17kmのみを計画していましたが、残りのkmは家に帰るのに十分でした。

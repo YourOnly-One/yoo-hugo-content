@@ -37,11 +37,13 @@ contenttypes = ["Photograph"]
 images = ["https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp", "https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"]    # og:images
 cover = "https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"				# theme specific
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/confidentraveler/"
 avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
+#rel = "noopener external nofollow"
 
 [semweb]
 type = "Photograph"

@@ -36,9 +36,10 @@ contenttypes = ["Article"]
 images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images
 cover = "https://img.youronly.one/p/Timeless_Books-1280w.jpg"				# theme specific
 
-[[author]]
-id = "https://iam.youronly.one/#yuki"
-#name = ""
+[author]
+person = "yuki"
+#id = ""
+name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://verses.space"
 avatar = "https://rsc.youronly.one/img/y/KWWP-logo-01-1280wh-transparent.webp"
 rel = "noopener external"
