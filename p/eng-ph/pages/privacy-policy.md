@@ -38,17 +38,12 @@ images = [""]                                                       # used by og
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
 
 [author]
-  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
-  #email = ""
-  homepage = "https://im.youronly.one/yuki/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 At <a href="https://youronly.one">__YourOnly.One__</a>™ we consider the privacy of our visitors to be extremely important. This Privacy Policy document governs the manner in which we collect, use, maintain, and disclose information collected from users (each, a "User") of the __YourOnly.One__ website ("__Site__").

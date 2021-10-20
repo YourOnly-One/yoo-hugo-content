@@ -60,17 +60,12 @@ images = [""]                                                       # used by og
 
 # For /yuki/ choose one and remove everything else
 [author]
-  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
-  #email = ""
-  homepage = "https://im.youronly.one/yuki/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 Did you like my work and want to send a gift as a token of appreciation? Here are the different ways to *buy me a coffee*.

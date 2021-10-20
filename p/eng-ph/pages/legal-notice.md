@@ -38,17 +38,12 @@ images = [""]                                                       # used by og
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
 
 [author]
-  #name = "YOOki Chronicles / YOOkiクロニクル / YOOki 연대기"
-  #email = ""
-  homepage = "https://im.youronly.one/yuki/"
+  person = "yuki"
+  #id = ""
+  name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
+  url = "https://im.youronly.one/yuki/"
   avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
-  #emoji = ""
-  #descriptionshort = ""
-  #descriptionlong = ""
-  #motto = ""
-  #locationorigin = ""
-  #locationcurrent = ""
-  #rel = "me noopener"
+  #rel = "noopener external nofollow"
 +++
 
 <!-- <a href="https://creativecommons.org/licenses/by-sa/4.0/" aria-label="License: Creative Commons Attribution-ShareAlike 4.0 International" referrerpolicy="strict-origin-when-cross-origin" rel="license noopener external nofollow"><i aria-hidden="true" class="cc cc-cc cc-2x text-red" title="License: Creative Commons Attribution-ShareAlike 4.0 International"></i> <i aria-hidden="true" class="cc cc-by cc-2x text-green" title="License: Creative Commons Attribution-ShareAlike 4.0 International"></i> <i aria-hidden="true" class="cc cc-sa cc-2x text-blue" title="License: Creative Commons Attribution-ShareAlike 4.0 International"></i></a><br/> -->
