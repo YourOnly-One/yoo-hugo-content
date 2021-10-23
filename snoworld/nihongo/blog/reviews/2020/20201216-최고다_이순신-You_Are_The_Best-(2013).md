@@ -36,7 +36,7 @@ contenttypes = ["CriticReview"]
 cover = "https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"				# theme specific
 images = ["https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp", "https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"]		# og:images
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://4.bp.blogspot.com/-b4qeVGFYH0o/Xln2g6gPLVI/AAAAAAAAgCM/K_-1qcvoZoooxqKDEDe-vMxDzcBVUsGLwCLcBGAsYHQ/s1600/Stop%2BStealing_o.jpg"]    # og:images
 cover = "https://4.bp.blogspot.com/-b4qeVGFYH0o/Xln2g6gPLVI/AAAAAAAAgCM/K_-1qcvoZoooxqKDEDe-vMxDzcBVUsGLwCLcBGAsYHQ/s1600/Stop%2BStealing_o.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

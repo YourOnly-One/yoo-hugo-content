@@ -37,7 +37,7 @@ images = [""]                                                       # used by og
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

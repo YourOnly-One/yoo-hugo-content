@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://2.bp.blogspot.com/-IQ7UCTNWxPU/Xls-2CA4C1I/AAAAAAAAgDI/5-g-FjlR1FEI5KhHGTalIHMkqzYtq3wyQCLcBGAsYHQ/s1600/1280px-The_Phillip_Medhurst_Picture_Torah_44._Enoch_translated._Genesis_cap_5_v_24._Mortier%2527s_Bible.jpg"]    # og:images
 cover = "https://2.bp.blogspot.com/-IQ7UCTNWxPU/Xls-2CA4C1I/AAAAAAAAgDI/5-g-FjlR1FEI5KhHGTalIHMkqzYtq3wyQCLcBGAsYHQ/s1600/1280px-The_Phillip_Medhurst_Picture_Torah_44._Enoch_translated._Genesis_cap_5_v_24._Mortier%2527s_Bible.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

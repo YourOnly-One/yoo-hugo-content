@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://img.youronly.one/works/FlagMenorah-Paleo-(CC0).webp"]    # og:images
 cover = "https://img.youronly.one/works/FlagMenorah-Paleo-(CC0).webp"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

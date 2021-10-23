@@ -38,7 +38,7 @@ contenttypes = ["CriticReview"]
 cover = "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"]    # og:images
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

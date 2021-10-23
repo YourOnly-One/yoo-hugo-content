@@ -36,7 +36,7 @@ contenttypes = ["Article"]
 images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images
 cover = "https://img.youronly.one/p/Timeless_Books-1280w.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

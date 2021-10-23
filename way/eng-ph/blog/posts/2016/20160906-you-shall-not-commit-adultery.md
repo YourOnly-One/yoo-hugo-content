@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://4.bp.blogspot.com/-lblomuxfIJg/Xlnyvibmb7I/AAAAAAAAgCA/c2McI5C5bYAe77nLalzxBbJDz_0BwdRFACLcBGAsYHQ/s1600/The%2BSeventh%2BCommandment_o.jpg"]    # og:images
 cover = "https://4.bp.blogspot.com/-lblomuxfIJg/Xlnyvibmb7I/AAAAAAAAgCA/c2McI5C5bYAe77nLalzxBbJDz_0BwdRFACLcBGAsYHQ/s1600/The%2BSeventh%2BCommandment_o.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://1.bp.blogspot.com/-1HYiQnfKS70/XlTVYOhQZiI/AAAAAAAAgAo/Q3MThiBhHzQYNJpgBvKwVvHOquyGkMINwCLcBGAsYHQ/s1600/simply-pray-1316920.jpg"]    # og:images
 cover = "https://1.bp.blogspot.com/-1HYiQnfKS70/XlTVYOhQZiI/AAAAAAAAgAo/Q3MThiBhHzQYNJpgBvKwVvHOquyGkMINwCLcBGAsYHQ/s1600/simply-pray-1316920.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

@@ -39,7 +39,7 @@ contenttypes = ["CriticReview"]
 cover = "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp", "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"]    # og:images
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

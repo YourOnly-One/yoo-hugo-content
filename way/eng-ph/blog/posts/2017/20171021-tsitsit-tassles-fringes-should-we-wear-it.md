@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://3.bp.blogspot.com/-xPVBimSSyvA/XlqO_iiF_FI/AAAAAAAAgCw/npDe3sDrsLQdgaJC4WE1QvriMP7AcNJ1wCLcBGAsYHQ/s1600/%25F0%2590%25A4%2589%25F0%2590%25A4%2584%25F0%2590%25A4%2585%25F0%2590%25A4%2584%2B%2528YHWH%2529-tsitsit-1way.faith%2B%252820171018%2529.jpg"]    # og:images
 cover = "https://3.bp.blogspot.com/-xPVBimSSyvA/XlqO_iiF_FI/AAAAAAAAgCw/npDe3sDrsLQdgaJC4WE1QvriMP7AcNJ1wCLcBGAsYHQ/s1600/%25F0%2590%25A4%2589%25F0%2590%25A4%2584%25F0%2590%25A4%2585%25F0%2590%25A4%2584%2B%2528YHWH%2529-tsitsit-1way.faith%2B%252820171018%2529.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

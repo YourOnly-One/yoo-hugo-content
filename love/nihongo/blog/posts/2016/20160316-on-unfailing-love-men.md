@@ -37,7 +37,7 @@ contenttypes = ["Article"]
 images = ["https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"]    # og:images
 cover = "https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

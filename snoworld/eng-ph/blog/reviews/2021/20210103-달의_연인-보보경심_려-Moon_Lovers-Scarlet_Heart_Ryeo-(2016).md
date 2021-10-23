@@ -41,7 +41,7 @@ images = [
   "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
 ]                                                     # og:images
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

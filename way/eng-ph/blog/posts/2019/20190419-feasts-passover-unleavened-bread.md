@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-F5BZ8TiB5qrunaWrHhoeMJxNRPgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085901_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"]    # og:images
 cover = "https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-F5BZ8TiB5qrunaWrHhoeMJxNRPgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085901_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

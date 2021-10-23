@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://1.bp.blogspot.com/-VyePgPp0EyQ/Xntc4hn7duI/AAAAAAAAgxI/dt36XFaVNbIOIuoKrdTENPIlmHz3gx5CACLcBGAsYHQ/s1600/aniket-bhattacharya-CgyrwbE6Hm4-unsplash.jpg"]    # og:images
 cover = "https://1.bp.blogspot.com/-VyePgPp0EyQ/Xntc4hn7duI/AAAAAAAAgxI/dt36XFaVNbIOIuoKrdTENPIlmHz3gx5CACLcBGAsYHQ/s1600/aniket-bhattacharya-CgyrwbE6Hm4-unsplash.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

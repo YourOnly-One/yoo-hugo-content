@@ -39,7 +39,7 @@ contenttypes = ["CriticReview"]
 cover = "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"				# theme specific
 images = ["https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg", "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"]		# og:images
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

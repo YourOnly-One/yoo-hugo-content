@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://3.bp.blogspot.com/-nDkOduYrRD0/XltTWm2sWKI/AAAAAAAAgDU/mYyr2VowCqUa2ufZXpKAfUAsd9SoChJigCLcBGAsYHQ/s1600/Vatican_Christmas_Tree.jpg"]    # og:images
 cover = "https://3.bp.blogspot.com/-nDkOduYrRD0/XltTWm2sWKI/AAAAAAAAgDU/mYyr2VowCqUa2ufZXpKAfUAsd9SoChJigCLcBGAsYHQ/s1600/Vatican_Christmas_Tree.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

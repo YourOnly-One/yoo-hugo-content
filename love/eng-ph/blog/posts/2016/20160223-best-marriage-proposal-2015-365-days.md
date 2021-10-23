@@ -37,7 +37,7 @@ contenttypes = ["Article"]
 images = ["https://img.youtube.com/vi/ECRqF4BHkGk/hqdefault.jpg"]    # og:images
 cover = "https://img.youtube.com/vi/ECRqF4BHkGk/hqdefault.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

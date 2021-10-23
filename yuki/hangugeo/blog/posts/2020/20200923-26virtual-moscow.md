@@ -34,7 +34,7 @@ type = "article"                                                           # art
 
 #draft = true
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

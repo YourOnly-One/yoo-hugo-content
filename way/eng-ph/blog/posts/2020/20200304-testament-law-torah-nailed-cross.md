@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://3.bp.blogspot.com/-P1cJ8md_fVc/Xl92I9r417I/AAAAAAAAgGU/Ial0dX6HvmEw6BgiQKpeA33SB3_x30IEgCLcBGAsYHQ/s1600/new_torah-taylor_wilcox-aXeVH4FcS1k-unsplash-2.jpg"]    # og:images
 cover = "https://3.bp.blogspot.com/-P1cJ8md_fVc/Xl92I9r417I/AAAAAAAAgGU/Ial0dX6HvmEw6BgiQKpeA33SB3_x30IEgCLcBGAsYHQ/s1600/new_torah-taylor_wilcox-aXeVH4FcS1k-unsplash-2.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

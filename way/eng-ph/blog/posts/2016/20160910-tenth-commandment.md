@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://4.bp.blogspot.com/-2-O2Pabn7lc/XloHxiMrreI/AAAAAAAAgCk/Xildj3JJO1Q9_mjOe7NC3B-dHpzUpjzHQCLcBGAsYHQ/s1600/Ingres_-_Paolo_and_Francesca.jpg"]    # og:images
 cover = "https://4.bp.blogspot.com/-2-O2Pabn7lc/XloHxiMrreI/AAAAAAAAgCk/Xildj3JJO1Q9_mjOe7NC3B-dHpzUpjzHQCLcBGAsYHQ/s1600/Ingres_-_Paolo_and_Francesca.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

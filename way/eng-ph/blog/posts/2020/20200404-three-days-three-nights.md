@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://3.bp.blogspot.com/-mxSj63dxxxs/XoiRfyYyVpI/AAAAAAAAg4g/OhGbpLjJxIUVdwDPvr3miN36pF4bR-v8QCLcBGAsYHQ/s1600/Gethsemane_by_Seetheholyland.net.jpg"]    # og:images
 cover = "https://3.bp.blogspot.com/-mxSj63dxxxs/XoiRfyYyVpI/AAAAAAAAg4g/OhGbpLjJxIUVdwDPvr3miN36pF4bR-v8QCLcBGAsYHQ/s1600/Gethsemane_by_Seetheholyland.net.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

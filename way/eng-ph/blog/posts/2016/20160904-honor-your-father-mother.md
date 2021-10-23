@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://4.bp.blogspot.com/-ZHdJ_OsVZkY/XlnmwsfR5bI/AAAAAAAAgBo/bfKOSsx7KJYaiRxWRUgMS7Gz9Q52NLzbACLcBGAsYHQ/s1600/1280px-Parents_with_child_Statue_Hrobakova_street_Bratislava.jpg"]    # og:images
 cover = "https://4.bp.blogspot.com/-ZHdJ_OsVZkY/XlnmwsfR5bI/AAAAAAAAgBo/bfKOSsx7KJYaiRxWRUgMS7Gz9Q52NLzbACLcBGAsYHQ/s1600/1280px-Parents_with_child_Statue_Hrobakova_street_Bratislava.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

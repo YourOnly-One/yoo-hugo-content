@@ -36,7 +36,7 @@ contenttypes = ["Article"]
 images = ["https://img.youronly.one/works/Yo-yo-Trivia.webp"]    # og:images
 cover = "https://img.youronly.one/works/Yo-yo-Trivia.webp"				# theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

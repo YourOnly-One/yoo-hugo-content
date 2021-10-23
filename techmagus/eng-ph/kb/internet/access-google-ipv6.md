@@ -58,7 +58,7 @@ type = "article"                                                           # art
 #  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
 #  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

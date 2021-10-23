@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://3.bp.blogspot.com/-VFkHKyZsX6I/Xk-qY43CRsI/AAAAAAAAf-4/hp9uQJFX-HUUzL_z8KN5Is_VA5MnPg4TACLcBGAsYHQ/s1600/walter-chavez-TEFSPAaoKlA-unsplash.jpg"]    # og:images
 cover = "https://3.bp.blogspot.com/-VFkHKyZsX6I/Xk-qY43CRsI/AAAAAAAAf-4/hp9uQJFX-HUUzL_z8KN5Is_VA5MnPg4TACLcBGAsYHQ/s1600/walter-chavez-TEFSPAaoKlA-unsplash.jpg"				# theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

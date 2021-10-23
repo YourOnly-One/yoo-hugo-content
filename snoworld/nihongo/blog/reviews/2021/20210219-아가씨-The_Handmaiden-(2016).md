@@ -42,7 +42,7 @@ images = [
 	"https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
 ]																											# og:images
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

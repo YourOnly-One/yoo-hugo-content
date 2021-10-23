@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"]    # og:images
 cover = "https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

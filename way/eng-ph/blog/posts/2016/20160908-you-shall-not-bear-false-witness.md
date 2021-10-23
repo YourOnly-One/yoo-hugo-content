@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://4.bp.blogspot.com/-hf65vR8akms/XloEytuGn2I/AAAAAAAAgCY/c3K5Kgo3sBsNUNx4YWEkTFQpBqF9tBlbwCLcBGAsYHQ/s1600/1280px-V%2526A_-_Raphael%252C_St_Paul_Preaching_in_Athens_%25281515%2529.jpg"]    # og:images
 cover = "https://4.bp.blogspot.com/-hf65vR8akms/XloEytuGn2I/AAAAAAAAgCY/c3K5Kgo3sBsNUNx4YWEkTFQpBqF9tBlbwCLcBGAsYHQ/s1600/1280px-V%2526A_-_Raphael%252C_St_Paul_Preaching_in_Athens_%25281515%2529.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

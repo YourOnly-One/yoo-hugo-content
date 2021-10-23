@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://1.bp.blogspot.com/-yhLW4sa8_HY/XkpyOhyvzxI/AAAAAAAAf7c/YTGcmZKJQgg6-wAkx1rTQCRXkC_mMn9yQCPcBGAYYCw/s1600/Hanukkahns4.png"]    # og:images
 cover = "https://1.bp.blogspot.com/-yhLW4sa8_HY/XkpyOhyvzxI/AAAAAAAAf7c/YTGcmZKJQgg6-wAkx1rTQCRXkC_mMn9yQCPcBGAYYCw/s1600/Hanukkahns4.png"				# theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

@@ -38,7 +38,7 @@ type = "article"                                                           # art
 images = ["https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg"]    # og:images
 cover = "https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg"       # theme specific
 
-[author]
+[[authors]]
 person = "yuki"
 #id = ""
 name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"

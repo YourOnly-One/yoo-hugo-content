@@ -38,7 +38,7 @@ contenttypes = ["CriticReview"]
 cover = "https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"                                         # only for some themes
 images = ["https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"]                                                      # og:images
 
-[author]
+[[authors]]
   person = "yuki"
   #id = ""
   name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
