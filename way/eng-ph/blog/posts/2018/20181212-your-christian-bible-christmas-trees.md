@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://3.bp.blogspot.com/-nDkOduYrRD0/XltTWm2sWKI/AAAAAAAAgDU/mYyr2VowCqUa2ufZXpKAfUAsd9SoChJigCLcBGAsYHQ/s1600/Vatican_Christmas_Tree.jpg"]    # og:images
-cover = "https://3.bp.blogspot.com/-nDkOduYrRD0/XltTWm2sWKI/AAAAAAAAgDU/mYyr2VowCqUa2ufZXpKAfUAsd9SoChJigCLcBGAsYHQ/s1600/Vatican_Christmas_Tree.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 What does the Christian Bible says about the “Christmas Tree”? Here are some verses and a video. Don’t believe this, rather, pick up your family Bible collecting dust and begin studying. Don’t just accept what you’re being told, hearing from preachers, priests, pastors, and teachers, ***prove it for yourself***!
@@ -112,16 +79,16 @@ For they also built them high places, and images, and Asherah poles, on every hi
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://4.bp.blogspot.com/-82ri6sb1CN4/Xltu6Kok5DI/AAAAAAAAgDg/2BjxsgjsLfwrnvrjGPhRrtfOVo4WEhVUACLcBGAsYHQ/s1600/Image%2Bfrom%2Bpage%2B187%2Bof%2BAncient%2Bpagan%2Band%2Bmodern%2BChristian%2Bsymbolism%2B%25281874%2529_h.jpg"
-  imglink="https://www.flickr.com/photos/internetarchivebookimages/14590312768/"
-  imgrel="noopener external nofollow"
+  src="https://4.bp.blogspot.com/-82ri6sb1CN4/Xltu6Kok5DI/AAAAAAAAgDg/2BjxsgjsLfwrnvrjGPhRrtfOVo4WEhVUACLcBGAsYHQ/s1600/Image%2Bfrom%2Bpage%2B187%2Bof%2BAncient%2Bpagan%2Band%2Bmodern%2BChristian%2Bsymbolism%2B%25281874%2529_h.jpg"
+  link="https://www.flickr.com/photos/internetarchivebookimages/14590312768/"
+  linkrel="noopener external nofollow"
 
-  imgtitle=""
-  imgcaption="Image from page 187 of 'Ancient pagan and modern Christian symbolism' (1874)"
-  imgalt=""
+  title=""
+  caption="Image from page 187 of 'Ancient pagan and modern Christian symbolism' (1874)"
+  alt=""
 
   attribalign=""
 
@@ -130,7 +97,7 @@ For they also built them high places, and images, and Asherah poles, on every hi
   licensename="Public Domain"
 
   attribto="Thomas Inman (1820-1876); John Newton, M.R.C.S.E. via Internet Archive Book Images"
-  attriblink="https://www.flickr.com/photos/internetarchivebookimages/"
+  attriburl="https://www.flickr.com/photos/internetarchivebookimages/"
   attribrel="noopener external nofollow"
 >}}
 
@@ -146,7 +113,58 @@ And he broke down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the houses
 {{% /quotebox %}}
 
 ## A deeper look
-<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/7-3oFuHIF0M" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="7-3oFuHIF0M"
+  starttime=""
+  endtime=""
+
+  link=""
+  linkrel="noopener external nofollow"
+
+  title="The Christmas Tree and Ancient Tree Worship"
+  caption="This video is a clip of the full length film '[The Spirit of Christmas](https://www.youtube.com/watch?v=m55vULA0clU)'."
+
+  attribalign=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename="All Rights Reserved"
+
+  attribto="Messenger Of The Name"
+  attriburl="https://www.youtube.com/channel/UCckXDg4XAS6lchkdfDXI2Mg"
+  attribrel="noopener external nofollow"
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+  datecreated="2017-12-16"
+  datepublished=""
+  inlanguage="en"
+  transcript=""
+  embeddedtextcaption=""
+  director=""
+  musicby=""
+  thumbnailurl=""
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## The "Christmas Tree" represents
 <ul class="custom_liststyle checkmark-heavy list-red">
@@ -174,17 +192,17 @@ I used to believe and practice these things until the Most High, our Abba in hea
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:Vatican_Christmas_Tree.jpg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:Vatican_Christmas_Tree.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Vatican Christmas Tree"
-  imgcaption=""
+  title="Vatican Christmas Tree"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="Sunshine city"
-  attriblink="https://www.flickr.com/photos/sunshinecity/"
+  attriburl="https://www.flickr.com/photos/sunshinecity/"
   attribrel="noopener external nofollow"
 >}}

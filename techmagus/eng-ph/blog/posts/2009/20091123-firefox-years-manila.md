@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -136,17 +115,17 @@ Visit the official community website at <a href="https://www.mozillaphilippines.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://2.bp.blogspot.com/-FqcULxVAeVc/Xqw8QKoJPQI/AAAAAAAAhco/EwiHWyDi3yQTyzVQic9ssVYQFqF6F3EIACPcBGAsYHg/s1600/DSC00204.JPG"
-  imgrel="me noopener"
+  link="https://2.bp.blogspot.com/-FqcULxVAeVc/Xqw8QKoJPQI/AAAAAAAAhco/EwiHWyDi3yQTyzVQic9ssVYQFqF6F3EIACPcBGAsYHg/s1600/DSC00204.JPG"
+  linkrel="me noopener"
 
-  imgtitle="5 Years of Firefox in Manila"
-  imgcaption=""
+  title="5 Years of Firefox in Manila"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl=https://creativecommons.org/licenses/by-sa/4.0/""
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}

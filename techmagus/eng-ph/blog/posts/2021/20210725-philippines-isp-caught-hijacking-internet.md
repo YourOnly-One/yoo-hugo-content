@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -78,16 +57,16 @@ Let's take a look at an example.
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
-  imglink="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
-  imgrel="me noopener"
+  src="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
+  link="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
+  linkrel="me noopener"
 
-  imgtitle=""
-  imgcaption="Hijacked connection"
-  imgalt=""
+  title=""
+  caption="Hijacked connection"
+  alt=""
 
   attribalign=""
 
@@ -96,7 +75,7 @@ Let's take a look at an example.
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -113,16 +92,16 @@ We all know that we can never trust ISPs, government order or not, so let this b
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.YourOnly.one/p/MediaFire-SSL_cert-comparison-01.png"
-  imglink="https://img.YourOnly.one/p/MediaFire-SSL_cert-comparison-01.png"
-  imgrel="me noopener"
+  src="https://img.YourOnly.one/p/MediaFire-SSL_cert-comparison-01.png"
+  link="https://img.YourOnly.one/p/MediaFire-SSL_cert-comparison-01.png"
+  linkrel="me noopener"
 
-  imgtitle=""
-  imgcaption="Left: Hijacked connection SSL cert; Right: Encrypted connection and correct SSL certificate"
-  imgalt=""
+  title=""
+  caption="Left: Hijacked connection SSL cert; Right: Encrypted connection and correct SSL certificate"
+  alt=""
 
   attribalign=""
 
@@ -131,7 +110,7 @@ We all know that we can never trust ISPs, government order or not, so let this b
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -146,17 +125,17 @@ We all know that we can never trust ISPs, government order or not, so let this b
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"
-  imgrel="me noopener"
+  link="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"
+  linkrel="me noopener"
 
-  imgtitle=""
-  imgcaption="Warning: Potential Security Risk Ahead"
+  title=""
+  caption="Warning: Potential Security Risk Ahead"
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}

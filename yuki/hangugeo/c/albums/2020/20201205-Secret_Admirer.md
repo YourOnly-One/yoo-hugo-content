@@ -3,7 +3,6 @@ title = "[믹스] Secret Admirer (비밀의 연인)"
 description = "《Secret Admirer》는 우리의 마음을 훔친 사람에게 사랑과 성실을 약속하는 노래 모음집입니다. 우리가 그 / 그녀에게 전할 수 있기를 바라는 메시지가 담긴 노래입니다."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "《Secret Admirer》는 우리의 마음을 훔친 사람에게 사랑과 성실을 약속하는 노래 모음집입니다. 우리가 그 / 그녀에게 전할 수 있기를 바라는 메시지가 담긴 노래입니다."																											# for summary text in list displays
 
-cover = "https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600k9j3gF-uyVdBV9jXMetFS88lpnACPcBGAYYCw/s0/Album-Secret%2BAdmirer-01.png"																					# only for some themes
 images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600k9j3gF-uyVdBV9jXMetFS88lpnACPcBGAYYCw/s0/Album-Secret%2BAdmirer-01.png"]																											# og:images
 #videos = [""]																											# og:video
 #audio = [""]																												# og:audio

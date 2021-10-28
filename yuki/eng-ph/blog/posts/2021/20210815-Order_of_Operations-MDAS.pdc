@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"				# theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,9 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/yuki/"
 avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Photograph"
 +++
 
 Have you ever seen those math questions posted in social media and social networks? Have you seen people giving different answers even though they all claim to have used MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, or GEMDAS? In this post, I will explain what these are and why there are different answers.
@@ -200,17 +196,17 @@ The examples I provided earlier were very simple and basic. If one is confused w
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Mathematics chalkboard"
-  imgcaption=""
+  title="Mathematics chalkboard"
+  caption=""
 
   licensecode="pixabay"
   licenseurl="https://pixabay.com/service/license/"
   licensename="Pixabay License"
 
   attribto="ArtsyBee"
-  attriblink="https://pixabay.com/users/artsybee-462611/"
+  attriburl="https://pixabay.com/users/artsybee-462611/"
   attribrel="noopener external nofollow"
 >}}

@@ -45,27 +45,6 @@ images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwO
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
 
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 +++
 
 前回の投稿で、「バイバイン-フィリピン人の忘れられたヒスパニック以前の執筆」について話しました。 [Unicode Standard](https://unicode.org)のバージョン5.0で、ブヒッド文字、ハヌノオ文字、タグバヌワ文字とともに「フィリピン文字」グループに追加されました。 しかし、別の言語やスクリプトで書かれたコンテンツを適切に記述またはマークするにはどうすればよいでしょうか。
@@ -331,18 +310,18 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/29233640@N07/24754999650"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/29233640@N07/24754999650"
+  linkrel="noopener external nofollow"
 
-  imgtitle="lave t'es mains"
-  imgcaption=""
+  title="lave t'es mains"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="Robert Couse-Baker"
-  attriblink="https://www.flickr.com/photos/29233640@N07/"
+  attriburl="https://www.flickr.com/photos/29233640@N07/"
   attribrel="noopener external nofollow"
 >}}
 

@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 # For /yuki/ choose one and remove everything else
 [[authors]]
@@ -120,17 +99,21 @@ See the [keyboard layout images here]({{< ref "philippines-unicode-keyboard-layo
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
-  imgrel="me noopener"
+  link="https://1.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
+  linkrel="me noopener"
 
-  imgtitle=""
-  imgcaption=""
+  title=""
+  caption=""
 
   licensecode="cc0"
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}

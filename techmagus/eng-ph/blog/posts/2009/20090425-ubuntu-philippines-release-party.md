@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -142,17 +121,17 @@ Thanks to Johann Tagle for sponsoring the event.&nbsp; And thanks to Mr. Chin Wo
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://2.bp.blogspot.com/-lEJK3ee-o1Y/XqlV6Zp3r8I/AAAAAAAAhbM/L0GBa15te-E_NmMkM_Bw6jL8CU8rdd4OgCPcBGAsYHg/s1600/IMG_0001.JPG"
-  imgrel="me noopener external"
+  link="https://2.bp.blogspot.com/-lEJK3ee-o1Y/XqlV6Zp3r8I/AAAAAAAAhbM/L0GBa15te-E_NmMkM_Bw6jL8CU8rdd4OgCPcBGAsYHg/s1600/IMG_0001.JPG"
+  linkrel="me noopener external"
 
-  imgtitle="Ubuntu Philippines 9.04 Release Party"
-  imgcaption=""
+  title="Ubuntu Philippines 9.04 Release Party"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename=""
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}

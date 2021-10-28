@@ -34,27 +34,6 @@ draft = true
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -80,16 +59,16 @@ Test here.[^a]
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc=""
-  imglink=""
-  imgrel="noopener external nofollow"
+  src=""
+  link=""
+  linkrel="noopener external nofollow"
 
-  imgtitle=""
-  imgcaption=""
-  imgalt=""
+  title=""
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -98,7 +77,7 @@ Test here.[^a]
   licensename=""
 
   attribto=""
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -121,18 +100,18 @@ Simply follow the attribution shown underneath each photo, or whichever is accep
 {{< image
   type="imagecoverattrib"
 
-  imglink=""
-  imgrel="noopener external nofollow"
+  link=""
+  linkrel="noopener external nofollow"
 
-  imgtitle=""
-  imgcaption=""
+  title=""
+  caption=""
 
   licensecode=""
   licenseurl=""
   licensename=""
 
   attribto=""
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

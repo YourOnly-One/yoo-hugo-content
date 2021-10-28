@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-F5BZ8TiB5qrunaWrHhoeMJxNRPgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085901_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"]    # og:images
-cover = "https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-F5BZ8TiB5qrunaWrHhoeMJxNRPgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085901_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 The first and second of seven Feasts of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) is Pesach or Passover and Matstsah or Unleavened Bread. The Feast of Pesach / Passover is tonight at sundown while the Feast of Matstsah / Unleavened Bread begins on the fifteenth day (sunrise is the beginning of a day) and ends on the twenty-first day at sundown (sunset ends a day).
@@ -121,41 +88,16 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://1.bp.blogspot.com/-jh9ow-ld7o0/Xlu7dYbjFlI/AAAAAAAAgEY/QubYK94qOagrrGLaC6RkIV_M_bWRr25wgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085645_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imglink="https://1.bp.blogspot.com/-jh9ow-ld7o0/Xlu7dYbjFlI/AAAAAAAAgEY/QubYK94qOagrrGLaC6RkIV_M_bWRr25wgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085645_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
+  src="https://1.bp.blogspot.com/-jh9ow-ld7o0/Xlu7dYbjFlI/AAAAAAAAgEY/QubYK94qOagrrGLaC6RkIV_M_bWRr25wgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085645_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  link="https://1.bp.blogspot.com/-jh9ow-ld7o0/Xlu7dYbjFlI/AAAAAAAAgEY/QubYK94qOagrrGLaC6RkIV_M_bWRr25wgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085645_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
-
-  attribalign=""
-
-  licensecode="ccbysa4"
-  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
-  licensename="CC-BY-SA 4.0 International"
-
-  attribto="YourOnly.One"
-  attriblink="https://youronly.one"
-  attribrel="noopener"
->}}
-
-{{< image
-  type="image"
-
-  imgheight="80%"
-  imgwidth="80%"
-
-  imgsrc="https://3.bp.blogspot.com/-7oeOwpEg87o/Xlu7d3FZwYI/AAAAAAAAgEo/V9seMdypAL8KyA2Bn47WgMz6MSWvcIuOgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090457_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imglink="https://3.bp.blogspot.com/-7oeOwpEg87o/Xlu7d3FZwYI/AAAAAAAAgEo/V9seMdypAL8KyA2Bn47WgMz6MSWvcIuOgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090457_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
-
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
 
   attribalign=""
 
@@ -164,23 +106,23 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://3.bp.blogspot.com/-nUGO61eLssk/Xlu7eWq6TZI/AAAAAAAAgEo/EDG7BJT4PJ4T321UUTlT1xOROsCEvr4eACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090745_ISO100_NIKON-D3200-NIKON-CORPORATION_002-s-1350x898.jpg"
-  imglink="https://3.bp.blogspot.com/-nUGO61eLssk/Xlu7eWq6TZI/AAAAAAAAgEo/EDG7BJT4PJ4T321UUTlT1xOROsCEvr4eACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090745_ISO100_NIKON-D3200-NIKON-CORPORATION_002-s-1350x898.jpg"
-  imgrel="noopener external"
+  src="https://3.bp.blogspot.com/-7oeOwpEg87o/Xlu7d3FZwYI/AAAAAAAAgEo/V9seMdypAL8KyA2Bn47WgMz6MSWvcIuOgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090457_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  link="https://3.bp.blogspot.com/-7oeOwpEg87o/Xlu7d3FZwYI/AAAAAAAAgEo/V9seMdypAL8KyA2Bn47WgMz6MSWvcIuOgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090457_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
 
   attribalign=""
 
@@ -189,23 +131,23 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://2.bp.blogspot.com/-x_eh_XeYfSU/Xlu7en3iXiI/AAAAAAAAgEk/NR2Z1iPKJ1wDbk_PcFAP5jF_77DQVRy9ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090802_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imglink="https://2.bp.blogspot.com/-x_eh_XeYfSU/Xlu7en3iXiI/AAAAAAAAgEk/NR2Z1iPKJ1wDbk_PcFAP5jF_77DQVRy9ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090802_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
+  src="https://3.bp.blogspot.com/-nUGO61eLssk/Xlu7eWq6TZI/AAAAAAAAgEo/EDG7BJT4PJ4T321UUTlT1xOROsCEvr4eACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090745_ISO100_NIKON-D3200-NIKON-CORPORATION_002-s-1350x898.jpg"
+  link="https://3.bp.blogspot.com/-nUGO61eLssk/Xlu7eWq6TZI/AAAAAAAAgEo/EDG7BJT4PJ4T321UUTlT1xOROsCEvr4eACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090745_ISO100_NIKON-D3200-NIKON-CORPORATION_002-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
 
   attribalign=""
 
@@ -214,23 +156,48 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://4.bp.blogspot.com/-5Ad_qRLbwoQ/Xlu7fEBwxsI/AAAAAAAAgEo/gd53-Z0bfH8YRB8ekUkyYi8Vv_SQrns-wCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091014_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imglink="https://4.bp.blogspot.com/-5Ad_qRLbwoQ/Xlu7fEBwxsI/AAAAAAAAgEo/gd53-Z0bfH8YRB8ekUkyYi8Vv_SQrns-wCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091014_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
+  src="https://2.bp.blogspot.com/-x_eh_XeYfSU/Xlu7en3iXiI/AAAAAAAAgEk/NR2Z1iPKJ1wDbk_PcFAP5jF_77DQVRy9ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090802_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  link="https://2.bp.blogspot.com/-x_eh_XeYfSU/Xlu7en3iXiI/AAAAAAAAgEk/NR2Z1iPKJ1wDbk_PcFAP5jF_77DQVRy9ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-090802_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
+
+  attribalign=""
+
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="CC-BY-SA 4.0 International"
+
+  attribto="YourOnly.One"
+  attriburl="https://youronly.one"
+  attribrel="noopener"
+>}}
+
+{{< image
+  type="image"
+
+  height="80%"
+  width="80%"
+
+  src="https://4.bp.blogspot.com/-5Ad_qRLbwoQ/Xlu7fEBwxsI/AAAAAAAAgEo/gd53-Z0bfH8YRB8ekUkyYi8Vv_SQrns-wCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091014_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  link="https://4.bp.blogspot.com/-5Ad_qRLbwoQ/Xlu7fEBwxsI/AAAAAAAAgEo/gd53-Z0bfH8YRB8ekUkyYi8Vv_SQrns-wCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091014_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
+
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
 
   attribalign="txt"
 
@@ -239,23 +206,23 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://2.bp.blogspot.com/-KQnhLiGJ1xE/Xlu7f--9U6I/AAAAAAAAgEs/BDm2XWg2_FM_-uM917zWt7J5gJEoRENNwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091111_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imglink="https://2.bp.blogspot.com/-KQnhLiGJ1xE/Xlu7f--9U6I/AAAAAAAAgEs/BDm2XWg2_FM_-uM917zWt7J5gJEoRENNwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091111_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
+  src="https://2.bp.blogspot.com/-KQnhLiGJ1xE/Xlu7f--9U6I/AAAAAAAAgEs/BDm2XWg2_FM_-uM917zWt7J5gJEoRENNwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091111_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  link="https://2.bp.blogspot.com/-KQnhLiGJ1xE/Xlu7f--9U6I/AAAAAAAAgEs/BDm2XWg2_FM_-uM917zWt7J5gJEoRENNwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091111_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
 
   attribalign="txt"
 
@@ -264,23 +231,23 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://4.bp.blogspot.com/-fWfjZNFfT8A/Xlu7f_Ym_PI/AAAAAAAAgEg/ZtK5JDMrfc4Ry6mOxdJEz3Unssrze4X7ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091129_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imglink="https://4.bp.blogspot.com/-fWfjZNFfT8A/Xlu7f_Ym_PI/AAAAAAAAgEg/ZtK5JDMrfc4Ry6mOxdJEz3Unssrze4X7ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091129_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
+  src="https://4.bp.blogspot.com/-fWfjZNFfT8A/Xlu7f_Ym_PI/AAAAAAAAgEg/ZtK5JDMrfc4Ry6mOxdJEz3Unssrze4X7ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091129_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  link="https://4.bp.blogspot.com/-fWfjZNFfT8A/Xlu7f_Ym_PI/AAAAAAAAgEg/ZtK5JDMrfc4Ry6mOxdJEz3Unssrze4X7ACPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091129_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
 
   attribalign=""
 
@@ -289,23 +256,23 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://1.bp.blogspot.com/-qAk2WSw_8dY/Xlu7gVCmDNI/AAAAAAAAgEw/gI6sNv8Su94g8QClIFlFmXf7wUHwfONgwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091245_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imglink="https://1.bp.blogspot.com/-qAk2WSw_8dY/Xlu7gVCmDNI/AAAAAAAAgEw/gI6sNv8Su94g8QClIFlFmXf7wUHwfONgwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091245_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
+  src="https://1.bp.blogspot.com/-qAk2WSw_8dY/Xlu7gVCmDNI/AAAAAAAAgEw/gI6sNv8Su94g8QClIFlFmXf7wUHwfONgwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091245_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  link="https://1.bp.blogspot.com/-qAk2WSw_8dY/Xlu7gVCmDNI/AAAAAAAAgEw/gI6sNv8Su94g8QClIFlFmXf7wUHwfONgwCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-091245_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle=""
-  imgcaption="San Ildefonso Catholic Reenactment"
-  imgalt="San Ildefonso Catholic Reenactment"
+  title=""
+  caption="San Ildefonso Catholic Reenactment"
+  alt="San Ildefonso Catholic Reenactment"
 
   attribalign=""
 
@@ -314,7 +281,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
@@ -323,17 +290,17 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-F5BZ8TiB5qrunaWrHhoeMJxNRPgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085901_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
-  imgrel="noopener external"
+  link="https://4.bp.blogspot.com/-NVS7GufUdeo/Xlu7d2yx4jI/AAAAAAAAgEc/wf7IU-F5BZ8TiB5qrunaWrHhoeMJxNRPgCPcBGAYYCw/s1600/San%2BIldefonso%2BCatholic%2BReenactment_20190419-085901_ISO100_NIKON-D3200-NIKON-CORPORATION-s-1350x898.jpg"
+  linkrel="noopener external"
 
-  imgtitle="Vox Popvli Vox Dei"
-  imgcaption="San Ildefonso Reenanctment"
+  title="Vox Popvli Vox Dei"
+  caption="San Ildefonso Reenanctment"
 
-  licensecode="any or cc0 or publicdomain or allrightsreserved"
+  licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}

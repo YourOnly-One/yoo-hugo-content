@@ -33,10 +33,9 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]                                                      # og:video
 #audio = [""]                                                       # og:audio
-cover = "https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"                                         # only for some themes
 images = ["https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"]                                                      # og:images
+videos = ["https://www.youtube.com/watch?v=jJwuFjmfjRY"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -183,15 +182,6 @@ alternatenames = ["Jung Ji Hyun", "Jeong Ji Hyeon"]
 name = "유제원"
 alternatenames = ["Yoo Je Won", "Yu Je Won"]
 #sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The King: Eternal Monarch"
-description = "公式予告編"
-uploaddate = "2020-04-13"
-thumbnailurl = "https://img.youtube.com/vi/jJwuFjmfjRY/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=jJwuFjmfjRY"
-embedurl = "https://www.youtube-nocookie.com/embed/jJwuFjmfjRY"
 +++
 
 「**더킹：영원의군주**」または「**ザキング：永遠の君主**」（2020）は、2010年代の最高のSFとロマンスでした。 この番組は、12年間そのランクを維持していた「フリンジ」（2008年）を押し下げて、私の「総合ベストSFテレビ番組トップ10」のリストで1位（1位）を獲得したと言えます。
@@ -224,7 +214,62 @@ embedurl = "https://www.youtube-nocookie.com/embed/jJwuFjmfjRY"
 
 10つ星のうち9.5の総合スコア。
 
-{{< youtube id="N1L1iaFZQ9I" title="「ザ・キング：永遠の君主」 (2020) 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="N1L1iaFZQ9I"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=jJwuFjmfjRY"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/jJwuFjmfjRY/hqdefault.jpg"
+
+  title="The King: Eternal Monarch"
+  caption="公式予告編"
+
+  datecreated=""
+  datepublished="2020-04-13"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/7JfLLITRjdnUhcUBcKWjZo" >}}
@@ -234,18 +279,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/jJwuFjmfjRY"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="ザ・キング：永遠の君主 (2020)"
-  imgcaption=""
+  title="ザ・キング：永遠の君主 (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Studio Dragon"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

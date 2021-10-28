@@ -35,7 +35,6 @@ type = "article"                                                           # art
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"				# theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,9 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/yuki/"
 avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Photograph"
 +++
 
 소셜 미디어와 소셜 네트워크에 게시된 수학 문제를 본 적이 있습니까? MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS 또는 GEMDAS를 모두 사용했다고 주장하면서도 다른 대답을 하는 사람들을 본 적이 있습니까? 이 게시물에서는 이것이 무엇이며 왜 다른 답변이 있는지 설명합니다.
@@ -201,18 +197,18 @@ MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS 및 GEMDAS는 보는 것에 의존하기 �
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Mathematics chalkboard"
-  imgcaption=""
+  title="Mathematics chalkboard"
+  caption=""
 
   licensecode="pixabay"
   licenseurl="https://pixabay.com/service/license/"
   licensename="Pixabay License"
 
   attribto="ArtsyBee"
-  attriblink="https://pixabay.com/users/artsybee-462611/"
+  attriburl="https://pixabay.com/users/artsybee-462611/"
   attribrel="noopener external nofollow"
 >}}
 

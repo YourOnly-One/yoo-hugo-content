@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 # For /yuki/ choose one and remove everything else
 [[authors]]
@@ -111,16 +90,16 @@ If you think that this is new, surprise! Federation has been around since 2008, 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp"
+  linkrel="me noopener"
 
-  imgtitle="Frio Theme"
-  imgcaption="User Profile"
-  imgalt="Frio Theme User Profile"
+  title="Frio Theme"
+  caption="User Profile"
+  alt="Frio Theme User Profile"
 
   attribalign=""
 
@@ -129,7 +108,7 @@ If you think that this is new, surprise! Federation has been around since 2008, 
   licensename=""
 
   attribto="Friendica"
-  attriblink="https://friendi.ca"
+  attriburl="https://friendi.ca"
   attribrel="noopener external nofollow"
 >}}
 
@@ -154,16 +133,16 @@ If you want to give it a spin, choose one of the servers available [here](https:
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp"
+  linkrel="me noopener"
 
-  imgtitle="Hubzilla"
-  imgcaption=""
-  imgalt="Hubzilla"
+  title="Hubzilla"
+  caption=""
+  alt="Hubzilla"
 
   attribalign=""
 
@@ -172,7 +151,7 @@ If you want to give it a spin, choose one of the servers available [here](https:
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -193,16 +172,16 @@ You can sign-up for a Hubzilla channel (or account if you will) in any of the av
 {{< image
   type="image"
 
-  imgheight="50%"
-  imgwidth="50%"
+  height="50%"
+  width="50%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
+  link="https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg"
+  linkrel="me noopener"
 
-  imgtitle="Zap"
-  imgcaption="logo"
-  imgalt="Zap logo"
+  title="Zap"
+  caption="logo"
+  alt="Zap logo"
 
   attribalign=""
 
@@ -211,7 +190,7 @@ You can sign-up for a Hubzilla channel (or account if you will) in any of the av
   licensename=""
 
   attribto="Zap"
-  attriblink="https://zotlabs.com/zap/"
+  attriburl="https://zotlabs.com/zap/"
   attribrel="noopener external nofollow"
 >}}
 
@@ -236,16 +215,16 @@ If you are ready to jump in and create your online social web identity, choose a
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp"
+  linkrel="me noopener"
 
-  imgtitle="Misskey"
-  imgcaption="Stream"
-  imgalt="Misskey Stream"
+  title="Misskey"
+  caption="Stream"
+  alt="Misskey Stream"
 
   attribalign=""
 
@@ -254,7 +233,7 @@ If you are ready to jump in and create your online social web identity, choose a
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -284,16 +263,16 @@ You can find a Misskey community which perfectly fits you [here](https://join.mi
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp"
+  linkrel="me noopener"
 
-  imgtitle="Pixelfed"
-  imgcaption="Trending view"
-  imgalt="Pixelfed Trending view"
+  title="Pixelfed"
+  caption="Trending view"
+  alt="Pixelfed Trending view"
 
   attribalign=""
 
@@ -302,7 +281,7 @@ You can find a Misskey community which perfectly fits you [here](https://join.mi
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -334,16 +313,16 @@ You can start uploading your photos into the fediverse today by joining any [Pix
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp"
+  linkrel="me noopener"
 
-  imgtitle="Mastodon"
-  imgcaption="Dashboard"
-  imgalt="Mastodon Dashboard"
+  title="Mastodon"
+  caption="Dashboard"
+  alt="Mastodon Dashboard"
 
   attribalign=""
 
@@ -352,7 +331,7 @@ You can start uploading your photos into the fediverse today by joining any [Pix
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -376,16 +355,16 @@ If you are regularly use Twitter and you like its flow, Mastodon is the right pl
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp"
+  linkrel="me noopener"
 
-  imgtitle="PeerTube"
-  imgcaption="Discover view"
-  imgalt="PeerTube Discover view"
+  title="PeerTube"
+  caption="Discover view"
+  alt="PeerTube Discover view"
 
   attribalign=""
 
@@ -394,7 +373,7 @@ If you are regularly use Twitter and you like its flow, Mastodon is the right pl
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -427,16 +406,16 @@ Ready to upload your videos and be seen by countless of fediverse citizens? Find
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp"
+  linkrel="me noopener"
 
-  imgtitle="Keybase"
-  imgcaption="Chat view"
-  imgalt="Keybase Chat view"
+  title="Keybase"
+  caption="Chat view"
+  alt="Keybase Chat view"
 
   attribalign=""
 
@@ -445,7 +424,7 @@ Ready to upload your videos and be seen by countless of fediverse citizens? Find
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -491,16 +470,16 @@ Keybase Teams which offers 100 GB of storage per team and if you choose to host 
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp"
+  linkrel="me noopener"
 
-  imgtitle="Matrix"
-  imgcaption="Element Web Client"
-  imgalt="Matrix Element Web Client"
+  title="Matrix"
+  caption="Element Web Client"
+  alt="Matrix Element Web Client"
 
   attribalign=""
 
@@ -509,7 +488,7 @@ Keybase Teams which offers 100 GB of storage per team and if you choose to host 
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -535,16 +514,16 @@ Try Matrix [today](https://matrix.org/docs/projects/try-matrix-now/)!
 {{< image
   type="image"
 
-  imgheight="80%"
-  imgwidth="80%"
+  height="80%"
+  width="80%"
 
-  imgsrc="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
-  imglink="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
+  link="https://img.youronly.one/p/techmagus/ddfon/session-01.webp"
+  linkrel="me noopener"
 
-  imgtitle="Session"
-  imgcaption="Linux Client"
-  imgalt="Session Linux Client"
+  title="Session"
+  caption="Linux Client"
+  alt="Session Linux Client"
 
   attribalign=""
 
@@ -553,7 +532,7 @@ Try Matrix [today](https://matrix.org/docs/projects/try-matrix-now/)!
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -586,17 +565,17 @@ Enjoy and Shalom!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.gif"
-  imgrel="me noopener"
+  link="https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.gif"
+  linkrel="me noopener"
 
-  imgtitle="Decentralisation"
-  imgcaption=""
+  title="Decentralisation"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}

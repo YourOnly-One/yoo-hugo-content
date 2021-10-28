@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"]    # og:images
-cover = "https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 We have seen many articles discussing the pronunciation of the name of our Messiah as either "Yahushua" or "Yahusha". No doubt, some or many of us were already confused to the point that we placed it aside and decided "it does not really matter".
@@ -155,16 +122,16 @@ Both spellings (defective and full) are pronounced and understood as:
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"
-  imglink="https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"
-  imgrel="noopener"
+  src="https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"
+  link="https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"
+  linkrel="noopener"
 
-  imgtitle="Yahushua, The Name Above Every Name"
-  imgcaption="Infographic showing how the name of the Messiah is written in Paleo Hebrew, Modern Hebrew with Nikkud, and Present Hebrew"
-  imgalt="Yahushua Infographic"
+  title="Yahushua, The Name Above Every Name"
+  caption="Infographic showing how the name of the Messiah is written in Paleo Hebrew, Modern Hebrew with Nikkud, and Present Hebrew"
+  alt="Yahushua Infographic"
 
   attribalign=""
 
@@ -173,7 +140,7 @@ Both spellings (defective and full) are pronounced and understood as:
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
@@ -225,17 +192,17 @@ I hope with the disclaimers above, there will be no attempts to spark debates. Y
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"
-  imgrel="noopener"
+  link="https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"
+  linkrel="noopener"
 
-  imgtitle="Yahushua infographic"
-  imgcaption="Yahushua, The Name Above Every Name"
+  title="Yahushua infographic"
+  caption="Yahushua, The Name Above Every Name"
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}

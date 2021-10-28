@@ -34,7 +34,6 @@ contenttypes = ["Article"]
 #videos = [""]                                # og:video
 #audio = [""]                               # og:audio
 images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Timeless_Books-1280w.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -43,38 +42,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://verses.space"
 avatar = "https://rsc.youronly.one/img/y/KWWP-logo-01-1280wh-transparent.webp"
 rel = "noopener external"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 最近、パブリックドメインの作品に基づく作品がファンフィクションであるかどうかを尋ねたり議論したりするスレッドに遭遇しています。 新しい作品が著作権法の範囲内にあるかどうかを作家が懸念しているのは良いことですが、残念ながら、他の人の作品に基づく作品は自動的にファンフィクションであると多くの人がまだ想定しています。
@@ -132,18 +99,18 @@ rel = "noopener external"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="時代を超越した本"
-  imgcaption=""
+  title="時代を超越した本"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/deed.en"
   licensename="CC-BY 2.0 Generic"
 
   attribto="Lin Kristensen"
-  attriblink="https://www.flickr.com/people/23701579@N00"
+  attriburl="https://www.flickr.com/people/23701579@N00"
   attribrel="noopener external nofollow"
 >}}
 

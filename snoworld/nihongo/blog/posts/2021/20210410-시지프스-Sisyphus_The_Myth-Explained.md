@@ -32,10 +32,9 @@ type = "article"                                                           # art
 
 contenttypes = ["Article"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Sisyphus_The_Myth-01.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-02.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-03.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-04.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"]    # og:images
-cover = "https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"				# theme specific
+videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -67,15 +66,6 @@ cover = "https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"				# theme specif
 #name = ""
 #alternatenames = [""]
 #sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
-description = "「シーシュポス: The Myth」 予告編"
-uploaddate = "2020-12-23"
-thumbnailurl = "https://img.youtube.com/vi/734PeGfxICM/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=734PeGfxICM"
-embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 +++
 
 重要なエピソード15と16が放映された後でも、最近終了した韓国のTVシリーズ「シーシュポス：神話」については多くの混乱があります。 この投稿では、この驚くべき物語の終わりを混乱させるように思われることを明確にするために最善を尽くします。
@@ -175,16 +165,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="シーシュポス: The Myth"
-  imgcaption="「金ビョンチョル」 なので 「ソウォンジュ / シグマ」"
-  imgalt="シーシュポス: The Myth"
+  title="シーシュポス: The Myth"
+  caption="「金ビョンチョル」 なので 「ソウォンジュ / シグマ」"
+  alt="シーシュポス: The Myth"
 
   attribalign=""
 
@@ -193,7 +183,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -235,16 +225,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="シーシュポス: The Myth"
-  imgcaption="「박신혜」 なので 「カンソヘ」"
-  imgalt="シーシュポス: The Myth"
+  title="シーシュポス: The Myth"
+  caption="「박신혜」 なので 「カンソヘ」"
+  alt="シーシュポス: The Myth"
 
   attribalign=""
 
@@ -253,7 +243,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -288,16 +278,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="シーシュポス: The Myth"
-  imgcaption="「김병철」 なので 「ソウォンジュ / シグマ」"
-  imgalt="シーシュポス: The Myth"
+  title="シーシュポス: The Myth"
+  caption="「김병철」 なので 「ソウォンジュ / シグマ」"
+  alt="シーシュポス: The Myth"
 
   attribalign=""
 
@@ -306,7 +296,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -355,16 +345,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="シーシュポス: The Myth"
-  imgcaption="「金ビョンチョル」 なので 「ソウォンジュ / シグマ」"
-  imgalt="シーシュポス: The Myth"
+  title="シーシュポス: The Myth"
+  caption="「金ビョンチョル」 なので 「ソウォンジュ / シグマ」"
+  alt="シーシュポス: The Myth"
 
   attribalign=""
 
@@ -373,7 +363,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -389,7 +379,62 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 Animetricはショーのエンディングについて素晴らしい説明をしました。[Animetric's World](https://j.mp/2RrPfeq) で彼女の理論を読むことを強くお勧めします。
 
 ## 公式予告編
-{{< youtube id="734PeGfxICM" title="「シーシュポス: The Myth」 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="734PeGfxICM"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=734PeGfxICM"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/734PeGfxICM/hqdefault.jpg"
+
+  title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
+  caption="「シーシュポス: The Myth」 予告編"
+
+  datecreated=""
+  datepublished="2020-12-23"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/36v88yXQKhvQFscLJuXFZd" >}}
@@ -400,17 +445,17 @@ Animetricはショーのエンディングについて素晴らしい説明を�
   type="imagecoverattrib"
 
 	imglink="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
-  imgrel="noopener external nofollow"
+  linkrel="noopener external nofollow"
 
-  imgtitle="シーシュポス: The Myth"
-  imgcaption=""
+  title="シーシュポス: The Myth"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

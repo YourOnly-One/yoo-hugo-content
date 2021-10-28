@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg"]    # og:images
-cover = "https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 The Feast of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>)'s Passover or <bdo lang="hbo-Hebr" dir="rtl">𐤐𐤎𐤇</bdo> (Pesach) is the first in the annual seven appointed times we are to observe diligently. However, in the so called "New Testament" era, it is commonly taught that this is no longer important and meaningless. But is it?
@@ -118,16 +85,16 @@ I also provided an image version below if you would like to share each slide ind
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://3.bp.blogspot.com/-m1N0PBg-_Fs/XosZrsZoT6I/AAAAAAAAg8k/5uM3ivXsqOoVpN18vkZH2hAf6tWewfk1gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-01.png"
-  imglink="https://3.bp.blogspot.com/-m1N0PBg-_Fs/XosZrsZoT6I/AAAAAAAAg8k/5uM3ivXsqOoVpN18vkZH2hAf6tWewfk1gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-01.png"
-  imgrel="noopener external"
+  src="https://3.bp.blogspot.com/-m1N0PBg-_Fs/XosZrsZoT6I/AAAAAAAAg8k/5uM3ivXsqOoVpN18vkZH2hAf6tWewfk1gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-01.png"
+  link="https://3.bp.blogspot.com/-m1N0PBg-_Fs/XosZrsZoT6I/AAAAAAAAg8k/5uM3ivXsqOoVpN18vkZH2hAf6tWewfk1gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-01.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-01"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-01"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-01"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-01"
 
   attribalign=""
 
@@ -136,23 +103,23 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-YzjwZ4M2tT8/XosZrsOD09I/AAAAAAAAg8g/YmaHi0w9vAAvp9x5ZF2AGaIRoSVPCv05gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-02.png"
-  imglink="https://1.bp.blogspot.com/-YzjwZ4M2tT8/XosZrsOD09I/AAAAAAAAg8g/YmaHi0w9vAAvp9x5ZF2AGaIRoSVPCv05gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-02.png"
-  imgrel="noopener external"
+  src="https://1.bp.blogspot.com/-YzjwZ4M2tT8/XosZrsOD09I/AAAAAAAAg8g/YmaHi0w9vAAvp9x5ZF2AGaIRoSVPCv05gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-02.png"
+  link="https://1.bp.blogspot.com/-YzjwZ4M2tT8/XosZrsOD09I/AAAAAAAAg8g/YmaHi0w9vAAvp9x5ZF2AGaIRoSVPCv05gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-02.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-02"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-02"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-02"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-02"
 
   attribalign=""
 
@@ -161,23 +128,23 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://2.bp.blogspot.com/-hCOAJIEvOdk/XosZr-DGOGI/AAAAAAAAg8k/gohtI1Efxi0u4D1CsL9Rt4fK_Ex2-yVKgCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-03.png"
-  imglink="https://2.bp.blogspot.com/-hCOAJIEvOdk/XosZr-DGOGI/AAAAAAAAg8k/gohtI1Efxi0u4D1CsL9Rt4fK_Ex2-yVKgCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-03.png"
-  imgrel="noopener external"
+  src="https://2.bp.blogspot.com/-hCOAJIEvOdk/XosZr-DGOGI/AAAAAAAAg8k/gohtI1Efxi0u4D1CsL9Rt4fK_Ex2-yVKgCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-03.png"
+  link="https://2.bp.blogspot.com/-hCOAJIEvOdk/XosZr-DGOGI/AAAAAAAAg8k/gohtI1Efxi0u4D1CsL9Rt4fK_Ex2-yVKgCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-03.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-03"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-03"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-03"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-03"
 
   attribalign=""
 
@@ -186,23 +153,23 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://2.bp.blogspot.com/-XYm0UmTKG_s/XosZsREKLFI/AAAAAAAAg8o/wmmr5TGjaiAStMEuqlObcNILrmWaeduuACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-04.png"
-  imglink="https://2.bp.blogspot.com/-XYm0UmTKG_s/XosZsREKLFI/AAAAAAAAg8o/wmmr5TGjaiAStMEuqlObcNILrmWaeduuACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-04.png"
-  imgrel="noopener external"
+  src="https://2.bp.blogspot.com/-XYm0UmTKG_s/XosZsREKLFI/AAAAAAAAg8o/wmmr5TGjaiAStMEuqlObcNILrmWaeduuACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-04.png"
+  link="https://2.bp.blogspot.com/-XYm0UmTKG_s/XosZsREKLFI/AAAAAAAAg8o/wmmr5TGjaiAStMEuqlObcNILrmWaeduuACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-04.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-04"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-04"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-04"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-04"
 
   attribalign=""
 
@@ -211,23 +178,23 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://4.bp.blogspot.com/-4gaO-oS0bMg/XosZsoJdt4I/AAAAAAAAg8w/czCv_yV7rmctHmENCYZKQxDUF1paY-ckACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-05.png"
-  imglink="https://4.bp.blogspot.com/-4gaO-oS0bMg/XosZsoJdt4I/AAAAAAAAg8w/czCv_yV7rmctHmENCYZKQxDUF1paY-ckACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-05.png"
-  imgrel="noopener external"
+  src="https://4.bp.blogspot.com/-4gaO-oS0bMg/XosZsoJdt4I/AAAAAAAAg8w/czCv_yV7rmctHmENCYZKQxDUF1paY-ckACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-05.png"
+  link="https://4.bp.blogspot.com/-4gaO-oS0bMg/XosZsoJdt4I/AAAAAAAAg8w/czCv_yV7rmctHmENCYZKQxDUF1paY-ckACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-05.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-05"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-05"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-05"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-05"
 
   attribalign=""
 
@@ -236,23 +203,23 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-GKP4KOmamiQ/XosZtDTnf7I/AAAAAAAAg8s/XyXDSTxJY1IdgoBS_4sneikZklmdUuYvwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-06.png"
-  imglink="https://1.bp.blogspot.com/-GKP4KOmamiQ/XosZtDTnf7I/AAAAAAAAg8s/XyXDSTxJY1IdgoBS_4sneikZklmdUuYvwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-06.png"
-  imgrel="noopener external"
+  src="https://1.bp.blogspot.com/-GKP4KOmamiQ/XosZtDTnf7I/AAAAAAAAg8s/XyXDSTxJY1IdgoBS_4sneikZklmdUuYvwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-06.png"
+  link="https://1.bp.blogspot.com/-GKP4KOmamiQ/XosZtDTnf7I/AAAAAAAAg8s/XyXDSTxJY1IdgoBS_4sneikZklmdUuYvwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-06.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-06"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-06"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-06"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-06"
 
   attribalign=""
 
@@ -261,23 +228,23 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://3.bp.blogspot.com/-tAzCmkh_HDA/XosZtTRGSFI/AAAAAAAAg84/JQ6Y_LkuqAkc7rPUr56SgVdFfTyzBokeQCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-07.png"
-  imglink="https://3.bp.blogspot.com/-tAzCmkh_HDA/XosZtTRGSFI/AAAAAAAAg84/JQ6Y_LkuqAkc7rPUr56SgVdFfTyzBokeQCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-07.png"
-  imgrel="noopener external"
+  src="https://3.bp.blogspot.com/-tAzCmkh_HDA/XosZtTRGSFI/AAAAAAAAg84/JQ6Y_LkuqAkc7rPUr56SgVdFfTyzBokeQCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-07.png"
+  link="https://3.bp.blogspot.com/-tAzCmkh_HDA/XosZtTRGSFI/AAAAAAAAg84/JQ6Y_LkuqAkc7rPUr56SgVdFfTyzBokeQCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-07.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-07"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-07"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-07"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-07"
 
   attribalign=""
 
@@ -286,23 +253,23 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://2.bp.blogspot.com/-CGVxntucUDg/XosZt8BnRII/AAAAAAAAg80/F7Mv6ahj0dsm96bGDYPkebIGjcxlMGKkwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-08.png"
-  imglink="https://2.bp.blogspot.com/-CGVxntucUDg/XosZt8BnRII/AAAAAAAAg80/F7Mv6ahj0dsm96bGDYPkebIGjcxlMGKkwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-08.png"
-  imgrel="noopener external"
+  src="https://2.bp.blogspot.com/-CGVxntucUDg/XosZt8BnRII/AAAAAAAAg80/F7Mv6ahj0dsm96bGDYPkebIGjcxlMGKkwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-08.png"
+  link="https://2.bp.blogspot.com/-CGVxntucUDg/XosZt8BnRII/AAAAAAAAg80/F7Mv6ahj0dsm96bGDYPkebIGjcxlMGKkwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-08.png"
+  linkrel="noopener external"
 
-  imgtitle="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
-  imgcaption="slide-08"
-  imgalt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-08"
+  title="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
+  caption="slide-08"
+  alt="Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover slide-08"
 
   attribalign=""
 
@@ -311,7 +278,7 @@ I also provided an image version below if you would like to share each slide ind
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 
@@ -332,17 +299,17 @@ Shalom!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/slgc/5632231159/"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/slgc/5632231159/"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Day 108 - The Passover Table Is Set"
-  imgcaption=""
+  title="Day 108 - The Passover Table Is Set"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="slgckgc"
-  attriblink="https://www.flickr.com/photos/slgc/"
+  attriburl="https://www.flickr.com/photos/slgc/"
   attribrel="noopener external nofollow"
 >}}

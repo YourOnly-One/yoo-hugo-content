@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://1.bp.blogspot.com/-VyePgPp0EyQ/Xntc4hn7duI/AAAAAAAAgxI/dt36XFaVNbIOIuoKrdTENPIlmHz3gx5CACLcBGAsYHQ/s1600/aniket-bhattacharya-CgyrwbE6Hm4-unsplash.jpg"]    # og:images
-cover = "https://1.bp.blogspot.com/-VyePgPp0EyQ/Xntc4hn7duI/AAAAAAAAgxI/dt36XFaVNbIOIuoKrdTENPIlmHz3gx5CACLcBGAsYHQ/s1600/aniket-bhattacharya-CgyrwbE6Hm4-unsplash.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 Happy New Year!
@@ -98,17 +65,17 @@ If you would like to know more about the true New Year, read: [When is the True 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://unsplash.com/photos/CgyrwbE6Hm4"
-  imgrel="noopener external nofollow"
+  link="https://unsplash.com/photos/CgyrwbE6Hm4"
+  linkrel="noopener external nofollow"
 
-  imgtitle=""
-  imgcaption="green grass field sunset scenery"
+  title=""
+  caption="green grass field sunset scenery"
 
   licensecode="Unsplash"
   licenseurl="https://unsplash.com/license"
   licensename="Unsplash License"
 
   attribto="Aniket Bhattacharya"
-  attriblink="https://unsplash.com/@aniket940518"
+  attriburl="https://unsplash.com/@aniket940518"
   attribrel="noopener external nofollow"
 >}}

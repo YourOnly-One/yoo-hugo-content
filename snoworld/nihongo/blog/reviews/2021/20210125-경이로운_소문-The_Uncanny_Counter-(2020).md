@@ -34,10 +34,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp", "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=rI55SRM6uhs"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -145,15 +144,6 @@ sameas = ["https://www.imdb.com/title/tt13273826/characters/nm0025548"]
 name = "유선동"
 alternatenames = ["Yoo Seon Dong"]
 sameas = ["https://www.imdb.com/name/nm1602570"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
-description = "「驚異的な噂」 予告編"
-uploaddate = "2020-11-27"
-thumbnailurl = "https://img.youtube.com/vi/rI55SRM6uhs/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=rI55SRM6uhs"
-embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 +++
 
 「***驚異的な噂***」（2020）シーズン1は、「長」による「驚異報噂」（2018）と題されたウェブトゥーン（韓国のデジタル漫画）の実写化でした。 カウンターは「ジョビガムギュ」「ユ・ジュンサン」「ギムセジョン」「塩ヘラン」「アン・ソクファン」。
@@ -175,16 +165,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  imglink="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="驚異的な噂 (2020)"
-  imgcaption="(左から右へ) 「ギムセジョン」, 「ユ・ジュンサン」, 「アン・ソックァン」, 「ジョビョンギュ」, 「塩ヘラン」"
-  imgalt="驚異的な噂 (2020) (左から右へ) 「ギムセジョン」, 「ユ・ジュンサン」, 「アン・ソックァン」, 「ジョビョンギュ」, 「塩ヘラン」"
+  title="驚異的な噂 (2020)"
+  caption="(左から右へ) 「ギムセジョン」, 「ユ・ジュンサン」, 「アン・ソックァン」, 「ジョビョンギュ」, 「塩ヘラン」"
+  alt="驚異的な噂 (2020) (左から右へ) 「ギムセジョン」, 「ユ・ジュンサン」, 「アン・ソックァン」, 「ジョビョンギュ」, 「塩ヘラン」"
 
   attribalign=""
 
@@ -193,7 +183,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
   licensename=""
 
   attribto="Neo Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -206,7 +196,62 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 シーズン2が青信号になることはすでに発表されていたので、将来の余地を残してシリーズを終了することの重要性をさらに証明しました。 よくやった。 シーズン2を待っています。
 
 ## 公式予告編
-{{< youtube id="rI55SRM6uhs" title="「驚異的な噂」 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="rI55SRM6uhs"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=rI55SRM6uhs"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/rI55SRM6uhs/hqdefault.jpg"
+
+  title="The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
+  caption="「驚異的な噂」 予告編"
+
+  datecreated=""
+  datepublished="2020-11-27"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/4QoG3aDjR7arvGGTYGkWxI" >}}
@@ -216,18 +261,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="驚異的な噂 (2020)"
-  imgcaption=""
+  title="驚異的な噂 (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Neo Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

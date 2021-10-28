@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"]    # og:images
-cover = "https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,45 +43,64 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Romantic & Surprise Marriage Proposal Rendy & Maggie"
-description = "With the help of my friends, I proposed to my longtime girlfriend in Pisa Cafe. Everything took 2 weeks of planning without her knowing. I thought of this original plan and had to do all the arts and crafts myself."
-uploaddate = "2013-04-24"
-thumbnailurl = "https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=iTgyPmvzWKg"
-embedurl = "https://www.youtube-nocookie.com/embed/iTgyPmvzWKg"
 +++
 
 Rendy의 낭만적인 청혼입니다.
 
 <!--more-->
 
-{{< youtube id="iTgyPmvzWKg" title="Romantic & Surprise Marriage Proposal Rendy & Maggie" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="iTgyPmvzWKg"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=iTgyPmvzWKg"
+  linkrel="noopener external nofollow"
+
+  title="Romantic & Surprise Marriage Proposal Rendy & Maggie"
+  caption="With the help of my friends, I proposed to my longtime girlfriend in Pisa Cafe. Everything took 2 weeks of planning without her knowing. I thought of this original plan and had to do all the arts and crafts myself."
+
+  attribalign=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+  datecreated=""
+  datepublished="2013-04-24"
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+  director=""
+  musicby=""
+  thumbnailurl="https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 

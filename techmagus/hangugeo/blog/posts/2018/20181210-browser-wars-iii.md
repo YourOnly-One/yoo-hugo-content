@@ -45,27 +45,6 @@ images = ["https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
 
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 +++
 
 **Microsoft**가 *EdgeHTML* 브라우저 엔진과 *Microsoft Edge* 브라우저 프론트엔드를 포기한다는 최근 발표는 **Browser Wars 2.0**의 끝을 의미합니다. 그들의 다음 주력 브라우저가 Chromium 기반이고 따라서 Blink 브라우저 엔진에 의해 구동될 것이라는 그들의 계시는 브라우저 엔진을 통해 인터넷을 제어하기 위한 전쟁인 **Browser Wars III**의 시작을 알립니다.
@@ -125,18 +104,18 @@ Firefox Quantum을 사용하세요. 하지만 어떤 이유로든 Firefox가 마
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"
-  imgrel="me noopener external"
+  link="https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"
+  linkrel="me noopener external"
 
-  imgtitle="Browser Wars III: Firefox-Chromium"
-  imgcaption=""
+  title="Browser Wars III: Firefox-Chromium"
+  caption=""
 
   licensecode="cc0"
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC0"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener external"
 >}}
 

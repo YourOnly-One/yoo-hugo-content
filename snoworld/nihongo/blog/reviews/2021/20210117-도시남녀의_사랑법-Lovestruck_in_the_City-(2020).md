@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"]    # og:images
+videos = ["https://www.youtube.com/watch?v=-lKjFaESjwk"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -152,15 +151,6 @@ sameas = ["https://www.imdb.com/title/tt13394544/characters/nm8446544"]
 name = "박신우"
 alternatenames = ["Park Shin Woo"]
 sameas = ["https://www.imdb.com/name/nm11636776"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[ENG SUB HD] Lovestruck in the City Official Trailer"
-description = "「都会の男女の恋愛法」 予告編"
-uploaddate = "2020-12-30"
-thumbnailurl = "https://img.youtube.com/vi/-lKjFaESjwk/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=-lKjFaESjwk"
-embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
 +++
 
 「***都会の男女の恋愛法***」は、大都会に住む若者たちの本当のラブストーリーを描いた短編小説または短編ロマンティックコメディドラマです。 「チ・チャンウク」と「キム・ジウォン」が主演。 このシリーズは、「シティカップルの愛の道」と題されたマルチシリーズの最初の部分でもあります。
@@ -184,16 +174,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="都会の男女の恋愛法 (2020)"
-  imgcaption="(左から右へ) 「小・主演」、 「リュ・ギョンス」、 「キム・ジウォン」"
-  imgalt="都会の男女の恋愛法 (2020) (左から右へ) 「小・主演」、 「リュ・ギョンス」、 「キム・ジウォン」"
+  title="都会の男女の恋愛法 (2020)"
+  caption="(左から右へ) 「小・主演」、 「リュ・ギョンス」、 「キム・ジウォン」"
+  alt="都会の男女の恋愛法 (2020) (左から右へ) 「小・主演」、 「リュ・ギョンス」、 「キム・ジウォン」"
 
   attribalign=""
 
@@ -202,7 +192,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -217,16 +207,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="都会の男女の恋愛法 (2020)"
-  imgcaption="「キム・ミンソク」 (左); 「小・主演」 (右)"
-  imgalt="都会の男女の恋愛法 (2020) 「キム・ミンソク」 (左); 「小・主演」 (右)"
+  title="都会の男女の恋愛法 (2020)"
+  caption="「キム・ミンソク」 (左); 「小・主演」 (右)"
+  alt="都会の男女の恋愛法 (2020) 「キム・ミンソク」 (左); 「小・主演」 (右)"
 
   attribalign=""
 
@@ -235,33 +225,143 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 ## 公式予告編
-{{< youtube id="-lKjFaESjwk" title="「都会の男女の恋愛法」 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="-lKjFaESjwk"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=-lKjFaESjwk"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/-lKjFaESjwk/hqdefault.jpg"
+
+  title="[ENG SUB HD] Lovestruck in the City Official Trailer"
+  caption="「都会の男女の恋愛法」 予告編"
+
+  datecreated=""
+  datepublished="2020-12-30"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
-{{< youtube playlist="true" id="PL7ac76lPFdruDdzubCSI6WdSp8aOb0DSB" title="「都会の男女の恋愛法」 OST" >}}
+{{< video
+  platform="youtube"
+  isplaylist=true
+  isloop=false
+
+  height=""
+  width=""
+
+  id="PL7ac76lPFdruDdzubCSI6WdSp8aOb0DSB"
+  starttime=""
+  endtime=""
+
+  link=""
+  linkrel="noopener external nofollow"
+  thumbnailurl=""
+
+  title="「都会の男女の恋愛法」 OST"
+  caption=""
+
+  datecreated=""
+  datepublished=""
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="都会の男女の恋愛法 (2020)"
-  imgcaption=""
+  title="都会の男女の恋愛法 (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

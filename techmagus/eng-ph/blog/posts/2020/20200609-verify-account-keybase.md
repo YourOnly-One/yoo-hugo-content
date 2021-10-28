@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -188,17 +167,17 @@ There you go. Add all those third-party identities into your Keybase account as 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/136770128@N07/41587398905"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/136770128@N07/41587398905"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Privacy and Encryption"
-  imgcaption=""
+  title="Privacy and Encryption"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC BY 2.0"
 
   attribto="Richard Patterson"
-  attriblink="https://www.flickr.com/photos/136770128@N07/"
+  attriburl="https://www.flickr.com/photos/136770128@N07/"
   attribrel="noopener external nofollow"
 >}}

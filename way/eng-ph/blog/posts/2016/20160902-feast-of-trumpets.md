@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://1.bp.blogspot.com/-aSyRL2Y5KKk/XlU-o9j9uBI/AAAAAAAAgA0/ztxSOV2nLSg5d_4ya-Ifusz0bVoGUe_OACLcBGAsYHQ/s1600/4974050267_7cea0c8d4d_h.jpg"]    # og:images
-cover = "https://1.bp.blogspot.com/-aSyRL2Y5KKk/XlU-o9j9uBI/AAAAAAAAgA0/ztxSOV2nLSg5d_4ya-Ifusz0bVoGUe_OACLcBGAsYHQ/s1600/4974050267_7cea0c8d4d_h.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 Today is New Moon Day of the seventh month of the year 6003 <abbr class="popper animate" data-popper="Scriptural Calendar/Since Creation">s.c.</abbr> Today is also the **Feast of Trumpets** or <bdo dir="rtl" lang="he">יום תרועה</bdo> (Yom Teruah). The only feast commanded that falls on New Moon Day.
@@ -125,17 +92,17 @@ Shalom, my brethren.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/14771153@N04/4974050267"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/14771153@N04/4974050267"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Blowing The Shofar on Rosh Hashanah"
-  imgcaption=""
+  title="Blowing The Shofar on Rosh Hashanah"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="slgckgc"
-  attriblink="https://www.flickr.com/photos/14771153@N04"
+  attriburl="https://www.flickr.com/photos/14771153@N04"
   attribrel="noopener external nofollow"
 >}}

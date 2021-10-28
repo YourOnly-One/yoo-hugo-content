@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://4.bp.blogspot.com/-b4qeVGFYH0o/Xln2g6gPLVI/AAAAAAAAgCM/K_-1qcvoZoooxqKDEDe-vMxDzcBVUsGLwCLcBGAsYHQ/s1600/Stop%2BStealing_o.jpg"]    # og:images
-cover = "https://4.bp.blogspot.com/-b4qeVGFYH0o/Xln2g6gPLVI/AAAAAAAAgCM/K_-1qcvoZoooxqKDEDe-vMxDzcBVUsGLwCLcBGAsYHQ/s1600/Stop%2BStealing_o.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 A very simple commanment, correct? But one that all of us, no doubt, have transgressed on far too many times to count. Stealing is stealing, be it a very small amount, say 1¢ only or a huge amount, like taking over of a company by ways that is against the law.
@@ -100,17 +67,17 @@ Shalom!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/samiksha/445070705"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/samiksha/445070705"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Stop Stealing"
-  imgcaption=""
+  title="Stop Stealing"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="Nisha A"
-  attriblink="https://www.flickr.com/photos/samiksha/"
+  attriburl="https://www.flickr.com/photos/samiksha/"
   attribrel="noopener external nofollow"
 >}}

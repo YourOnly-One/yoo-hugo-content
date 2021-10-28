@@ -32,10 +32,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Imitation-(2021)-Title.webp", "https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"]    # og:images
-cover = "https://img.youronly.one/p/Imitation-(2021)-Title.webp"       # theme specific
+videos = ["https://www.youtube.com/watch?v=m7WhnM4mU4w"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -67,15 +66,6 @@ sameas = ["https://page.kakao.com/home?seriesId=46908316"]
 name = "박경란"
 alternatenames = ["Park Kyung Ran"]
 #sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Official Trailer: Imitation"
-description = "「イミテーション」 予告編"
-uploaddate = "2021-04-27"
-thumbnailurl = "https://img.youtube.com/vi/m7WhnM4mU4w/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=m7WhnM4mU4w"
-embedurl = "https://www.youtube-nocookie.com/embed/m7WhnM4mU4w"
 
 [semweb.review]
 snippet = "この新しい韓国ドラマを見るべきですか？ 間違いなく、特にあなたがK-Popファンでもあるなら。 うまくいけば、この短い形式のテレビシリーズを通して、より多くのファンが彼らのアイドルが毎日生きているような生活に啓発されるでしょう。"
@@ -191,16 +181,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「リー・マーハ」が目標を設定"
-  imgalt="「イミテーション」 (2021) 「リー・マーハ」が目標を設定"
+  title="「イミテーション」 (2021)"
+  caption="「リー・マーハ」が目標を設定"
+  alt="「イミテーション」 (2021) 「リー・マーハ」が目標を設定"
 
   attribalign=""
 
@@ -209,23 +199,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「リー・マーハ」がグランドステージでデビューすることを夢見ている"
-  imgalt="「イミテーション」 (2021) 「リー・マーハ」がグランドステージでデビューすることを夢見ている"
+  title="「イミテーション」 (2021)"
+  caption="「リー・マーハ」がグランドステージでデビューすることを夢見ている"
+  alt="「イミテーション」 (2021) 「リー・マーハ」がグランドステージでデビューすることを夢見ている"
 
   attribalign=""
 
@@ -234,23 +224,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「リー・マーハ」が走る準備をする"
-  imgalt="「イミテーション」 (2021) 「リー・マーハ」が走る準備をする"
+  title="「イミテーション」 (2021)"
+  caption="「リー・マーハ」が走る準備をする"
+  alt="「イミテーション」 (2021) 「リー・マーハ」が走る準備をする"
 
   attribalign=""
 
@@ -259,23 +249,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「リー・マーハ」が走っている"
-  imgalt="「イミテーション」 (2021) 「リー・マーハ」が走っている"
+  title="「イミテーション」 (2021)"
+  caption="「リー・マーハ」が走っている"
+  alt="「イミテーション」 (2021) 「リー・マーハ」が走っている"
 
   attribalign=""
 
@@ -284,23 +274,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「リー・マーハ」は11km以上走った"
-  imgalt="「イミテーション」 (2021) 「リー・マーハ」は11km以上走った"
+  title="「イミテーション」 (2021)"
+  caption="「リー・マーハ」は11km以上走った"
+  alt="「イミテーション」 (2021) 「リー・マーハ」は11km以上走った"
 
   attribalign=""
 
@@ -309,7 +299,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -319,16 +309,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「Shax」"
-  imgalt="「イミテーション」 (2021) 「Shax」"
+  title="「イミテーション」 (2021)"
+  caption="「Shax」"
+  alt="「イミテーション」 (2021) 「Shax」"
 
   attribalign=""
 
@@ -337,7 +327,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -346,16 +336,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「Omega III」会員はデビュー数日前に辞任"
-  imgalt="「イミテーション」 (2021) 「Omega III」会員はデビュー数日前に辞任"
+  title="「イミテーション」 (2021)"
+  caption="「Omega III」会員はデビュー数日前に辞任"
+  alt="「イミテーション」 (2021) 「Omega III」会員はデビュー数日前に辞任"
 
   attribalign=""
 
@@ -364,23 +354,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="元「Omega III」メンバーが川に飛び込もうとしている"
-  imgalt="「イミテーション」 (2021) 元「Omega III」メンバーが川に飛び込もうとしている"
+  title="「イミテーション」 (2021)"
+  caption="元「Omega III」メンバーが川に飛び込もうとしている"
+  alt="「イミテーション」 (2021) 元「Omega III」メンバーが川に飛び込もうとしている"
 
   attribalign=""
 
@@ -389,23 +379,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="エージェンシー宿泊施設"
-  imgalt="「イミテーション」 (2021) エージェンシー宿泊施設"
+  title="「イミテーション」 (2021)"
+  caption="エージェンシー宿泊施設"
+  alt="「イミテーション」 (2021) エージェンシー宿泊施設"
 
   attribalign=""
 
@@ -414,7 +404,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -423,16 +413,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「リー・マーハ」は家族から離れて誕生日を祝った"
-  imgalt="「イミテーション」 (2021) 「リー・マーハ」は家族から離れて誕生日を祝った"
+  title="「イミテーション」 (2021)"
+  caption="「リー・マーハ」は家族から離れて誕生日を祝った"
+  alt="「イミテーション」 (2021) 「リー・マーハ」は家族から離れて誕生日を祝った"
 
   attribalign=""
 
@@ -441,7 +431,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -450,16 +440,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="荷物をまとめる「リー・マーハ」"
-  imgalt="「イミテーション」 (2021) 荷物をまとめる「リー・マーハ」"
+  title="「イミテーション」 (2021)"
+  caption="荷物をまとめる「リー・マーハ」"
+  alt="「イミテーション」 (2021) 荷物をまとめる「リー・マーハ」"
 
   attribalign=""
 
@@ -468,23 +458,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="荷物をまとめる「リー・マーハ」"
-  imgalt="「イミテーション」 (2021) 荷物をまとめる「リー・マーハ」"
+  title="「イミテーション」 (2021)"
+  caption="荷物をまとめる「リー・マーハ」"
+  alt="「イミテーション」 (2021) 荷物をまとめる「リー・マーハ」"
 
   attribalign=""
 
@@ -493,7 +483,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -503,16 +493,16 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「Omega III」デビュー"
-  imgalt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="「イミテーション」 (2021)"
+  caption="「Omega III」デビュー"
+  alt="「イミテーション」 (2021) 「Omega III」デビュー"
 
   attribalign=""
 
@@ -521,23 +511,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「Omega III」デビュー"
-  imgalt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="「イミテーション」 (2021)"
+  caption="「Omega III」デビュー"
+  alt="「イミテーション」 (2021) 「Omega III」デビュー"
 
   attribalign=""
 
@@ -546,23 +536,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「Omega III」デビュー"
-  imgalt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="「イミテーション」 (2021)"
+  caption="「Omega III」デビュー"
+  alt="「イミテーション」 (2021) 「Omega III」デビュー"
 
   attribalign=""
 
@@ -571,23 +561,23 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="「イミテーション」 (2021)"
-  imgcaption="「Omega III」デビュー"
-  imgalt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="「イミテーション」 (2021)"
+  caption="「Omega III」デビュー"
+  alt="「イミテーション」 (2021) 「Omega III」デビュー"
 
   attribalign=""
 
@@ -596,7 +586,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -606,25 +596,80 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 それらを尊重します。 彼らをいじめないでください。
 
 ## 公式予告編
-{{< youtube id="m7WhnM4mU4w" title="「イミテーション」 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="m7WhnM4mU4w"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=m7WhnM4mU4w"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/m7WhnM4mU4w/hqdefault.jpg"
+
+  title="Official Trailer: Imitation"
+  caption="「イミテーション」 予告編"
+
+  datecreated=""
+  datepublished="2021-04-27"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Title.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Imitation-(2021)-Title.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="イミテーション"
-  imgcaption=""
+  title="イミテーション"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

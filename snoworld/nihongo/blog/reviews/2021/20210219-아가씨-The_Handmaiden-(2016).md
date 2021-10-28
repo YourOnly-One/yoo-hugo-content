@@ -33,14 +33,13 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]																											# og:video
 #audio = [""]																												# og:audio
-cover = "https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"																					# only for some themes
 images = [
 	"https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp",
 	"https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg",
 	"https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
 ]																											# og:images
+videos = ["https://www.youtube.com/watch?v=6sVYumzrKvs"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -138,15 +137,6 @@ sameas = ["https://www.imdb.com/title/tt4016934/characters/nm2437361?ref_=ttfc_f
 name = "박찬욱"
 alternatenames = ["Park Chan Wook"]
 sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/name/nm0661791/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The Handmaiden"
-description = "公式国際スペシャルトレーラー"
-uploaddate = "2016-04-25"
-thumbnailurl = "https://img.youtube.com/vi/6sVYumzrKvs/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=6sVYumzrKvs"
-embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
 +++
 
 日本が韓国を占領した1930年代のある時期に、ナム・スクヒは世界から隔離されて住んでいた日本の相続人レディ・ヒデコの侍女として雇われました。 しかし、ナム・スクヒとレディ・ヒデコはお互いに感情を育み、運命を変えました。
@@ -164,16 +154,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
-  imglink="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
+  link="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="お嬢様 (2016)"
-  imgcaption="Kim Tae Ri as Tamako (左); Kim Min Hee as Lady Hideko (右)"
-  imgalt="お嬢様 (2016) Kim Tae Ri as Tamako (左); Kim Min Hee as Lady Hideko (右)"
+  title="お嬢様 (2016)"
+  caption="Kim Tae Ri as Tamako (左); Kim Min Hee as Lady Hideko (右)"
+  alt="お嬢様 (2016) Kim Tae Ri as Tamako (左); Kim Min Hee as Lady Hideko (右)"
 
   attribalign=""
 
@@ -182,7 +172,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -195,16 +185,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
-  imglink="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
+  link="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="お嬢様 (2016)"
-  imgcaption="Kim Tae Ri as Tamako"
-  imgalt="お嬢様 (2016) Kim Tae Ri as Tamako"
+  title="お嬢様 (2016)"
+  caption="Kim Tae Ri as Tamako"
+  alt="お嬢様 (2016) Kim Tae Ri as Tamako"
 
   attribalign=""
 
@@ -213,31 +203,82 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 10点満点中10点！
 
-{{< youtube id="6sVYumzrKvs" title="「お嬢様」 (2016) 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="6sVYumzrKvs"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=6sVYumzrKvs"
+  linkrel="noopener external nofollow"
+
+  title="The Handmaiden"
+  caption="公式国際スペシャルトレーラー"
+
+  attribalign=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+  datecreated=""
+  datepublished="2016-04-25"
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+  director=""
+  musicby=""
+  thumbnailurl="https://img.youtube.com/vi/6sVYumzrKvs/hqdefault.jpg"
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"
-  imgrel="noopener external nofollow"
+  link="https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="お嬢様 (2016)"
-  imgcaption=""
+  title="お嬢様 (2016)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -172,17 +151,17 @@ Welcome to the next generation of the Internet - the IPv6 world.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://pixabay.com/en/ball-http-www-crash-administrator-63527/"
-  imgrel="noopener external nofollow"
+  link="https://pixabay.com/en/ball-http-www-crash-administrator-63527/"
+  linkrel="noopener external nofollow"
 
-  imgtitle="web administrator"
-  imgcaption=""
+  title="web administrator"
+  caption=""
 
   licensecode="publicdomain"
   licenseurl=""
   licensename="Public Domain"
 
   attribto="geralt"
-  attriblink="https://pixabay.com/en/users/geralt-9301/"
+  attriburl="https://pixabay.com/en/users/geralt-9301/"
   attribrel="noopener external nofollow"
 >}}

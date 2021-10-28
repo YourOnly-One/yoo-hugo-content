@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"]    # og:images
-cover = "https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,38 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 Who can find a trustworthy man? A righteous man who walks in integrity?
@@ -95,17 +62,17 @@ Blessed are his children after him.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"
-  imgrel="me noopener external"
+  link="https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"
+  linkrel="me noopener external"
 
-  imgtitle="On Unfailing Love and Men"
-  imgcaption=""
+  title="On Unfailing Love and Men"
+  caption=""
 
   licensecode="cc0"
   licenseurl=""
   licensename=""
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener external"
 >}}

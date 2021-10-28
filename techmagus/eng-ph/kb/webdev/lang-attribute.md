@@ -44,28 +44,6 @@ images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwO
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 +++
 
 In my previous post I talked about "Baybayin - the Forgotten Pre-Hispanic Writing of the Filipino". It was added in version 5.0 of the [Unicode Standard](https://unicode.org) together with Buhid, Hanunoo, and Tagbanwa under the "Philippine Scripts" group. But how should we properly write or mark our content written in another language and script?
@@ -331,17 +309,17 @@ Easy? Yes it is. It takes time to get used to it, and yes, it is confusing at fi
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/29233640@N07/24754999650"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/29233640@N07/24754999650"
+  linkrel="noopener external nofollow"
 
-  imgtitle="lave t'es mains"
-  imgcaption=""
+  title="lave t'es mains"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="Robert Couse-Baker"
-  attriblink="https://www.flickr.com/photos/29233640@N07/"
+  attriburl="https://www.flickr.com/photos/29233640@N07/"
   attribrel="noopener external nofollow"
 >}}

@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]																# og:video
 #audio = [""]                                 # og:audio
 images = ["https://1.bp.blogspot.com/-yhLW4sa8_HY/XkpyOhyvzxI/AAAAAAAAf7c/YTGcmZKJQgg6-wAkx1rTQCRXkC_mMn9yQCPcBGAYYCw/s1600/Hanukkahns4.png"]    # og:images
-cover = "https://1.bp.blogspot.com/-yhLW4sa8_HY/XkpyOhyvzxI/AAAAAAAAf7c/YTGcmZKJQgg6-wAkx1rTQCRXkC_mMn9yQCPcBGAYYCw/s1600/Hanukkahns4.png"				# theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 **Joel Rosenberg** is currently here in the Philippines. Yesterday, he had lunch with President Gloria Macapagal-Arroyo, together with Filipino Pastor Peter Tan Chi (senior Pastor of *Christ Commission Fellowship*), Israeli Pastor David Ortiz, and the **Epicenter conference team**.
@@ -118,17 +85,17 @@ You can read the complete account <a href="https://flashtrafficblog.wordpress.co
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://openclipart.org/detail/167963/hanukkah-ns4"
-  imgrel="noopener external nofollow"
+  link="https://openclipart.org/detail/167963/hanukkah-ns4"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Hanukkah"
-  imgcaption=""
+  title="Hanukkah"
+  caption=""
 
   licensecode="openclipart"
   licenseurl="https://openclipart.org/share"
   licensename="OpenClipArt License"
 
   attribto="rduris"
-  attriblink="https://openclipart.org/artist/rduris"
+  attriburl="https://openclipart.org/artist/rduris"
   attribrel="noopener external nofollow"
 >}}

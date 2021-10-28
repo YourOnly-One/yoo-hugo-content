@@ -35,7 +35,6 @@ contenttypes = ["Photograph"]
 #videos = [""]                                # og:video
 #audio = [""]                               # og:audio
 images = ["https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp", "https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"]    # og:images
-cover = "https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,104 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/confidentraveler/"
 avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 #rel = "noopener external nofollow"
-
-[semweb]
-type = "Photograph"
-
-# Duplicate for more Image entries
-[[semweb.image]]
-# If different from default author
-#author = ""
-#sameas = [""]
-#name = ""
-about = "イエローベルの花"
-#caption = ""
-url = "https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
-contentlocation = "Piddig、イロコスノルテ、フィリピン"
-contentreferencetime = "2018-05-19"
-datecreated = "2018-05-19"
-datepublished = "2020-08-13"
-copyrightholder = "JC John Sese Cuneta"
-copyrightnotice = "Credit to https://youronly.one"
-copyrightyear = "2018"
-licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-acquirelicenseurl = "https://youronly.one/p/legal-notice/"
-
-# Duplicate for more Image entries
-[[semweb.image]]
-# If different from default author
-#author = ""
-#sameas = [""]
-#name = ""
-about = "イエローベルの花"
-#caption = ""
-url = "https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
-contentlocation = "Piddig、イロコスノルテ、フィリピン"
-contentreferencetime = "2018-05-19"
-datecreated = "2018-05-19"
-datepublished = "2020-08-13"
-copyrightholder = "JC John Sese Cuneta"
-copyrightnotice = "Credit to https://youronly.one"
-copyrightyear = "2018"
-licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-acquirelicenseurl = "https://youronly.one/p/legal-notice/"
-
-# Duplicate for more Image entries
-[[semweb.image]]
-# If different from default author
-#author = ""
-#sameas = [""]
-#name = ""
-about = "イエローベルの花"
-#caption = ""
-url = "https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
-contentlocation = "Piddig、イロコスノルテ、フィリピン"
-contentreferencetime = "2018-05-19"
-datecreated = "2018-05-19"
-datepublished = "2020-08-13"
-copyrightholder = "JC John Sese Cuneta"
-copyrightnotice = "Credit to https://youronly.one"
-copyrightyear = "2018"
-licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-acquirelicenseurl = "https://youronly.one/p/legal-notice/"
-
-# Duplicate for more Image entries
-[[semweb.image]]
-# If different from default author
-#author = ""
-#sameas = [""]
-#name = ""
-about = "イエローベルの花"
-#caption = ""
-url = "https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
-contentlocation = "Piddig、イロコスノルテ、フィリピン"
-contentreferencetime = "2018-05-19"
-datecreated = "2018-05-19"
-datepublished = "2020-08-13"
-copyrightholder = "JC John Sese Cuneta"
-copyrightnotice = "Credit to https://youronly.one"
-copyrightyear = "2018"
-licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-acquirelicenseurl = "https://youronly.one/p/legal-notice/"
-
-# Duplicate for more Image entries
-[[semweb.image]]
-# If different from default author
-#author = ""
-#sameas = [""]
-#name = ""
-about = "イエローベルの花"
-#caption = ""
-url = "https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
-contentlocation = "Piddig、イロコスノルテ、フィリピン"
-contentreferencetime = "2018-05-19"
-datecreated = "2018-05-19"
-datepublished = "2020-08-13"
-copyrightholder = "JC John Sese Cuneta"
-copyrightnotice = "Credit to https://youronly.one"
-copyrightyear = "2018"
-licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 +++
 
 高度に都市化された大都市である首都圏では、花をランダムに見ることは、今ではほとんど不可能です。 したがって、数年前にフィリピンのイロコスノルテに行ったとき、私たちが行った家でこれらの美しいイエローベルの花が成長しているのを見る機会がありました。 黄色い鐘を間近で見たのはこれが初めてで、学校の教科書でしか見たことがありません。
@@ -166,16 +67,16 @@ Instagramでもフォローしてね！
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
-  imglink="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
+  link="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
+  linkrel="me noopener"
 
-  imgtitle="Allamanda cathartica or Yellow Bell"
-  imgcaption=""
-  imgalt="Allamanda cathartica or Yellow Bell"
+  title="Allamanda cathartica or Yellow Bell"
+  caption=""
+  alt="Allamanda cathartica or Yellow Bell"
 
   attribalign=""
 
@@ -184,23 +85,29 @@ Instagramでもフォローしてね！
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  contentloc="Piddig、イロコスノルテ、フィリピン"
+  contentlocurl="https://en.wikipedia.org/wiki/Piddig"
+  contentreferencetime="2018-05-19"
+  datecreated="2018-05-19"
+  datepublished="2020-08-13"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
-  imglink="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
+  link="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
+  linkrel="me noopener"
 
-  imgtitle="Allamanda cathartica or Yellow Bell"
-  imgcaption=""
-  imgalt="Allamanda cathartica or Yellow Bell"
+  title="Allamanda cathartica or Yellow Bell"
+  caption=""
+  alt="Allamanda cathartica or Yellow Bell"
 
   attribalign=""
 
@@ -209,23 +116,29 @@ Instagramでもフォローしてね！
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  contentloc="Piddig、イロコスノルテ、フィリピン"
+  contentlocurl="https://en.wikipedia.org/wiki/Piddig"
+  contentreferencetime="2018-05-19"
+  datecreated="2018-05-19"
+  datepublished="2020-08-13"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
-  imglink="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
+  link="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
+  linkrel="me noopener"
 
-  imgtitle="Allamanda cathartica or Yellow Bell"
-  imgcaption=""
-  imgalt="Allamanda cathartica or Yellow Bell"
+  title="Allamanda cathartica or Yellow Bell"
+  caption=""
+  alt="Allamanda cathartica or Yellow Bell"
 
   attribalign=""
 
@@ -234,23 +147,29 @@ Instagramでもフォローしてね！
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  contentloc="Piddig、イロコスノルテ、フィリピン"
+  contentlocurl="https://en.wikipedia.org/wiki/Piddig"
+  contentreferencetime="2018-05-19"
+  datecreated="2018-05-19"
+  datepublished="2020-08-13"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
-  imglink="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
+  link="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
+  linkrel="me noopener"
 
-  imgtitle="Allamanda cathartica or Yellow Bell"
-  imgcaption=""
-  imgalt="Allamanda cathartica or Yellow Bell"
+  title="Allamanda cathartica or Yellow Bell"
+  caption=""
+  alt="Allamanda cathartica or Yellow Bell"
 
   attribalign=""
 
@@ -259,23 +178,29 @@ Instagramでもフォローしてね！
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  contentloc="Piddig、イロコスノルテ、フィリピン"
+  contentlocurl="https://en.wikipedia.org/wiki/Piddig"
+  contentreferencetime="2018-05-19"
+  datecreated="2018-05-19"
+  datepublished="2020-08-13"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
-  imglink="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
+  link="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
+  linkrel="me noopener"
 
-  imgtitle="Allamanda cathartica or Yellow Bell"
-  imgcaption=""
-  imgalt="Allamanda cathartica or Yellow Bell"
+  title="Allamanda cathartica or Yellow Bell"
+  caption=""
+  alt="Allamanda cathartica or Yellow Bell"
 
   attribalign=""
 
@@ -284,8 +209,14 @@ Instagramでもフォローしてね！
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  contentloc="Piddig、イロコスノルテ、フィリピン"
+  contentlocurl="https://en.wikipedia.org/wiki/Piddig"
+  contentreferencetime="2018-05-19"
+  datecreated="2018-05-19"
+  datepublished="2020-08-13"
 >}}
 
 ## 帰属、使用法、およびリンクを残す
@@ -296,18 +227,18 @@ Instagramでもフォローしてね！
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
-  imgrel="noopener"
+  link="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
+  linkrel="noopener"
 
-  imgtitle="Allamanda cathartica or Yellow Bell"
-  imgcaption=""
+  title="Allamanda cathartica or Yellow Bell"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
 >}}
 

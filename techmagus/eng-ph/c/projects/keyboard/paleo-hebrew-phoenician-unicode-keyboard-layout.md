@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 # For /yuki/ choose one and remove everything else
 [[authors]]
@@ -138,16 +117,16 @@ Without these invisible markers, in the first example, the "C++" will become "++
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
-  imglink="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
-  imgrel="me noopener"
+  src="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
+  link="https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png"
+  linkrel="me noopener"
 
-  imgtitle="Neo-Paleo Layout"
-  imgcaption="Ancient Hebrew 6000-1700 BCE font"
-  imgalt="Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font"
+  title="Neo-Paleo Layout"
+  caption="Ancient Hebrew 6000-1700 BCE font"
+  alt="Neo-Paleo Layout in Ancient Hebrew 6000-1700 BCE font"
 
   attribalign=""
 
@@ -156,23 +135,23 @@ Without these invisible markers, in the first example, the "C++" will become "++
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
-  imglink="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
-  imgrel="me noopener"
+  src="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
+  link="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
+  linkrel="me noopener"
 
-  imgtitle="Neo-Paleo Layout"
-  imgcaption="Noto Sans Phoenician font"
-  imgalt="Neo-Paleo Layout in Noto Sans Phoenician font"
+  title="Neo-Paleo Layout"
+  caption="Noto Sans Phoenician font"
+  alt="Neo-Paleo Layout in Noto Sans Phoenician font"
 
   attribalign=""
 
@@ -181,23 +160,23 @@ Without these invisible markers, in the first example, the "C++" will become "++
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
-  imglink="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
-  imgrel="me noopener"
+  src="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
+  link="https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"
+  linkrel="me noopener"
 
-  imgtitle="Neo-Paleo Layout"
-  imgcaption="Paleo-Hebrew Gezer 1000-901 BCE font"
-  imgalt="Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font"
+  title="Neo-Paleo Layout"
+  caption="Paleo-Hebrew Gezer 1000-901 BCE font"
+  alt="Neo-Paleo Layout in Paleo-Hebrew Gezer 1000-901 BCE font"
 
   attribalign=""
 
@@ -206,7 +185,7 @@ Without these invisible markers, in the first example, the "C++" will become "++
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 
@@ -235,17 +214,17 @@ The keyboard layout shown in the images were:
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
-  imgrel="me noopener"
+  link="https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"
+  linkrel="me noopener"
 
-  imgtitle=""
-  imgcaption=""
+  title=""
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}

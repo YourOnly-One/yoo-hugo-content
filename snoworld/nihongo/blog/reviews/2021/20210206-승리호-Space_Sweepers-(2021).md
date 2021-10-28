@@ -33,13 +33,13 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]																											# og:video
 #audio = [""]																												# og:audio
 cover = "https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"																					# only for some themes
 images = [
 	"https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg",
 	"https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
 ]																											# og:images
+videos = ["https://www.youtube.com/watch?v=H1WYnJF1Pwo"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -145,15 +145,6 @@ sameas = ["https://www.imdb.com/title/tt12838766/characters/nm12298705?ref_=ttfc
 name = "조성희"
 alternatenames = ["Jo Sung Hee"]
 sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/name/nm3644812/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Space Sweepers"
-description = "公式予告編"
-uploaddate = "2021-01-19"
-thumbnailurl = "https://img.youtube.com/vi/H1WYnJF1Pwo/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=H1WYnJF1Pwo"
-embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
 +++
 
 「**승리호**」 または 「**SpaceSweepers**」 は、韓国初の宇宙サイエンスフィクション番組です。 宇宙への最初の冒険のために、彼らは失望せず、観客がショーの深い物語と忘れられない宇宙の冒険に畏敬の念を抱くことを確認しました。
@@ -181,16 +172,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
-  imglink="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
+  link="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="勝利号 (2021)"
-  imgcaption=""
-  imgalt=""
+  title="勝利号 (2021)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -199,7 +190,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
   licensename=""
 
   attribto="Bidangil Pictures & Dexter Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -219,25 +210,76 @@ embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
 
 スコア：10点満点中9点！
 
-{{< youtube id="H1WYnJF1Pwo" title="「勝利号」 (2021) 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="H1WYnJF1Pwo"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=H1WYnJF1Pwo"
+  linkrel="noopener external nofollow"
+
+  title="Space Sweepers"
+  caption="公式予告編"
+
+  attribalign=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+  datecreated=""
+  datepublished="2021-01-19"
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+  director=""
+  musicby=""
+  thumbnailurl="https://img.youtube.com/vi/H1WYnJF1Pwo/hqdefault.jpg"
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="勝利号 (2021)"
-  imgcaption=""
+  title="勝利号 (2021)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Bidangil Pictures & Dexter Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

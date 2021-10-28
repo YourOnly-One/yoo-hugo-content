@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"]    # og:images
-cover = "https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,38 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 내가이 [게시물]({{< ref "/20160221-true-definition-of-love.md" >}})에서 *뱃속에있는 나비*를 기다리는 것이 사랑을 찾았습니까? 사랑은 결국 *위에있는 나비* 일 수 있습니다. 부분적으로. 적어도 우리 몸이 감정을 어떻게 경험하는지에 대한이 연구에 따르면.
@@ -90,16 +57,16 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"
-  imglink="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"
+  link="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="감정지도"
-  imgcaption=""
-  imgalt=""
+  title="감정지도"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -108,7 +75,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   licensename=""
 
   attribto="Prevention.com"
-  attriblink="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
+  attriburl="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
   attribrel="noopener external nofollow"
 >}}
 
@@ -132,18 +99,18 @@ The emotions you feel--for example, fear--help prepare your body to avoid threat
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
-  imgrel="noopener external nofollow"
+  link="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="감정지도"
-  imgcaption=""
+  title="감정지도"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Prevention.com"
-  attriblink="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
+  attriburl="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
   attribrel="noopener external nofollow"
 >}}
 

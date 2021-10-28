@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -88,17 +67,17 @@ And as <a href="//www.youtube.com/user/danthemango" target="_blank" rel="noopene
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/144614754@N02/32779199368"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/144614754@N02/32779199368"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Saturn's Rings in Ultraviolet Light"
-  imgcaption=""
+  title="Saturn's Rings in Ultraviolet Light"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC BY 2.0"
 
   attribto="NASA Hubble Space Telescope"
-  attriblink="https://www.flickr.com/photos/nasahubble/"
+  attriburl="https://www.flickr.com/photos/nasahubble/"
   attribrel="noopener external nofollow"
 >}}

@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youtube.com/vi/ECRqF4BHkGk/hqdefault.jpg"]    # og:images
-cover = "https://img.youtube.com/vi/ECRqF4BHkGk/hqdefault.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,42 +43,61 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The 365 Day Proposal"
-description = "Devotion and dedication! Lot of love went into making this proposal! Dean proposes to Jennifer at the beautiful Playa Linda Resort in Aruba on her birthday, January 8, 2015."
-uploaddate = "2015-01-19"
-thumbnailurl = "https://img.youtube.com/vi/ECRqF4BHkGk/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=ECRqF4BHkGk"
-embedurl = "https://www.youtube-nocookie.com/embed/ECRqF4BHkGk"
 +++
 
 What was the best marriage proposal of 2015? Proposing for 365 days!
 
 <!--more-->
 
-{{< youtube id="ECRqF4BHkGk" title="The 365 Day Proposal" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="ECRqF4BHkGk"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=ECRqF4BHkGk"
+  linkrel="noopener external nofollow"
+
+  title="The 365 Day Proposal"
+  caption="Devotion and dedication! Lot of love went into making this proposal! Dean proposes to Jennifer at the beautiful Playa Linda Resort in Aruba on her birthday, January 8, 2015."
+
+  attribalign=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+  datecreated=""
+  datepublished="2015-01-19"
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+  director=""
+  musicby=""
+  thumbnailurl="https://img.youtube.com/vi/ECRqF4BHkGk/hqdefault.jpg"
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}

@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://4.bp.blogspot.com/-ZHdJ_OsVZkY/XlnmwsfR5bI/AAAAAAAAgBo/bfKOSsx7KJYaiRxWRUgMS7Gz9Q52NLzbACLcBGAsYHQ/s1600/1280px-Parents_with_child_Statue_Hrobakova_street_Bratislava.jpg"]    # og:images
-cover = "https://4.bp.blogspot.com/-ZHdJ_OsVZkY/XlnmwsfR5bI/AAAAAAAAgBo/bfKOSsx7KJYaiRxWRUgMS7Gz9Q52NLzbACLcBGAsYHQ/s1600/1280px-Parents_with_child_Statue_Hrobakova_street_Bratislava.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 The commandment for today we should meditate is the 5<sup>th</sup> commandment, that, I am sure, all of us fell short and are guilty of breaking.
@@ -114,17 +81,17 @@ Shalom my brethren!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:Parents_with_child_Statue_Hrobakova_street_Bratislava.JPG"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:Parents_with_child_Statue_Hrobakova_street_Bratislava.JPG"
+  linkrel="noopener external nofollow"
 
-  imgtitle=""
-  imgcaption="Parents with child Statue Hrobakova street Bratislava"
+  title=""
+  caption="Parents with child Statue Hrobakova street Bratislava"
 
   licensecode="publicdomain"
   licenseurl="https://creativecommons.org/publicdomain/mark/1.0/"
   licensename="Public Domain"
 
   attribto="Kelovy"
-  attriblink="https://commons.wikimedia.org/wiki/User:Kelovy"
+  attriburl="https://commons.wikimedia.org/wiki/User:Kelovy"
   attribrel="noopener external nofollow"
 >}}

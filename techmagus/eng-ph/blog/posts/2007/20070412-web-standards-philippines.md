@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -100,17 +79,17 @@ But that is not a reason for you not to learn how to create a website compliant 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/manoftaste-de/14069118533"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/manoftaste-de/14069118533"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Web"
-  imgcaption=""
+  title="Web"
+  caption=""
 
   licensecode="ccbysa2"
   licenseurl="https://creativecommons.org/licenses/by-sa/2.0/"
   licensename="CC BY-SA 2.0"
 
   attribto="www.manoftaste.de"
-  attriblink="https://www.manoftaste.de"
+  attriburl="https://www.manoftaste.de"
   attribrel="noopener external nofollow"
 >}}

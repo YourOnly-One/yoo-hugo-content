@@ -33,13 +33,12 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different"
 
-#videos = [""]                                                      # og:video
 #audio = [""]                                                       # og:audio
-cover = "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"                                          # only for some themes
 images = [
   "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp",
   "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
 ]                                                     # og:images
+videos = ["https://www.youtube.com/watch?v=2ljxyaAIphc"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -143,15 +142,6 @@ sameas = ["https://www.imdb.com/title/tt5320412/characters/nm1202941?ref_=ttfc_f
 name = "김규태"
 alternatenames = ["Kim Kyu Tae", "Gim Gyu Tae", "Kim Kyoo Tae"]
 sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/name/nm2153361/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Moon Lovers: Scarlet Heart Ryeo"
-description = "公式予告編"
-uploaddate = "2017-04-11"
-thumbnailurl = "https://img.youtube.com/vi/2ljxyaAIphc/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=2ljxyaAIphc"
-embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 +++
 
 「 **달의연인-보보경심려**」 または 「**月の恋人：緋色の心リョウ**」 は非常に人気があり、2016年以来評価の高い韓国ドラマの1つです。IUは「ゴーハジン」として主演しています。 「ヘス」、イ・ジュンギが「ワンソ」、カン・ハヌルが「ワン・ウク」、ホン・ジョンヒョンが「ワン・ヨ」を主人公にした。
@@ -176,16 +166,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
-  imglink="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="月の恋人 - ボボギョンシムう (2016)"
-  imgcaption="Lee Ji Eun ('IU') as Hae Soo (左); Lee Joon Gi as the 4th Prince, Wang So (右)"
-  imgalt="月の恋人 - ボボギョンシムう (2016) Lee Ji Eun ('IU') as Hae Soo (左); Lee Joon Gi as the 4th Prince, Wang So (右)"
+  title="月の恋人 - ボボギョンシムう (2016)"
+  caption="Lee Ji Eun ('IU') as Hae Soo (左); Lee Joon Gi as the 4th Prince, Wang So (右)"
+  alt="月の恋人 - ボボギョンシムう (2016) Lee Ji Eun ('IU') as Hae Soo (左); Lee Joon Gi as the 4th Prince, Wang So (右)"
 
   attribalign=""
 
@@ -194,7 +184,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
   licensename=""
 
   attribto="YG Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -205,7 +195,62 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 
 私はこのショーに10つ星のうち8つを与えます。
 
-{{< youtube id="2ljxyaAIphc" title="「月の恋人 - ボボギョンシムう」 (2016) 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="2ljxyaAIphc"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=2ljxyaAIphc"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/2ljxyaAIphc/hqdefault.jpg"
+
+  title="Moon Lovers: Scarlet Heart Ryeo"
+  caption="公式予告編"
+
+  datecreated=""
+  datepublished="2017-04-11"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/0gmw30zH5jLjwMv5KSJl86" >}}
@@ -215,18 +260,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="月の恋人 - ボボギョンシムう (2016)"
-  imgcaption=""
+  title="月の恋人 - ボボギョンシムう (2016)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="YG Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

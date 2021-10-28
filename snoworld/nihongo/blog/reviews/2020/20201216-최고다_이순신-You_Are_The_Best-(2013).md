@@ -31,10 +31,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"				# theme specific
 images = ["https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp", "https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"]		# og:images
+videos = ["https://www.youtube.com/watch?v=ardVKfVYRa8"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -182,15 +181,6 @@ sameas = ["https://www.imdb.com/title/tt3250818/characters/nm6007240"]
 name = "윤성식"
 alternatenames = ["Yoon Sung Shik"]
 sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/name/nm5897319"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
-description = "「最高だ李」 予告編"
-uploaddate = "2013-04-03"
-thumbnailurl = "https://img.youtube.com/vi/ardVKfVYRa8/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=ardVKfVYRa8"
-embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
 +++
 
 「**最高だ李**」（「**최고다이순신**」/「**You Are The Best!**」）と題された家族のKドラマのレビュー。 *リー・スーンシン*、残酷な世界で成功を収めるための旅に出る。 挑戦的な業界で大ブレイクを目指しているタレントエージェンシーのオーナーである*シン・ジュンホ*として조정석（チョ・ジョンソク）と一緒に。
@@ -215,16 +205,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  imglink="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="最高だ李 (2013)"
-  imgcaption="Song Mi Ryung としての Lee Mi Sook (前方左側); Lee Soon Shin としての Lee Ji Eun ('IU') (右前)<br/>Jo In Sung としての Lee Ji Hoon (左奥); Park Chan Mi としての Lee Seul Bi (右に戻る)"
-  imgalt="最高だ李 (2013) Song Mi Ryung としての Lee Mi Sook (前方左側); Lee Soon Shin としての Lee Ji Eun ('IU') (右前); Jo In Sung としての Lee Ji Hoon (左奥); Park Chan Mi としての Lee Seul Bi (右に戻る)"
+  title="最高だ李 (2013)"
+  caption="Song Mi Ryung としての Lee Mi Sook (前方左側); Lee Soon Shin としての Lee Ji Eun ('IU') (右前)<br/>Jo In Sung としての Lee Ji Hoon (左奥); Park Chan Mi としての Lee Seul Bi (右に戻る)"
+  alt="最高だ李 (2013) Song Mi Ryung としての Lee Mi Sook (前方左側); Lee Soon Shin としての Lee Ji Eun ('IU') (右前); Jo In Sung としての Lee Ji Hoon (左奥); Park Chan Mi としての Lee Seul Bi (右に戻る)"
 
   attribalign=""
 
@@ -233,7 +223,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
   licensename=""
 
   attribto="AStory"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -250,25 +240,80 @@ embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
 ## 結論
 全体として、私はシリーズに10つ星のうち8つを与えています。 素晴らしいショーで、とても感動的でした。 複数のメインストーリーは、特にロマンティックコメディや2羽のラブバード間のロマンスではなく、家族関係に焦点を当てた、関連性があり記憶に残るものです。 複数のメインストーリーを持つことは良かったが、それは2人の主人公の間のメインストーリーの焦点と影響を減らした。 また、最初は遅く、メインプロットの肉に到達するまでに10〜20エピソードかかりました。 とにかく、すべての俳優や女優の演技はとても素晴らしく自然だったので、全体的にもう一度見る価値があります。
 
-{{< youtube id="ardVKfVYRa8" title="「最高だ李」 (2013) 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="ardVKfVYRa8"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=ardVKfVYRa8"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/ardVKfVYRa8/hqdefault.jpg"
+
+  title="[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
+  caption="「最高だ李」 予告編"
+
+  datecreated=""
+  datepublished="2013-04-03"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="最高だ李 (2013)"
-  imgcaption=""
+  title="最高だ李 (2013)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="AStory"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

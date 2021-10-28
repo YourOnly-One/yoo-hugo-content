@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 # For /yuki/ choose one and remove everything else
 [[authors]]
@@ -101,17 +80,17 @@ type = "article"                                                           # art
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://pixabay.com/en/ball-http-www-crash-administrator-63527/"
-  imgrel="noopener external nofollow"
+  link="https://pixabay.com/en/ball-http-www-crash-administrator-63527/"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Ball, Crash, Administrator"
-  imgcaption=""
+  title="Ball, Crash, Administrator"
+  caption=""
 
   licensecode="pixabay"
   licenseurl="https://pixabay.com/service/license/"
   licensename="Pixabay License"
 
   attribto="geralt"
-  attriblink="https://pixabay.com/en/users/geralt-9301/"
+  attriburl="https://pixabay.com/en/users/geralt-9301/"
   attribrel="noopener external nofollow"
 >}}

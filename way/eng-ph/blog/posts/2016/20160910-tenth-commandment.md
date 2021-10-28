@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://4.bp.blogspot.com/-2-O2Pabn7lc/XloHxiMrreI/AAAAAAAAgCk/Xildj3JJO1Q9_mjOe7NC3B-dHpzUpjzHQCLcBGAsYHQ/s1600/Ingres_-_Paolo_and_Francesca.jpg"]    # og:images
-cover = "https://4.bp.blogspot.com/-2-O2Pabn7lc/XloHxiMrreI/AAAAAAAAgCk/Xildj3JJO1Q9_mjOe7NC3B-dHpzUpjzHQCLcBGAsYHQ/s1600/Ingres_-_Paolo_and_Francesca.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Shemot (Exodus) 20:17" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -104,17 +71,17 @@ Shalom!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:Ingres_-_Paolo_and_Francesca.jpg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:Ingres_-_Paolo_and_Francesca.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Ingres"
-  imgcaption="Ingres - Paolo and Francesca"
+  title="Ingres"
+  caption="Ingres - Paolo and Francesca"
 
   licensecode="publicdomain"
   licenseurl="https://creativecommons.org/publicdomain/mark/1.0/"
   licensename="Public Domain"
 
   attribto="Jean Auguste Dominique Ingres (1780–1867)"
-  attriblink="https://en.wikipedia.org/wiki/Jean_Auguste_Dominique_Ingres"
+  attriburl="https://en.wikipedia.org/wiki/Jean_Auguste_Dominique_Ingres"
   attribrel="noopener external nofollow"
 >}}

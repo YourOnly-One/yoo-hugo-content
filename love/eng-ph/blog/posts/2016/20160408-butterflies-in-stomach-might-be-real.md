@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"]    # og:images
-cover = "https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,38 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 Remember when I said in this [post]({{< ref "/20160221-true-definition-of-love.md" >}}) that waiting for *butterflies in your stomach* is not the way to know if you have found love? Love *may be* *butterflies in the stomach* after all. Partially. At least according to this research on how our body experiences emotion.
@@ -90,16 +57,16 @@ If we feel sad, we feel cold. Lonely. We lose appetite too. And through this res
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"
-  imglink="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-fzB4DPalQdw/VwdY_7ZcUpI/AAAAAAAARMQ/hR4BphieANQ-IgKHyxMKA5KrER2kZzseA/s1600/Emotionbodies.jpg"
+  link="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Emotion Map"
-  imgcaption=""
-  imgalt=""
+  title="Emotion Map"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -108,7 +75,7 @@ If we feel sad, we feel cold. Lonely. We lose appetite too. And through this res
   licensename=""
 
   attribto="Prevention.com"
-  attriblink="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
+  attriburl="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
   attribrel="noopener external nofollow"
 >}}
 
@@ -131,17 +98,17 @@ As we often hear, <q>it's all in your mind</q>.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
-  imgrel="noopener external nofollow"
+  link="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emotionbodies-1525784496.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Emotion Map"
-  imgcaption=""
+  title="Emotion Map"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Prevention.com"
-  attriblink="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
+  attriburl="https://www.prevention.com/mind-body/emotional-health/where-your-body-feels-emotions"
   attribrel="noopener external nofollow"
 >}}

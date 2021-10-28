@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 # For /yuki/ choose one and remove everything else
 [[authors]]
@@ -84,16 +63,16 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmw9zmCtI/AAAAAAAAAJE/qnhSrVJsjcE/s1600/Philippines-QWERTY%20(Baybayin).png"
-  imglink="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmw9zmCtI/AAAAAAAAAJE/qnhSrVJsjcE/s1600/Philippines-QWERTY%20(Baybayin).png"
-  imgrel="me noopener"
+  src="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmw9zmCtI/AAAAAAAAAJE/qnhSrVJsjcE/s1600/Philippines-QWERTY%20(Baybayin).png"
+  link="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmw9zmCtI/AAAAAAAAAJE/qnhSrVJsjcE/s1600/Philippines-QWERTY%20(Baybayin).png"
+  linkrel="me noopener"
 
-  imgtitle="QWERTY (Baybayin)"
-  imgcaption=""
-  imgalt=""
+  title="QWERTY (Baybayin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -102,23 +81,27 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://3.bp.blogspot.com/_tG11xBRpOKo/TMV95mMEDwI/AAAAAAAAAJg/11Wq1l7qJR0/s1600/Philippines-QWERTY%20(Latin).png"
-  imglink="https://3.bp.blogspot.com/_tG11xBRpOKo/TMV95mMEDwI/AAAAAAAAAJg/11Wq1l7qJR0/s1600/Philippines-QWERTY%20(Latin).png"
-  imgrel="me noopener"
+  src="https://3.bp.blogspot.com/_tG11xBRpOKo/TMV95mMEDwI/AAAAAAAAAJg/11Wq1l7qJR0/s1600/Philippines-QWERTY%20(Latin).png"
+  link="https://3.bp.blogspot.com/_tG11xBRpOKo/TMV95mMEDwI/AAAAAAAAAJg/11Wq1l7qJR0/s1600/Philippines-QWERTY%20(Latin).png"
+  linkrel="me noopener"
 
-  imgtitle="QWERTY (Latin)"
-  imgcaption=""
-  imgalt=""
+  title="QWERTY (Latin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -127,23 +110,27 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmdtDkYI/AAAAAAAAAIk/o9IQ2sYO4Rc/s1600/Philippines-Capewell-Dvorak%20(Baybayin).png"
-  imglink="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmdtDkYI/AAAAAAAAAIk/o9IQ2sYO4Rc/s1600/Philippines-Capewell-Dvorak%20(Baybayin).png"
-  imgrel="me noopener"
+  src="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmdtDkYI/AAAAAAAAAIk/o9IQ2sYO4Rc/s1600/Philippines-Capewell-Dvorak%20(Baybayin).png"
+  link="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmdtDkYI/AAAAAAAAAIk/o9IQ2sYO4Rc/s1600/Philippines-Capewell-Dvorak%20(Baybayin).png"
+  linkrel="me noopener"
 
-  imgtitle="Capewell-Dvorak (Baybayin)"
-  imgcaption=""
-  imgalt=""
+  title="Capewell-Dvorak (Baybayin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -152,23 +139,27 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://2.bp.blogspot.com/-xChQTHhK6Iw/TncoSbPopxI/AAAAAAAAAVQ/dhuuLg7synY/s1600/Philippines-Capewell-Dvorak%252520%252528Latin%252529.png"
-  imglink="https://2.bp.blogspot.com/-xChQTHhK6Iw/TncoSbPopxI/AAAAAAAAAVQ/dhuuLg7synY/s1600/Philippines-Capewell-Dvorak%252520%252528Latin%252529.png"
-  imgrel="me noopener"
+  src="https://2.bp.blogspot.com/-xChQTHhK6Iw/TncoSbPopxI/AAAAAAAAAVQ/dhuuLg7synY/s1600/Philippines-Capewell-Dvorak%252520%252528Latin%252529.png"
+  link="https://2.bp.blogspot.com/-xChQTHhK6Iw/TncoSbPopxI/AAAAAAAAAVQ/dhuuLg7synY/s1600/Philippines-Capewell-Dvorak%252520%252528Latin%252529.png"
+  linkrel="me noopener"
 
-  imgtitle="Capewell-Dvorak (Latin)"
-  imgcaption=""
-  imgalt=""
+  title="Capewell-Dvorak (Latin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -177,23 +168,27 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmvwm9TI/AAAAAAAAAIs/J_izftqK63A/s1600/Philippines-Capewell-QWERF%202006%20(Baybayin).png"
-  imglink="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmvwm9TI/AAAAAAAAAIs/J_izftqK63A/s1600/Philippines-Capewell-QWERF%202006%20(Baybayin).png"
-  imgrel="me noopener"
+  src="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmvwm9TI/AAAAAAAAAIs/J_izftqK63A/s1600/Philippines-Capewell-QWERF%202006%20(Baybayin).png"
+  link="https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmvwm9TI/AAAAAAAAAIs/J_izftqK63A/s1600/Philippines-Capewell-QWERF%202006%20(Baybayin).png"
+  linkrel="me noopener"
 
-  imgtitle="Capewell-QWERF 2006 (Baybayin)"
-  imgcaption=""
-  imgalt=""
+  title="Capewell-QWERF 2006 (Baybayin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -202,23 +197,27 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://4.bp.blogspot.com/-tfoM8zo9sLE/TncoSZAlJeI/AAAAAAAAAVQ/2fxkt7XI4Ms/s1600/Philippines-Capewell-QWERF%2525202006%252520%252528Latin%252529.png"
-  imglink="https://4.bp.blogspot.com/-tfoM8zo9sLE/TncoSZAlJeI/AAAAAAAAAVQ/2fxkt7XI4Ms/s1600/Philippines-Capewell-QWERF%2525202006%252520%252528Latin%252529.png"
-  imgrel="me noopener"
+  src="https://4.bp.blogspot.com/-tfoM8zo9sLE/TncoSZAlJeI/AAAAAAAAAVQ/2fxkt7XI4Ms/s1600/Philippines-Capewell-QWERF%2525202006%252520%252528Latin%252529.png"
+  link="https://4.bp.blogspot.com/-tfoM8zo9sLE/TncoSZAlJeI/AAAAAAAAAVQ/2fxkt7XI4Ms/s1600/Philippines-Capewell-QWERF%2525202006%252520%252528Latin%252529.png"
+  linkrel="me noopener"
 
-  imgtitle="Capewell-QWERF 2006 (Latin)"
-  imgcaption=""
-  imgalt=""
+  title="Capewell-QWERF 2006 (Latin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -227,23 +226,27 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"
-  imglink="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"
-  imgrel="me noopener"
+  src="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"
+  link="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"
+  linkrel="me noopener"
 
-  imgtitle="Colemak (Baybayin)"
-  imgcaption=""
-  imgalt=""
+  title="Colemak (Baybayin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -252,23 +255,27 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
-  imglink="https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
-  imgrel="me noopener"
+  src="https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
+  link="https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
+  linkrel="me noopener"
 
-  imgtitle="Colemak (Latin)"
-  imgcaption=""
-  imgalt=""
+  title="Colemak (Latin)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -277,8 +284,12 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 *** The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines LoCo Team*. ***
@@ -288,17 +299,21 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
-  imgrel="me noopener"
+  link="https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
+  linkrel="me noopener"
 
-  imgtitle="Colemak (Latin)"
-  imgcaption=""
+  title="Colemak (Latin)"
+  caption=""
 
   licensecode="cc0"
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}

@@ -34,7 +34,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Timeless_Books-1280w.jpg"				# theme specific
 
 [[authors]]
 person = "yuki"
@@ -43,38 +42,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://verses.space"
 avatar = "https://rsc.youronly.one/img/y/KWWP-logo-01-1280wh-transparent.webp"
 rel = "noopener external"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 Recently, I have been encountering threads asking and discussing if a work based on a Public Domain work is fanfiction. It is good that writers are now concerned if their new work is within the bounds of the Copyright law, unfortunately, many are still under the assumption any work based on someone else's work is automatically fanfiction.
@@ -132,17 +99,17 @@ Here are some places where you can read more about the **Public Domain** and che
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:Timeless_Books.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Timeless Books"
-  imgcaption=""
+  title="Timeless Books"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/deed.en"
   licensename="CC-BY 2.0 Generic"
 
   attribto="Lin Kristensen"
-  attriblink="https://www.flickr.com/people/23701579@N00"
+  attriburl="https://www.flickr.com/people/23701579@N00"
   attribrel="noopener external nofollow"
 >}}

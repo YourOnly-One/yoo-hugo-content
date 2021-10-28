@@ -34,7 +34,6 @@ contenttypes = ["Article"]
 #videos = [""]                                # og:video
 #audio = [""]                               # og:audio
 images = ["https://img.youronly.one/works/Yo-yo-Trivia.webp"]    # og:images
-cover = "https://img.youronly.one/works/Yo-yo-Trivia.webp"        # theme specific
 
 [[authors]]
 person = "yuki"
@@ -43,38 +42,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/yuki/"
 avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 知ってますか？ 「ヨーヨー」はフィリピン人によって発明されました。 これは***Pedro Flores***によるデザインで、1928年にカリフォルニア州サンタバーバラにある彼の会社*Yo-yo Manufacturing Company*の下で最初に販売されました。 「ヨーヨー」という言葉とこの古代のおもちゃのモダンなデザインは、誇らしげにピノイです。
@@ -96,16 +63,16 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  imglink="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  imgrel="me noopener"
+  src="https://img.youronly.one/works/Yo-yo-Trivia.webp"
+  link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
+  linkrel="me noopener"
 
-  imgtitle="ヨーヨートリビア"
-  imgcaption=""
-  imgalt="ヨーヨートリビア"
+  title="ヨーヨートリビア"
+  caption=""
+  alt="ヨーヨートリビア"
 
   attribalign=""
 
@@ -114,8 +81,12 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  isrepresentativeofpage=true
+  inlanguage="en-PH"
+  embeddedtextcaption="Did you know? Yo-yo was invented by a Filipino. It was a design by Pedro Flores and first sold in 1928 under his company Yo-yo Manufacturing Company in Santa Barbara, California. The word Yo-yo and the modern design of this ancient toy is proudly Pinoy."
 >}}
 
 ## 商標
@@ -131,18 +102,18 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  imgrel="me noopener"
+  link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
+  linkrel="me noopener"
 
-  imgtitle="ヨーヨートリビア"
-  imgcaption=""
+  title="ヨーヨートリビア"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}
 

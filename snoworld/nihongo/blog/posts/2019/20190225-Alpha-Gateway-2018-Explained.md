@@ -32,10 +32,9 @@ type = "article"                                                           # art
 
 contenttypes = ["Article"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"       # theme specific
+videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -67,15 +66,6 @@ cover = "https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"       # theme s
 #name = ""
 #alternatenames = [""]
 #sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "ALPHA GATEWAY Official Trailer (2020) Sci Fi Thriller Movie HD"
-description = "「アルファゲートウェイ」 予告編"
-uploaddate = "2017-06-27"
-thumbnailurl = "https://img.youtube.com/vi/gInFXtRvwlM/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=gInFXtRvwlM"
-embedurl = "https://www.youtube-nocookie.com/embed/gInFXtRvwlM"
 +++
 
 「プレートゲートウェイ」には複数のパラレルワールドが表示されており、パラレルワールドを区別する方法に慣れていない場合は混乱することがよくあります。 この投稿では、ジェーンが訪れたパラレルワールドの最も正確な分析であると私が信じているものを紹介します。
@@ -113,25 +103,80 @@ embedurl = "https://www.youtube-nocookie.com/embed/gInFXtRvwlM"
 マット「ベータ」をFワールドに送るためにアルファワールドにたどり着いた別のジェーンがいたことを願うだけです。
 
 ## 公式予告編
-{{< youtube id="gInFXtRvwlM" title="「アルファゲートウェイ」 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="gInFXtRvwlM"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=gInFXtRvwlM"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/gInFXtRvwlM/hqdefault.jpg"
+
+  title="ALPHA GATEWAY Official Trailer (2020) Sci Fi Thriller Movie HD"
+  caption="「アルファゲートウェイ」 予告編"
+
+  datecreated=""
+  datepublished="2017-06-27"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youtube.com/vi/gVEutjaQ19s/maxresdefault.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youtube.com/vi/gVEutjaQ19s/maxresdefault.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="アルファゲートウェイ (2018)n"
-  imgcaption=""
+  title="アルファゲートウェイ (2018)n"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="FilmscopeEnt"
-  attriblink="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
+  attriburl="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
   attribrel="noopener external nofollow"
 >}}
 

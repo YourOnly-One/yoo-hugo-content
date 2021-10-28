@@ -44,28 +44,6 @@ images = ["https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 +++
 
 **Microsoft**による最近の発表は*EdgeHTML*ブラウザエンジンと*Microsoft Edge*ブラウザフロントエンドをあきらめ、**Browser Wars 2.0**の終わりを示しています。 次の主力ブラウザがChromiumベースであり、Blinkブラウザエンジンを搭載するという彼らの啓示は、ブラウザエンジンを介してインターネットを制御する戦争の始まりを示しています。
@@ -125,19 +103,27 @@ Firefoxの背後にあるブラウザエンジンであるGeckoは、上記の�
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"
-  imgrel="me noopener external"
+  link="https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"
+  linkrel="me noopener external"
 
-  imgtitle="Browser Wars III: Firefox-Chromium"
-  imgcaption=""
+  title="Browser Wars III: Firefox-Chromium"
+  caption=""
 
   licensecode="cc0"
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC0"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener external"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
 -------

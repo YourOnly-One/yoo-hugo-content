@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://4.bp.blogspot.com/-lblomuxfIJg/Xlnyvibmb7I/AAAAAAAAgCA/c2McI5C5bYAe77nLalzxBbJDz_0BwdRFACLcBGAsYHQ/s1600/The%2BSeventh%2BCommandment_o.jpg"]    # og:images
-cover = "https://4.bp.blogspot.com/-lblomuxfIJg/Xlnyvibmb7I/AAAAAAAAgCA/c2McI5C5bYAe77nLalzxBbJDz_0BwdRFACLcBGAsYHQ/s1600/The%2BSeventh%2BCommandment_o.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 The 7<sup>th</sup> commandment is our meditation for today.
@@ -99,17 +66,17 @@ Shalom!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/pasukaru76/3999219410"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/pasukaru76/3999219410"
+  linkrel="noopener external nofollow"
 
-  imgtitle="The Seventh Commandment"
-  imgcaption=""
+  title="The Seventh Commandment"
+  caption=""
 
   licensecode="publicdomain"
   licenseurl="https://creativecommons.org/publicdomain/mark/1.0/"
   licensename="Public Domain"
 
   attribto="Pascal"
-  attriblink="https://www.flickr.com/photos/pasukaru76/"
+  attriburl="https://www.flickr.com/photos/pasukaru76/"
   attribrel="noopener external nofollow"
 >}}

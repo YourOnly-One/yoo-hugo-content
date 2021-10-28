@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://2.bp.blogspot.com/-IQ7UCTNWxPU/Xls-2CA4C1I/AAAAAAAAgDI/5-g-FjlR1FEI5KhHGTalIHMkqzYtq3wyQCLcBGAsYHQ/s1600/1280px-The_Phillip_Medhurst_Picture_Torah_44._Enoch_translated._Genesis_cap_5_v_24._Mortier%2527s_Bible.jpg"]    # og:images
-cover = "https://2.bp.blogspot.com/-IQ7UCTNWxPU/Xls-2CA4C1I/AAAAAAAAgDI/5-g-FjlR1FEI5KhHGTalIHMkqzYtq3wyQCLcBGAsYHQ/s1600/1280px-The_Phillip_Medhurst_Picture_Torah_44._Enoch_translated._Genesis_cap_5_v_24._Mortier%2527s_Bible.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 My country, the Philippines, has been in a state of "religiously offended" for a week now due to the religious and G-d comments made by our elected President Rodrigo Duterte. The usual pro-Duterte and anti-Duterte sides blurred after Philippine President Duterte said that the G-d of Genesis was a <q>stupid G-d</q>. He also said, <q>Your G-d is not my G-d</q>.
@@ -176,17 +143,17 @@ Thank you for reading.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:The_Phillip_Medhurst_Picture_Torah_44._Enoch_translated._Genesis_cap_5_v_24._Mortier%27s_Bible.jpg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:The_Phillip_Medhurst_Picture_Torah_44._Enoch_translated._Genesis_cap_5_v_24._Mortier%27s_Bible.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle=""
-  imgcaption="The Phillip Medhurst Picture Torah 44. Enoch translated. Genesis cap 5 v 24. Mortier's Bible"
+  title=""
+  caption="The Phillip Medhurst Picture Torah 44. Enoch translated. Genesis cap 5 v 24. Mortier's Bible"
 
   licensecode="ccbysa3"
   licenseurl="https://creativecommons.org/licenses/by-sa/3.0/"
   licensename="CC BY-SA 3.0 Unported"
 
   attribto="Phillip Medhurst"
-  attriblink="https://commons.wikimedia.org/wiki/User:Phillip_Medhurst"
+  attriburl="https://commons.wikimedia.org/wiki/User:Phillip_Medhurst"
   attribrel="noopener external nofollow"
 >}}

@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -192,17 +171,17 @@ Welcome to Keybase! Before you start exploring Keybase, noticed how you were not
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:Keybase_logo_official.svg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:Keybase_logo_official.svg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Keybase logo"
-  imgcaption=""
+  title="Keybase logo"
+  caption=""
 
   licensecode="bsd"
   licenseurl="https://github.com/keybase/client/blob/master/LICENSE"
   licensename="BSD 3-Clause 'New' or 'Revised' License"
 
   attribto="Keybase"
-  attriblink="https://keybase.io"
+  attriburl="https://keybase.io"
   attribrel="noopener external nofollow"
 >}}

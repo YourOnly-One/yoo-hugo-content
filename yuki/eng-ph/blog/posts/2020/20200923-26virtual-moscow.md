@@ -3,9 +3,8 @@ title = "26virtual Moscow, My First Half-marathon"
 description = "My first half-marathon run was during the 26virtual:Moscow race"													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "My first half-marathon run was during the 26virtual:Moscow race"																											# for summary text in list displays
 
-cover = "https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"																					# only for some themes
 images = ["https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"]																											# og:images
-#videos = [""]																											# og:video
+videos = ["https://www.youtube.com/watch?v=cShMNxRJ27o"]                                                      # og:video
 #audio = [""]																												# og:audio
 
 date = "2020-09-23T20:15:00"
@@ -49,12 +48,44 @@ My first half marathon. Run/walk. Originally planned for 17 km only but the rema
 
 This was also for 26virtual:moscow race.
 
-<figure class="figure_box">
-	<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/cShMNxRJ27o" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-	<figcaption class="attribution_copyright txt_center">
-		<p><small>License: CC BY-SA 4.0 International</small></p>
-	</figcaption>
-</figure>
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="cShMNxRJ27o"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=cShMNxRJ27o"
+  linkrel="me noopener external"
+
+  title="26virtual:moscow race My First Half-marathon (21.1 km), post-run"
+  caption="My first half marathon. Run/walk. Originally planned for 17 km only but the remaining kilometers were enough to get back home. This was also for 26virtual:moscow race."
+  alt="26virtual:moscow race My First Half-marathon (21.1 km), post-run :: My first half marathon. Run/walk. Originally planned for 17 km only but the remaining kilometers were enough to get back home. This was also for 26virtual:moscow race."
+
+  attribalign=""
+
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="CC BY-SA 4.0 International"
+
+  attribto="YourOnly.One"
+  attriburl="https://youronly.one"
+  attribrel="me noopener"
+  attribcountry="Philippines"
+  attribcountrycode="PH"
+
+  datecreated="2020-09-22"
+  inlanguage="en"
+  thumbnailurl="https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"
+  videoquality="720p"
+  contentloc="Metro Manila, Philippines"
+  contentlocurl="https://en.wikipedia.org/wiki/Metro_Manila"
+>}}
 
 Subscribe to get an alert on our next episode!
 

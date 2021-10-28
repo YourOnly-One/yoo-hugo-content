@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -140,17 +119,17 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://2.bp.blogspot.com/-OVgRpmlAU2w/XqrhrNp7fOI/AAAAAAAAhcA/ZR3RUwjFg0YQwN5JKkzBsN0E_agCm6aUwCPcBGAsYHg/s1600/IMG_0464.JPG"
-  imgrel="me noopener"
+  link="https://2.bp.blogspot.com/-OVgRpmlAU2w/XqrhrNp7fOI/AAAAAAAAhcA/ZR3RUwjFg0YQwN5JKkzBsN0E_agCm6aUwCPcBGAsYHg/s1600/IMG_0464.JPG"
+  linkrel="me noopener"
 
-  imgtitle="Before the Eclipse"
-  imgcaption=""
+  title="Before the Eclipse"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}

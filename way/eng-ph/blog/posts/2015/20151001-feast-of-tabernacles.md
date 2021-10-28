@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://3.bp.blogspot.com/-t6cVjG7vtmw/XlB88wngDWI/AAAAAAAAf_Y/rU4SeWK3-bk08sGWIaHPe4h0qVNx4ShbACLcBGAsYHQ/s1600/Temple%2BTabernacle.jpg"]    # og:images
-cover = "https://3.bp.blogspot.com/-t6cVjG7vtmw/XlB88wngDWI/AAAAAAAAf_Y/rU4SeWK3-bk08sGWIaHPe4h0qVNx4ShbACLcBGAsYHQ/s1600/Temple%2BTabernacle.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 Three very important verses to remind us that we should observe and celebrate the **Feast of Tabernacles** (Sukkot/Succot).
@@ -112,17 +79,17 @@ On the 1st yom (day) is a rest, and on the 8th yom (day) a rest [22nd of the 7th
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/88663091@N04/39825672471"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/88663091@N04/39825672471"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Temple Tabernacle"
-  imgcaption=""
+  title="Temple Tabernacle"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC BY 2.0"
 
   attribto="Ben P L"
-  attriblink="https://www.flickr.com/photos/88663091@N04"
+  attriburl="https://www.flickr.com/photos/88663091@N04"
   attribrel="noopener external nofollow"
 >}}

@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -123,17 +102,17 @@ Start typing those Peso signs, the correct way!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:Peso_sign.svg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:Peso_sign.svg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Peso sign"
-  imgcaption=""
+  title="Peso sign"
+  caption=""
 
   licensecode="publicdomain"
   licenseurl="https://creativecommons.org/publicdomain/mark/1.0/"
   licensename="Public Domain"
 
   attribto="Amit6"
-  attriblink="https://commons.wikimedia.org/wiki/User:Amit6"
+  attriburl="https://commons.wikimedia.org/wiki/User:Amit6"
   attribrel="noopener external nofollow"
 >}}

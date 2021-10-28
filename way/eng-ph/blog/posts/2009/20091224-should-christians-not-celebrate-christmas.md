@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]																# og:video
 #audio = [""]                                 # og:audio
 images = ["https://3.bp.blogspot.com/-VFkHKyZsX6I/Xk-qY43CRsI/AAAAAAAAf-4/hp9uQJFX-HUUzL_z8KN5Is_VA5MnPg4TACLcBGAsYHQ/s1600/walter-chavez-TEFSPAaoKlA-unsplash.jpg"]    # og:images
-cover = "https://3.bp.blogspot.com/-VFkHKyZsX6I/Xk-qY43CRsI/AAAAAAAAf-4/hp9uQJFX-HUUzL_z8KN5Is_VA5MnPg4TACLcBGAsYHQ/s1600/walter-chavez-TEFSPAaoKlA-unsplash.jpg"				# theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 It is the number one question many Christians (baby and mature alike) ask every time Christmas arrives. There are two camps - (1) those who say that we should not because it is not in the Christian Holy Bible and it is of pagan origin; and (2) those who say that we should celebrate it because it is the Birth of Jesus Christ, the Saviour of the world.
@@ -124,17 +91,17 @@ Again I repeat, this is not an attack on anyone, not even the Roman Catholic chu
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://unsplash.com/photos/TEFSPAaoKlA"
-  imgrel="noopener external nofollow"
+  link="https://unsplash.com/photos/TEFSPAaoKlA"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Navidad"
-  imgcaption=""
+  title="Navidad"
+  caption=""
 
   licensecode="unsplash"
   licenseurl="https://unsplash.com/license"
   licensename="Unsplash License"
 
   attribto="Walter Chávez"
-  attriblink="https://unsplash.com/@walterch"
+  attriburl="https://unsplash.com/@walterch"
   attribrel="noopener external nofollow"
 >}}

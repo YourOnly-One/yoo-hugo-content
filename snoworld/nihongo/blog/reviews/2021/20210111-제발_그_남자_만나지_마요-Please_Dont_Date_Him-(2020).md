@@ -34,10 +34,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp", "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"]    # og:images
+videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -137,15 +136,6 @@ sameas = ["https://www.imdb.com/title/tt13394428/characters/nm11421137"]
 name = "오미경"
 alternatenames = ["Oh Mi Kyeong"]
 sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
-description = "「なお、男会わないで」 予告編"
-uploaddate = "2020-11-04"
-thumbnailurl = "https://img.youtube.com/vi/gHJBiKk1hYw/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=gHJBiKk1hYw"
-embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
 +++
 
 「***なお、男会わないで***」は、正しく行われたロマンチックコメディです。 何年にもわたってロマンチックコメディとして分類された多くのショーがあり、このラベルに値するものはほとんどありません。 「あり、男会わないで」は、登場人物の恋愛関係を生かしながら、エピソードごとに本物の笑いを誘う数少ない例外のひとつです。
@@ -172,16 +162,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  imglink="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="なお、男会わないで (2020)"
-  imgcaption="「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
-  imgalt="なお、男会わないで (2020) 「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
+  title="なお、男会わないで (2020)"
+  caption="「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
+  alt="なお、男会わないで (2020) 「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
 
   attribalign=""
 
@@ -190,7 +180,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
   licensename=""
 
   attribto="Corner Stone Pictures"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -202,25 +192,80 @@ embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
 彼らが合計10話しか計画していなかったのは悲しいことですが、それを13話または全シリーズ（16話）に拡張することもできたでしょう。 私たちの勇敢な消防士のような見知らぬ人でさえ、あなたを笑わせ、再び恋に落ち、あなたの周りの人々に感謝するシリーズを探しているなら、このショーを強くお勧めします。 10つ星のうち9.0の総合スコア。
 
 ## 公式予告編
-{{< youtube id="gHJBiKk1hYw" title="「なお、男会わないで」 予告編" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="gHJBiKk1hYw"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=gHJBiKk1hYw"
+  linkrel="noopener external nofollow"
+  thumbnailurl="https://img.youtube.com/vi/gHJBiKk1hYw/hqdefault.jpg"
+
+  title="[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
+  caption="「なお、男会わないで」 予告編"
+
+  datecreated=""
+  datepublished="2020-11-04"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="なお、男会わないで (2020)"
-  imgcaption=""
+  title="なお、男会わないで (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Corner Stone Pictures"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

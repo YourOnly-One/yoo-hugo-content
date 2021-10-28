@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 [[authors]]
   person = "yuki"
@@ -109,17 +88,17 @@ Happy New Year to everyone!!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://3.bp.blogspot.com/-TuaNKujl8AM/XrPKpsSdVhI/AAAAAAAAhg0/jvTerpvtpMA1dNxOoE0EEhb_TGPX1vNdgCPcBGAsYHg/s1600/Sky_2010-01-01T0000%252B08.png"
-  imgrel="me noopener"
+  link="https://3.bp.blogspot.com/-TuaNKujl8AM/XrPKpsSdVhI/AAAAAAAAhg0/jvTerpvtpMA1dNxOoE0EEhb_TGPX1vNdgCPcBGAsYHg/s1600/Sky_2010-01-01T0000%252B08.png"
+  linkrel="me noopener"
 
-  imgtitle="Starchart - New Year"
-  imgcaption=""
+  title="Starchart - New Year"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
 >}}

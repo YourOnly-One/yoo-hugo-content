@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"       # theme specific
 images = ["https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif", "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -120,15 +119,6 @@ sameas = ["https://www.imdb.com/title/tt5290026/characters/nm5682738"]
 name = "김지현"
 alternatenames = ["Kim Ji Hyun"]
 sameas = ["https://www.imdb.com/name/nm7806626"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
-description = "「フォンダンフォンダンLOVE」 (2015) 予告編"
-uploaddate = "2015-12-01"
-thumbnailurl = "https://img.youtube.com/vi/hAkKzgShR5A/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=hAkKzgShR5A"
-embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 +++
 
 「***퐁당퐁당LOVE***」/「***スプラッシュスプラッシュLOVE***」は、時空を越えてテレポートする能力を持った女子高生が終了した2015年の実写短編小説です。 朝鮮王朝に昇り、世宗大王に会いました。 キム・スルギはドラフトの時期に到着し、2015年に戻る方法がありませんでした。朝鮮の裁判所は彼女を宦官と間違え、彼女の本当のアイデンティティを隠すのに役立ちました。 世宗王は彼女の有用性を認め、朝鮮の人々が必要とする改善を一緒に発展させました…そしてお互いに恋に落ちました。
@@ -142,16 +132,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
+  linkrel="noopener external nofollow"
 
-  imgtitle="퐁당퐁당 LOVE (2015)"
-  imgcaption="김슬기 (キム・スルギ) as 'Jang Dan Bi' (左); 윤두준 (ユン・ドゥジュン) as '世宗大王' (右)"
-  imgalt="퐁당퐁당 LOVE (2015) 김슬기 (キム・スルギ) as 'Jang Dan Bi' (左); 윤두준 (ユン・ドゥジュン) as '世宗大王' (右)"
+  title="퐁당퐁당 LOVE (2015)"
+  caption="김슬기 (キム・スルギ) as 'Jang Dan Bi' (左); 윤두준 (ユン・ドゥジュン) as '世宗大王' (右)"
+  alt="퐁당퐁당 LOVE (2015) 김슬기 (キム・スルギ) as 'Jang Dan Bi' (左); 윤두준 (ユン・ドゥジュン) as '世宗大王' (右)"
 
   attribalign=""
 
@@ -160,7 +150,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -174,16 +164,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="퐁당퐁당 LOVE (2015)"
-  imgcaption="윤두준 (ユン・ドゥジュン) as '世宗大王' (左); 김슬기 (キム・スルギ) as 'Jang Dan Bi' (右)"
-  imgalt="퐁당퐁당 LOVE (2015) 윤두준 (ユン・ドゥジュン) as '世宗大王' (左); 김슬기 (キム・スルギ) as 'Jang Dan Bi' (右)"
+  title="퐁당퐁당 LOVE (2015)"
+  caption="윤두준 (ユン・ドゥジュン) as '世宗大王' (左); 김슬기 (キム・スルギ) as 'Jang Dan Bi' (右)"
+  alt="퐁당퐁당 LOVE (2015) 윤두준 (ユン・ドゥジュン) as '世宗大王' (左); 김슬기 (キム・スルギ) as 'Jang Dan Bi' (右)"
 
   attribalign=""
 
@@ -192,7 +182,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -204,7 +194,59 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 私からの10つ星のうちの10！
 
 ## 公式予告編
-{{< youtube id="hAkKzgShR5A" title="「퐁당퐁당 LOVE」/「スプラッシュスプラッシュLOVE」 (2015) trailer/予告編/예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id=""
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=hAkKzgShR5A"
+  linkrel="noopener external nofollow"
+
+  title="[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
+  caption="「フォンダンフォンダンLOVE」 (2015) 予告編"
+
+  attribalign=""
+
+  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+  datecreated=""
+  datepublished="2015-12-01"
+  inlanguage=""
+  transcript=""
+  embeddedtextcaption=""
+  director=""
+  musicby=""
+  thumbnailurl="https://img.youtube.com/vi/hAkKzgShR5A/hqdefault.jpg"
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
+
 
 ## 公式ミュージックビデオ： 「君にフォンダン」 (恵みの雨の話)
 {{< youtube id="Tq4F-OMKWpc" title="[MV] 「너에게 퐁당」  「퐁당퐁당 LOVE」/「スプラッシュスプラッシュLOVE」 (2015) OST" >}}
@@ -217,18 +259,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="フォンダンフォンダンLOVE (2015)"
-  imgcaption=""
+  title="フォンダンフォンダンLOVE (2015)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

@@ -35,7 +35,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                               # og:audio
 images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,9 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/yuki/"
 avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Photograph"
 +++
 
 ソーシャルメディアやソーシャルネットワークに投稿された数学の質問を見たことがありますか？ MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、またはGEMDASを使用したと主張しているにもかかわらず、人々が異なる回答をしているのを見たことがありますか？ この投稿では、これらが何であるか、そしてなぜ異なる答えがあるのかを説明します。
@@ -201,18 +197,18 @@ MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASは、学生と大人�
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Mathematics chalkboard"
-  imgcaption=""
+  title="Mathematics chalkboard"
+  caption=""
 
   licensecode="pixabay"
   licenseurl="https://pixabay.com/service/license/"
   licensename="Pixabay License"
 
   attribto="ArtsyBee"
-  attriblink="https://pixabay.com/users/artsybee-462611/"
+  attriburl="https://pixabay.com/users/artsybee-462611/"
   attribrel="noopener external nofollow"
 >}}
 

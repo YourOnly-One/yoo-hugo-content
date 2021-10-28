@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fVM2c8k/s1600/A_Love_for_the_Arts_by_Delacorr.jpg"]    # og:images
-cover = "https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fVM2c8k/s1600/A_Love_for_the_Arts_by_Delacorr.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,38 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 When it comes to poetry, King Solomon's poems to his bride usually comes to mind. He wrote one of the greatest lines that can ever be said about one's bride.
@@ -144,17 +111,17 @@ a well of living waters, flowing streams from Lebanon.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:A_Love_for_the_Arts_by_Delacorr.jpg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:A_Love_for_the_Arts_by_Delacorr.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="A Love for the Arts by Delacorr"
-  imgcaption=""
+  title="A Love for the Arts by Delacorr"
+  caption=""
 
   licensecode="publicdomain"
   licenseurl=""
   licensename=""
 
   attribto="Infamous Hussy"
-  attriblink="https://en.wikipedia.org/wiki/User:Infamous_Hussy"
+  attrinkurl="https://en.wikipedia.org/wiki/User:Infamous_Hussy"
   attribrel="noopener external nofollow"
 >}}

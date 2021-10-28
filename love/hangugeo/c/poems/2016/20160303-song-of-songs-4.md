@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fVM2c8k/s1600/A_Love_for_the_Arts_by_Delacorr.jpg"]    # og:images
-cover = "https://1.bp.blogspot.com/-znlIhPCa-oY/Vtg8dzJaE-I/AAAAAAAAREc/-768fVM2c8k/s1600/A_Love_for_the_Arts_by_Delacorr.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,38 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 시에 관해서는 솔로몬 왕이 신부에게 보낸 시가 일반적으로 떠 오릅니다. 그는 신부에 대해 말할 수있는 가장 위대한 대사 중 하나를 썼습니다.
@@ -121,18 +88,18 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://commons.wikimedia.org/wiki/File:A_Love_for_the_Arts_by_Delacorr.jpg"
-  imgrel="noopener external nofollow"
+  link="https://commons.wikimedia.org/wiki/File:A_Love_for_the_Arts_by_Delacorr.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Delacorr의 예술에 대한 사랑"
-  imgcaption=""
+  title="Delacorr의 예술에 대한 사랑"
+  caption=""
 
   licensecode="publicdomain"
   licenseurl=""
   licensename=""
 
   attribto="Infamous Hussy"
-  attriblink="https://en.wikipedia.org/wiki/User:Infamous_Hussy"
+  attriburl="https://en.wikipedia.org/wiki/User:Infamous_Hussy"
   attribrel="noopener external nofollow"
 >}}
 

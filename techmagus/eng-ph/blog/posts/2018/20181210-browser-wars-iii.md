@@ -44,28 +44,6 @@ images = ["https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 +++
 
 The recent announcement by **Microsoft** giving up on their *EdgeHTML* browser engine as well as their *Microsoft Edge* browser frontend marks the end of the **Browser Wars 2.0**. Their revelation that their next flagship browser will be Chromium-based and thus powered by the Blink browser engine, signals the beginning of **Browser Wars III** a war to control the Internet through browser engines.
@@ -125,17 +103,21 @@ This Browser Wars III clearly is about the browser engines Blink and Gecko, the 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"
-  imgrel="me noopener external"
+  link="https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"
+  linkrel="me noopener external"
 
-  imgtitle="Browser Wars III: Firefox-Chromium"
-  imgcaption=""
+  title="Browser Wars III: Firefox-Chromium"
+  caption=""
 
   licensecode="cc0"
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC0"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener external"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}

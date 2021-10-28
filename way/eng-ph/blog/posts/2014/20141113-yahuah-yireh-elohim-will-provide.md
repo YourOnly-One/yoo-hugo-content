@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"]    # og:images
-cover = "https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 [6001-09-08 Scriptural Calendar]
@@ -195,17 +162,21 @@ Shalom.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"
-  imgrel="noopener"
+  link="https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"
+  linkrel="noopener"
 
-  imgtitle="The Flag of Believers (Proto-Hebrew)"
-  imgcaption="Menorah Flag Proto-Hebrew with The Most High's Name in Proto-Hebrew"
+  title="The Flag of Believers (Proto-Hebrew)"
+  caption="Menorah Flag Proto-Hebrew with The Most High's Name in Proto-Hebrew"
 
   licensecode="cc0"
   licenseurl=""
   licensename=""
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}

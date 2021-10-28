@@ -35,7 +35,6 @@ contenttypes = ["Article"]
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://3.bp.blogspot.com/-xqpogUZC3bQ/VsnSNlLlhuI/AAAAAAAAQ-4/eNLFbbPSK3Y/s1600/Love%2BHeart%2BMade%2BWith%2BHands%2BAt%2BSunset.jpg"]    # og:images
-cover = "https://3.bp.blogspot.com/-xqpogUZC3bQ/VsnSNlLlhuI/AAAAAAAAQ-4/eNLFbbPSK3Y/s1600/Love%2BHeart%2BMade%2BWith%2BHands%2BAt%2BSunset.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -44,38 +43,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/love/"
 avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 이것들은 사랑에 대한 궁극적 인 질문입니다. 우리 모두가 *사랑*에 대해 의식하게 되었기 때문에 우리는 누군가를 사랑할 때 좋은 결정을 내릴 수 있도록 그것을 정의하려고 노력했습니다. 우리의 형제, 자매, 어머니, 아버지, 친구, 낯선 사람 또는 특별한 사람 일 수 있습니다.
@@ -114,16 +81,16 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 {{< image
   type="image"
 
-  imgheight="70%"
-  imgwidth="70%"
+  height="70%"
+  width="70%"
 
-  imgsrc="https://4.bp.blogspot.com/-vYcZOa7icbI/Vs7mv1df6BI/AAAAAAAARC4/oDM0vaDwmLg/s1600/love-hearts-valentine-gloss-red-150277-1280.png"
-  imglink="https://pixabay.com/en/love-hearts-valentine-gloss-red-150277/"
-  imgrel="noopener external nofollow"
+  src="https://4.bp.blogspot.com/-vYcZOa7icbI/Vs7mv1df6BI/AAAAAAAARC4/oDM0vaDwmLg/s1600/love-hearts-valentine-gloss-red-150277-1280.png"
+  link="https://pixabay.com/en/love-hearts-valentine-gloss-red-150277/"
+  linkrel="noopener external nofollow"
 
-  imgtitle="사랑, 마음, 애인"
-  imgcaption=""
-  imgalt=""
+  title="사랑, 마음, 애인"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -132,7 +99,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   licensename=""
 
   attribto="OpenClipartVentors"
-  attriblink="https://pixabay.com/en/users/OpenClipartVectors-30363/"
+  attriburl="https://pixabay.com/en/users/OpenClipartVectors-30363/"
   attribrel="noopener external nofollow"
 >}}
 
@@ -159,18 +126,18 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://stokpic.com/project/love-heart-made-with-hands-at-sunset/"
-  imgrel="noopener external nofollow"
+  link="https://stokpic.com/project/love-heart-made-with-hands-at-sunset/"
+  linkrel="noopener external nofollow"
 
-  imgtitle="일몰에 손으로 만든 사랑 마음"
-  imgcaption=""
+  title="일몰에 손으로 만든 사랑 마음"
+  caption=""
 
   licensecode="publicdomain"
   licenseurl=""
   licensename=""
 
   attribto="Ed Gregory"
-  attriblink="https://www.stokpic.com/about"
+  attriburl="https://www.stokpic.com/about"
   attribrel="noopener external nofollow"
 >}}
 

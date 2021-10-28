@@ -44,28 +44,6 @@ images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwO
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 +++
 
 이전 게시물에서 "Baybayin - 잊혀진 필리핀 이전 히스패닉 작문"에 대해 이야기했습니다. [Unicode Standard](https://unicode.org) 버전 5.0에서 "Philippine Scripts" 그룹 아래 Buhid, Hanunoo, Tagbanwa와 함께 추가되었습니다. 그러나 다른 언어와 스크립트로 작성된 콘텐츠를 어떻게 적절하게 작성하거나 표시해야 할까요?
@@ -331,18 +309,18 @@ Baybayin에서 "해피 아버지의 날"을 쓰고 싶다면 다음과 같이 �
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/29233640@N07/24754999650"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/29233640@N07/24754999650"
+  linkrel="noopener external nofollow"
 
-  imgtitle="lave t'es mains"
-  imgcaption=""
+  title="lave t'es mains"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="Robert Couse-Baker"
-  attriblink="https://www.flickr.com/photos/29233640@N07/"
+  attriburl="https://www.flickr.com/photos/29233640@N07/"
   attribrel="noopener external nofollow"
 >}}
 

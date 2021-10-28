@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://3.bp.blogspot.com/-xPVBimSSyvA/XlqO_iiF_FI/AAAAAAAAgCw/npDe3sDrsLQdgaJC4WE1QvriMP7AcNJ1wCLcBGAsYHQ/s1600/%25F0%2590%25A4%2589%25F0%2590%25A4%2584%25F0%2590%25A4%2585%25F0%2590%25A4%2584%2B%2528YHWH%2529-tsitsit-1way.faith%2B%252820171018%2529.jpg"]    # og:images
-cover = "https://3.bp.blogspot.com/-xPVBimSSyvA/XlqO_iiF_FI/AAAAAAAAgCw/npDe3sDrsLQdgaJC4WE1QvriMP7AcNJ1wCLcBGAsYHQ/s1600/%25F0%2590%25A4%2589%25F0%2590%25A4%2584%25F0%2590%25A4%2585%25F0%2590%25A4%2584%2B%2528YHWH%2529-tsitsit-1way.faith%2B%252820171018%2529.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 As an Israelite-Natsari or YAHUwan or Messianic (whichever label you prefer), no doubt there were people we've come across wearing tsitsit/tzitzit. These are four (4) tassles or fringes dangling on a person's clothing, usually placed on their pants, with a blue and white colour.
@@ -176,17 +143,17 @@ That's being wise. Stay strong. Stay alive. Stay safe. Keep studying!
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://3.bp.blogspot.com/-xPVBimSSyvA/XlqO_iiF_FI/AAAAAAAAgCw/npDe3sDrsLQdgaJC4WE1QvriMP7AcNJ1wCLcBGAsYHQ/s1600/%25F0%2590%25A4%2589%25F0%2590%25A4%2584%25F0%2590%25A4%2585%25F0%2590%25A4%2584%2B%2528YHWH%2529-tsitsit-1way.faith%2B%252820171018%2529.jpg"
-  imgrel="noopener external"
+  link="https://3.bp.blogspot.com/-xPVBimSSyvA/XlqO_iiF_FI/AAAAAAAAgCw/npDe3sDrsLQdgaJC4WE1QvriMP7AcNJ1wCLcBGAsYHQ/s1600/%25F0%2590%25A4%2589%25F0%2590%25A4%2584%25F0%2590%25A4%2585%25F0%2590%25A4%2584%2B%2528YHWH%2529-tsitsit-1way.faith%2B%252820171018%2529.jpg"
+  linkrel="noopener external"
 
-  imgtitle="Tsisit"
-  imgcaption=""
+  title="Tsisit"
+  caption=""
 
   licensecode="ccbysa4"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
   attribto="Yahuhanan Yukia Sese Cuneta"
-  attriblink="https://iam.youronly.one"
+  attriburl="https://iam.youronly.one"
   attribrel="noopener external nofollow"
 >}}

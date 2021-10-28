@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://3.bp.blogspot.com/-mxSj63dxxxs/XoiRfyYyVpI/AAAAAAAAg4g/OhGbpLjJxIUVdwDPvr3miN36pF4bR-v8QCLcBGAsYHQ/s1600/Gethsemane_by_Seetheholyland.net.jpg"]    # og:images
-cover = "https://3.bp.blogspot.com/-mxSj63dxxxs/XoiRfyYyVpI/AAAAAAAAg4g/OhGbpLjJxIUVdwDPvr3miN36pF4bR-v8QCLcBGAsYHQ/s1600/Gethsemane_by_Seetheholyland.net.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 The Feast of Passover or Pesach is three nights from now. The Christian "Holy Week" begins tomorrow with the celebration of "Palm Sunday". Though there are similarities and a lot of differences between these two, there is one common question: How can "three days and three nights" fit if the Messiah died on Passover and resurrected two days later? Or, died Friday afternoon and resurrected Sunday morning?
@@ -141,16 +108,16 @@ From these verses, and directly from the Messiah himself, the <q>heart of the ea
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://4.bp.blogspot.com/-hbxsGfviax0/Xom2c3MmDuI/AAAAAAAAg54/HSW12GDHi0woKUAYh5jrXxuNd1RsggBeACLcBGAsYHQ/s1600/Three%2BDays%252C%2BThree%2BNights%2Bchart-01-compressed.png"
-  imglink="https://4.bp.blogspot.com/-hbxsGfviax0/Xom2c3MmDuI/AAAAAAAAg54/HSW12GDHi0woKUAYh5jrXxuNd1RsggBeACLcBGAsYHQ/s1600/Three%2BDays%252C%2BThree%2BNights%2Bchart-01-compressed.png"
-  imgrel="noopener external"
+  src="https://4.bp.blogspot.com/-hbxsGfviax0/Xom2c3MmDuI/AAAAAAAAg54/HSW12GDHi0woKUAYh5jrXxuNd1RsggBeACLcBGAsYHQ/s1600/Three%2BDays%252C%2BThree%2BNights%2Bchart-01-compressed.png"
+  link="https://4.bp.blogspot.com/-hbxsGfviax0/Xom2c3MmDuI/AAAAAAAAg54/HSW12GDHi0woKUAYh5jrXxuNd1RsggBeACLcBGAsYHQ/s1600/Three%2BDays%252C%2BThree%2BNights%2Bchart-01-compressed.png"
+  linkrel="noopener external"
 
-  imgtitle="Three Days and Three Nights in the Heart of the Earth"
-  imgcaption="chart-01"
-  imgalt="Three Days and Three Nights in the Heart of the Earth chart-01"
+  title="Three Days and Three Nights in the Heart of the Earth"
+  caption="chart-01"
+  alt="Three Days and Three Nights in the Heart of the Earth chart-01"
 
   attribalign=""
 
@@ -159,10 +126,13 @@ From these verses, and directly from the Messiah himself, the <q>heart of the ea
   licensename="CC0"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="noopener"
->}}
 
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
+>}}
 
 <ul class="custom_liststyle checkmark-heavy list-red">
   <li>Nighttime of 13<sup>th</sup> is Night 1: Judas betrayed the Messiah at the Garden of Gethsemane.</li>
@@ -184,17 +154,17 @@ That, my friend, is the simplest and shortest version. I hope you were able to f
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.flickr.com/photos/42381661@N04/3943418264"
-  imgrel="noopener external nofollow"
+  link="https://www.flickr.com/photos/42381661@N04/3943418264"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Gethsemane"
-  imgcaption=""
+  title="Gethsemane"
+  caption=""
 
   licensecode="ccby2"
   licenseurl="https://creativecommons.org/licenses/by/2.0/"
   licensename="CC-BY 2.0"
 
   attribto="Seetheholyland.net"
-  attriblink="https://www.flickr.com/photos/seetheholyland/"
+  attriburl="https://www.flickr.com/photos/seetheholyland/"
   attribrel="noopener external nofollow"
 >}}

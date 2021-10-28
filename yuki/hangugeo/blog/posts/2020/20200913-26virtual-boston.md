@@ -3,7 +3,6 @@ title = "26virtual 보스턴, 실행 후 동영상 블로그"
 description = "내 26virtual:보스턴 포스트 런 동영상 블로그"													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "내 26virtual:보스턴 포스트 런 동영상 블로그"																											# for summary text in list displays
 
-cover = "https://img.youtube.com/vi/Zz8wlo-dHEY/0.jpg"																					# only for some themes
 images = ["https://img.youtube.com/vi/Zz8wlo-dHEY/0.jpg"]																											# og:images
 #videos = [""]																											# og:video
 #audio = [""]																												# og:audio
@@ -49,12 +48,44 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 
 <!--more-->
 
-<figure class="figure_box">
-	<div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/Zz8wlo-dHEY" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
-	<figcaption class="attribution_copyright txt_center">
-		<p><small>특허: CC BY-SA 4.0 International</small></p>
-	</figcaption>
-</figure>
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  height=""
+  width=""
+
+  id="Zz8wlo-dHEY"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=Zz8wlo-dHEY"
+  linkrel="me noopener external"
+
+  title="26virtual:boston race, post-run"
+  caption="A post-run vlog after I did the 26virtual:boston race event for 10K. This was also my first time in video blogging. (It's raw.)"
+  alt="26virtual:boston race, post-run :: A post-run vlog after I did the 26virtual:boston race event for 10K. This was also my first time in video blogging. (It's raw.)"
+
+  attribalign=""
+
+  licensecode="ccbysa4"
+  licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
+  licensename="CC BY-SA 4.0 International"
+
+  attribto="YourOnly.One"
+  attriburl="https://youronly.one"
+  attribrel="me noopener"
+  attribcountry="Philippines"
+  attribcountrycode="PH"
+
+  datecreated="2020-09-13"
+  inlanguage="en"
+  thumbnailurl="https://img.youtube.com/vi/Zz8wlo-dHEY/0.jpg"
+  videoquality="720p"
+  contentlocation="Makati City, Philippines"
+  contentlocationurl="https://en.wikipedia.org/wiki/Makati"
+>}}
 
 다음 에피소드에 대한 알림을 받으려면 구독하십시오!
 

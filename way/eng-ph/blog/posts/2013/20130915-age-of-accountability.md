@@ -36,7 +36,6 @@ type = "article"                                                           # art
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://4.bp.blogspot.com/-VEzYztXu6Qw/Xk_Omm3aNQI/AAAAAAAAf_E/ltNsBTVm0KAv_8m7r2SlqRZnxruUEuWfQCLcBGAsYHQ/s1600/Bible-Spirit-Jesus-God-Holy-Lion-Lamb-Sky-3959780.jpg"]    # og:images
-cover = "https://4.bp.blogspot.com/-VEzYztXu6Qw/Xk_Omm3aNQI/AAAAAAAAf_E/ltNsBTVm0KAv_8m7r2SlqRZnxruUEuWfQCLcBGAsYHQ/s1600/Bible-Spirit-Jesus-God-Holy-Lion-Lamb-Sky-3959780.jpg"       # theme specific
 
 [[authors]]
 person = "yuki"
@@ -45,38 +44,6 @@ name = "ᜌᜓᜃᜒ (Yuki | 雪亮)"
 url = "https://im.youronly.one/way/"
 avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-#[semweb.video]
-#name = ""
-#description = "「CHANGE_THIS」 trailer/予告編/예고편"
-#uploaddate = ""
-#thumbnailurl = "https://img.youtube.com/vi/CHANGE_THIS/hqdefault.jpg"
-#contenturl = "https://www.youtube.com/watch?v=CHANGE_THIS"
-#embedurl = "https://www.youtube-nocookie.com/embed/CHANGE_THIS"
 +++
 
 I did some study on the "Age of Accountability" and I can say that it depends person to person.
@@ -114,17 +81,17 @@ People who dies without reaching their age of accountability then becomes clear,
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://www.maxpixel.net/Bible-Spirit-Jesus-God-Holy-Lion-Lamb-Sky-3959780"
-  imgrel="noopener external nofollow"
+  link="https://www.maxpixel.net/Bible-Spirit-Jesus-God-Holy-Lion-Lamb-Sky-3959780"
+  linkrel="noopener external nofollow"
 
-  imgtitle=""
-  imgcaption="Bible Spirit Jesus God Holy Lion Lamb Sky"
+  title=""
+  caption="Bible Spirit Jesus God Holy Lion Lamb Sky"
 
   licensecode="publicdomain"
   licenseurl="https://creativecommons.org/publicdomain/mark/1.0/"
   licensename="Public Domain Mark"
 
   attribto="jeffjacobs1990"
-  attriblink="https://www.maxpixel.net/utility/donate/jeffjacobs1990-7438739"
+  attriburl="https://www.maxpixel.net/utility/donate/jeffjacobs1990-7438739"
   attribrel="noopener external nofollow"
 >}}

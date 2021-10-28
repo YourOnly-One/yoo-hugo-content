@@ -36,27 +36,6 @@ type = "article"                                                           # art
 #license = ""                                                       # only set if the post license is not the same as the site license
 
 #contenttypes = [""]                                                 # Semantic Web JSON-LD
-#[semweb]                                                            # Semantic Web JSON-LD
-#  type = ""
-
-# Duplicate for more Image entries
-#[[semweb.image]]
-#  # If different from default author
-#  #author = ""
-#  #sameas = [""]
-#  #name = ""
-#  about = ""
-#  #caption = ""
-#  url = ""
-#  contentlocation = ""
-#  contentreferencetime = "2018-05-19"
-#  datecreated = "2018-05-19"
-#  datepublished = "2020-08-13"
-#  copyrightholder = ""
-#  copyrightnotice = "Credit to"
-#  copyrightyear = "2018"
-#  licenseurl = "https://creativecommons.org/licenses/by-sa/4.0/"
-#  acquirelicenseurl = "https://youronly.one/p/legal-notice/"
 
 # For /yuki/ choose one and remove everything else
 [[authors]]
@@ -276,16 +255,16 @@ You're done! Sort of. You need to activate it to actually use it, follow the nex
   {{< image
     type="image"
 
-    imgheight=""
-    imgwidth=""
+    height=""
+    width=""
 
-    imgsrc="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
-    imglink="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
-    imgrel="me noopener"
+    src="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
+    link="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
+    linkrel="me noopener"
 
-    imgtitle="Keyboard Preferences"
-    imgcaption="Select Philippines Keyboard Layouts"
-    imgalt="Keyboard Preferences - Select Philippines Keyboard Layouts"
+    title="Keyboard Preferences"
+    caption="Select Philippines Keyboard Layouts"
+    alt="Keyboard Preferences - Select Philippines Keyboard Layouts"
 
     attribalign=""
 
@@ -294,7 +273,7 @@ You're done! Sort of. You need to activate it to actually use it, follow the nex
     licensename="CC BY-SA 4.0 International"
 
     attribto="YourOnly.One"
-    attriblink="https://youronly.one"
+    attriburl="https://youronly.one"
     attribrel="me noopener"
   >}}
 
@@ -313,17 +292,21 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://3.bp.blogspot.com/-IPzJrxh1_vg/TncoS7FQ61I/AAAAAAAAAVQ/65UR2jN6Aes/s1600/Philippines-Dvorak%252520Simplified%252520%252528Latin%252529.png"
-  imgrel="me noopener"
+  link="https://3.bp.blogspot.com/-IPzJrxh1_vg/TncoS7FQ61I/AAAAAAAAAVQ/65UR2jN6Aes/s1600/Philippines-Dvorak%252520Simplified%252520%252528Latin%252529.png"
+  linkrel="me noopener"
 
-  imgtitle="Philippines-Dvorak Simplified (Latin)"
-  imgcaption=""
+  title="Philippines-Dvorak Simplified (Latin)"
+  caption=""
 
   licensecode="cc0"
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC Zero / Public Domain dedication"
 
   attribto="YourOnly.One"
-  attriblink="https://youronly.one"
+  attriburl="https://youronly.one"
   attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="PH"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
