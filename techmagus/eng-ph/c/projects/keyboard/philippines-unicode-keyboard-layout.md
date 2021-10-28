@@ -27,15 +27,13 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://2.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png", "https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmw9zmCtI/AAAAAAAAAJE/qnhSrVJsjcE/s1600/Philippines-QWERTY%20(Baybayin).png", "https://3.bp.blogspot.com/_tG11xBRpOKo/TMV95mMEDwI/AAAAAAAAAJg/11Wq1l7qJR0/s1600/Philippines-QWERTY%20(Latin).png", "https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmdtDkYI/AAAAAAAAAIk/o9IQ2sYO4Rc/s1600/Philippines-Capewell-Dvorak%20(Baybayin).png", "https://2.bp.blogspot.com/-xChQTHhK6Iw/TncoSbPopxI/AAAAAAAAAVQ/dhuuLg7synY/s1600/Philippines-Capewell-Dvorak%252520%252528Latin%252529.png", "https://4.bp.blogspot.com/_tG11xBRpOKo/TMUmmvwm9TI/AAAAAAAAAIs/J_izftqK63A/s1600/Philippines-Capewell-QWERF%202006%20(Baybayin).png", "https://4.bp.blogspot.com/-tfoM8zo9sLE/TncoSZAlJeI/AAAAAAAAAVQ/2fxkt7XI4Ms/s1600/Philippines-Capewell-QWERF%2525202006%252520%252528Latin%252529.png", "https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
 #draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license
-
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
 
 # For /yuki/ choose one and remove everything else
 [[authors]]

@@ -35,8 +35,6 @@ type = "article"                                                           # art
 
 #license = ""                                                       # only set if the post license is not the same as the site license
 
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
-
 # For /yuki/ choose one and remove everything else
 [[authors]]
   person = "yuki"

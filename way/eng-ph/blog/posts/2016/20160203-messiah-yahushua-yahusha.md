@@ -31,8 +31,6 @@ type = "article"                                                           # art
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes
 
-#contenttypes = [""]
-
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://img.youronly.one/works/Yahushua-Infographic-(CC_BY-SA_4.0_International_by_youronly.one).webp"]    # og:images

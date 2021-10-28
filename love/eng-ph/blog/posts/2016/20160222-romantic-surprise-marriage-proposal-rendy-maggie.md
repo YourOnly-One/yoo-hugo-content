@@ -30,11 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youtube.com/vi/iTgyPmvzWKg/hqdefault.jpg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=iTgyPmvzWKg"]                                # og:video
 
 [[authors]]
 person = "yuki"
@@ -69,12 +67,12 @@ What a romantic marriage proposal by Rendy.
 
   attribalign=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
-  licensename=""
+  licensename="All Rights Reserved"
 
-  attribto=""
-  attriburl=""
+  attribto="stevens derahap"
+  attriburl="https://www.youtube.com/channel/UC5VU4HOczx0eX0oTbl2kb8w"
   attribrel="noopener external nofollow"
 
   cc0country=""

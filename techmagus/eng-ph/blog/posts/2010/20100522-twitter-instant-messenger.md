@@ -33,7 +33,6 @@ draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license
 
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
 [[authors]]
   person = "yuki"
   #id = ""

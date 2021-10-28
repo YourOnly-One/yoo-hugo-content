@@ -31,8 +31,6 @@ type = "article"                                                           # art
 
 #license = ""
 
-#contenttypes = ["Photograph"]
-
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Mathematics-chalkboard-pixabay_license.jpg"]    # og:images

@@ -29,8 +29,6 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
 #videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Timeless_Books-1280w.jpg"]    # og:images

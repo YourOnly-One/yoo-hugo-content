@@ -31,8 +31,6 @@ type = "article"                                                           # art
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes
 
-#contenttypes = [""]
-
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://2.bp.blogspot.com/-IQ7UCTNWxPU/Xls-2CA4C1I/AAAAAAAAgDI/5-g-FjlR1FEI5KhHGTalIHMkqzYtq3wyQCLcBGAsYHQ/s1600/1280px-The_Phillip_Medhurst_Picture_Torah_44._Enoch_translated._Genesis_cap_5_v_24._Mortier%2527s_Bible.jpg"]    # og:images

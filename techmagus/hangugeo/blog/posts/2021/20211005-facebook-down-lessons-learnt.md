@@ -27,15 +27,13 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://img.youronly.one/p/techmagus/ddfon/decentralisation-01.webp", "https://img.youronly.one/p/techmagus/ddfon/friendica-01-frio-profile.webp", "https://img.youronly.one/p/techmagus/ddfon/hubzilla-01.webp", "https://img.youronly.one/p/techmagus/ddfon/zap-01-logo.svg", "https://img.youronly.one/p/techmagus/ddfon/misskey-01-hashtag.webp", "https://img.youronly.one/p/techmagus/ddfon/pixelfed-01-trending.webp", "https://img.youronly.one/p/techmagus/ddfon/mastodon-01-dashboard.webp", "https://img.youronly.one/p/techmagus/ddfon/peertube-01-discover.webp", "https://img.youronly.one/p/techmagus/ddfon/keybase-01-chat.webp", "https://img.youronly.one/p/techmagus/ddfon/matrix-01-element_client.webp", "https://img.youronly.one/p/techmagus/ddfon/session-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
 #draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license
-
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
 
 [[authors]]
   person = "yuki"

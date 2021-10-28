@@ -34,8 +34,6 @@ type = "article"                                                           # art
 
 #license = ""                                                       # only set if the post license is not the same as the site license
 
-#contenttypes = ["Photograph"]                                                 # Semantic Web JSON-LD
-
 [[authors]]
   person = "yuki"
   #id = ""

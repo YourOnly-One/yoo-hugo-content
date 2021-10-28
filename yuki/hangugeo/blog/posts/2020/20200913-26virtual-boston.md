@@ -4,7 +4,7 @@ description = "내 26virtual:보스턴 포스트 런 동영상 블로그"							
 summary = "내 26virtual:보스턴 포스트 런 동영상 블로그"																											# for summary text in list displays
 
 images = ["https://img.youtube.com/vi/Zz8wlo-dHEY/0.jpg"]																											# og:images
-#videos = [""]																											# og:video
+videos = ["https://www.youtube.com/watch?v=Zz8wlo-dHEY"]																											# og:video
 #audio = [""]																												# og:audio
 
 date = "2020-09-13T18:00:00"

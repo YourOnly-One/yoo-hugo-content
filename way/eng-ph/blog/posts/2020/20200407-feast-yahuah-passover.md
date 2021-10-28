@@ -31,11 +31,9 @@ type = "article"                                                           # art
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes
 
-#contenttypes = [""]
-
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
-images = ["https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg"]    # og:images
+images = ["https://2.bp.blogspot.com/-eO37wX8kfWg/XouKb2WkvEI/AAAAAAAAg9g/IiqkGAOyBDcHOoRw4vxd0N7gTZDSA6-xACLcBGAsYHQ/s1600/Day%2B108%2B-%2BThe%2BPassover%2BTable%2BIs%2BSet%2Bby%2Bslgckgc.jpg", "https://3.bp.blogspot.com/-m1N0PBg-_Fs/XosZrsZoT6I/AAAAAAAAg8k/5uM3ivXsqOoVpN18vkZH2hAf6tWewfk1gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-01.png", "https://1.bp.blogspot.com/-YzjwZ4M2tT8/XosZrsOD09I/AAAAAAAAg8g/YmaHi0w9vAAvp9x5ZF2AGaIRoSVPCv05gCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-02.png", "https://2.bp.blogspot.com/-hCOAJIEvOdk/XosZr-DGOGI/AAAAAAAAg8k/gohtI1Efxi0u4D1CsL9Rt4fK_Ex2-yVKgCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-03.png", "https://2.bp.blogspot.com/-XYm0UmTKG_s/XosZsREKLFI/AAAAAAAAg8o/wmmr5TGjaiAStMEuqlObcNILrmWaeduuACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-04.png", "https://4.bp.blogspot.com/-4gaO-oS0bMg/XosZsoJdt4I/AAAAAAAAg8w/czCv_yV7rmctHmENCYZKQxDUF1paY-ckACPcBGAYYCw/s1600/Feast%2Bof%2BPassover-05.png", "https://1.bp.blogspot.com/-GKP4KOmamiQ/XosZtDTnf7I/AAAAAAAAg8s/XyXDSTxJY1IdgoBS_4sneikZklmdUuYvwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-06.png", "https://3.bp.blogspot.com/-tAzCmkh_HDA/XosZtTRGSFI/AAAAAAAAg84/JQ6Y_LkuqAkc7rPUr56SgVdFfTyzBokeQCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-07.png", "https://2.bp.blogspot.com/-CGVxntucUDg/XosZt8BnRII/AAAAAAAAg80/F7Mv6ahj0dsm96bGDYPkebIGjcxlMGKkwCPcBGAYYCw/s1600/Feast%2Bof%2BPassover-08.png"]    # og:images
 
 [[authors]]
 person = "yuki"

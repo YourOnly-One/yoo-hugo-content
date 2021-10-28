@@ -31,8 +31,6 @@ type = "article"                                                           # art
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes
 
-#contenttypes = [""]
-
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://2.bp.blogspot.com/--060oCU5jBI/Xlnp5mg6wOI/AAAAAAAAgB0/ul8x9276tHw1wfe9k6bU3708Gxt3QyVZACLcBGAsYHQ/s1600/1280px-William_Bouguereau_-_El_primer_duelo.jpg"]    # og:images

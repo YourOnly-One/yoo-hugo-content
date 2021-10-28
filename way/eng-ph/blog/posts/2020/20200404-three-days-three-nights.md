@@ -31,11 +31,9 @@ type = "article"                                                           # art
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes
 
-#contenttypes = [""]
-
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
-images = ["https://3.bp.blogspot.com/-mxSj63dxxxs/XoiRfyYyVpI/AAAAAAAAg4g/OhGbpLjJxIUVdwDPvr3miN36pF4bR-v8QCLcBGAsYHQ/s1600/Gethsemane_by_Seetheholyland.net.jpg"]    # og:images
+images = ["https://3.bp.blogspot.com/-mxSj63dxxxs/XoiRfyYyVpI/AAAAAAAAg4g/OhGbpLjJxIUVdwDPvr3miN36pF4bR-v8QCLcBGAsYHQ/s1600/Gethsemane_by_Seetheholyland.net.jpg", "https://4.bp.blogspot.com/-hbxsGfviax0/Xom2c3MmDuI/AAAAAAAAg54/HSW12GDHi0woKUAYh5jrXxuNd1RsggBeACLcBGAsYHQ/s1600/Three%2BDays%252C%2BThree%2BNights%2Bchart-01-compressed.png"]    # og:images
 
 [[authors]]
 person = "yuki"

@@ -30,8 +30,6 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Photograph"]
-
 #videos = [""]                                # og:video
 #audio = [""]                               # og:audio
 images = ["https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp", "https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp", "https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"]    # og:images

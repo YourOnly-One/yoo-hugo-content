@@ -29,8 +29,6 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
 #videos = [""]                                # og:video
 #audio = [""]                               # og:audio
 images = ["https://img.youronly.one/works/Yo-yo-Trivia.webp"]    # og:images

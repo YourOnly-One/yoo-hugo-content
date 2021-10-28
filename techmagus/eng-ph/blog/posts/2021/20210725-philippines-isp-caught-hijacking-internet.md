@@ -27,15 +27,13 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png", "https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png", "https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
 #draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license
-
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
 
 [[authors]]
   person = "yuki"
@@ -60,8 +58,8 @@ Let's take a look at an example.
   height=""
   width=""
 
-  src="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
-  link="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
+  src="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
+  link="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
   linkrel="me noopener"
 
   title=""
@@ -95,8 +93,8 @@ We all know that we can never trust ISPs, government order or not, so let this b
   height=""
   width=""
 
-  src="https://img.YourOnly.one/p/MediaFire-SSL_cert-comparison-01.png"
-  link="https://img.YourOnly.one/p/MediaFire-SSL_cert-comparison-01.png"
+  src="https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"
+  link="https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"
   linkrel="me noopener"
 
   title=""
@@ -125,7 +123,7 @@ We all know that we can never trust ISPs, government order or not, so let this b
 {{< image
   type="imagecoverattrib"
 
-  link="https://img.YourOnly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"
+  link="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"
   linkrel="me noopener"
 
   title=""

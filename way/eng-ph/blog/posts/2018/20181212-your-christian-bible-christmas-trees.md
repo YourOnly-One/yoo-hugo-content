@@ -31,11 +31,9 @@ type = "article"                                                           # art
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes
 
-#contenttypes = [""]
-
-#videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
-images = ["https://3.bp.blogspot.com/-nDkOduYrRD0/XltTWm2sWKI/AAAAAAAAgDU/mYyr2VowCqUa2ufZXpKAfUAsd9SoChJigCLcBGAsYHQ/s1600/Vatican_Christmas_Tree.jpg"]    # og:images
+images = ["https://3.bp.blogspot.com/-nDkOduYrRD0/XltTWm2sWKI/AAAAAAAAgDU/mYyr2VowCqUa2ufZXpKAfUAsd9SoChJigCLcBGAsYHQ/s1600/Vatican_Christmas_Tree.jpg", "https://4.bp.blogspot.com/-82ri6sb1CN4/Xltu6Kok5DI/AAAAAAAAgDg/2BjxsgjsLfwrnvrjGPhRrtfOVo4WEhVUACLcBGAsYHQ/s1600/Image%2Bfrom%2Bpage%2B187%2Bof%2BAncient%2Bpagan%2Band%2Bmodern%2BChristian%2Bsymbolism%2B%25281874%2529_h.jpg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=7-3oFuHIF0M"]                                # og:video
 
 [[authors]]
 person = "yuki"
@@ -125,7 +123,7 @@ And he broke down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the houses
   starttime=""
   endtime=""
 
-  link=""
+  link="https://www.youtube.com/watch?v=7-3oFuHIF0M"
   linkrel="noopener external nofollow"
 
   title="The Christmas Tree and Ancient Tree Worship"

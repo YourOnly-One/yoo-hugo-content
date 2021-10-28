@@ -30,11 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://3.bp.blogspot.com/-xqpogUZC3bQ/VsnSNlLlhuI/AAAAAAAAQ-4/eNLFbbPSK3Y/s1600/Love%2BHeart%2BMade%2BWith%2BHands%2BAt%2BSunset.jpg"]    # og:images
+#videos = [""]                                # og:video
 
 [[authors]]
 person = "yuki"

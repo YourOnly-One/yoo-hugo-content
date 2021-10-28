@@ -31,8 +31,6 @@ type = "article"                                                           # art
 
 #license = ""                                 # We are using this on our own (see config.toml); might conflict with some themes
 
-#contenttypes = [""]
-
 #videos = [""]                                # og:video
 #audio = [""]                                 # og:audio
 images = ["https://4.bp.blogspot.com/-b4qeVGFYH0o/Xln2g6gPLVI/AAAAAAAAgCM/K_-1qcvoZoooxqKDEDe-vMxDzcBVUsGLwCLcBGAsYHQ/s1600/Stop%2BStealing_o.jpg"]    # og:images

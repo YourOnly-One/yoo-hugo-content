@@ -31,8 +31,6 @@ type = "article"                                                           # art
 
 #license = ""                                                       # only set if the post license is not the same as the site license
 
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
-
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"]                                                       # used by og:images, etc.; first image is cover image
@@ -44,7 +42,6 @@ images = ["https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5
   url = "https://im.youronly.one/techmagus/"
   avatar = "https://rsc.youronly.one/img/y/techmagus-Architetto-Esperiment-chimico.webp"
   #rel = "noopener external nofollow"
-
 +++
 
 **Microsoft**가 *EdgeHTML* 브라우저 엔진과 *Microsoft Edge* 브라우저 프론트엔드를 포기한다는 최근 발표는 **Browser Wars 2.0**의 끝을 의미합니다. 그들의 다음 주력 브라우저가 Chromium 기반이고 따라서 Blink 브라우저 엔진에 의해 구동될 것이라는 그들의 계시는 브라우저 엔진을 통해 인터넷을 제어하기 위한 전쟁인 **Browser Wars III**의 시작을 알립니다.

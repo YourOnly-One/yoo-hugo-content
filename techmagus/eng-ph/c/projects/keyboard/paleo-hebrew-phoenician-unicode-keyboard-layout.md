@@ -27,15 +27,13 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://bitbucket.org/repo/dpEe94/images/3811385080-PHNX-Neo_in_Noto_Sans_Phoenician_font.png", "https://bitbucket.org/repo/dpEe94/images/1312841647-PHNX-Neo_in_Ancient_Hebrew_6000-1700BCE_font.png", "https://bitbucket.org/repo/dpEe94/images/418159615-PHNX-Neo_in_Paleo-Hebrew_Gezer_1000-901BCE_font.png"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
 #draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license
-
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
 
 # For /yuki/ choose one and remove everything else
 [[authors]]

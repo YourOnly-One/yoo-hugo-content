@@ -27,15 +27,13 @@ toc = true
 
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://3.bp.blogspot.com/-IPzJrxh1_vg/TncoS7FQ61I/AAAAAAAAAVQ/65UR2jN6Aes/s1600/Philippines-Dvorak%252520Simplified%252520%252528Latin%252529.png"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://3.bp.blogspot.com/-IPzJrxh1_vg/TncoS7FQ61I/AAAAAAAAAVQ/65UR2jN6Aes/s1600/Philippines-Dvorak%252520Simplified%252520%252528Latin%252529.png", "https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"]                                                       # used by og:images, etc.; first image is cover image
 
 type = "article"                                                           # article, sitepage, review
 
 #draft = true
 
 #license = ""                                                       # only set if the post license is not the same as the site license
-
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
 
 # For /yuki/ choose one and remove everything else
 [[authors]]

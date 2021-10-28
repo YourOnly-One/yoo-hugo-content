@@ -31,8 +31,6 @@ type = "article"                                                           # art
 
 #license = ""                                                       # only set if the post license is not the same as the site license
 
-#contenttypes = [""]                                                 # Semantic Web JSON-LD
-
 #videos = [""]                                                       # used by og:video, etc.
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://1.bp.blogspot.com/-irPJoRWat9Y/XuNle8K_vGI/AAAAAAAAiuY/oG6Bx5jed14nCOoDhfu0-cp7m1EqDWH6wCLcBGAsYHQ/s1600/Firefox-Chromium.jpg"]                                                       # used by og:images, etc.; first image is cover image
