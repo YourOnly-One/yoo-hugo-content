@@ -219,19 +219,13 @@ alternatenames = ["Yoo Je Won", "Yu Je Won"]
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="N1L1iaFZQ9I"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=jJwuFjmfjRY"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/jJwuFjmfjRY/hqdefault.jpg"
-
-  title="The King: Eternal Monarch"
+  title="The King: Eternal Monarch | Official Trailer | Netflix [ENG SUB]"
   caption="公式予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2020-04-13"
@@ -244,12 +238,12 @@ alternatenames = ["Yoo Je Won", "Yu Je Won"]
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="The Swoon"
+  attriburl="https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -260,10 +254,6 @@ alternatenames = ["Yoo Je Won", "Yu Je Won"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

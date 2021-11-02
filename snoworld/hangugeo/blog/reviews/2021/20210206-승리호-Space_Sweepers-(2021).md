@@ -33,13 +33,12 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]																											# og:video
 #audio = [""]																												# og:audio
-cover = "https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"																					# only for some themes
 images = [
 	"https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg",
 	"https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
 ]																											# og:images
+videos = ["https://www.youtube.com/watch?v=H1WYnJF1Pwo"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -145,15 +144,6 @@ sameas = ["https://www.imdb.com/title/tt12838766/characters/nm12298705?ref_=ttfc
 name = "조성희"
 alternatenames = ["Jo Sung Hee"]
 sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/name/nm3644812/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Space Sweepers"
-description = "공식 예고편"
-uploaddate = "2021-01-19"
-thumbnailurl = "https://img.youtube.com/vi/H1WYnJF1Pwo/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=H1WYnJF1Pwo"
-embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
 +++
 
 「**승리 호**」 또는 「**Space Sweepers**」 는 대한민국 최초의 우주 SF 쇼입니다. 우주로의 첫 번째 모험을 위해 그들은 실망하지 않았고 쇼의 깊은 이야기와 잊을 수없는 우주 모험에 관객들을 놀라게했습니다.
@@ -181,16 +171,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
-  imglink="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
+  link="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="승리호 (2021)"
-  imgcaption=""
-  imgalt=""
+  title="승리호 (2021)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -199,7 +189,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
   licensename=""
 
   attribto="Bidangil Pictures & Dexter Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -219,25 +209,70 @@ embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
 
 점수 : 10 점 만점에 9 점!
 
-{{< youtube id="H1WYnJF1Pwo" title="「승리호」 (2021) 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="H1WYnJF1Pwo"
+  starttime=""
+  endtime=""
+
+  title="Space Sweepers | Official Trailer | Netflix"
+  caption="「승리호」 (2021) 예고편"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2021-01-19"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Netflix"
+  attriburl="https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="승리호 (2021)"
-  imgcaption=""
+  title="승리호 (2021)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Bidangil Pictures & Dexter Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

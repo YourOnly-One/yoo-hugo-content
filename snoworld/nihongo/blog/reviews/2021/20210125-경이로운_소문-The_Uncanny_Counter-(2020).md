@@ -201,19 +201,13 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="rI55SRM6uhs"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=rI55SRM6uhs"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/rI55SRM6uhs/hqdefault.jpg"
-
   title="The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
   caption="「驚異的な噂」 予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2020-11-27"
@@ -226,12 +220,12 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="The Swoon"
+  attriburl="https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -242,10 +236,6 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

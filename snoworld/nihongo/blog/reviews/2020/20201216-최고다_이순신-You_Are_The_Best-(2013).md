@@ -245,19 +245,13 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="ardVKfVYRa8"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=ardVKfVYRa8"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/ardVKfVYRa8/hqdefault.jpg"
-
   title="[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
   caption="「最高だ李」 予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2013-04-03"
@@ -270,12 +264,12 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="KBS WORLD TV"
+  attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -286,10 +280,6 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

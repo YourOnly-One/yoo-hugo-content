@@ -30,12 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Sisyphus_The_Myth-01.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-02.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-03.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-04.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"]    # og:images
-cover = "https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"				# theme specific
+videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                                                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -44,38 +41,6 @@ cover = "https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"				# theme specif
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
-description = "「시지프스: The Myth」 예고편"
-uploaddate = "2020-12-23"
-thumbnailurl = "https://img.youtube.com/vi/734PeGfxICM/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=734PeGfxICM"
-embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 +++
 
 결정적인 15 회, 16 회가 방영 된 이후에도 최근 종결 된 「시지프스: The Myth」라는 제목의 한국 드라마에 대해 많은 혼란이있다. 이 글에서는이 놀라운 이야기에 혼란스러워 보이는 결말을 명확하게 전달하기 위해 최선을 다할 것입니다.
@@ -175,16 +140,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="시지프스: The Myth"
-  imgcaption="「김병철」 as 「Seo Won Ju / Sigma」"
-  imgalt="시지프스: The Myth"
+  title="시지프스: The Myth"
+  caption="「김병철」 as 「Seo Won Ju / Sigma」"
+  alt="시지프스: The Myth"
 
   attribalign=""
 
@@ -193,7 +158,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -235,16 +200,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="시지프스: The Myth"
-  imgcaption="「박신혜」 as 「Kang Seo Hae」"
-  imgalt="시지프스: The Myth"
+  title="시지프스: The Myth"
+  caption="「박신혜」 as 「Kang Seo Hae」"
+  alt="시지프스: The Myth"
 
   attribalign=""
 
@@ -253,7 +218,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -288,16 +253,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="시지프스: The Myth"
-  imgcaption="「김병철」 as 「Seo Won Ju / Sigma」"
-  imgalt="시지프스: The Myth"
+  title="시지프스: The Myth"
+  caption="「김병철」 as 「Seo Won Ju / Sigma」"
+  alt="시지프스: The Myth"
 
   attribalign=""
 
@@ -306,7 +271,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -355,16 +320,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="시지프스: The Myth"
-  imgcaption="「김병철」 as 「Seo Won Ju / Sigma」"
-  imgalt="시지프스: The Myth"
+  title="시지프스: The Myth"
+  caption="「김병철」 as 「Seo Won Ju / Sigma」"
+  alt="시지프스: The Myth"
 
   attribalign=""
 
@@ -373,7 +338,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -389,7 +354,56 @@ embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 Animetric은 쇼의 결말에 대한 훌륭한 설명을 발표했습니다. 나는 그녀의 이론을 [Animetric 's World](https://j.mp/2RrPfeq)에 대해 읽어 보는 것이 좋습니다.
 
 ## 공식 예고편
-{{< youtube id="734PeGfxICM" title="「시지프스: The Myth」 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="734PeGfxICM"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=734PeGfxICM"
+  linkrel="noopener external nofollow"
+
+  title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
+  caption="「시지프스: The Myth」 예고편"
+
+  datecreated=""
+  datepublished="2020-12-23"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename="All Rights Reserved"
+
+  attribto="JTBC Drama"
+  attriburl="https://www.youtube.com/channel/UCkbJc8jMcTXwhtmN5VMwfXg"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage="ko"
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/36v88yXQKhvQFscLJuXFZd" >}}
@@ -399,18 +413,18 @@ Animetric은 쇼의 결말에 대한 훌륭한 설명을 발표했습니다. 나
 {{< image
   type="imagecoverattrib"
 
-	imglink="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
-  imgrel="noopener external nofollow"
+	link="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="시지프스: The Myth"
-  imgcaption=""
+  title="시지프스: The Myth"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

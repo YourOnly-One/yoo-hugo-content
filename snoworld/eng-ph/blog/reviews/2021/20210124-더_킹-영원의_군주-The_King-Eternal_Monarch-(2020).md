@@ -33,10 +33,9 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]                                                      # og:video
 #audio = [""]                                                       # og:audio
-cover = "https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"                                         # only for some themes
 images = ["https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"]                                                      # og:images
+videos = ["https://www.youtube.com/watch?v=jJwuFjmfjRY"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -183,15 +182,6 @@ alternatenames = ["Jung Ji Hyun", "Jeong Ji Hyeon"]
 name = "유제원"
 alternatenames = ["Yoo Je Won", "Yu Je Won"]
 #sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The King: Eternal Monarch"
-description = "Official trailer"
-uploaddate = "2020-04-13"
-thumbnailurl = "https://img.youtube.com/vi/jJwuFjmfjRY/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=jJwuFjmfjRY"
-embedurl = "https://www.youtube-nocookie.com/embed/jJwuFjmfjRY"
 +++
 
 "**더 킹: 영원의 군주**" or "**The King: Eternal Monarch**" (2020) was the best science fiction and romance of the 2010 decade. I would say that this show has gained the number one (#1) spot in my list of "Top 10 Overall Best Sci-fi TV Show" pushing down "Fringe" (2008) which held that rank for 12 years.
@@ -224,7 +214,52 @@ I highly recommend "더 킹: 영원의 군주" or "The King: Eternal Monarch" (2
 
 Overall score of 9.5 out of 10 stars.
 
-{{< youtube id="N1L1iaFZQ9I" title="「The King: Eternal Monarch」 (2020) trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="N1L1iaFZQ9I"
+  starttime=""
+  endtime=""
+
+  title="The King: Eternal Monarch | Official Trailer | Netflix [ENG SUB]"
+  caption="「The King: Eternal Monarch」 (2020) trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2020-04-13"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="The Swoon"
+  attriburl="https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/7JfLLITRjdnUhcUBcKWjZo" >}}
@@ -234,17 +269,17 @@ Overall score of 9.5 out of 10 stars.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="The King: Eternal Monarch (2020)"
-  imgcaption=""
+  title="The King: Eternal Monarch (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Studio Dragon"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

@@ -31,10 +31,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"				# theme specific
 images = ["https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp", "https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"]		# og:images
+videos = ["https://www.youtube.com/watch?v=ardVKfVYRa8"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -182,15 +181,6 @@ sameas = ["https://www.imdb.com/title/tt3250818/characters/nm6007240"]
 name = "윤성식"
 alternatenames = ["Yoon Sung Shik"]
 sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/name/nm5897319"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
-description = "「You Are The Best!」 trailer"
-uploaddate = "2013-04-03"
-thumbnailurl = "https://img.youtube.com/vi/ardVKfVYRa8/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=ardVKfVYRa8"
-embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
 +++
 
 A review of the family K-Drama entitled 「**최고다 이순신**」 (「**You Are The Best!**」), starring 이지은 (Lee Ji Eun) as *Lee Soon Shin*, as she embarks on a journey in finding success in a cruel world; together with 조정석 (Jo Jung Suk) as *Shin Joon Ho*, the owner of a talent agency trying to make a big break in a challenging industry.
@@ -215,16 +205,16 @@ I'm giving it an 8 out of 10 stars.
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  imglink="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="You Are The Best! (2013)"
-  imgcaption="Lee Mi Sook as Song Mi Ryung (front left); Lee Ji Eun ('IU') as Lee Soon Shin (front right)<br/>Lee Ji Hoon as Jo In Sung (back left); Lee Seul Bi as Park Chan Mi (back right)"
-  imgalt="You Are The Best! (2013) Lee Mi Sook as Song Mi Ryung (front left); Lee Ji Eun ('IU') as Lee Soon Shin (front right); Lee Ji Hoon as Jo In Sung (back left); Lee Seul Bi as Park Chan Mi (back right)"
+  title="You Are The Best! (2013)"
+  caption="Lee Mi Sook as Song Mi Ryung (front left); Lee Ji Eun ('IU') as Lee Soon Shin (front right)<br/>Lee Ji Hoon as Jo In Sung (back left); Lee Seul Bi as Park Chan Mi (back right)"
+  alt="You Are The Best! (2013) Lee Mi Sook as Song Mi Ryung (front left); Lee Ji Eun ('IU') as Lee Soon Shin (front right); Lee Ji Hoon as Jo In Sung (back left); Lee Seul Bi as Park Chan Mi (back right)"
 
   attribalign=""
 
@@ -233,7 +223,7 @@ I'm giving it an 8 out of 10 stars.
   licensename=""
 
   attribto="AStory"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -250,24 +240,69 @@ I'm giving this 7 out of 10 stars.
 ## Conclusion
 Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was very moving. The multiple main stories are relatable and memorable, especially its focus on family relationships instead of a romcom or romance between two love birds. While having multiple main stories was good, it diminished the focus and impact of the main story between the two main characters. It was also slow at first and took ten to twenty episodes to reach the meat of the main plot. Regardless, the acting given by all the actors and actresses were so good and natural that overall it is worth watching again.
 
-{{< youtube id="ardVKfVYRa8" title="「You Are The Best!」 (2013) trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="ardVKfVYRa8"
+  starttime=""
+  endtime=""
+
+  title="[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
+  caption="「You Are The Best!」 (2013) trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2013-04-03"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="KBS WORLD TV"
+  attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="You Are The Best! (2013)"
-  imgcaption=""
+  title="You Are The Best! (2013)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="AStory"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

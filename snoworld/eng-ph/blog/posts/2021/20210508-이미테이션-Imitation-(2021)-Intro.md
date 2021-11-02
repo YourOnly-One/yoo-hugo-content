@@ -30,12 +30,11 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["CriticReview"]
-
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Imitation-(2021)-Title.webp", "https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"]    # og:images
-cover = "https://img.youronly.one/p/Imitation-(2021)-Title.webp"       # theme specific
+videos = ["https://www.youtube.com/watch?v=m7WhnM4mU4w"]                                # og:video
+
+contenttypes = ["CriticReview"]
 
 [[authors]]
   person = "yuki"
@@ -67,15 +66,6 @@ sameas = ["https://page.kakao.com/home?seriesId=46908316"]
 name = "박경란"
 alternatenames = ["Park Kyung Ran"]
 #sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Official Trailer: Imitation"
-description = "「Imitation」 trailer"
-uploaddate = "2021-04-27"
-thumbnailurl = "https://img.youtube.com/vi/m7WhnM4mU4w/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=m7WhnM4mU4w"
-embedurl = "https://www.youtube-nocookie.com/embed/m7WhnM4mU4w"
 
 [semweb.review]
 snippet = "Should you watch this new Korean drama? Definitely, especially if you are also a K-Pop fan. Hopefully through this short form TV series, more fans will be enlightened to the kind of life their idols are living every single day."
@@ -191,16 +181,16 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 sets her goal"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 sets her goal"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 sets her goal"
+  alt="Imitation (2021) 「Lee Ma Ha」 sets her goal"
 
   attribalign=""
 
@@ -209,23 +199,23 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 dreams of debuting in a grand stage"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 dreams of debuting in a grand stage"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 dreams of debuting in a grand stage"
+  alt="Imitation (2021) 「Lee Ma Ha」 dreams of debuting in a grand stage"
 
   attribalign=""
 
@@ -234,23 +224,23 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 prepares to run"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 prepares to run"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 prepares to run"
+  alt="Imitation (2021) 「Lee Ma Ha」 prepares to run"
 
   attribalign=""
 
@@ -259,23 +249,23 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 running"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 running"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 running"
+  alt="Imitation (2021) 「Lee Ma Ha」 running"
 
   attribalign=""
 
@@ -284,23 +274,23 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 ran more than 11 km"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 ran more than 11 km"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 ran more than 11 km"
+  alt="Imitation (2021) 「Lee Ma Ha」 ran more than 11 km"
 
   attribalign=""
 
@@ -309,7 +299,7 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -319,16 +309,16 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Shax」"
-  imgalt="Imitation (2021) 「Shax」"
+  title="Imitation (2021)"
+  caption="「Shax」"
+  alt="Imitation (2021) 「Shax」"
 
   attribalign=""
 
@@ -337,7 +327,7 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -346,16 +336,16 @@ And being selected does not mean a trainee will debut as was depicted in the fir
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="Omega III member quit a few days before debut"
-  imgalt="Imitation (2021) Omega III member quit a few days before debut"
+  title="Imitation (2021)"
+  caption="Omega III member quit a few days before debut"
+  alt="Imitation (2021) Omega III member quit a few days before debut"
 
   attribalign=""
 
@@ -364,23 +354,23 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="Former Omega III member about to jump into the river"
-  imgalt="Imitation (2021) Former Omega III member about to jump into the river"
+  title="Imitation (2021)"
+  caption="Former Omega III member about to jump into the river"
+  alt="Imitation (2021) Former Omega III member about to jump into the river"
 
   attribalign=""
 
@@ -389,23 +379,23 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="Agency Accommodation"
-  imgalt="Imitation (2021) Agency Accommodation"
+  title="Imitation (2021)"
+  caption="Agency Accommodation"
+  alt="Imitation (2021) Agency Accommodation"
 
   attribalign=""
 
@@ -414,7 +404,7 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -423,16 +413,16 @@ Being away from your family, especially in special occasions, is very depressing
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 celebrated her birthday away from her family"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 celebrated her birthday away from her family"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 celebrated her birthday away from her family"
+  alt="Imitation (2021) 「Lee Ma Ha」 celebrated her birthday away from her family"
 
   attribalign=""
 
@@ -441,7 +431,7 @@ Being away from your family, especially in special occasions, is very depressing
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -450,16 +440,16 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 packing her things"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 packing her things"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 packing her things"
+  alt="Imitation (2021) 「Lee Ma Ha」 packing her things"
 
   attribalign=""
 
@@ -468,23 +458,23 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Lee Ma Ha」 packing her things"
-  imgalt="Imitation (2021) 「Lee Ma Ha」 packing her things"
+  title="Imitation (2021)"
+  caption="「Lee Ma Ha」 packing her things"
+  alt="Imitation (2021) 「Lee Ma Ha」 packing her things"
 
   attribalign=""
 
@@ -493,7 +483,7 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -503,16 +493,16 @@ Regardless if one is a solo act or a group, they have to market themselves withi
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Omega III」 debut"
-  imgalt="Imitation (2021) 「Omega III」 debut"
+  title="Imitation (2021)"
+  caption="「Omega III」 debut"
+  alt="Imitation (2021) 「Omega III」 debut"
 
   attribalign=""
 
@@ -521,23 +511,23 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Omega III」 debut"
-  imgalt="Imitation (2021) 「Omega III」 debut"
+  title="Imitation (2021)"
+  caption="「Omega III」 debut"
+  alt="Imitation (2021) 「Omega III」 debut"
 
   attribalign=""
 
@@ -546,23 +536,23 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Omega III」 debut"
-  imgalt="Imitation (2021) 「Omega III」 debut"
+  title="Imitation (2021)"
+  caption="「Omega III」 debut"
+  alt="Imitation (2021) 「Omega III」 debut"
 
   attribalign=""
 
@@ -571,23 +561,23 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation (2021)"
-  imgcaption="「Omega III」 debut"
-  imgalt="Imitation (2021) 「Omega III」 debut"
+  title="Imitation (2021)"
+  caption="「Omega III」 debut"
+  alt="Imitation (2021) 「Omega III」 debut"
 
   attribalign=""
 
@@ -596,7 +586,7 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -606,24 +596,69 @@ Should you watch this new Korean drama? Definitely, especially if you are also a
 Respect them. Stop bullying them.
 
 ## Official trailer
-{{< youtube id="m7WhnM4mU4w" title="「Imitation」 trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="m7WhnM4mU4w"
+  starttime=""
+  endtime=""
+
+  title="Official Trailer: Imitation | 仿品 | iQiyi"
+  caption="「Imitation」 trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2021-04-27"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="iQIYI 爱奇艺"
+  attriburl="https://www.youtube.com/channel/UCUhpu5MJQ_bjPkXO00jyxsw"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Imitation-(2021)-Title.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Imitation-(2021)-Title.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Imitation"
-  imgcaption=""
+  title="Imitation"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Hidden Sequence"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

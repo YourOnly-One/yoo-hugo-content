@@ -33,13 +33,12 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different"
 
-#videos = [""]                                                      # og:video
 #audio = [""]                                                       # og:audio
-cover = "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"                                          # only for some themes
 images = [
   "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp",
   "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
 ]                                                     # og:images
+videos = ["https://www.youtube.com/watch?v=2ljxyaAIphc"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -143,15 +142,6 @@ sameas = ["https://www.imdb.com/title/tt5320412/characters/nm1202941?ref_=ttfc_f
 name = "김규태"
 alternatenames = ["Kim Kyu Tae", "Gim Gyu Tae", "Kim Kyoo Tae"]
 sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/name/nm2153361/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Moon Lovers: Scarlet Heart Ryeo"
-description = "공식 예고편"
-uploaddate = "2017-04-11"
-thumbnailurl = "https://img.youtube.com/vi/2ljxyaAIphc/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=2ljxyaAIphc"
-embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 +++
 
 「**달의 연인-보보 경심 려**」또는 「**Moon Lovers : Scarlet Heart Ryeo**」는 2016 년부터 높은 평가를 받고있는 한국 드라마 중 하나입니다. 」, 「해수」, 이준기는 「왕소」, 강 하늘은 「왕욱」, 홍종현은 「왕요」」를 주인공으로했다.
@@ -176,16 +166,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
-  imglink="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="달의 연인 - 보보경심 려 (2016)"
-  imgcaption="이지은 ('아이유') as Hae Soo (왼쪽); 이준기 as the 4th Prince, Wang So (바른)"
-  imgalt="달의 연인 - 보보경심 려 (2016) 이지은 ('아이유') as Hae Soo (왼쪽); 이준기 as the 4th Prince, Wang So (바른)"
+  title="달의 연인 - 보보경심 려 (2016)"
+  caption="이지은 ('아이유') as Hae Soo (왼쪽); 이준기 as the 4th Prince, Wang So (바른)"
+  alt="달의 연인 - 보보경심 려 (2016) 이지은 ('아이유') as Hae Soo (왼쪽); 이준기 as the 4th Prince, Wang So (바른)"
 
   attribalign=""
 
@@ -194,7 +184,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
   licensename=""
 
   attribto="YG Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -205,7 +195,52 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 
 이 쇼에 별 10 개 중 8 개를줍니다
 
-{{< youtube id="2ljxyaAIphc" title="「달의 연인 - 보보경심 려」 (2016) 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="2ljxyaAIphc"
+  starttime=""
+  endtime=""
+
+  title="Scarlet Heart : Ryeo Trailer"
+  caption="「달의 연인 - 보보경심 려」 (2016) 예고편"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2017-04-11"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="YG Entertainment"
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/0gmw30zH5jLjwMv5KSJl86" >}}
@@ -215,18 +250,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="달의 연인 - 보보경심 려 (2016)"
-  imgcaption=""
+  title="달의 연인 - 보보경심 려 (2016)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="YG Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

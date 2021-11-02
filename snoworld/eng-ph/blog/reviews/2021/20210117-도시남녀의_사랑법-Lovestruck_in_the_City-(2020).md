@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"]    # og:images
+videos = ["https://www.youtube.com/watch?v=-lKjFaESjwk"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -152,15 +151,6 @@ sameas = ["https://www.imdb.com/title/tt13394544/characters/nm8446544"]
 name = "박신우"
 alternatenames = ["Park Shin Woo"]
 sameas = ["https://www.imdb.com/name/nm11636776"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[ENG SUB HD] Lovestruck in the City Official Trailer"
-description = "「Lovestruck in the City」 trailer"
-uploaddate = "2020-12-30"
-thumbnailurl = "https://img.youtube.com/vi/-lKjFaESjwk/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=-lKjFaESjwk"
-embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
 +++
 
 「***도시남녀의 사랑법***」 / 「***Lovestruck in the City***」 is a short story or short form romantic comedy drama which depicts real love stories of young people as they live in a huge busy city. It stars 「Ji Chan Wook」 and 「Kim Ji Won」. The series is also the first part of the multi-series entitled 「City Couple's Way of Love」.
@@ -184,16 +174,16 @@ From the title and synopsis, the impression was this is a part comedy, part chee
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Lovestruck in the City (2020)"
-  imgcaption="(left to right) 「So Ju Yeon」, 「Ryu Kyung Soo」, 「Kim Ji Won」"
-  imgalt="Lovestruck in the City (2020) (left to right) 「So Ju Yeon」, 「Ryu Kyung Soo」, 「Kim Ji Won」"
+  title="Lovestruck in the City (2020)"
+  caption="(left to right) 「So Ju Yeon」, 「Ryu Kyung Soo」, 「Kim Ji Won」"
+  alt="Lovestruck in the City (2020) (left to right) 「So Ju Yeon」, 「Ryu Kyung Soo」, 「Kim Ji Won」"
 
   attribalign=""
 
@@ -202,7 +192,7 @@ From the title and synopsis, the impression was this is a part comedy, part chee
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -217,16 +207,16 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Lovestruck in the City (2020)"
-  imgcaption="「Kim Min Seok」 (left); 「So Ju Yeon」 (right)"
-  imgalt="Lovestruck in the City (2020) 「Kim Min Seok」 (left); 「So Ju Yeon」 (right)"
+  title="Lovestruck in the City (2020)"
+  caption="「Kim Min Seok」 (left); 「So Ju Yeon」 (right)"
+  alt="Lovestruck in the City (2020) 「Kim Min Seok」 (left); 「So Ju Yeon」 (right)"
 
   attribalign=""
 
@@ -235,32 +225,122 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 ## Official trailer
-{{< youtube id="-lKjFaESjwk" title="「Lovestruck in the City」 trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
 
-## OST
-{{< youtube playlist="true" id="PL7ac76lPFdruDdzubCSI6WdSp8aOb0DSB" title="「Lovestruck in the City」 OST" >}}
+  id="-lKjFaESjwk"
+  starttime=""
+  endtime=""
 
--------
+  title="[ENG SUB HD] Lovestruck in the City Official Trailer"
+  caption="「Lovestruck in the City」 trailer"
+  inlanguage="ko"
 
-{{< image
-  type="imagecoverattrib"
+  datecreated=""
+  datepublished="2020-12-30"
 
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  director=""
+  musicby=""
 
-  imgtitle="Lovestruck in the City (2020)"
-  imgcaption=""
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
+
+## OST
+{{< video
+  platform="youtube"
+  isplaylist=yes
+  isloop=false
+
+  id="PL7ac76lPFdruDdzubCSI6WdSp8aOb0DSB"
+  starttime=""
+  endtime=""
+
+  title="「Lovestruck in the City」 OST"
+  caption="「Lovestruck in the City」 OST"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2021-01-01"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Kakao M"
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"
+  linkrel="noopener external nofollow"
+
+  title="Lovestruck in the City (2020)"
+  caption=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Kakao M and Story & Pictures Media"
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

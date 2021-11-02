@@ -30,11 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Sisyphus_The_Myth-01.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-02.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-03.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-04.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"]    # og:images
-videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                                # og:video
+videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                                                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -43,29 +41,6 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
 +++
 
 重要なエピソード15と16が放映された後でも、最近終了した韓国のTVシリーズ「シーシュポス：神話」については多くの混乱があります。 この投稿では、この驚くべき物語の終わりを混乱させるように思われることを明確にするために最善を尽くします。
@@ -384,16 +359,12 @@ Animetricはショーのエンディングについて素晴らしい説明を�
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="734PeGfxICM"
   starttime=""
   endtime=""
 
   link="https://www.youtube.com/watch?v=734PeGfxICM"
   linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/734PeGfxICM/hqdefault.jpg"
 
   title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
   caption="「シーシュポス: The Myth」 予告編"
@@ -409,12 +380,12 @@ Animetricはショーのエンディングについて素晴らしい説明を�
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
-  licensename=""
+  licensename="All Rights Reserved"
 
-  attribto=""
-  attriburl=""
+  attribto="JTBC Drama"
+  attriburl="https://www.youtube.com/channel/UCkbJc8jMcTXwhtmN5VMwfXg"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -426,9 +397,7 @@ Animetricはショーのエンディングについて素晴らしい説明を�
   copyrightnotice=""
   credittext=""
 
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
+  inlanguage="ko"
 
   contentloc=""
   contentlocurl=""
@@ -444,7 +413,7 @@ Animetricはショーのエンディングについて素晴らしい説明を�
 {{< image
   type="imagecoverattrib"
 
-	imglink="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
+	link="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
   linkrel="noopener external nofollow"
 
   title="シーシュポス: The Myth"

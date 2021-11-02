@@ -30,11 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"]    # og:images
-videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                                # og:video
+videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -43,29 +41,6 @@ videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                        
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
 +++
 
 「プレートゲートウェイ」には複数のパラレルワールドが表示されており、パラレルワールドを区別する方法に慣れていない場合は混乱することがよくあります。 この投稿では、ジェーンが訪れたパラレルワールドの最も正確な分析であると私が信じているものを紹介します。
@@ -108,19 +83,13 @@ videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                        
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="gInFXtRvwlM"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=gInFXtRvwlM"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/gInFXtRvwlM/hqdefault.jpg"
-
-  title="ALPHA GATEWAY Official Trailer (2020) Sci Fi Thriller Movie HD"
+  title="Alpha Gateway - Official Trailer Sci Fi Thriller Movie HD"
   caption="「アルファゲートウェイ」 予告編"
+  inlanguage="en"
 
   datecreated=""
   datepublished="2017-06-27"
@@ -133,12 +102,12 @@ videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                        
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="FilmscopeEnt"
+  attriburl="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -149,10 +118,6 @@ videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                        
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp", "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=rI55SRM6uhs"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -144,15 +143,6 @@ sameas = ["https://www.imdb.com/title/tt13273826/characters/nm0025548"]
 name = "유선동"
 alternatenames = ["Yoo Seon Dong"]
 sameas = ["https://www.imdb.com/name/nm1602570"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
-description = "「경이로운 소문」 예고편"
-uploaddate = "2020-11-27"
-thumbnailurl = "https://img.youtube.com/vi/rI55SRM6uhs/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=rI55SRM6uhs"
-embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 +++
 
 「***경이로운 소문***」(2020) 시즌 1은 장이의 「경이로운 소문」(2018)이라는 제목의 웹툰 ( "디지털 한국 만화")을 실사로 각색 한 작품입니다. 악령을 사냥하는 카운터로 「조병규」, 「유준상」, 「김세정」, 「염 혜란」, 「안석환」이 출연한다.
@@ -174,16 +164,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  imglink="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="경이로운 소문 (2020)"
-  imgcaption="(좌에서 우로) 「김세정」, 「유준상」, 「안석환」, 「조병규」, 「염혜란」"
-  imgalt="경이로운 소문 (2020) (좌에서 우로) 「김세정」, 「유준상」, 「안석환」, 「조병규」, 「염혜란」"
+  title="경이로운 소문 (2020)"
+  caption="(좌에서 우로) 「김세정」, 「유준상」, 「안석환」, 「조병규」, 「염혜란」"
+  alt="경이로운 소문 (2020) (좌에서 우로) 「김세정」, 「유준상」, 「안석환」, 「조병규」, 「염혜란」"
 
   attribalign=""
 
@@ -192,7 +182,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
   licensename=""
 
   attribto="Neo Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -205,7 +195,52 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 시즌 2에 청신호가 주어 졌다는 소식이 이미 발표 되었기 때문에 미래를위한 여지가있는 시리즈를 끝내는 것의 중요성을 더욱 입증했습니다. 잘 했어. 시즌 2를 기다리고 있겠습니다.
 
 ## 공식 예고편
-{{< youtube id="rI55SRM6uhs" title="「경이로운 소문」 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="rI55SRM6uhs"
+  starttime=""
+  endtime=""
+
+  title="The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
+  caption="「경이로운 소문」 예고편"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2020-11-27"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="The Swoon"
+  attriburl="https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/4QoG3aDjR7arvGGTYGkWxI" >}}
@@ -215,18 +250,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="경이로운 소문 (2020)"
-  imgcaption=""
+  title="경이로운 소문 (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Neo Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

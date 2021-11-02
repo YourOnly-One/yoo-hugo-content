@@ -30,12 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"       # theme specific
+videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -44,38 +41,6 @@ cover = "https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"       # theme s
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "ALPHA GATEWAY Official Trailer (2020) Sci Fi Thriller Movie HD"
-description = "「Alpha Gateway」 trailer"
-uploaddate = "2017-06-27"
-thumbnailurl = "https://img.youtube.com/vi/gInFXtRvwlM/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=gInFXtRvwlM"
-embedurl = "https://www.youtube-nocookie.com/embed/gInFXtRvwlM"
 +++
 
 There are multiple parallel worlds shown in 「Alpha Gateway」 or 「The Gateway」 and it is often confusing if one is not familiar with how to differentiate parallel worlds from each other. In this post, I will present what I believe to be the most accurate analysis of the parallel worlds visited by Jane.
@@ -113,24 +78,69 @@ The location of Jane "Delta" is anybody's guess. She could still be stuck in the
 We can only hope there was another Jane that ended up in the Alpha World to send Matt "Beta" to the F World.
 
 ## Official trailer
-{{< youtube id="gInFXtRvwlM" title="「Alpha Gateway」 trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
 
--------
+  id="gInFXtRvwlM"
+  starttime=""
+  endtime=""
 
-{{< image
-  type="imagecoverattrib"
+  title="Alpha Gateway - Official Trailer Sci Fi Thriller Movie HD"
+  caption="「Alpha Gateway」 trailer"
+  inlanguage="en"
 
-  imglink="https://img.youtube.com/vi/gVEutjaQ19s/maxresdefault.jpg"
-  imgrel="noopener external nofollow"
+  datecreated=""
+  datepublished="2017-06-27"
 
-  imgtitle="Alpha Gateway (2018)"
-  imgcaption=""
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="FilmscopeEnt"
-  attriblink="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
+  attriburl="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  link="https://img.youtube.com/vi/gVEutjaQ19s/maxresdefault.jpg"
+  linkrel="noopener external nofollow"
+
+  title="Alpha Gateway (2018)"
+  caption=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="FilmscopeEnt"
+  attriburl="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
   attribrel="noopener external nofollow"
 >}}

@@ -235,19 +235,13 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="-lKjFaESjwk"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=-lKjFaESjwk"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/-lKjFaESjwk/hqdefault.jpg"
-
   title="[ENG SUB HD] Lovestruck in the City Official Trailer"
   caption="「都会の男女の恋愛法」 予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2020-12-30"
@@ -260,11 +254,11 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
+  attribto="Kakao M and Story & Pictures Media"
   attriburl=""
   attribrel="noopener external nofollow"
   attribalign=""
@@ -276,10 +270,6 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""
@@ -290,25 +280,19 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 ## OST
 {{< video
   platform="youtube"
-  isplaylist=true
+  isplaylist=yes
   isloop=false
-
-  height=""
-  width=""
 
   id="PL7ac76lPFdruDdzubCSI6WdSp8aOb0DSB"
   starttime=""
   endtime=""
 
-  link=""
-  linkrel="noopener external nofollow"
-  thumbnailurl=""
-
-  title="「都会の男女の恋愛法」 OST"
-  caption=""
+  title="「Lovestruck in the City」 OST"
+  caption="「都会の男女の恋愛法」 OST"
+  inlanguage="ko"
 
   datecreated=""
-  datepublished=""
+  datepublished="2021-01-01"
 
   director=""
   musicby=""
@@ -318,11 +302,11 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
+  attribto="Kakao M"
   attriburl=""
   attribrel="noopener external nofollow"
   attribalign=""
@@ -334,10 +318,6 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

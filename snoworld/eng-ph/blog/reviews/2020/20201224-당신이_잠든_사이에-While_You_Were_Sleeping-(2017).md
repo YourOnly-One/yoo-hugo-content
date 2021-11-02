@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"				# theme specific
 images = ["https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg", "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"]		# og:images
+videos = ["https://www.youtube.com/watch?v=8--Jj-iA0TY"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -192,15 +191,6 @@ sameas = ["https://www.imdb.com/title/tt6256484/characters/nm3628205"]
 name = "오충환"
 alternatenames = ["Oh Choong Hwan"]
 sameas = ["https://www.imdb.com/name/nm8589259"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[While You Were Sleeping] Official Teaser (Eng Sub)"
-description = "「While You Were Sleeping」 trailer"
-uploaddate = "2017-09-13"
-thumbnailurl = "https://img.youtube.com/vi/8--Jj-iA0TY/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=8--Jj-iA0TY"
-embedurl = "https://www.youtube-nocookie.com/embed/8--Jj-iA0TY"
 +++
 
 「**While You Were Sleeping**」 is that kind of drama where the audience can relate to the characters and the story arcs and at the same time hopes that it becomes a reality in their lives. It stars veteran actress, the lovely 수지 (Bae Suzy); and veteran actor, the handsome 이종석 (Lee Jong Suk).
@@ -224,16 +214,16 @@ The supporting actors did well too and made their characters memorable especiall
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
-  imglink="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
+  link="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
+  linkrel="noopener external nofollow"
 
-  imgtitle="While You Were Sleeping (2017)"
-  imgcaption="Lee Jong Suk as Jung Jae Chan (left); Bae Suzy as Nam Hong Ju (right)"
-  imgalt="While You Were Sleeping (2017) Lee Jong Suk as Jung Jae Chan (left); Bae Suzy as Nam Hong Ju (right)"
+  title="While You Were Sleeping (2017)"
+  caption="Lee Jong Suk as Jung Jae Chan (left); Bae Suzy as Nam Hong Ju (right)"
+  alt="While You Were Sleeping (2017) Lee Jong Suk as Jung Jae Chan (left); Bae Suzy as Nam Hong Ju (right)"
 
   attribalign=""
 
@@ -242,7 +232,7 @@ The supporting actors did well too and made their characters memorable especiall
   licensename=""
 
   attribto="SidusHQ"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -258,24 +248,69 @@ Suzy Bae did well in portraying a lovable and pretty character who anyone would 
 ## Overall score
 I give 「While You Were Sleeping」 an overall score of 9.0 out of 10 stars.
 
-{{< youtube id="8--Jj-iA0TY" title="「While You Were Sleeping」 (2017) trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="8--Jj-iA0TY"
+  starttime=""
+  endtime=""
+
+  title="[While You Were Sleeping] Official Teaser (Eng Sub)"
+  caption="「While You Were Sleeping」 (2017) trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2017-09-13"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="KOCOWA TV"
+  attriburl="https://www.youtube.com/channel/UCAqlxq4Bs9PjI86M9lM18TA"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="While You Were Sleeping (2017)"
-  imgcaption=""
+  title="While You Were Sleeping (2017)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="SidusHQ"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

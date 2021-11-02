@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp", "https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=rI55SRM6uhs"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -144,15 +143,6 @@ sameas = ["https://www.imdb.com/title/tt13273826/characters/nm0025548"]
 name = "유선동"
 alternatenames = ["Yoo Seon Dong"]
 sameas = ["https://www.imdb.com/name/nm1602570"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
-description = "「The Uncanny Counter」 trailer"
-uploaddate = "2020-11-27"
-thumbnailurl = "https://img.youtube.com/vi/rI55SRM6uhs/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=rI55SRM6uhs"
-embedurl = "https://www.youtube-nocookie.com/embed/rI55SRM6uhs"
 +++
 
 「***경이로운 소문***」 / 「***The Uncanny Counter***」 (2020) Season 1 was a live-action adaptation of the webtoon ("digital Korean manhwa") entitled 「Kyeongirowoon Somoon」 (2018) by Jang Yi. It stars 「Cho Byeong Kyu」, 「Yoo Joon Sang」, 「Kim Se Jeong」, 「Yeom Hye Ran」, and 「Ahn Suk Hwan」, as the Counters--people who hunts evil spirits.
@@ -174,16 +164,16 @@ The multiple story arcs were well thought out and I was amazed with how these di
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  imglink="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-02.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="The Uncanny Counter (2020)"
-  imgcaption="(left to right) 「Kim Se Jeong」, 「Yoo Joon Sang」, 「Ahn Suk Hwan」, 「Cho Byeong Kyu」, 「Yeom Hye Ran」"
-  imgalt="The Uncanny Counter (2020) (left to right) 「Kim Se Jeong」, 「Yoo Joon Sang」, 「Ahn Suk Hwan」, 「Cho Byeong Kyu」, 「Yeom Hye Ran」"
+  title="The Uncanny Counter (2020)"
+  caption="(left to right) 「Kim Se Jeong」, 「Yoo Joon Sang」, 「Ahn Suk Hwan」, 「Cho Byeong Kyu」, 「Yeom Hye Ran」"
+  alt="The Uncanny Counter (2020) (left to right) 「Kim Se Jeong」, 「Yoo Joon Sang」, 「Ahn Suk Hwan」, 「Cho Byeong Kyu」, 「Yeom Hye Ran」"
 
   attribalign=""
 
@@ -192,7 +182,7 @@ The multiple story arcs were well thought out and I was amazed with how these di
   licensename=""
 
   attribto="Neo Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -205,7 +195,52 @@ Finally, and it is rare to see this in most Asian dramas, they ended the series 
 Since it was already announced that season 2 was given a green light, it further proved the importance of ending a series with room for the future. Well done. I will be waiting for season 2.
 
 ## Official trailer
-{{< youtube id="rI55SRM6uhs" title="「The Uncanny Counter」 trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="rI55SRM6uhs"
+  starttime=""
+  endtime=""
+
+  title="The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
+  caption="「The Uncanny Counter」 trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2020-11-27"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="The Swoon"
+  attriburl="https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/4QoG3aDjR7arvGGTYGkWxI" >}}
@@ -215,17 +250,17 @@ Since it was already announced that season 2 was given a green light, it further
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/The_Uncanny_Counter-(2020)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="The Uncanny Counter (2020)"
-  imgcaption=""
+  title="The Uncanny Counter (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Neo Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

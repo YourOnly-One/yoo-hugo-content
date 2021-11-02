@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp", "https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"]    # og:images
+videos = ["https://www.youtube.com/watch?v=-lKjFaESjwk"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -152,15 +151,6 @@ sameas = ["https://www.imdb.com/title/tt13394544/characters/nm8446544"]
 name = "박신우"
 alternatenames = ["Park Shin Woo"]
 sameas = ["https://www.imdb.com/name/nm11636776"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[ENG SUB HD] Lovestruck in the City Official Trailer"
-description = "「도시남녀의 사랑법」 예고편"
-uploaddate = "2020-12-30"
-thumbnailurl = "https://img.youtube.com/vi/-lKjFaESjwk/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=-lKjFaESjwk"
-embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
 +++
 
 「***도시남녀의 사랑법***」은 붐비는 거대한 도시에 살고있는 젊은이들의 진정한 러브 스토리를 그린 단편 또는 단편 로맨틱 코미디 드라마입니다. 「지 창욱」과 「김지원」이 출연한다. 이 시리즈는 또한 「도시 커플의 사랑의 길」이라는 멀티 시리즈의 첫 번째 부분입니다.
@@ -184,16 +174,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="도시남녀의 사랑법 (2020)"
-  imgcaption="(좌에서 우로) 「소주연」, 「류경수」, 「김지원」"
-  imgalt="도시남녀의 사랑법 (2020) (좌에서 우로) 「소주연」, 「류경수」, 「김지원」"
+  title="도시남녀의 사랑법 (2020)"
+  caption="(좌에서 우로) 「소주연」, 「류경수」, 「김지원」"
+  alt="도시남녀의 사랑법 (2020) (좌에서 우로) 「소주연」, 「류경수」, 「김지원」"
 
   attribalign=""
 
@@ -202,7 +192,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -217,16 +207,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="도시남녀의 사랑법 (2020)"
-  imgcaption="「김민석」 (왼쪽); 「소주연」 (바른)"
-  imgalt="도시남녀의 사랑법 (2020) 「김민석」 (왼쪽); 「소주연」 (바른)"
+  title="도시남녀의 사랑법 (2020)"
+  caption="「김민석」 (왼쪽); 「소주연」 (바른)"
+  alt="도시남녀의 사랑법 (2020) 「김민석」 (왼쪽); 「소주연」 (바른)"
 
   attribalign=""
 
@@ -235,33 +225,123 @@ embedurl = "https://www.youtube-nocookie.com/embed/-lKjFaESjwk"
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 ## 공식 예고편
-{{< youtube id="-lKjFaESjwk" title="「도시남녀의 사랑법」 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
 
-## OST
-{{< youtube playlist="true" id="PL7ac76lPFdruDdzubCSI6WdSp8aOb0DSB" title="「도시남녀의 사랑법」 OST" >}}
+  id="-lKjFaESjwk"
+  starttime=""
+  endtime=""
 
--------
+  title="[ENG SUB HD] Lovestruck in the City Official Trailer"
+  caption="「도시남녀의 사랑법」 예고편"
+  inlanguage="ko"
 
-{{< image
-  type="imagecoverattrib"
+  datecreated=""
+  datepublished="2020-12-30"
 
-  imglink="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  director=""
+  musicby=""
 
-  imgtitle="도시남녀의 사랑법 (2020)"
-  imgcaption=""
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Kakao M and Story & Pictures Media"
-  attriblink=""
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
+
+## OST
+{{< video
+  platform="youtube"
+  isplaylist=yes
+  isloop=false
+
+  id="PL7ac76lPFdruDdzubCSI6WdSp8aOb0DSB"
+  starttime=""
+  endtime=""
+
+  title="「Lovestruck in the City」 OST"
+  caption="「도시남녀의 사랑법」 OST"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2021-01-01"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Kakao M"
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  link="https://img.youronly.one/p/Lovestruck_in_the_City-(2020)-01.webp"
+  linkrel="noopener external nofollow"
+
+  title="도시남녀의 사랑법 (2020)"
+  caption=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Kakao M and Story & Pictures Media"
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

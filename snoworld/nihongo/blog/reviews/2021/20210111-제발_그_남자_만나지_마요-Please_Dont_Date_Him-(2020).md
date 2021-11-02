@@ -197,19 +197,13 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="gHJBiKk1hYw"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=gHJBiKk1hYw"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/gHJBiKk1hYw/hqdefault.jpg"
-
   title="[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
   caption="「なお、男会わないで」 予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2020-11-04"
@@ -222,12 +216,12 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -238,10 +232,6 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

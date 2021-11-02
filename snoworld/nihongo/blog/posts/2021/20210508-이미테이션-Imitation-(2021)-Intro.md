@@ -30,11 +30,11 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["CriticReview"]
-
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Imitation-(2021)-Title.webp", "https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp", "https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp", "https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp", "https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"]    # og:images
 videos = ["https://www.youtube.com/watch?v=m7WhnM4mU4w"]                                # og:video
+
+contenttypes = ["CriticReview"]
 
 [[authors]]
   person = "yuki"
@@ -601,19 +601,13 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="m7WhnM4mU4w"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=m7WhnM4mU4w"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/m7WhnM4mU4w/hqdefault.jpg"
-
-  title="Official Trailer: Imitation"
+  title="Official Trailer: Imitation | 仿品 | iQiyi"
   caption="「イミテーション」 予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2021-04-27"
@@ -626,12 +620,12 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="iQIYI 爱奇艺"
+  attriburl="https://www.youtube.com/channel/UCUhpu5MJQ_bjPkXO00jyxsw"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -642,10 +636,6 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

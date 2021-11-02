@@ -215,28 +215,33 @@ sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/nam
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="H1WYnJF1Pwo"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=H1WYnJF1Pwo"
-  linkrel="noopener external nofollow"
-
-  title="Space Sweepers"
+  title="Space Sweepers | Official Trailer | Netflix"
   caption="公式予告編"
+  inlanguage="ko"
 
-  attribalign=""
+  datecreated=""
+  datepublished="2021-01-19"
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="Netflix"
+  attriburl="https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw"
   attribrel="noopener external nofollow"
+  attribalign=""
 
   cc0country=""
   cc0countrycode=""
@@ -245,18 +250,7 @@ sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/nam
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-  datecreated=""
-  datepublished="2021-01-19"
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
-  director=""
-  musicby=""
-  thumbnailurl="https://img.youtube.com/vi/H1WYnJF1Pwo/hqdefault.jpg"
-  vidframesize=""
-  vidquality=""
-  vidheight=""
-  vidwidth=""
+
   contentloc=""
   contentlocurl=""
   contentlocrel="me noopner external"

@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp", "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"]    # og:images
+videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -136,15 +135,6 @@ sameas = ["https://www.imdb.com/title/tt13394428/characters/nm11421137"]
 name = "오미경"
 alternatenames = ["Oh Mi Kyeong"]
 sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
-description = "「제발 그 남자 만나지 마요」 예고편"
-uploaddate = "2020-11-04"
-thumbnailurl = "https://img.youtube.com/vi/gHJBiKk1hYw/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=gHJBiKk1hYw"
-embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
 +++
 
 「***제발 그 남자 만나지 마요***」는 제대로 된 로맨틱 코미디 다. 수년에 걸쳐 로맨틱 코미디로 분류되는 많은 쇼가 있으며이 레이블에 적합한 쇼는 거의 없습니다. 「제발 그 남자 만나지 마요」는 각 에피소드마다 진정한 웃음을 자아 내면서 캐릭터들의 연애를 쌓아가는 몇 안되는 예외 중 하나 다.
@@ -171,16 +161,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  imglink="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="제발 그 남자 만나지 마요 (2020)"
-  imgcaption="「송하윤」 (왼쪽); 「김민정」 (바른)"
-  imgalt="제발 그 남자 만나지 마요 (2020) 「송하윤」 (왼쪽); 「김민정」 (바른)"
+  title="제발 그 남자 만나지 마요 (2020)"
+  caption="「송하윤」 (왼쪽); 「김민정」 (바른)"
+  alt="제발 그 남자 만나지 마요 (2020) 「송하윤」 (왼쪽); 「김민정」 (바른)"
 
   attribalign=""
 
@@ -189,7 +179,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
   licensename=""
 
   attribto="Corner Stone Pictures"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -201,25 +191,70 @@ embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
 그들이 총 10 개의 에피소드만을 계획 한 것이 슬프다. 그들은 그것을 13 개 또는 전체 시리즈 (16 개 에피소드)로 확장 할 수 있었다. 당신을 웃게 만들고, 다시 사랑에 빠지고, 주변 사람들, 심지어 용감한 소방관 같은 낯선 사람들에게도 감사 할 시리즈를 찾고 있다면이 쇼를 강력히 추천합니다. 전체 점수는 별 10 개 중 9.0입니다.
 
 ## 공식 예고편
-{{< youtube id="gHJBiKk1hYw" title="「제발 그 남자 만나지 마요」 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="gHJBiKk1hYw"
+  starttime=""
+  endtime=""
+
+  title="[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
+  caption="「제발 그 남자 만나지 마요」 예고편"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2020-11-04"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="제발 그 남자 만나지 마요 (2020)"
-  imgcaption=""
+  title="제발 그 남자 만나지 마요 (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Corner Stone Pictures"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

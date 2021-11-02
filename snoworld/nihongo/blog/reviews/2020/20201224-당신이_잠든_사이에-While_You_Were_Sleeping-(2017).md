@@ -36,7 +36,7 @@ contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg", "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"]		# og:images
-videos = ["https://www.youtube.com/watch?v=8--Jj-iA0TY"]                                # og:video
+videos = ["https://www.youtube.com/watch?v=8--Jj-iA0TY"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -254,19 +254,13 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="8--Jj-iA0TY"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=8--Jj-iA0TY"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/8--Jj-iA0TY/hqdefault.jpg"
-
   title="[While You Were Sleeping] Official Teaser (Eng Sub)"
   caption="「あなたが寝ている間に」 予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2017-09-13"
@@ -279,12 +273,12 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="KOCOWA TV"
+  attriburl="https://www.youtube.com/channel/UCAqlxq4Bs9PjI86M9lM18TA"
   attribrel="noopener external nofollow"
   attribalign=""
 
@@ -295,10 +289,6 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""

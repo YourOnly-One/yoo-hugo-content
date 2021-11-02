@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"       # theme specific
 images = ["https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif", "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A", "https://www.youtube.com/watch?v=Tq4F-OMKWpc"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -120,15 +119,6 @@ sameas = ["https://www.imdb.com/title/tt5290026/characters/nm5682738"]
 name = "김지현"
 alternatenames = ["Kim Ji Hyun"]
 sameas = ["https://www.imdb.com/name/nm7806626"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
-description = "「Splash Splash LOVE」 (2015) trailer"
-uploaddate = "2015-12-01"
-thumbnailurl = "https://img.youtube.com/vi/hAkKzgShR5A/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=hAkKzgShR5A"
-embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 +++
 
 「***퐁당퐁당 LOVE***」 / 「***Splash Splash LOVE***」 is a 2015 live-action short story about a senior high school girl student, who have the ability to teleport through spacetime, who ended up in the Joseon Dynasty and met King Sejong the Great. Kim Seul Gi arrived in a time of draught and had no way to return to 2015, the court of Joseon have mistaken her to be a eunuch which helped her hide her real identity. King Sejong recognized her usefulness and together they developed the improvements the people of Joseon needed … and fell in love with each other.
@@ -142,16 +132,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Splash Splash LOVE (2015)"
-  imgcaption="Kim Seul Gi as 'Jang Dan Bi' (left); Yoon Doo Joon as 'King Se Jong the Great' (right)"
-  imgalt="Splash Splash LOVE (2015) Kim Seul Gi as 'Jang Dan Bi' (left); Yoon Doo Joon as 'King Se Jong the Great' (right)"
+  title="Splash Splash LOVE (2015)"
+  caption="Kim Seul Gi as 'Jang Dan Bi' (left); Yoon Doo Joon as 'King Se Jong the Great' (right)"
+  alt="Splash Splash LOVE (2015) Kim Seul Gi as 'Jang Dan Bi' (left); Yoon Doo Joon as 'King Se Jong the Great' (right)"
 
   attribalign=""
 
@@ -160,7 +150,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -173,16 +163,16 @@ While this show only have one theme song, 「너에게 퐁당」, sang by two di
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Splash Splash LOVE (2015)"
-  imgcaption="Yoon Doo Joon as 'King Se Jong the Great' (left); Kim Seul Gi as 'Jang Dan Bi' (right)"
-  imgalt="Splash Splash LOVE (2015) Yoon Doo Joon as 'King Se Jong the Great' (left); Kim Seul Gi as 'Jang Dan Bi' (right)"
+  title="Splash Splash LOVE (2015)"
+  caption="Yoon Doo Joon as 'King Se Jong the Great' (left); Kim Seul Gi as 'Jang Dan Bi' (right)"
+  alt="Splash Splash LOVE (2015) Yoon Doo Joon as 'King Se Jong the Great' (left); Kim Seul Gi as 'Jang Dan Bi' (right)"
 
   attribalign=""
 
@@ -191,7 +181,7 @@ While this show only have one theme song, 「너에게 퐁당」, sang by two di
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -203,10 +193,105 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
 10 out of 10 stars from me!
 
 ## Official trailer
-{{< youtube id="hAkKzgShR5A" title="「Splash Splash LOVE」 (2015) trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="hAkKzgShR5A"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=hAkKzgShR5A"
+  linkrel="noopener external nofollow"
+
+  title="[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
+  caption="「Splash Splash LOVE」 (2015) trailer"
+
+  datecreated=""
+  datepublished="2015-12-01"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage="ko"
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## Official Music Video: 「너에게 퐁당」 (단비 이야기)
-{{< youtube id="Tq4F-OMKWpc" title="[MV] 「너에게 퐁당」  「Splash Splash LOVE」 (2015) OST" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="Tq4F-OMKWpc"
+  starttime=""
+  endtime=""
+
+  title="[MV] 퐁당퐁당LOVE OST-'너에게 퐁당' (단비 이야기)"
+  caption="「Splash Splash LOVE」 (2015) OST"
+
+  datecreated=""
+  datepublished="2016-03-10"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage="ko"
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/1w4WgoMLx0kMUYuZkXxBuU" >}}
@@ -216,17 +301,17 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Splash Splash LOVE (2015)"
-  imgcaption=""
+  title="Splash Splash LOVE (2015)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

@@ -33,14 +33,13 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]																											# og:video
 #audio = [""]																												# og:audio
-cover = "https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"																					# only for some themes
 images = [
 	"https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp",
 	"https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg",
 	"https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
 ]																											# og:images
+videos = ["https://www.youtube.com/watch?v=6sVYumzrKvs"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -138,15 +137,6 @@ sameas = ["https://www.imdb.com/title/tt4016934/characters/nm2437361?ref_=ttfc_f
 name = "박찬욱"
 alternatenames = ["Park Chan Wook"]
 sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/name/nm0661791/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The Handmaiden"
-description = "Official International Special Trailer"
-uploaddate = "2016-04-25"
-thumbnailurl = "https://img.youtube.com/vi/6sVYumzrKvs/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=6sVYumzrKvs"
-embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
 +++
 
 Sometime in the 1930s when Japan occupied Korea, Nam Sook Hee was hired as a handmaiden for the Japanese heiress Lady Hideko, who lived secluded from the world. However, Nam Sook Hee and Lady Hideko developed feelings for each other which changed their fates.
@@ -164,16 +154,16 @@ From what I understand, this was an adaptation of an English/British novel. That
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
-  imglink="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
+  link="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="The Handmaiden (2016)"
-  imgcaption="Kim Tae Ri as Tamako (left); Kim Min Hee as Lady Hideko (right)"
-  imgalt="The Handmaiden (2016) Kim Tae Ri as Tamako (left); Kim Min Hee as Lady Hideko (right)"
+  title="The Handmaiden (2016)"
+  caption="Kim Tae Ri as Tamako (left); Kim Min Hee as Lady Hideko (right)"
+  alt="The Handmaiden (2016) Kim Tae Ri as Tamako (left); Kim Min Hee as Lady Hideko (right)"
 
   attribalign=""
 
@@ -182,7 +172,7 @@ From what I understand, this was an adaptation of an English/British novel. That
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -195,16 +185,16 @@ I hope everyone who will watch (and watched) this film will see the deeper messa
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
-  imglink="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
+  link="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="The Handmaiden (2016)"
-  imgcaption="Kim Tae Ri as Tamako"
-  imgalt="The Handmaiden (2016) Kim Tae Ri as Tamako"
+  title="The Handmaiden (2016)"
+  caption="Kim Tae Ri as Tamako"
+  alt="The Handmaiden (2016) Kim Tae Ri as Tamako"
 
   attribalign=""
 
@@ -213,30 +203,76 @@ I hope everyone who will watch (and watched) this film will see the deeper messa
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 A perfect 10 out of 10!
 
-{{< youtube id="6sVYumzrKvs" title="「The Handmaiden」 (2016) trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="6sVYumzrKvs"
+  starttime=""
+  endtime=""
+
+  title="THE HANDMAIDEN Official Int'l Special Trailer"
+  caption="「The Handmaiden」 (2016) trailer"
+
+  datecreated=""
+  datepublished="2016-04-25"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="CJ ENM"
+  attriburl="https://www.youtube.com/channel/UC-H0jzDm89xI_8fQ-Tv2VTw"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"
-  imgrel="noopener external nofollow"
+  link="https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="The Handmaiden (2016)"
-  imgcaption=""
+  title="The Handmaiden (2016)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

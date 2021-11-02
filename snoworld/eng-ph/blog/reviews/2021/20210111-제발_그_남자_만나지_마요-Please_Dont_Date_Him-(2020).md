@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"       # theme specific
 images = ["https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp", "https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"]    # og:images
+videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -136,15 +135,6 @@ sameas = ["https://www.imdb.com/title/tt13394428/characters/nm11421137"]
 name = "오미경"
 alternatenames = ["Oh Mi Kyeong"]
 sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
-description = "「Please Don't Date Him」 trailer"
-uploaddate = "2020-11-04"
-thumbnailurl = "https://img.youtube.com/vi/gHJBiKk1hYw/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=gHJBiKk1hYw"
-embedurl = "https://www.youtube-nocookie.com/embed/gHJBiKk1hYw"
 +++
 
 「***제발 그 남자 만나지 마요***」 / 「***Please Don't Date Him***」 is romantic comedy done right. There are many shows categorised as "RomCom" over the years and very few deserving of this label. 「Please Don't Date Him」 is one of the few exception as it brings out genuine laughter in every episode while building on the romantic relationship of the characters.
@@ -171,16 +161,16 @@ The literary device used for the plot was properly used and was not just a liter
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  imglink="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Please Don't Date Him (2020)"
-  imgcaption="「Song Ha Yoon」 (left); 「Gong Min Jung」 (right)"
-  imgalt="Please Don't Date Him (2020) 「Song Ha Yoon」 (left); 「Gong Min Jung」 (right)"
+  title="Please Don't Date Him (2020)"
+  caption="「Song Ha Yoon」 (left); 「Gong Min Jung」 (right)"
+  alt="Please Don't Date Him (2020) 「Song Ha Yoon」 (left); 「Gong Min Jung」 (right)"
 
   attribalign=""
 
@@ -189,7 +179,7 @@ The literary device used for the plot was properly used and was not just a liter
   licensename=""
 
   attribto="Corner Stone Pictures"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -201,24 +191,69 @@ The literary device used for the plot was properly used and was not just a liter
 It's sad that they only planned a total of ten (10) episodes, they could have extended it to thirteen or a full series (sixteen episodes). I strongly recommend this show if you are looking for a series which will make you laugh, fall in love all over again, and appreciate the people around you, even strangers like our brave firefighters. An overall score of 9.0 out of 10 stars.
 
 ## Official trailer
-{{< youtube id="gHJBiKk1hYw" title="「Please Don't Date Him」 trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="gHJBiKk1hYw"
+  starttime=""
+  endtime=""
+
+  title="[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
+  caption="「Please Don't Date Him」 trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2020-11-04"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Please Don't Date Him (2020)"
-  imgcaption=""
+  title="Please Don't Date Him (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Corner Stone Pictures"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

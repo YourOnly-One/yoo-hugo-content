@@ -30,12 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"]    # og:images
-cover = "https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"       # theme specific
+videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -44,38 +41,6 @@ cover = "https://img.youronly.one/p/Alpha_Gateway-(2018)-01.jpg"       # theme s
   url = "https://im.youronly.one/snoworld/"
   avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
   #rel = "noopener external nofollow"
-
-#[semweb]
-#type = "Movie"
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "ALPHA GATEWAY Official Trailer (2020) Sci Fi Thriller Movie HD"
-description = "「알파 게이트웨이」 예고편"
-uploaddate = "2017-06-27"
-thumbnailurl = "https://img.youtube.com/vi/gInFXtRvwlM/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=gInFXtRvwlM"
-embedurl = "https://www.youtube-nocookie.com/embed/gInFXtRvwlM"
 +++
 
 「알파 게이트웨이」에는 여러 개의 병렬 세계가 있으며, 병렬 세계를 구별하는 방법에 익숙하지 않으면 혼란 스러울 수 있습니다. 이 게시물에서는 Jane이 방문한 평행 세계에 대한 가장 정확한 분석이라고 생각하는 것을 제시합니다.
@@ -113,25 +78,70 @@ Jane "Delta"의 위치는 누구나 추측 할 수 있습니다. 그녀는 여�
 우리는 Alpha World에 Matt "Beta"를 F World에 보내는 또 다른 Jane이 있기를 바랄뿐입니다.
 
 ## 공식 예고편
-{{< youtube id="gInFXtRvwlM" title="「알파 게이트웨이」 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
 
--------
+  id="gInFXtRvwlM"
+  starttime=""
+  endtime=""
 
-{{< image
-  type="imagecoverattrib"
+  title="Alpha Gateway - Official Trailer Sci Fi Thriller Movie HD"
+  caption="「알파 게이트웨이」 예고편"
+  inlanguage="en"
 
-  imglink="https://img.youtube.com/vi/gVEutjaQ19s/maxresdefault.jpg"
-  imgrel="noopener external nofollow"
+  datecreated=""
+  datepublished="2017-06-27"
 
-  imgtitle="알파 게이트웨이 (2018)n"
-  imgcaption=""
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="FilmscopeEnt"
-  attriblink="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
+  attriburl="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
+
+-------
+
+{{< image
+  type="imagecoverattrib"
+
+  link="https://img.youtube.com/vi/gVEutjaQ19s/maxresdefault.jpg"
+  linkrel="noopener external nofollow"
+
+  title="알파 게이트웨이 (2018)n"
+  caption=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="FilmscopeEnt"
+  attriburl="https://www.youtube.com/channel/UCcepws4uEABwe7DccZmk0tQ"
   attribrel="noopener external nofollow"
 >}}
 

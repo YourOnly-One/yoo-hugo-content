@@ -33,10 +33,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"				# theme specific
 images = ["https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg", "https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"]		# og:images
+videos = ["https://www.youtube.com/watch?v=8--Jj-iA0TY"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -192,15 +191,6 @@ sameas = ["https://www.imdb.com/title/tt6256484/characters/nm3628205"]
 name = "오충환"
 alternatenames = ["Oh Choong Hwan"]
 sameas = ["https://www.imdb.com/name/nm8589259"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[While You Were Sleeping] Official Teaser (Eng Sub)"
-description = "「당신이 잠든 사이에」 예고편"
-uploaddate = "2017-09-13"
-thumbnailurl = "https://img.youtube.com/vi/8--Jj-iA0TY/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=8--Jj-iA0TY"
-embedurl = "https://www.youtube-nocookie.com/embed/8--Jj-iA0TY"
 +++
 
 「**당신이 잠든 사이에**」는 관객이 등장 인물과 스토리를 공감하는 동시에 그들의 삶에서 현실이되기를 바라는 드라마입니다. 베테랑 배우, 러블리 수지 (Bae Suzy)가 출연한다. 베테랑 배우, 잘 생긴 이종석 (이종석).
@@ -224,16 +214,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/8--Jj-iA0TY"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
-  imglink="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
+  link="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-02.gif"
+  linkrel="noopener external nofollow"
 
-  imgtitle="당신이 잠든 사이에 (2017)"
-  imgcaption="이종석 as Jung Jae Chan (왼쪽); 수지 as Nam Hong Ju (바른)"
-  imgalt="당신이 잠든 사이에 (2017) 이종석 as Jung Jae Chan (왼쪽); 수지 as Nam Hong Ju (바른)"
+  title="당신이 잠든 사이에 (2017)"
+  caption="이종석 as Jung Jae Chan (왼쪽); 수지 as Nam Hong Ju (바른)"
+  alt="당신이 잠든 사이에 (2017) 이종석 as Jung Jae Chan (왼쪽); 수지 as Nam Hong Ju (바른)"
 
   attribalign=""
 
@@ -242,7 +232,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/8--Jj-iA0TY"
   licensename=""
 
   attribto="SidusHQ"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -258,25 +248,70 @@ embedurl = "https://www.youtube-nocookie.com/embed/8--Jj-iA0TY"
 ## 전체 점수
 「당신이 잠든 사이에」에 별점 10 점 만점에 9.0 점을줍니다.
 
-{{< youtube id="8--Jj-iA0TY" title="「당신이 잠든 사이에」 (2017) 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="8--Jj-iA0TY"
+  starttime=""
+  endtime=""
+
+  title="[While You Were Sleeping] Official Teaser (Eng Sub)"
+  caption="「당신이 잠든 사이에」 (2017) 예고편"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2017-09-13"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="KOCOWA TV"
+  attriburl="https://www.youtube.com/channel/UCAqlxq4Bs9PjI86M9lM18TA"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/While_You_Were_Sleeping-(2017)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="당신이 잠든 사이에 (2017)"
-  imgcaption=""
+  title="당신이 잠든 사이에 (2017)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="SidusHQ"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

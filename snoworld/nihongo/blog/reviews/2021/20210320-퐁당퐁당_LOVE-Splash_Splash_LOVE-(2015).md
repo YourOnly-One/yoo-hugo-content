@@ -35,7 +35,7 @@ contenttypes = ["CriticReview"]
 
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif", "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"]    # og:images
-videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A"]                                # og:video
+videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A", "https://www.youtube.com/watch?v=Tq4F-OMKWpc"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -199,10 +199,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
-  id=""
+  id="hAkKzgShR5A"
   starttime=""
   endtime=""
 
@@ -212,15 +209,25 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   title="[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
   caption="「フォンダンフォンダンLOVE」 (2015) 予告編"
 
-  attribalign=""
+  datecreated=""
+  datepublished="2015-12-01"
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
   attribrel="noopener external nofollow"
+  attribalign=""
 
   cc0country=""
   cc0countrycode=""
@@ -229,27 +236,63 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-  datecreated=""
-  datepublished="2015-12-01"
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
-  director=""
-  musicby=""
-  thumbnailurl="https://img.youtube.com/vi/hAkKzgShR5A/hqdefault.jpg"
-  vidframesize=""
-  vidquality=""
-  vidheight=""
-  vidwidth=""
+
+  inlanguage="ko"
+
   contentloc=""
   contentlocurl=""
   contentlocrel="me noopner external"
   contentreferencetime=""
 >}}
 
-
 ## 公式ミュージックビデオ： 「君にフォンダン」 (恵みの雨の話)
-{{< youtube id="Tq4F-OMKWpc" title="[MV] 「너에게 퐁당」  「퐁당퐁당 LOVE」/「スプラッシュスプラッシュLOVE」 (2015) OST" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="Tq4F-OMKWpc"
+  starttime=""
+  endtime=""
+
+  title="[MV] 퐁당퐁당LOVE OST-'너에게 퐁당' (단비 이야기)"
+  caption="「スプラッシュスプラッシュLOVE」 (2015) OST"
+
+  datecreated=""
+  datepublished="2016-03-10"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage="ko"
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/1w4WgoMLx0kMUYuZkXxBuU" >}}

@@ -33,14 +33,13 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]																											# og:video
 #audio = [""]																												# og:audio
-cover = "https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"																					# only for some themes
 images = [
 	"https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp",
 	"https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg",
 	"https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
 ]																											# og:images
+videos = ["https://www.youtube.com/watch?v=6sVYumzrKvs"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -138,15 +137,6 @@ sameas = ["https://www.imdb.com/title/tt4016934/characters/nm2437361?ref_=ttfc_f
 name = "박찬욱"
 alternatenames = ["Park Chan Wook"]
 sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/name/nm0661791/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The Handmaiden"
-description = "공식 국제 특별 예고편"
-uploaddate = "2016-04-25"
-thumbnailurl = "https://img.youtube.com/vi/6sVYumzrKvs/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=6sVYumzrKvs"
-embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
 +++
 
 일본이 한국을 점령 한 1930 년대, 남숙희는 세계와 외딴 곳에 사는 일본인 상속녀 히데코의 하녀로 고용되었습니다. 하지만 남숙희와 히데코 부인은 서로에 대한 감정을 발전시켜 운명을 바꿨다.
@@ -164,16 +154,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
-  imglink="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
+  link="https://1.bp.blogspot.com/-VRvbsfnDaeY/YC1kKQUzBaI/AAAAAAAApGE/sBP25zkjxEwXFPBSd6XlMKQFnoGDIc7YgCLcBGAsYHQ/s0/The_Handmaiden-%25282016%2529-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="아가씨 (2016)"
-  imgcaption="김태리 as Tamako (왼쪽); 김민희 as Lady Hideko (바른)"
-  imgalt="아가씨 (2016) 김태리 as Tamako (왼쪽); 김민희 as Lady Hideko (바른)"
+  title="아가씨 (2016)"
+  caption="김태리 as Tamako (왼쪽); 김민희 as Lady Hideko (바른)"
+  alt="아가씨 (2016) 김태리 as Tamako (왼쪽); 김민희 as Lady Hideko (바른)"
 
   attribalign=""
 
@@ -182,7 +172,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -195,16 +185,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
-  imglink="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
+  link="https://1.bp.blogspot.com/-YJ73LBMVIIk/YC1kK2VFS8I/AAAAAAAApGI/pirkKz5R6PgvrqymQhk40gOdGt7IKDZmACPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="아가씨 (2016)"
-  imgcaption="김태리 as Tamako"
-  imgalt="아가씨 (2016) 김태리 as Tamako"
+  title="아가씨 (2016)"
+  caption="김태리 as Tamako"
+  alt="아가씨 (2016) 김태리 as Tamako"
 
   attribalign=""
 
@@ -213,31 +203,77 @@ embedurl = "https://www.youtube-nocookie.com/embed/6sVYumzrKvs"
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
 완벽한 10 점 만점에 10 점!
 
-{{< youtube id="6sVYumzrKvs" title="「아가씨」 (2016) 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="6sVYumzrKvs"
+  starttime=""
+  endtime=""
+
+  title="THE HANDMAIDEN Official Int'l Special Trailer"
+  caption="「아가씨」 (2016) 예고편"
+
+  datecreated=""
+  datepublished="2016-04-25"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="CJ ENM"
+  attriburl="https://www.youtube.com/channel/UC-H0jzDm89xI_8fQ-Tv2VTw"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"
-  imgrel="noopener external nofollow"
+  link="https://1.bp.blogspot.com/-4TINcwj4HM8/YC1kKy4vrkI/AAAAAAAApGM/SpDiO3FMkE4OowhTGEmtft6zW2wtwlBvwCPcBGAYYCw/s0/The_Handmaiden-%25282016%2529-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="아가씨 (2016)"
-  imgcaption=""
+  title="아가씨 (2016)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Moho Film & Yong Film"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

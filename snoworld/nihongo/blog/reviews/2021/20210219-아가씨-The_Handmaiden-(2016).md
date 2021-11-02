@@ -214,28 +214,32 @@ sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="6sVYumzrKvs"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=6sVYumzrKvs"
-  linkrel="noopener external nofollow"
-
-  title="The Handmaiden"
+  title="THE HANDMAIDEN Official Int'l Special Trailer"
   caption="公式国際スペシャルトレーラー"
 
-  attribalign=""
+  datecreated=""
+  datepublished="2016-04-25"
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
-  attriburl=""
+  attribto="CJ ENM"
+  attriburl="https://www.youtube.com/channel/UC-H0jzDm89xI_8fQ-Tv2VTw"
   attribrel="noopener external nofollow"
+  attribalign=""
 
   cc0country=""
   cc0countrycode=""
@@ -244,18 +248,9 @@ sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-  datecreated=""
-  datepublished="2016-04-25"
+
   inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
-  director=""
-  musicby=""
-  thumbnailurl="https://img.youtube.com/vi/6sVYumzrKvs/hqdefault.jpg"
-  vidframesize=""
-  vidquality=""
-  vidheight=""
-  vidwidth=""
+
   contentloc=""
   contentlocurl=""
   contentlocrel="me noopner external"

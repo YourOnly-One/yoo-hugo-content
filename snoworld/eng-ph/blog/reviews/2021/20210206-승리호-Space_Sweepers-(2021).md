@@ -33,13 +33,12 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]																											# og:video
 #audio = [""]																												# og:audio
-cover = "https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"																					# only for some themes
 images = [
 	"https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg",
 	"https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
 ]																											# og:images
+videos = ["https://www.youtube.com/watch?v=H1WYnJF1Pwo"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -145,15 +144,6 @@ sameas = ["https://www.imdb.com/title/tt12838766/characters/nm12298705?ref_=ttfc
 name = "조성희"
 alternatenames = ["Jo Sung Hee"]
 sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/name/nm3644812/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Space Sweepers"
-description = "Official trailer"
-uploaddate = "2021-01-19"
-thumbnailurl = "https://img.youtube.com/vi/H1WYnJF1Pwo/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=H1WYnJF1Pwo"
-embedurl = "https://www.youtube-nocookie.com/embed/H1WYnJF1Pwo"
 +++
 
 《**승리호**》 or "**Space Sweepers**" is South Korea's first-ever space science fiction show. For their first venture into space, they did not disappoint and made sure audiences were awed by the show's deep story and unforgettable space adventure.
@@ -181,16 +171,16 @@ Special mention is the child actress Park Ye Rin. She is technically a newbie in
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
-  imglink="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
+  link="https://img.youronly.one/p/Space_Sweepers-(2021)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Space Sweepers (2021)"
-  imgcaption=""
-  imgalt=""
+  title="Space Sweepers (2021)"
+  caption=""
+  alt=""
 
   attribalign=""
 
@@ -199,7 +189,7 @@ Special mention is the child actress Park Ye Rin. She is technically a newbie in
   licensename=""
 
   attribto="Bidangil Pictures & Dexter Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -219,24 +209,69 @@ Watch **Space Sweepers** on [Netflix](https://www.netflix.com/ph/title/81094067)
 
 Score: 9 out of 10!
 
-{{< youtube id="H1WYnJF1Pwo" title="「Space Sweepers」 (2021) trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="H1WYnJF1Pwo"
+  starttime=""
+  endtime=""
+
+  title="Space Sweepers | Official Trailer | Netflix"
+  caption="「Space Sweepers」 (2021) trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2021-01-19"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="Netflix"
+  attriburl="https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Space_Sweepers-(2021)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Space Sweepers (2021)"
-  imgcaption=""
+  title="Space Sweepers (2021)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Bidangil Pictures & Dexter Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

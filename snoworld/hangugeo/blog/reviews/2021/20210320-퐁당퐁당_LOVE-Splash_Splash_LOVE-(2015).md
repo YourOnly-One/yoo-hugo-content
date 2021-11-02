@@ -34,10 +34,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"       # theme specific
 images = ["https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif", "https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"]    # og:images
+videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A", "https://www.youtube.com/watch?v=Tq4F-OMKWpc"]                               # og:video
 
 [[authors]]
   person = "yuki"
@@ -121,15 +120,6 @@ sameas = ["https://www.imdb.com/title/tt5290026/characters/nm5682738"]
 name = "김지현"
 alternatenames = ["Kim Ji Hyun"]
 sameas = ["https://www.imdb.com/name/nm7806626"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
-description = "「퐁당퐁당 LOVE」 (2015) 예고편"
-uploaddate = "2015-12-01"
-thumbnailurl = "https://img.youtube.com/vi/hAkKzgShR5A/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=hAkKzgShR5A"
-embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 +++
 
 「***퐁당퐁당 LOVE***」/ 「***Splash Splash LOVE***」는 시공간을 통해 순간 이동하는 능력을 가진 여고생에 대한 2015 년 실사 단편 소설이다. 조선 시대 세종대왕을 만났습니다. 김슬기가 드래프트 때 도착 해 2015 년으로 돌아갈 방법이 없었고, 조선 법원은 그녀를 내시로 착각하여 그녀의 진정한 정체성을 숨기는 데 도움을 주었다. 세종대왕은 그녀의 유용성을 인식하고 함께 조선인들이 필요로하는 발전을 발전 시켰고 ... 서로 사랑에 빠졌습니다.
@@ -143,16 +133,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-02-twofie.gif"
+  linkrel="noopener external nofollow"
 
-  imgtitle="퐁당퐁당 LOVE (2015)"
-  imgcaption="김슬기 as 'Jang Dan Bi' (왼쪽); 윤두준 as 'King Se Jong the Great' (바른)"
-  imgalt="퐁당퐁당 LOVE (2015) 김슬기 as 'Jang Dan Bi' (왼쪽); 윤두준 as 'King Se Jong the Great' (바른)"
+  title="퐁당퐁당 LOVE (2015)"
+  caption="김슬기 as 'Jang Dan Bi' (왼쪽); 윤두준 as 'King Se Jong the Great' (바른)"
+  alt="퐁당퐁당 LOVE (2015) 김슬기 as 'Jang Dan Bi' (왼쪽); 윤두준 as 'King Se Jong the Great' (바른)"
 
   attribalign=""
 
@@ -161,7 +151,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -174,16 +164,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-03.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="퐁당퐁당 LOVE (2015)"
-  imgcaption="윤두준 as 'King Se Jong the Great' (왼쪽); 김슬기 as 'Jang Dan Bi' (바른)"
-  imgalt="퐁당퐁당 LOVE (2015) 윤두준 as 'King Se Jong the Great' (왼쪽); 김슬기 as 'Jang Dan Bi' (바른)"
+  title="퐁당퐁당 LOVE (2015)"
+  caption="윤두준 as 'King Se Jong the Great' (왼쪽); 김슬기 as 'Jang Dan Bi' (바른)"
+  alt="퐁당퐁당 LOVE (2015) 윤두준 as 'King Se Jong the Great' (왼쪽); 김슬기 as 'Jang Dan Bi' (바른)"
 
   attribalign=""
 
@@ -192,7 +182,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -204,10 +194,105 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 내 별 10 개 중 10 개!
 
 ## 공식 예고편
-{{< youtube id="hAkKzgShR5A" title="「퐁당퐁당 LOVE」 (2015) 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="hAkKzgShR5A"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=hAkKzgShR5A"
+  linkrel="noopener external nofollow"
+
+  title="[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
+  caption="「퐁당퐁당 LOVE」 (2015) 예고편"
+
+  datecreated=""
+  datepublished="2015-12-01"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage="ko"
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## 공식 음악 비디오: 「너에게 퐁당」 (단비 이야기)
-{{< youtube id="Tq4F-OMKWpc" title="[MV] 「너에게 퐁당」  「퐁당퐁당 LOVE」 (2015) OST" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="Tq4F-OMKWpc"
+  starttime=""
+  endtime=""
+
+  title="[MV] 퐁당퐁당LOVE OST-'너에게 퐁당' (단비 이야기)"
+  caption="「퐁당퐁당 LOVE」 (2015) OST"
+
+  datecreated=""
+  datepublished="2016-03-10"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="MBCdrama"
+  attriburl="https://www.youtube.com/channel/UC7lb15P-Hux7A5gBuhCxtuQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage="ko"
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/1w4WgoMLx0kMUYuZkXxBuU" >}}
@@ -217,18 +302,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/hAkKzgShR5A"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Splash_Splash_LOVE-(2015)-01-banner.jpeg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="퐁당퐁당 LOVE (2015)"
-  imgcaption=""
+  title="퐁당퐁당 LOVE (2015)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="MBC"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

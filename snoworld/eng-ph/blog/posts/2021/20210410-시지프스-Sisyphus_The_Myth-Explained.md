@@ -30,12 +30,9 @@ type = "article"                                                           # art
 
 #license = ""
 
-contenttypes = ["Article"]
-
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
 images = ["https://img.youronly.one/p/Sisyphus_The_Myth-01.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-02.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-03.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-04.webp", "https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"]    # og:images
-cover = "https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"				# theme specific
+videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                                                               # og:video
 
 [[authors]]
     person = "yuki"
@@ -44,38 +41,6 @@ cover = "https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"				# theme specif
     url = "https://im.youronly.one/snoworld/"
     avatar = "https://rsc.youronly.one/img/y/snoworld-square.webp"
     #rel = "noopener external nofollow"
-
-#[semweb]
-#type = ""
-
-# If different from our website
-#[semweb.publisher]
-#name = ""
-#sameas = [""]
-
-# If different from default author
-#[semweb.author]
-#sameas = [""]
-
-# For adaptations
-#[semweb.product.isbasedon]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-#[semweb.product.isbasedon.author]
-#name = ""
-#alternatenames = [""]
-#sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
-description = "「Sisyphus: The Myth」 trailer"
-uploaddate = "2020-12-23"
-thumbnailurl = "https://img.youtube.com/vi/734PeGfxICM/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=734PeGfxICM"
-embedurl = "https://www.youtube-nocookie.com/embed/734PeGfxICM"
 +++
 
 There is a lot of confusion about the recently concluded Korean TV series entitled 「Sisyphus: The Myth」 even after the crucial episodes 15 and 16 were aired. In this post, I will do my best in giving clarity to what seem to be a confusing ending to this amazing story.
@@ -173,16 +138,16 @@ Anyone for *ending #1* will probably not like the rest of this post but are stil
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-03.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Sisyphus: The Myth"
-  imgcaption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
-  imgalt="Sisyphus: The Myth"
+  title="Sisyphus: The Myth"
+  caption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
+  alt="Sisyphus: The Myth"
 
   attribalign=""
 
@@ -191,7 +156,7 @@ Anyone for *ending #1* will probably not like the rest of this post but are stil
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -233,16 +198,16 @@ Yes, an FAQ. I think this is the best format to use this way it is easier to und
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Sisyphus: The Myth"
-  imgcaption="「Park Shin Hye」 as 「Kang Seo Hae」"
-  imgalt="Sisyphus: The Myth"
+  title="Sisyphus: The Myth"
+  caption="「Park Shin Hye」 as 「Kang Seo Hae」"
+  alt="Sisyphus: The Myth"
 
   attribalign=""
 
@@ -251,7 +216,7 @@ Yes, an FAQ. I think this is the best format to use this way it is easier to und
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -286,16 +251,16 @@ Which brings us to the next question.
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-04.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Sisyphus: The Myth"
-  imgcaption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
-  imgalt="Sisyphus: The Myth"
+  title="Sisyphus: The Myth"
+  caption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
+  alt="Sisyphus: The Myth"
 
   attribalign=""
 
@@ -304,7 +269,7 @@ Which brings us to the next question.
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -353,16 +318,16 @@ And we are back to that airplane scene. The new Seo Hae arrived. Han Tae Sul saw
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  imglink="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-05.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Sisyphus: The Myth"
-  imgcaption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
-  imgalt="Sisyphus: The Myth"
+  title="Sisyphus: The Myth"
+  caption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
+  alt="Sisyphus: The Myth"
 
   attribalign=""
 
@@ -371,7 +336,7 @@ And we are back to that airplane scene. The new Seo Hae arrived. Han Tae Sul saw
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -387,7 +352,56 @@ Thank you for reading! Shalom!
 Animetric presented an excellent explanation on the show's ending, I highly recommend reading her theory over on [Animetric's World](https://j.mp/2RrPfeq).
 
 ## Official trailer
-{{< youtube id="734PeGfxICM" title="「Sisyphus: The Myth」 trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="734PeGfxICM"
+  starttime=""
+  endtime=""
+
+  link="https://www.youtube.com/watch?v=734PeGfxICM"
+  linkrel="noopener external nofollow"
+
+  title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
+  caption="「Sisyphus: The Myth」 trailer"
+
+  datecreated=""
+  datepublished="2020-12-23"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename="All Rights Reserved"
+
+  attribto="JTBC Drama"
+  attriburl="https://www.youtube.com/channel/UCkbJc8jMcTXwhtmN5VMwfXg"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  inlanguage="ko"
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/36v88yXQKhvQFscLJuXFZd" >}}
@@ -397,18 +411,18 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
 {{< image
   type="imagecoverattrib"
 
-	imglink="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Sisyphus_The_Myth-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Sisyphus: The Myth"
-  imgcaption=""
+  title="Sisyphus: The Myth"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Drama House and JTBC Studios"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

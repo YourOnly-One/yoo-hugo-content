@@ -31,10 +31,9 @@ type = "article"                                                           # art
 
 contenttypes = ["CriticReview"]
 
-#videos = [""]																# og:video
 #audio = [""]																# og:audio
-cover = "https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"				# theme specific
 images = ["https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp", "https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"]		# og:images
+videos = ["https://www.youtube.com/watch?v=ardVKfVYRa8"]                                # og:video
 
 [[authors]]
   person = "yuki"
@@ -182,15 +181,6 @@ sameas = ["https://www.imdb.com/title/tt3250818/characters/nm6007240"]
 name = "윤성식"
 alternatenames = ["Yoon Sung Shik"]
 sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/name/nm5897319"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
-description = "「최고다 이순신」 예고편"
-uploaddate = "2013-04-03"
-thumbnailurl = "https://img.youtube.com/vi/ardVKfVYRa8/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=ardVKfVYRa8"
-embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
 +++
 
 「**최고 다 이순신**」( 「**You Are The Best!**」)라는 제목의 가족 K-Drama 리뷰, 이지은 (Lee Ji Eun)이 *이순신* 역으로 출연 잔인한 세상에서 성공을 찾는 여정; 조정석 (조정석)과 함께 도전적인 산업에서 큰 도약을 시도하는 탤런트 에이전시의 오너 *신준호*로 함께합니다.
@@ -215,16 +205,16 @@ embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  imglink="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Y최고다 이순신! (2013)"
-  imgcaption="이미숙 송미령 역 (앞 좌측); 이지은 ( '아이유') 이순신 역 (앞 오른쪽)<br/>이지훈 조인성 역 (다시 왼쪽); 이슬비 박찬미 역 (다시 오른쪽)"
-  imgalt="최고다 이순신! (2013) 이미숙 송미령 역 (앞 좌측); 이지은 ( '아이유') 이순신 역 (앞 오른쪽); 이지훈 조인성 역 (다시 왼쪽); 이슬비 박찬미 역 (다시 오른쪽)"
+  title="Y최고다 이순신! (2013)"
+  caption="이미숙 송미령 역 (앞 좌측); 이지은 ( '아이유') 이순신 역 (앞 오른쪽)<br/>이지훈 조인성 역 (다시 왼쪽); 이슬비 박찬미 역 (다시 오른쪽)"
+  alt="최고다 이순신! (2013) 이미숙 송미령 역 (앞 좌측); 이지은 ( '아이유') 이순신 역 (앞 오른쪽); 이지훈 조인성 역 (다시 왼쪽); 이슬비 박찬미 역 (다시 오른쪽)"
 
   attribalign=""
 
@@ -233,7 +223,7 @@ embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
   licensename=""
 
   attribto="AStory"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -250,25 +240,70 @@ embedurl = "https://www.youtube-nocookie.com/embed/ardVKfVYRa8"
 ## 결론
 전반적으로 시리즈에 별 10 개 중 8 개를주고 있습니다. 훌륭한 쇼 였고 매우 감동적이었습니다. 여러 주요 이야기는 관련성이 높고 기억에 남습니다. 특히 두 사랑 새 사이의 로맨스 또는 로맨스 대신 가족 관계에 중점을 둡니다. 메인 스토리가 여러 개있는 것도 좋지만 두 주인공 사이의 메인 스토리의 집중력과 영향을 줄였습니다. 또한 처음에는 느 렸고 메인 플롯의 핵심에 도달하는 데 10 ~ 20 개의 에피소드가 걸렸습니다. 그럼에도 불구하고 모든 배우들의 연기는 너무 좋고 자연스러워서 전체적으로 다시 볼 가치가 있습니다.
 
-{{< youtube id="ardVKfVYRa8" title="「최고다 이순신」 (2013) 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="ardVKfVYRa8"
+  starttime=""
+  endtime=""
+
+  title="[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
+  caption="「최고다 이순신」 (2013) 예고편"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2013-04-03"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="KBS WORLD TV"
+  attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/You_Are_The_Best-(2013)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="최고다 이순신! (2013)"
-  imgcaption=""
+  title="최고다 이순신! (2013)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="AStory"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

@@ -33,10 +33,9 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different from website license"
 
-#videos = [""]                                                      # og:video
 #audio = [""]                                                       # og:audio
-cover = "https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"                                         # only for some themes
 images = ["https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"]                                                      # og:images
+videos = ["https://www.youtube.com/watch?v=jJwuFjmfjRY"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -183,15 +182,6 @@ alternatenames = ["Jung Ji Hyun", "Jeong Ji Hyeon"]
 name = "유제원"
 alternatenames = ["Yoo Je Won", "Yu Je Won"]
 #sameas = [""]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "The King: Eternal Monarch"
-description = "공식 예고편"
-uploaddate = "2020-04-13"
-thumbnailurl = "https://img.youtube.com/vi/jJwuFjmfjRY/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=jJwuFjmfjRY"
-embedurl = "https://www.youtube-nocookie.com/embed/jJwuFjmfjRY"
 +++
 
 「**더 킹 : 영원의 군주**」 또는 「**The King : Eternal Monarch**」(2020) 은 2010 년 최고의 SF이자 로맨스였다. 이 프로그램은 12 년 동안 그 순위를 유지 한 「Fringe」(2008) 를 밀어 내며 제 '전체 공상 과학 TV 10 대 쇼'목록에서 1 위를 차지했다고 말하고 싶습니다.
@@ -224,7 +214,52 @@ embedurl = "https://www.youtube-nocookie.com/embed/jJwuFjmfjRY"
 
 전체 점수는 별 10 개 중 9.5 입니다.
 
-{{< youtube id="N1L1iaFZQ9I" title="「더 킹: 영원의 군주」 (2020) 예고편" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="N1L1iaFZQ9I"
+  starttime=""
+  endtime=""
+
+  title="The King: Eternal Monarch | Official Trailer | Netflix [ENG SUB]"
+  caption="「더 킹: 영원의 군주」 (2020) 예고편"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2020-04-13"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="The Swoon"
+  attriburl="https://www.youtube.com/channel/UCpiCK8c6PBktcxq7Az_t4RQ"
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/7JfLLITRjdnUhcUBcKWjZo" >}}
@@ -234,18 +269,18 @@ embedurl = "https://www.youtube-nocookie.com/embed/jJwuFjmfjRY"
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="더 킹: 영원의 군주 (2020)"
-  imgcaption=""
+  title="더 킹: 영원의 군주 (2020)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="Studio Dragon"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 

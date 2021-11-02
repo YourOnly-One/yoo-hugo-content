@@ -33,13 +33,12 @@ contenttypes = ["CriticReview"]
 
 #license = "link to custom license if different"
 
-#videos = [""]                                                      # og:video
 #audio = [""]                                                       # og:audio
-cover = "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"                                          # only for some themes
 images = [
   "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp",
   "https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
 ]                                                     # og:images
+videos = ["https://www.youtube.com/watch?v=2ljxyaAIphc"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
@@ -143,15 +142,6 @@ sameas = ["https://www.imdb.com/title/tt5320412/characters/nm1202941?ref_=ttfc_f
 name = "김규태"
 alternatenames = ["Kim Kyu Tae", "Gim Gyu Tae", "Kim Kyoo Tae"]
 sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/name/nm2153361/?ref_=ttfc_fc_dr1"]
-
-# Video URLs can be any, YouTube provided as a guide only
-[semweb.video]
-name = "Moon Lovers: Scarlet Heart Ryeo"
-description = "Official trailer"
-uploaddate = "2017-04-11"
-thumbnailurl = "https://img.youtube.com/vi/2ljxyaAIphc/hqdefault.jpg"
-contenturl = "https://www.youtube.com/watch?v=2ljxyaAIphc"
-embedurl = "https://www.youtube-nocookie.com/embed/2ljxyaAIphc"
 +++
 
 《**달의 연인 - 보보경심 려**》 or "**Moon Lovers: Scarlet Heart Ryeo**" is a very popular and one of the highly-rated Korean Drama since 2016. It stars IU as "Go Ha Jin" and "Hae Soo", Lee Joon Gi as "Wang So", Kang Ha Neul as "Wang Wook", and Hong Jong Hyun as "Wang Yo" as the leading characters.
@@ -176,16 +166,16 @@ The music, unfortunately, did not make an impact. There were scenes where a powe
 {{< image
   type="image"
 
-  imgheight=""
-  imgwidth=""
+  height=""
+  width=""
 
-  imgsrc="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
-  imglink="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
-  imgrel="noopener external nofollow"
+  src="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-02.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Moon Lovers: Scarlet Heart Ryeo (2016)"
-  imgcaption="Lee Ji Eun ('IU') as Hae Soo (left); Lee Joon Gi as the 4th Prince, Wang So (right)"
-  imgalt="Moon Lovers: Scarlet Heart Ryeo (2016) Lee Ji Eun ('IU') as Hae Soo (left); Lee Joon Gi as the 4th Prince, Wang So (right)"
+  title="Moon Lovers: Scarlet Heart Ryeo (2016)"
+  caption="Lee Ji Eun ('IU') as Hae Soo (left); Lee Joon Gi as the 4th Prince, Wang So (right)"
+  alt="Moon Lovers: Scarlet Heart Ryeo (2016) Lee Ji Eun ('IU') as Hae Soo (left); Lee Joon Gi as the 4th Prince, Wang So (right)"
 
   attribalign=""
 
@@ -194,7 +184,7 @@ The music, unfortunately, did not make an impact. There were scenes where a powe
   licensename=""
 
   attribto="YG Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}
 
@@ -205,7 +195,52 @@ However, close-up shots were overused to the 5th power. It wasn't needed in many
 
 I give this show 8 out of 10 stars.
 
-{{< youtube id="2ljxyaAIphc" title="「Moon Lovers: Scarlet Heart Ryeo」 (2016) trailer" >}}
+{{< video
+  platform="youtube"
+  isplaylist=false
+  isloop=false
+
+  id="2ljxyaAIphc"
+  starttime=""
+  endtime=""
+
+  title="Scarlet Heart : Ryeo Trailer"
+  caption="「Moon Lovers: Scarlet Heart Ryeo」 (2016) trailer"
+  inlanguage="ko"
+
+  datecreated=""
+  datepublished="2017-04-11"
+
+  director=""
+  musicby=""
+
+  vidframesize=""
+  vidquality=""
+  vidheight=""
+  vidwidth=""
+
+  licensecode="allrightsreserved"
+  licenseurl=""
+  licensename=""
+
+  attribto="YG Entertainment"
+  attriburl=""
+  attribrel="noopener external nofollow"
+  attribalign=""
+
+  cc0country=""
+  cc0countrycode=""
+  cc0countryurl=""
+
+  acquirelicensepage=""
+  copyrightnotice=""
+  credittext=""
+
+  contentloc=""
+  contentlocurl=""
+  contentlocrel="me noopner external"
+  contentreferencetime=""
+>}}
 
 ## OST
 {{< music src="https://open.spotify.com/embed/playlist/0gmw30zH5jLjwMv5KSJl86" >}}
@@ -215,17 +250,17 @@ I give this show 8 out of 10 stars.
 {{< image
   type="imagecoverattrib"
 
-  imglink="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"
-  imgrel="noopener external nofollow"
+  link="https://img.youronly.one/p/Moon_Lovers-Scarlet_Heart_Ryeo-(2016)-01.webp"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Moon Lovers: Scarlet Heart Ryeo (2016)"
-  imgcaption=""
+  title="Moon Lovers: Scarlet Heart Ryeo (2016)"
+  caption=""
 
   licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
   attribto="YG Entertainment"
-  attriblink=""
+  attriburl=""
   attribrel="noopener external nofollow"
 >}}

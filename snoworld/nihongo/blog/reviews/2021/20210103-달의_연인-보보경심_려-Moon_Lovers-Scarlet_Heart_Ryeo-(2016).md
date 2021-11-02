@@ -200,19 +200,13 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
   isplaylist=false
   isloop=false
 
-  height=""
-  width=""
-
   id="2ljxyaAIphc"
   starttime=""
   endtime=""
 
-  link="https://www.youtube.com/watch?v=2ljxyaAIphc"
-  linkrel="noopener external nofollow"
-  thumbnailurl="https://img.youtube.com/vi/2ljxyaAIphc/hqdefault.jpg"
-
-  title="Moon Lovers: Scarlet Heart Ryeo"
+  title="Scarlet Heart : Ryeo Trailer"
   caption="公式予告編"
+  inlanguage="ko"
 
   datecreated=""
   datepublished="2017-04-11"
@@ -225,11 +219,11 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
   vidheight=""
   vidwidth=""
 
-  licensecode="any OR cc0 OR publicdomain OR allrightsreserved"
+  licensecode="allrightsreserved"
   licenseurl=""
   licensename=""
 
-  attribto=""
+  attribto="YG Entertainment"
   attriburl=""
   attribrel="noopener external nofollow"
   attribalign=""
@@ -241,10 +235,6 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
   acquirelicensepage=""
   copyrightnotice=""
   credittext=""
-
-  inlanguage=""
-  transcript=""
-  embeddedtextcaption=""
 
   contentloc=""
   contentlocurl=""
