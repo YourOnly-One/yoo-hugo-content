@@ -56,11 +56,11 @@ Facebook, Instagram, Messenger 및 WhatsApp이 인터넷에서 사라지는 문�
 
 Facebook과 해당 서비스의 가장 긴 다운타임에 기여한 많은 요인이 있습니다. 그 중 하나는 Facebook도 인터넷에 연결하기 위해 자체 네트워크에 의존한다는 것입니다.[^b]
 
-{{< tweet 1445099150316503057 >}}
+{{< tweet user="sheeraf" id="1445099150316503057" >}}
 
 하지만 당신은 어떻습니까? 고객의 로그인 방법으로 Facebook을 사용하는 온라인 서비스가 있습니까? 아니면 온라인 비즈니스가 있고 유일한 플랫폼은 Facebook과 Instagram입니까? 메신저에만 의존하고 있는 가족과의 소통은 어떻습니까? WhatsApp을 긴급 대응과 같은 중요한 서비스를 위한 통신 플랫폼으로 사용하는 사람들도 있습니다. 또 다른 주요 다운타임이 발생하면 어떻게 됩니까?
 
-{{< tweet 1445121124912676867 >}}
+{{< tweet user="nixcraft" id="1445121124912676867" >}}
 
 [^a]: Cloudflare: [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 [^b]: Sheera Frenkel: [… employees unable to enter buildings this morning … because their badges weren't working to access doors](https://twitter.com/sheeraf/status/1445099150316503057)

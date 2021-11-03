@@ -57,11 +57,11 @@ Facebook、Instagram、Messenger、WhatsAppがインターネットから姿を�
 
 Facebookとそのサービスの最長のダウンタイムに貢献した多くの要因があります。そのようなものの1つは、Facebookがインターネットに接続するために独自のネットワークに依存していることです。[^b]
 
-{{< tweet 1445099150316503057 >}}
+{{< tweet user="sheeraf" id="1445099150316503057" >}}
 
 しかし、あなたはどうですか？ 顧客のログイン方法としてFacebookに依存するオンラインサービスはありますか？ または、おそらくあなたはオンラインビジネスを持っていて、あなたの唯一のプラットフォームはFacebookとInstagramですか？ 家族とのコミュニケーションはどうですか、メッセンジャーだけに頼っていますか？ 緊急時の対応など、重要なサービスの通信プラットフォームとしてWhatsAppを使用している人もいますが、別の大きなダウンタイムが発生した場合はどうなりますか？
 
-{{< tweet 1445121124912676867 >}}
+{{< tweet user="nixcraft" id="1445121124912676867" >}}
 
 [^a]: Cloudflare: [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 [^b]: Sheera Frenkel: [… employees unable to enter buildings this morning … because their badges weren't working to access doors](https://twitter.com/sheeraf/status/1445099150316503057)

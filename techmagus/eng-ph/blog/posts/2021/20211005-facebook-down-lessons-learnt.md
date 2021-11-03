@@ -57,11 +57,11 @@ It was around 15:40 UTC when trouble began which led to Facebook, Instagram, Mes
 
 There are a lot of factors which contributed to the longest downtime of Facebook and its services, one such is even Facebook relies on their own network to be connected to the Internet.[^b]
 
-{{< tweet 1445099150316503057 >}}
+{{< tweet user="sheeraf" id="1445099150316503057" >}}
 
 But how about you? Do you have an online service which relies on Facebook as your customer's login method? Or, maybe you have an online business and your only platform is Facebook and Instagram? How about communicating with your family, are you only relying on Messenger? There are also those who are using WhatsApp as a communication platform for their critical services, like say emergency response, what happens then if there is another major downtime?
 
-{{< tweet 1445121124912676867 >}}
+{{< tweet user="nixcraft" id="1445121124912676867" >}}
 
 [^a]: Cloudflare: [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
 [^b]: Sheera Frenkel: [… employees unable to enter buildings this morning … because their badges weren't working to access doors](https://twitter.com/sheeraf/status/1445099150316503057)
