@@ -179,10 +179,9 @@ Meanwhile, 「Lee Yu Jin」, 「Ma Ha」's loyal friend who is the center of the
 This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of K-Pop or Korean Music. It tells the story K-Pop idols went through when they dreamed of debuting in the industry and the life they experience as an idol that the public rarely sees. This was the tone they established in episode 1 as 「Lee Ma Ha」, an aspiring idol, spent her teenage years training hard and non-stop just to be selected to debut on the elusive stage of Korean Music.
 
 {{< image
+  width="50%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
@@ -204,10 +203,9 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
 >}}
 
 {{< image
+  width="50%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
@@ -228,11 +226,12 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   attribrel="noopener external nofollow"
 >}}
 
-{{< image
-  type="image"
+<div class="floatclear"></div>
 
-  height=""
-  width=""
+{{< image
+  width="50%"
+  class="obj_floatleft"
+  type="image"
 
   src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
@@ -254,10 +253,9 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
 >}}
 
 {{< image
+  width="50%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
@@ -278,11 +276,10 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   attribrel="noopener external nofollow"
 >}}
 
+<div class="floatclear"></div>
+
 {{< image
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
@@ -334,10 +331,9 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
 And being selected does not mean a trainee will debut as was depicted in the first episode, anything can happen, like a member quitting and committing suicide due to stress, unfulfilled dreams, and the harsh environment some agencies provide.
 
 {{< image
+  width="50%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
@@ -359,10 +355,9 @@ And being selected does not mean a trainee will debut as was depicted in the fir
 >}}
 
 {{< image
+  width="50%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
@@ -382,6 +377,8 @@ And being selected does not mean a trainee will debut as was depicted in the fir
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+
+<div class="floatclear"></div>
 
 {{< image
   type="image"
@@ -438,10 +435,9 @@ Being away from your family, especially in special occasions, is very depressing
 If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular company.
 
 {{< image
+  width="50%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
@@ -463,10 +459,9 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
 >}}
 
 {{< image
+  width="50%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
@@ -487,14 +482,15 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
   attribrel="noopener external nofollow"
 >}}
 
+<div class="floatclear"></div>
+
 ### Debuting is also an internal process
 Regardless if one is a solo act or a group, they have to market themselves within the industry and introduce themselves to their seniors. In a very competitive industry such as K-Pop idol world, getting your seniors to like your music, your act, and them saying something positive about you or your group, will help in exposure and potential success. Like what 「Omega III」 did in episode 1, they even gave a free copy of their single to their seniors.
 
 {{< image
+  width="50%"
+  class="obj_floatleft"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
@@ -516,10 +512,9 @@ Regardless if one is a solo act or a group, they have to market themselves withi
 >}}
 
 {{< image
+  width="50%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
@@ -540,11 +535,12 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   attribrel="noopener external nofollow"
 >}}
 
-{{< image
-  type="image"
+<div class="floatclear"></div>
 
-  height=""
-  width=""
+{{< image
+  width="50%"
+  class="obj_floatleft"
+  type="image"
 
   src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
@@ -566,10 +562,9 @@ Regardless if one is a solo act or a group, they have to market themselves withi
 >}}
 
 {{< image
+  width="50%"
+  class="obj_floatright"
   type="image"
-
-  height=""
-  width=""
 
   src="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
@@ -590,6 +585,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   attribrel="noopener external nofollow"
 >}}
 
+<div class="floatclear"></div>
+
 ## Verdict
 Should you watch this new Korean drama? Definitely, especially if you are also a K-Pop fan. Hopefully through this short form TV series, more fans will be enlightened to the kind of life their idols are living every single day. Yes, many of them are wealthy today but for them to get where they are today they have to go through the eye of the needle and sweat blood.
 
@@ -598,49 +595,13 @@ Respect them. Stop bullying them.
 ## Official trailer
 {{< video
   platform="youtube"
-  isplaylist=false
-  isloop=false
-
   id="m7WhnM4mU4w"
-  starttime=""
-  endtime=""
-
   title="Official Trailer: Imitation | 仿品 | iQiyi"
   caption="「Imitation」 trailer"
   inlanguage="ko"
-
-  datecreated=""
   datepublished="2021-04-27"
-
-  director=""
-  musicby=""
-
-  vidframesize=""
-  vidquality=""
-  vidheight=""
-  vidwidth=""
-
-  licensecode="allrightsreserved"
-  licenseurl=""
-  licensename=""
-
   attribto="iQIYI 爱奇艺"
   attriburl="https://www.youtube.com/channel/UCUhpu5MJQ_bjPkXO00jyxsw"
-  attribrel="noopener external nofollow"
-  attribalign=""
-
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
-
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
-
-  contentloc=""
-  contentlocurl=""
-  contentlocrel="me noopner external"
-  contentreferencetime=""
 >}}
 
 -------
