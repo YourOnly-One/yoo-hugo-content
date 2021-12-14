@@ -13,10 +13,10 @@ relCanonical = "https://im.youronly.one/snoworld/youronlyone-top-movies-2021-202
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["snoworld"]
-#categories = [""]                                                   # taxonomy
-#keywords = [""]                                                     # meta keywords
+categories = ["films"]                                                   # taxonomy
+keywords = ["films", "movies", "top10", "listicles"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
-#tags = [""]                                                         # taxonomy
+tags = ["top10"]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
