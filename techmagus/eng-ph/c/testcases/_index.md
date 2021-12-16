@@ -10,27 +10,23 @@ metarobots = "noindex"
 +++
 
 {{< image
-  type="image"
+  height="70%"
+  width="70%"
 
-  imgheight="70%"
-  imgwidth="70%"
+  isrepresentativeofpage=false
 
-  imgsrc="https://2.bp.blogspot.com/-CQpdaRXuXPs/Xw7HKVP47gI/AAAAAAAAjQc/4P1vLjlpdMIxKPO1DXoQ1ZBiavUkaYuKwCLcBGAsYHQ/s1600/Ladybug%2BMacro.jpg"
-  imglink="https://2.bp.blogspot.com/-CQpdaRXuXPs/Xw7HKVP47gI/AAAAAAAAjQc/4P1vLjlpdMIxKPO1DXoQ1ZBiavUkaYuKwCLcBGAsYHQ/s1600/Ladybug%2BMacro.jpg"
-  imgrel="noopener external nofollow"
+  src="https://2.bp.blogspot.com/-CQpdaRXuXPs/Xw7HKVP47gI/AAAAAAAAjQc/4P1vLjlpdMIxKPO1DXoQ1ZBiavUkaYuKwCLcBGAsYHQ/s1600/Ladybug%2BMacro.jpg"
+  link="https://2.bp.blogspot.com/-CQpdaRXuXPs/Xw7HKVP47gI/AAAAAAAAjQc/4P1vLjlpdMIxKPO1DXoQ1ZBiavUkaYuKwCLcBGAsYHQ/s1600/Ladybug%2BMacro.jpg"
+  linkrel="noopener external nofollow"
 
-  imgtitle="Ladybug Macro"
-  imgcaption=""
-  imgalt=""
-
-  attribalign=""
+  title="Ladybug Macro"
 
   licensecode="ccbysa2"
   licenseurl="https://creativecommons.org/licenses/by-sa/2.0/"
-  licensename="CC BY-SA 2.0"
+  licensename="CC-BY-SA 2.0"
 
   attribto="Scott"
-  attriblink="https://www.flickr.com/photos/proudfoott/"
+  attriburl="https://www.flickr.com/photos/proudfoott/"
   attribrel="noopener external nofollow"
 >}}
 
