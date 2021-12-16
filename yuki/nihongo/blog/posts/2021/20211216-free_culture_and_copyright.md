@@ -7,8 +7,8 @@ date = "2021-12-16T10:21:27"                                        # manually a
 
 #aliases = [""]
 slug = "free-culture-anti-copyright"
-translationKey = "free-culture-anti-copyright"
-relCanonical = "https://im.youronly.one/yuki/free-culture-anti-copyright"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "free-culture-anti-copyright-2021350"
+relCanonical = "https://im.youronly.one/yuki/ja/free-culture-anti-copyright-2021350"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
