@@ -94,9 +94,9 @@ In our earlier example, Copyright is used to ensure that research papers are acc
 *A free, open, and sharing culture* does not mean works are free-of-charge and no one should get paid for their hard work and/or the cost of publication.
 {{% /quotebox %}}
 
-Back to our question, are advocates of Free Culture, Creative Commons, Open Knowledge, Open Access, and related, anti-Copyright? You could say that we are.
+Back to our question, are advocates of Free Culture, Creative Commons, Open Knowledge, Open Access, and related, anti-Copyright? You could say that we are but for a different reason than what those who are against *a free, open, and sharing culture* voices are branding us.
 
-It is good to protect works, be it fiction, a music composition, or an art. However, Copyright is primarily being used to ensure one's monetary gain instead of being about the protection of one's intellectual property. The latter is just an added benefit, a by-product of the Copyright Law, instead of it being the reason. There is nothing wrong with getting paid for your hard work, or to recuperate one's investment and payment of publication fees, even without Copyright, it is the creator's right to do that. *A free, open, and sharing culture* does not mean works are free-of-charge and no one should get paid for their hard work and/or the cost of publication.
+It is good to protect works, be it fiction, a music composition, or an art. Unfortunately, Copyright is primarily being used to ensure one's monetary gain instead of being about the protection of one's intellectual property. The latter is just an added benefit, a by-product of the Copyright Law, instead of it being the be-all end-all. There is nothing wrong with getting paid for your hard work, or to recuperate one's investment and payment of publication fees, even without Copyright, it is the creator's right to do that. *A free, open, and sharing culture* does not mean works are free-of-charge and no one should get paid for their hard work and/or the cost of publication.
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 Did you know?
@@ -104,7 +104,7 @@ Did you know?
 If there was already a Copyright Law during the time of William Shakespeare, the world would never know his memorable stories. His works were a remix of various works by other authors and it is Copyright infringement since he did not have permission to re-use their works.
 {{% /sembox %}}
 
-All things considered, we may be anti-Copyright but we are not endorsing Copyright infringement. The Copyright Law is in effect and we should respect it. As was explained we can use the Copyright Law to push for *a free, open, and sharing community* which is beneficial for everyone and promotes growth in all aspects of our society. That is what ***Free Culture*** is all about.
+All things considered, maybe we are anti-Copyright but it was because the Copyright Law is being abused for the benefit of the few. In response, advocates of Free Culture are using Copyright for everyone's gain, to push creativity, development, and our global culture and society forward. Are we also endorsing Copyright infringement? Certainly not! As was explained, we can use Copyright to push for *a free, open, and sharing community* which is beneficial for everyone and promotes growth in all aspects of our society. That is what ***Free Culture*** is all about.
 
 ## One final example
 This material is under a ***[Creative Commons Attribution-ShareAlike (CC-BY-SA) 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)***. It means  I have granted the Rights to create a derivative work, re-publish, re-distribute, even for commercial purposes, to anyone for as long as [1] Attribution (BY) is given; [2] the license of your derivative work is also under the same license (ShareAlike); and [3] all other requirements under the said license are followed.
