@@ -3,7 +3,7 @@ title = "Legal Notice"
 description = "YourOnly.One™ Legal Notice"
 
 date = "2020-03-25T06:00:00"
-lastmod = "2021-10-31T12:17:00+08:00"
+lastmod = "2021-10-31T12:17:00"
 
 #aliases = ["", ""]
 #slug = ""
