@@ -49,7 +49,7 @@ This is the list of webblogs, websites, and services I recommend for additional 
 
 <!--more-->
 
-*Most* blogs, websites, and services which are already popular and/or ranking in search engines are not included. For this linklist, I want to give more attention to those that I, at least, do not see in search engine results or not mentioned in social media and social networks.
+*Most* blogs, websites, and services which are already popular and/or ranking in search engines are not included. For this linklist, I want to give more attention to those that I, at least, do not see in search engine results or not mentioned in social media and social networks. Read [Linklists Are Back](https://im.youronly.one/techmagus/linklists-are-back-2021353) for more information.
 
 *In alphabetical order*
 
@@ -100,4 +100,14 @@ The following have end-to-end encrypted chat by default, while Matrix is e2ee by
 ## tools
 * <a href="https://www.timeanddate.com/worldclock/fixedform.html" rel="noopener external">Event Time Announcer</a> — auto-convert all timezones
 
+---
 
+## Linkring
+Here are other bookmark lists inspired by *Marginalia*. If you created yours, leave your link in [Linklists Are Back](https://im.youronly.one/techmagus/linklists-are-back-2021353) and I will add you below.
+
+* <a href="https://memex.marginalia.nu/links/bookmarks.gmi" rel="noopener external">Marginalia Bookmarks</a>
+* <a href="https://datagubbe.se/links/" rel="noopener external">{ datagubbe } Links</a>
+* <a href="https://mineralexistence.com/bookmarks.html" rel="noopener external">{ mineral existence } Bookmarks</a>
+* <a href="https://wiki.xxiivv.com/site/bookmarks.html" rel="noopener external">XXIBB Bookmarks</a>
+* <a href="https://hd-dn.com/bookmarks/" rel="noopener external">HD-DN Bookmarks</a>
+* <a href="https://flamedfury.com/links/" rel="noopener external">fLaMEdFury Links</a>
