@@ -8,7 +8,7 @@ date = "2021-12-19T15:14:41"                                        # manually a
 #aliases = [""]
 slug = "linklists-are-back"
 translationKey = "linklists-are-back-2021353"
-relCanonical = "https://im.youronly.one/techmagus/linklists-are-back-2021353/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/techmagus/ko/linklists-are-back-2021353/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
