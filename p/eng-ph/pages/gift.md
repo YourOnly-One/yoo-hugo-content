@@ -55,6 +55,6 @@ Did you like my work and want to send a gift as a token of appreciation? Here ar
 
 {{< gift type="tip jar" >}}
 
-{{< gift type="cryptocurrency" message="<small><p>— Did you know? An XLM address can receive any type of asset (USD, EURO, CNY, PHP, XBT/BTC, ETH, gold, stocks, and other tokens of value). See <a href='https://developers.stellar.org/docs/glossary/assets/' rel='noopener external nofollow'>Stellar docs: Assets</a>.</p><p>(in preference order)</p></small>" >}}
+{{< gift type="cryptocurrency" message="<small><p>— Did you know? An XLM address can receive any type of asset (USD, EURO, CNY, PHP, XBT/BTC, ETH, gold, stocks, and other tokens of value). See <a href='https://developers.stellar.org/docs/glossary/assets/' rel='noopener external'>Stellar docs: Assets</a>.</p><p>(in preference order)</p></small>" >}}
 
 Thank you with a thousand bows!
