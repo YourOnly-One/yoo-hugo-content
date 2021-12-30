@@ -5,5 +5,5 @@ translationKey = "tag-reviews"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

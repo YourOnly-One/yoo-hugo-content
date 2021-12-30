@@ -6,7 +6,7 @@ link = "https://www.goodreads.com/youronlyone"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/Goodreads.svg"
 weight = "62"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://www.goodreads.com/youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Goodreads</a>

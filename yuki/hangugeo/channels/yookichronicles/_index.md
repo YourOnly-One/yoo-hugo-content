@@ -5,5 +5,5 @@ translationKey = "channel-yooki"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

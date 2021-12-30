@@ -11,5 +11,5 @@ title = "Social"
 slug = "social"
 #translationKey = ""
 
-metarobots = "noindex noarchive"
+#metarobots = "noindex noarchive"
 +++

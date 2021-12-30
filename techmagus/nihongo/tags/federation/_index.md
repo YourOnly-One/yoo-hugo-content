@@ -5,5 +5,5 @@ translationKey = "tag-federation"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

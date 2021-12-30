@@ -5,5 +5,5 @@ translationKey = "section-poems"
 #aliases = [""]
 relcanonical = "tag/poems"
 redirectto = "tag/poems"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

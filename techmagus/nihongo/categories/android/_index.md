@@ -5,5 +5,5 @@ translationKey = "cat-android"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -6,7 +6,7 @@ link = "https://twitter.com/YourOnlyOne7"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/Twitter.webp"
 weight = "41"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://twitter.com/YourOnlyOne7" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Twitter</a>

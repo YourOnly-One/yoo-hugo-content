@@ -5,5 +5,5 @@ translationKey = "series-freeculture"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

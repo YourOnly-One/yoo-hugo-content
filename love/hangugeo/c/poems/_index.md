@@ -5,5 +5,5 @@ translationKey = "section-poems"
 #aliases = [""]
 relcanonical = "tag/시"
 redirectto = "tag/시"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

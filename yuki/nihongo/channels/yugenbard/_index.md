@@ -5,5 +5,5 @@ translationKey = "channel-yūgenbard"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

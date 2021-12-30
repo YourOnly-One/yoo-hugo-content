@@ -5,5 +5,5 @@ translationKey = "cat-life"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -6,7 +6,7 @@ link = "https://im.youronly.one/yuki/channels/faithful-athlete/"
 linkRel = "me noopener"
 image = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 weight = "1"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://im.youronly.one/yuki/channels/faithful-athlete/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">Blog</a>

@@ -5,5 +5,5 @@ translationKey = "tag-ccbysa"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -5,5 +5,5 @@ translationKey = "tag-verses"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

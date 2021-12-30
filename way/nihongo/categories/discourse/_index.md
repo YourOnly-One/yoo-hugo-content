@@ -5,5 +5,5 @@ translationKey = "cat-discourse"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

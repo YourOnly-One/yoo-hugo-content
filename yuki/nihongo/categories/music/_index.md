@@ -5,5 +5,5 @@ translationKey = "cat-music"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

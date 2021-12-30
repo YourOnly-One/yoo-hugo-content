@@ -11,5 +11,5 @@ title = "Idents"
 #slug = ""
 #translationKey = ""
 
-metarobots = "noindex noarchive"
+#metarobots = "noindex noarchive"
 +++

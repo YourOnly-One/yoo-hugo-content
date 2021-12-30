@@ -5,5 +5,5 @@ translationKey = "section-albums"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

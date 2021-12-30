@@ -11,7 +11,7 @@ title = "Blogs"
 #slug = ""
 #translationKey = ""
 
-metarobots = "noindex noarchive"
+#metarobots = "noindex noarchive"
 
 #private = "true"
 +++

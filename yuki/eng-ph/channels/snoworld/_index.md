@@ -5,5 +5,5 @@ translationKey = "channel-snoworld"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

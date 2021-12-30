@@ -5,5 +5,5 @@ translationKey = "tag-top10"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

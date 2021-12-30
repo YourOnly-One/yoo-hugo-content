@@ -6,7 +6,7 @@ translationKey = "section-projects"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 Various projects techmagus contributes to.

@@ -5,5 +5,5 @@ translationKey = "tag-security"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

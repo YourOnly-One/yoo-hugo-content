@@ -5,5 +5,5 @@ translationKey = "series-torah"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

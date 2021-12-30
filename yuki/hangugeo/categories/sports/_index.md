@@ -5,5 +5,5 @@ translationKey = "cat-sports"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

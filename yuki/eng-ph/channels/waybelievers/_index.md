@@ -5,5 +5,5 @@ translationKey = "channel-waybelievers"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

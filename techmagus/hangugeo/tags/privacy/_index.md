@@ -5,5 +5,5 @@ translationKey = "tag-privacy"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -5,5 +5,5 @@ translationKey = "tag-browserwars"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

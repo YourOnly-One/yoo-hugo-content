@@ -5,5 +5,5 @@ translationKey = "series-pray"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

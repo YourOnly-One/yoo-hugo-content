@@ -5,5 +5,5 @@ translationKey = "tag-html"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

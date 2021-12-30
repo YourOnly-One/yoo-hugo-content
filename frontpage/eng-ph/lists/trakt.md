@@ -6,7 +6,7 @@ link = "https://trakt.tv/users/youronlyone"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/Trakt.svg"
 weight = "72"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://trakt.tv/users/youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">trakt</a>

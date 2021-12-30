@@ -5,5 +5,5 @@ translationKey = "tag-publicdomain"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

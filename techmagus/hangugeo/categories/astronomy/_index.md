@@ -5,5 +5,5 @@ translationKey = "cat-astronomy"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

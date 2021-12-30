@@ -5,5 +5,5 @@ translationKey = "section-portables"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

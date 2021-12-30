@@ -5,5 +5,5 @@ translationKey = "cat-howto"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

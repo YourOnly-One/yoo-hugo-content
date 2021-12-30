@@ -5,5 +5,5 @@ translationKey = "tag-sabbath"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

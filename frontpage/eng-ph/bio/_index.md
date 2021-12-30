@@ -11,5 +11,5 @@ title = "Bio"
 slug = "bio"
 #translationKey = ""
 
-metarobots = "noindex noarchive"
+#metarobots = "noindex noarchive"
 +++

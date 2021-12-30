@@ -6,7 +6,7 @@ link = "https://mastodon.social/@youronlyone"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/Mastodon.jpg"
 weight = "42"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://mastodon.social/@youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Fediverse: mastodon.social</a>

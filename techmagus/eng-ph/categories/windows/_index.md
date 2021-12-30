@@ -5,5 +5,5 @@ translationKey = "cat-windows"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

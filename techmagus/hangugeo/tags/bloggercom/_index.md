@@ -5,5 +5,5 @@ translationKey = "tag-bloggercom"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

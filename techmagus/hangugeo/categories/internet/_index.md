@@ -5,5 +5,5 @@ translationKey = "cat-internet"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

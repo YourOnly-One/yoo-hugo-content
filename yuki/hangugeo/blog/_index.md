@@ -5,5 +5,5 @@ translationKey = "section-blog"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

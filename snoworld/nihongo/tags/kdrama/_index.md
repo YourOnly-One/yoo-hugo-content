@@ -5,5 +5,5 @@ translationKey = "tag-kdrama"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

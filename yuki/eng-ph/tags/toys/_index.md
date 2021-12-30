@@ -5,5 +5,5 @@ translationKey = "tag-toys"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

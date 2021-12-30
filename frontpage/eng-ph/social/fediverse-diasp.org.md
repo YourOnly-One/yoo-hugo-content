@@ -5,7 +5,7 @@ date = "2020-03-25T06:00:00"
 link = "https://diasp.org/u/jcsesecuneta"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/diaspora.png"
-metarobots = "noindex"
+#metarobots = "noindex"
 
 draft = true
 +++

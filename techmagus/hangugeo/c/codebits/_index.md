@@ -5,5 +5,5 @@ translationKey = "section-codebits"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -5,5 +5,5 @@ translationKey = "cat-unicode"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

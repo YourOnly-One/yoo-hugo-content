@@ -5,5 +5,5 @@ translationKey = "tag-poems"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

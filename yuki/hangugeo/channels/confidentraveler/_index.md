@@ -5,5 +5,5 @@ translationKey = "channel-confidentraveler"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -6,7 +6,7 @@ link = "https://www.last.fm/user/Laibcoms"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/LastFM.svg"
 weight = "63"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://www.last.fm/user/Laibcoms" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Last.FM</a>

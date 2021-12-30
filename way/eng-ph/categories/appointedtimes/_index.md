@@ -5,5 +5,5 @@ translationKey = "cat-appointedtimes"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

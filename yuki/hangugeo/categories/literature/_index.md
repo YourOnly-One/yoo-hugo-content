@@ -5,5 +5,5 @@ translationKey = "cat-literature"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

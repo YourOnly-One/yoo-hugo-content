@@ -5,5 +5,5 @@ translationKey = "tag-adaptations"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

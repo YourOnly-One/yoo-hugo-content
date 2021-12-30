@@ -5,5 +5,5 @@ translationKey = "tag-maps"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

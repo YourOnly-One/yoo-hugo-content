@@ -5,5 +5,5 @@ translationKey = "cat-photography"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

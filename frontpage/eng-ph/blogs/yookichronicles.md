@@ -6,7 +6,7 @@ link = "https://im.youronly.one/yuki/"
 linkRel = "me noopener"
 image = "https://rsc.youronly.one/img/y/YOOki_Chronicles.webp"
 weight = "11"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://im.youronly.one/yuki/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">The YOOki (柳紀 ・ 유 기) Chronicles</a>™

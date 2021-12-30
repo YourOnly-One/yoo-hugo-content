@@ -5,5 +5,5 @@ translationKey = "section-knowledgebase"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

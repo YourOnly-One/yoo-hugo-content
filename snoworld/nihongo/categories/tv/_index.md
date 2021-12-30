@@ -5,5 +5,5 @@ translationKey = "cat-tv"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -5,5 +5,5 @@ translationKey = "section-webdev"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

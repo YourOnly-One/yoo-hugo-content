@@ -5,5 +5,5 @@ translationKey = "section-meteorology"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

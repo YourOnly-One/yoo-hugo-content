@@ -6,7 +6,7 @@ link = "https://im.youronly.one/yuki/channels/yūgen-bard/"
 linkRel = "me noopener"
 image = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 weight = "1"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://im.youronly.one/yuki/channels/yūgen-bard/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">Blog</a>

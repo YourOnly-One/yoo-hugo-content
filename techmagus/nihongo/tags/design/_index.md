@@ -5,5 +5,5 @@ translationKey = "tag-design"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

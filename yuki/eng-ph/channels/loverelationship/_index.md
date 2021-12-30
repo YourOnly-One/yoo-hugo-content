@@ -5,5 +5,5 @@ translationKey = "channel-loverelationship"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

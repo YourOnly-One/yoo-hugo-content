@@ -5,5 +5,5 @@ translationKey = "channel-versesspace"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

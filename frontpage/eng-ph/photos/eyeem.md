@@ -6,7 +6,7 @@ link = "https://www.eyeem.com/u/YourOnlyOne"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/eyeem-logo.svg"
 weight = "52"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://www.eyeem.com/u/YourOnlyOne" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">EyeEm</a>

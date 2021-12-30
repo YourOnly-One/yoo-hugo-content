@@ -5,5 +5,5 @@ translationKey = "cat-films"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

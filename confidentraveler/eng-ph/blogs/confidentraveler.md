@@ -6,7 +6,7 @@ link = "https://im.youronly.one/yuki/channels/confident-traveler/"
 linkRel = "me noopener"
 image = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
 weight = "1"
-metarobots = "noindex"
+#metarobots = "noindex"
 
 #draft = "true"
 +++

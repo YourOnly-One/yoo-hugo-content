@@ -5,5 +5,5 @@ translationKey = "section-internet"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

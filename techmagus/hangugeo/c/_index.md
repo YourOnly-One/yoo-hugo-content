@@ -5,5 +5,5 @@ translationKey = "section-collections"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

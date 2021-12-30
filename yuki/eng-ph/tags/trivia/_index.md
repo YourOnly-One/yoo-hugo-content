@@ -5,5 +5,5 @@ translationKey = "tag-trivia"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -5,5 +5,5 @@ translationKey = "series-truename"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

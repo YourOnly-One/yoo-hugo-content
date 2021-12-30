@@ -5,5 +5,5 @@ translationKey = "cat-keybase"
 aliases = ["/p/keybase-series.html"]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

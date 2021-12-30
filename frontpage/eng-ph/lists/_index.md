@@ -11,5 +11,5 @@ title = "Lists"
 #slug = ""
 #translationKey = ""
 
-metarobots = "noindex noarchive"
+#metarobots = "noindex noarchive"
 +++

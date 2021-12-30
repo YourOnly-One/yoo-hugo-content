@@ -5,5 +5,5 @@ translationKey = "channel-faithfulathlete"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

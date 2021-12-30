@@ -5,5 +5,5 @@ translationKey = "tag-eclipses"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

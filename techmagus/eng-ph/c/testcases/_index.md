@@ -6,7 +6,7 @@ translationKey = "section-testcases"
 aliases = ["/p/test-cases.html"]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 {{< image

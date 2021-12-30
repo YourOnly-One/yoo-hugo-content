@@ -5,5 +5,5 @@ translationKey = "cat-opinion"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

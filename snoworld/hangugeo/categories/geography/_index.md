@@ -5,5 +5,5 @@ translationKey = "cat-geography"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

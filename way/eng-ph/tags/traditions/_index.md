@@ -5,5 +5,5 @@ translationKey = "tag-traditions"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

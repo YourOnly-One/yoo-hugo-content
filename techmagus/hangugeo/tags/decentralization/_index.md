@@ -5,5 +5,5 @@ translationKey = "tag-decentralization"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

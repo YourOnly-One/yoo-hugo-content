@@ -6,7 +6,7 @@ link = "https://im.youronly.one/way/"
 linkRel = "me noopener"
 image = "https://img.youronly.one/works/FlagMenorah-Proto-(CC0).webp"
 weight = "12"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://im.youronly.one/way/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">The Natsari Way</a>™

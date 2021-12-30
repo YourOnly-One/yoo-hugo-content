@@ -6,7 +6,7 @@ link = "https://open.spotify.com/user/jcsesecuneta"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/Spotify.svg"
 weight = "71"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://open.spotify.com/user/jcsesecuneta" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Spotify</a>

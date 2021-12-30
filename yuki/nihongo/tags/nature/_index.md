@@ -5,5 +5,5 @@ translationKey = "tag-nature"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

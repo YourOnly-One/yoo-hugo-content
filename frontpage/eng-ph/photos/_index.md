@@ -11,5 +11,5 @@ title = "Photos"
 #slug = ""
 #translationKey = ""
 
-metarobots = "noindex noarchive"
+#metarobots = "noindex noarchive"
 +++

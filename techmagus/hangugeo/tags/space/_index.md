@@ -5,5 +5,5 @@ translationKey = "tag-space"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

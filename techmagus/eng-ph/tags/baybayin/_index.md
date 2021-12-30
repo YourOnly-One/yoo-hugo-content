@@ -6,5 +6,5 @@ translationKey = "tag-baybayin"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

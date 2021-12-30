@@ -5,5 +5,5 @@ translationKey = "series-copyright"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

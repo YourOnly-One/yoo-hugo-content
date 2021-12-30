@@ -6,7 +6,7 @@ link = "https://iam.youronly.one"
 linkRel = "me noopener"
 image = "https://rsc.youronly.one/img/assets/WhoAmI.webp"
 weight = "22"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
 
 <a href="https://iam.youronly.one" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">Profile</a>

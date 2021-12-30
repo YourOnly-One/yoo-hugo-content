@@ -5,5 +5,5 @@ translationKey = "cat-events"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

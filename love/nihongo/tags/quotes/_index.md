@@ -5,5 +5,5 @@ translationKey = "tag-quotes"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

@@ -5,5 +5,5 @@ translationKey = "tag-fanfiction"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

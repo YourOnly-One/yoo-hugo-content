@@ -5,7 +5,7 @@ date = "2020-03-25T06:00:00"
 link = "https://youtube.com/channel/UCAVvgdxvgjvm_WLPVwSS7Hw/?sub_confirmation=1"
 #linkRel = ""
 image = "https://rsc.youronly.one/img/logos/YouTube.webp"
-metarobots = "noindex"
+#metarobots = "noindex"
 
 draft = "true"
 +++

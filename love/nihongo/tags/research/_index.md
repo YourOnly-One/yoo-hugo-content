@@ -5,5 +5,5 @@ translationKey = "tag-research"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

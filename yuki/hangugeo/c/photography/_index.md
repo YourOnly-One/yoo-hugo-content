@@ -5,5 +5,5 @@ translationKey = "section-photography"
 #aliases = [""]
 relcanonical = "cat/사진술"
 redirectto = "cat/사진술"
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

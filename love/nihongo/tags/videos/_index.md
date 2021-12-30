@@ -5,5 +5,5 @@ translationKey = "tag-videos"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

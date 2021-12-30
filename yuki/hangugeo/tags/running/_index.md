@@ -5,5 +5,5 @@ translationKey = "tag-running"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++

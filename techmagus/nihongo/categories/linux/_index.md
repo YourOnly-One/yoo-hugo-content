@@ -5,5 +5,5 @@ translationKey = "cat-linux"
 #aliases = [""]
 #relcanonical = ""
 #redirectto = ""
-metarobots = "noindex"
+#metarobots = "noindex"
 +++
