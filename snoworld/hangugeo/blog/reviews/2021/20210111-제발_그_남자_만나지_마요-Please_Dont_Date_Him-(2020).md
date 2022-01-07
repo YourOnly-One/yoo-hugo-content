@@ -166,7 +166,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
   src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  linkrel="noopener external nofollow"
+  linkrel="me noopener"
 
   title="제발 그 남자 만나지 마요 (2020)"
   caption="「송하윤」 (왼쪽); 「김민정」 (바른)"
@@ -244,7 +244,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   type="imagecoverattrib"
 
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  linkrel="noopener external nofollow"
+  linkrel="me noopener"
 
   title="제발 그 남자 만나지 마요 (2020)"
   caption=""

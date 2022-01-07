@@ -167,7 +167,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
   src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  linkrel="noopener external nofollow"
+  linkrel="me noopener"
 
   title="なお、男会わないで (2020)"
   caption="「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
@@ -245,7 +245,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   type="imagecoverattrib"
 
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  linkrel="noopener external nofollow"
+  linkrel="me noopener"
 
   title="なお、男会わないで (2020)"
   caption=""
