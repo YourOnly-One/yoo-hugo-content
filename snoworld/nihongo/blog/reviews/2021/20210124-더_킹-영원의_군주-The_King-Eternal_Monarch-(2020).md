@@ -35,7 +35,7 @@ contenttypes = ["CriticReview"]
 
 #audio = [""]                                                       # og:audio
 images = ["https://img.youronly.one/p/The_King-Eternal_Monarch-(2020)-01.jpg"]                                                      # og:images
-videos = ["https://www.youtube.com/watch?v=jJwuFjmfjRY"]                                                      # og:video
+videos = ["https://www.youtube.com/watch?v=N1L1iaFZQ9I"]                                                      # og:video
 
 [[authors]]
   person = "yuki"
