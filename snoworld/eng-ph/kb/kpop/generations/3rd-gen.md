@@ -767,6 +767,53 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 >}}
 * Wikipedia: [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
 
+### VICTON
+* Hangul: 빅톤
+* Also known as: Voice to New World
+* Debut: 2016-11-07
+  * Song: I'm Fine; What Time Is It Now?
+{{< video
+  id="HHJB_Zbn-lQ"
+  title="[MV] VICTON(빅톤) _ I'm fine(아무렇지 않은 척)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2016-11-08"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+{{< video
+  id="I5hiKaEUcBc"
+  title="[MelOn Premiere Showcase] VICTON(빅톤)_What time is it now?"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2016-11-14"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+* Wikipedia: [Victon](https://en.wikipedia.org/wiki/Victon)
+
+## 2017
+### fromis_9
+* Hangul: 프로미스 9; 프로미스나인
+* Debut: 2017-11-29
+  * Song: Glass Shoes
+{{< video
+  id="yuPVSvtrUfk"
+  title="뮤직뱅크 Music Bank - 유리구두 - fromis_9 (Glass Shoes - fromis_9).20171215"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2017-12-15"
+  licensecode="allrightsreserved"
+  attribto="KBS Kpop"
+  attriburl="https://www.youtube.com/channel/UCeLPm9yH_a_QH8n6445G-Ow"
+>}}
+* Wikipedia: [Fromis 9](https://en.wikipedia.org/wiki/Fromis_9)
+
 ## 2018
 ### Stray Kids
 * Hangul: 스트레이 키즈
