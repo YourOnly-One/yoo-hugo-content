@@ -13,10 +13,10 @@ relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-generations-202218
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["snoworld"]
-#categories = [""]                                                   # taxonomy
-#keywords = [""]                                                     # meta keywords
+categories = ["literature"]                                                   # taxonomy
+keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
-#tags = [""]                                                         # taxonomy
+tags = ["kpop"]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
