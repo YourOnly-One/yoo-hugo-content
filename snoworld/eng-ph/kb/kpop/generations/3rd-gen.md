@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_3rd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -175,7 +175,36 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="EXOFanCreations"
   attriburl="https://www.youtube.com/channel/UCgtFGwNUsn7h7-V1lBuyLLQ"
 >}}
+#### Strawberry Milk
+* Hangul: 딸기우유
+* Debut: 2014-10-15 as Strawberry Milk
+  * Song: OK
+{{< video
+  id="1VQ-OJ3vCn0"
+  title="[Strawberry Milk] 크레용팝 유닛-딸기우유 'OK(오케이)' M/V"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2014-10-15"
+  licensecode="allrightsreserved"
+  attribto="CROAYON POP"
+  attriburl="https://www.youtube.com/channel/UC88nGROvozD_D3FWojbNErA"
+>}}
+* Debut: 2019-09-05 as Choa & Way
+  * Song: My Universe
+{{< video
+  id="gfjf1I8mk94"
+  title="[M/V] Choa, WAY(Crayon Pop)(초아 & 웨이) - My Universe(나의 우주)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-09-05"
+  licensecode="allrightsreserved"
+  attribto="SUPER SOUND Bugs!"
+  attriburl="https://www.youtube.com/channel/UC9PVYlrwFSlqG7w8TDsqRvQ"
+>}}
 * Wikipedia: [Crayon Pop](https://en.wikipedia.org/wiki/Crayon_Pop)
+* YouTube: [웨이랜드WayLand](https://www.youtube.com/c/웨이랜드WayLand)
 
 ### EXO
 * Hangul: 엑소
@@ -956,6 +985,18 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   licensecode="allrightsreserved"
   attribto="aespa"
   attriburl="https://www.youtube.com/channel/UC9GtSLeksfK4yuJ_g1lgQbg"
+>}}
+* Also known for: Dreams Come True (a remake of ***S.E.S.***'s cover of *Rakastuin mä looseriin* by Finnish girl group ***Nylon Beat***)
+{{< video
+  id="bNTKqRwh2XM"
+  title="(ENG sub) [쇼! 음악중심] 에스파 - 드림스 컴 트루 (aespa - Dreams Come True)"
+  caption="MBC 220108 방송"
+  inlanguage=""
+  datecreated=""
+  datepublished="2022-01-08"
+  licensecode="allrightsreserved"
+  attribto="MBCkpop"
+  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 * Wikipedia: [Aespa](https://en.wikipedia.org/wiki/Aespa)
 
