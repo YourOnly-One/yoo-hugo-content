@@ -16,7 +16,7 @@ channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
-tags = ["kpop"]                                                         # taxonomy
+tags = ["kpop", "videos"]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
