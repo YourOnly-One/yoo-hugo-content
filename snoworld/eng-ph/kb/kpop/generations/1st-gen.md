@@ -2,13 +2,13 @@
 title = "1st Generation K-Pop Music"
 description = "List of 1st Generation K-Pop artists"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-17T08:00:01"                                        # manually adjust to local timezone
+date = "2022-01-12T08:00:01"                                        # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "kpop-1st-geneneration"
-translationKey = "kpop-1st-geneneration-202217"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-1st-geneneration-202217/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "kpop-1st-geneneration-202212"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-1st-geneneration-202212/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
