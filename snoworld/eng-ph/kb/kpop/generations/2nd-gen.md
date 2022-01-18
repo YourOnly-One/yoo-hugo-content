@@ -2,13 +2,13 @@
 title = "2nd Generation K-Pop Music"
 description = "List of 2nd Generation K-Pop artists"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-15T15:00:00"                                        # manually adjust to local timezone
+date = "2022-01-17T08:00:02"                                        # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
 #aliases = [""]
-slug = "kpop-2nd-gen"
-translationKey = "kpop-2nd-gen"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-2nd-gen-/"                                                   # the actual URL of the post; also used for disqus ID and url
+slug = "kpop-2nd-geneneration"
+translationKey = "kpop-2nd-geneneration-202217"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-2nd-geneneration-202217/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -26,8 +26,8 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = [""]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=LlCblnuBkjg", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=ToASX6axGuw", "https://www.youtube.com/watch?v=846jDdHYxPM", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=U7mPqycQ0tQ", "https://www.youtube.com/watch?v=6SwiSpudKWI", "https://www.youtube.com/watch?v=TGbwL8kSpEk", "https://www.youtube.com/watch?v=q_gfD3nvh-8", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=Yq8uM9-uJ_M", "https://www.youtube.com/watch?v=BA7fdSkp8ds", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=o7OkV7QCRgc", "https://www.youtube.com/watch?v=GYjjpO781q4", "https://www.youtube.com/watch?v=PvsAVpvZj_A", "https://www.youtube.com/watch?v=u427qFG9WY8", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=KgrB2KBZws4", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=QZfhC7gQJgo", "https://www.youtube.com/watch?v=ks8bcUeRHL8", "https://www.youtube.com/watch?v=LDywzzjBfZk", "https://www.youtube.com/watch?v=o_nxIQTM_B0", "https://www.youtube.com/watch?v=bMOUP3ZpcUc", "https://www.youtube.com/watch?v=JtFI8dtPvxI", "https://www.youtube.com/watch?v=sqgxcCjD04s", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=4MgAxMO1KD0", "https://www.youtube.com/watch?v=ZAqiMCp9zrI", "https://www.youtube.com/watch?v=5n4V3lGEyG4", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=-KFpL9DUyms", "https://www.youtube.com/watch?v=tTd9Gna50ls", "https://www.youtube.com/watch?v=g3uIdA2IiKw", "https://www.youtube.com/watch?v=nyGxdCivBig", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=n8I8QGFA1oM", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=dBR0oEUIoGI", "https://www.youtube.com/watch?v=zO9RzrhYR-I", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=b34ri3-uxks", "https://www.youtube.com/watch?v=C4P96KzHmao", "https://www.youtube.com/watch?v=KcjGxAbeoc0", "https://www.youtube.com/watch?v=e48D3KtPOb0", "https://www.youtube.com/watch?v=B0Ij_eTECXc", "https://www.youtube.com/watch?v=ZEE3x_X4Cbw", "https://www.youtube.com/watch?v=RUUI0PilSiE", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=9PXLIgGqpeE", "https://www.youtube.com/watch?v=fqR2HGkjFCA", "https://www.youtube.com/watch?v=zVO5xTAbxm8", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=hspqQuuuGIw", "https://www.youtube.com/watch?v=K5H-GvnNz2Y"]                                                       # used by og:video, etc.
+images = ["https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=LlCblnuBkjg", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=ToASX6axGuw", "https://www.youtube.com/watch?v=846jDdHYxPM", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=U7mPqycQ0tQ", "https://www.youtube.com/watch?v=6SwiSpudKWI", "https://www.youtube.com/watch?v=TGbwL8kSpEk", "https://www.youtube.com/watch?v=q_gfD3nvh-8", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=Yq8uM9-uJ_M", "https://www.youtube.com/watch?v=BA7fdSkp8ds", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=o7OkV7QCRgc", "https://www.youtube.com/watch?v=GYjjpO781q4", "https://www.youtube.com/watch?v=PvsAVpvZj_A", "https://www.youtube.com/watch?v=u427qFG9WY8", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=KgrB2KBZws4", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=QZfhC7gQJgo", "https://www.youtube.com/watch?v=ks8bcUeRHL8", "https://www.youtube.com/watch?v=LDywzzjBfZk", "https://www.youtube.com/watch?v=o_nxIQTM_B0", "https://www.youtube.com/watch?v=bMOUP3ZpcUc", "https://www.youtube.com/watch?v=JtFI8dtPvxI", "https://www.youtube.com/watch?v=sqgxcCjD04s", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=4MgAxMO1KD0", "https://www.youtube.com/watch?v=ZAqiMCp9zrI", "https://www.youtube.com/watch?v=5n4V3lGEyG4", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=-KFpL9DUyms", "https://www.youtube.com/watch?v=tTd9Gna50ls", "https://www.youtube.com/watch?v=g3uIdA2IiKw", "https://www.youtube.com/watch?v=nyGxdCivBig", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=als-8K2vYBo", "https://www.youtube.com/watch?v=_yM86BVV7VM", "https://www.youtube.com/watch?v=sKCCfdi4YU4", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=n8I8QGFA1oM", "https://www.youtube.com/watch?v=Thds7IYKH34" "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=dBR0oEUIoGI", "https://www.youtube.com/watch?v=zO9RzrhYR-I", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=b34ri3-uxks", "https://www.youtube.com/watch?v=C4P96KzHmao", "https://www.youtube.com/watch?v=KcjGxAbeoc0", "https://www.youtube.com/watch?v=e48D3KtPOb0", "https://www.youtube.com/watch?v=B0Ij_eTECXc", "https://www.youtube.com/watch?v=ZEE3x_X4Cbw", "https://www.youtube.com/watch?v=RUUI0PilSiE", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=9PXLIgGqpeE", "https://www.youtube.com/watch?v=fqR2HGkjFCA", "https://www.youtube.com/watch?v=zVO5xTAbxm8", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=hspqQuuuGIw", "https://www.youtube.com/watch?v=K5H-GvnNz2Y"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -49,7 +49,12 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 <!--more-->
 
-> For an explanation on our objective generation list, see: [K-Pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+* This list is in no way complete.
+* Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
+{{% /sembox %}}
 
 ## 2002
 ### Byul
@@ -671,6 +676,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Wikipedia: [IU (singer)](https://en.wikipedia.org/wiki/IU_(singer))
 
 ## 2009
+### Zico
+* Hangul: 지코
+* Debut: 2009 as a member of Harmonics
+  * Song: The Letter
+* Debut: 2011-04-14 as a member of Block B
+* Debut: 2014 as a solo act
+* Wikipedia: [Zico (rapper)](https://en.wikipedia.org/wiki/Zico_(rapper))
+
 ### AFTERSCHOOL
 * Hangul: 애프터스쿨
 * Debut: 2009-01-15
@@ -842,6 +855,74 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 >}}
 * Wikipedia: [T-ara](https://en.wikipedia.org/wiki/T-ara)
 
+### Eun Jung
+* Hangul: 은정
+* Katakana: ウンジョン
+* Also known as: Elsie
+* Debut: 2009-07-29 as a member of T-ara
+* Debut: 2013 as a solo act
+  * Song: Two As One
+{{< video
+  id="8tzhuG3ezRM"
+  title="T-ara Eunjung Two As One"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2013-12-26"
+  licensecode="allrightsreserved"
+  attribto="Melissa nuncio"
+  attriburl="https://www.youtube.com/channel/UCd4BG_naCHX3SL6x38MV7qw"
+>}}
+* Debut: 2015-05-07 as Elsie
+  * Song: I'm Good
+{{< video
+  id="Q4XEHXLRhII"
+  title="Elsie (EunJung) - I'm good (Feat. Hyomin) | 엘시 (은정) - 편해졌어"
+  caption="Music Bank HOT Stage / 2015.05.22"
+  inlanguage=""
+  datecreated=""
+  datepublished="2015-06-12"
+  licensecode="allrightsreserved"
+  attribto="KBS WORLD TV"
+  attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
+>}}
+* Also known for: DESIRE; Sweet Snow; あともう少し… (A little more …)
+{{< video
+  id="als-8K2vYBo"
+  title="EUN JUNG 「DESIRE」 MUSIC VIDEO"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-05-20"
+  licensecode="allrightsreserved"
+  attribto="J-ROCK CHANNEL"
+  attriburl="https://www.youtube.com/channel/UClSI3Ck2seUI0UGTCHYxpng"
+>}}
+{{< video
+  id="_yM86BVV7VM"
+  title="Sweet Snow"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-12-10"
+  licensecode="allrightsreserved"
+  attribto="ELSIE (Eunjung) - Topic"
+  attriburl="https://www.youtube.com/channel/UCygJlz3hYSeclea23yBVEcg"
+>}}
+{{< video
+  id="sKCCfdi4YU4"
+  title="あともう少し…"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-06-11"
+  licensecode="allrightsreserved"
+  attribto="ELSIE (Eunjung) - Topic"
+  attriburl="https://www.youtube.com/channel/UCygJlz3hYSeclea23yBVEcg"
+>}}
+* Little Miss Korea at age 7
+* Wikipedia: [Hahm Eun-jung](https://en.wikipedia.org/wiki/Hahm_Eun-jung)
+
 ### CNBLUE
 * Hangul: 씨엔블루
 * Also known as: Code Name: Burning, Lovely, Untouchable, and Emotional
@@ -891,13 +972,41 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * First K-Pop act to perform at SXSW
 * Wikipedia: [f(x) (musical group)](https://en.wikipedia.org/wiki/F(x)_(musical_group))
 
-### Zico
-* Hangul: 지코
-* Debut: 2009 as a member of Harmonics
-  * Song: The Letter
-* Debut: 2011-04-14 as a member of Block B
-* Debut: 2014 as a solo act
-* Wikipedia: [Zico (rapper)](https://en.wikipedia.org/wiki/Zico_(rapper))
+### MBLAQ
+* Hangul: 엠블랙
+* Katakana: エムブラック
+* Also known as: Music Boys Live in Absolute Quality
+* Debut: 2009-10-14
+  * Song: Oh Yeah
+{{< video
+  id="Thds7IYKH34"
+  title="MBLAQ - Oh Yeah, 엠블랙 - 오 예"
+  caption="Music Core 20091024"
+  inlanguage=""
+  datecreated=""
+  datepublished="2012-02-04"
+  licensecode="allrightsreserved"
+  attribto="MBCkpop"
+  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
+>}}
+* Wikipedia: [MBLAQ](https://en.wikipedia.org/wiki/MBLAQ)
+
+### Rainbow
+* Hangul: 레인보우
+* Debut: 2009-11-12
+  * Song: 가십 걸 (Gossip Girl)
+{{< video
+  id="1Lwjl1LGiEQ"
+  title="Rainbow - Gossip Girl, 레인보우 - 가십 걸"
+  caption="Music Core 20091114"
+  inlanguage=""
+  datecreated=""
+  datepublished="2012-02-04"
+  licensecode="allrightsreserved"
+  attribto="MBCkpop"
+  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
+>}}
+* Wikipedia: [Rainbow (girl group)](https://en.wikipedia.org/wiki/Rainbow_(girl_group))
 
 ## 2010
 ### SISTAR
@@ -1127,6 +1236,24 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 >}}
 * Wikipedia: [Girl's Day](https://en.wikipedia.org/wiki/Girl's_Day)
 
+## G.NA
+* Hangul: 지나
+* Debut: 2010-07-05
+  * Song: 애인이 생기면 하고 싶은 일 (Things I Want to Do When I Have a Lover)
+{{< video
+  id="VpkhnJzu9I0"
+  title="G.NA (지나) & Rain (비) - 애인이 생기면 하고 싶은 일"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2010-07-07"
+  licensecode="allrightsreserved"
+  attribto="ayhkim91"
+  attriburl="https://www.youtube.com/channel/UCKBCYxP1c4I7ta5hHVKSt_w"
+>}}
+* Wikipedia: [G.NA](https://en.wikipedia.org/wiki/G.NA)
+
+
 ## 2011
 ### Block B
 * Hangul: 블락비
@@ -1188,39 +1315,29 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 -------
 
-{{< image
-  type="imagecoverattrib"
-
-  isrepresentativeofpage=false
-
-  link=""
-  linkrel=""
-  thumbnailurl=""
-
-  title=""
-  caption=""
-  alt=""
-  embeddedtextcaption=""
-  inlanguage=""
-
-  licensecode=""
-  licenseurl=""
-  licensename=""
-
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
-
-  attribto=""
-  attriburl=""
-  attribrel=""
-
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
->}}
+Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
 
 -------
 
-注意：Google翻訳
-고시 : Google 번역
+{{< image
+  type="imagecoverattrib"
+
+  isrepresentativeofpage=true
+
+  link="https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"
+  linkrel="me noopener"
+
+  title="K-pop 2nd Generation"
+  embeddedtextcaption="K-pop 2nd Generation"
+  inlanguage="en"
+
+  licensecode="cc0"
+
+  attribto="YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="me noopener"
+
+  cc0country="Philippines"
+  cc0countrycode="ph"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
+>}}

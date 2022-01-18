@@ -2,13 +2,13 @@
 title = "1st Generation K-Pop Music"
 description = "List of 1st Generation K-Pop artists"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-15T15:00:00"                                        # manually adjust to local timezone
+date = "2022-01-17T08:00:01"                                        # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
 #aliases = [""]
-slug = "kpop-1st-gen"
-translationKey = "kpop-1st-gen"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-1st-gen-/"                                                   # the actual URL of the post; also used for disqus ID and url
+slug = "kpop-1st-geneneration"
+translationKey = "kpop-1st-geneneration-202217"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-1st-geneneration-202217/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = [""]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://img.youronly.one/k/K-pop_1st_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=OEDHEzs5kyk", "https://www.youtube.com/watch?v=zEx_sjAkT5Y", "https://www.youtube.com/watch?v=nrNx1NuDAGs", "https://www.youtube.com/watch?v=JaKZel1Ijfo", "https://www.youtube.com/watch?v=Wqu7X_aMA3c", "https://www.youtube.com/watch?v=bwr1dfTyhhY", "https://www.youtube.com/watch?v=WruayckJTMY", "https://www.youtube.com/watch?v=mxD4dd75_YU", "https://www.youtube.com/watch?v=1mWCan2qb_U", "https://www.youtube.com/watch?v=P61ndtsw8x4", "https://www.youtube.com/watch?v=bQxSnvda0vs", "https://www.youtube.com/watch?v=CwuTCJ1WpJY", "https://www.youtube.com/watch?v=WqDfAtSxf0o", "https://www.youtube.com/watch?v=Yq8coViLkVo", "https://www.youtube.com/watch?v=vcDvdtAl4rg", "https://www.youtube.com/watch?v=R9sLJJtoiRo", "https://www.youtube.com/watch?v=Kh-AMnZojcE", "https://www.youtube.com/watch?v=ZlRYeom9Szc", "https://www.youtube.com/watch?v=8uiR4SrDGZk", "https://www.youtube.com/watch?v=Lfgg_AVzyIg", "https://www.youtube.com/watch?v=ExNuwh4Kq5Q", "https://www.youtube.com/watch?v=PZ-rMQtWoTc", "https://www.youtube.com/watch?v=GaW8CGJfEa4", "https://www.youtube.com/watch?v=iKdr44yEBQU", "https://www.youtube.com/watch?v=3eHi8VHKymo", "https://www.youtube.com/watch?v=evb-3W3Wnls", "https://www.youtube.com/watch?v=BZAbbYVH1EQ", "https://www.youtube.com/watch?v=DfslE2pbmCk", "https://www.youtube.com/watch?v=ceZc-5p3g1w", "https://www.youtube.com/watch?v=D3IDK_R1LTg", "https://www.youtube.com/watch?v=M48JMEkiu3Q", "https://www.youtube.com/watch?v=skbnuIhVQUA", "https://www.youtube.com/watch?v=PQjovLrnvVo", "https://www.youtube.com/watch?v=2pB0zurYJAc", "https://www.youtube.com/watch?v=9bZkp7q19f0", "https://www.youtube.com/watch?v=mZcYcS2x0rA", "https://www.youtube.com/watch?v=QoRs_lwwW8E", "https://www.youtube.com/watch?v=tbsvXAxGPQU"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
@@ -49,7 +49,12 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 <!--more-->
 
-> For an explanation on our objective generation list, see: [K-Pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+* This list is in no way complete.
+* Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
+{{% /sembox %}}
 
 ## 1992
 ### Seo Taiji & Boys
@@ -433,7 +438,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 * Wikipedia: [Shinhwa](https://en.wikipedia.org/wiki/Shinhwa)
 
-### Fin.K.L.
+### Fin.K.L
 * Hangul: 핑클
 * Also known as: Fine Killing Liberty
 * Debut: 1998-05-25
@@ -687,47 +692,31 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 * Wikipedia: [Jang Na-ra](https://en.wikipedia.org/wiki/Jang_Na-ra)
 
+-------
 
-
----
-
-Go back to [K-Pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
+Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  isrepresentativeofpage=false
+  isrepresentativeofpage=true
 
-  link=""
-  linkrel=""
-  thumbnailurl=""
+  link="https://img.youronly.one/k/K-pop_1st_Generation-01.webp"
+  linkrel="me noopener"
 
-  title=""
-  caption=""
-  alt=""
-  embeddedtextcaption=""
-  inlanguage=""
+  title="K-pop 1st Generation"
+  embeddedtextcaption="K-pop 1st Generation"
+  inlanguage="en"
 
-  licensecode=""
-  licenseurl=""
-  licensename=""
+  licensecode="cc0"
 
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
+  attribto="YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="me noopener"
 
-  attribto=""
-  attriburl=""
-  attribrel=""
-
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
+  cc0country="Philippines"
+  cc0countrycode="ph"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역

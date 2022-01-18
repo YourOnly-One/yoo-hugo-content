@@ -2,13 +2,13 @@
 title = "4th Generation K-Pop Music"
 description = "List of 4th Generation K-Pop artists"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-15T15:00:00"                                        # manually adjust to local timezone
+date = "2022-01-17T08:00:04"                                        # manually adjust to local timezone
 #lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
 
 #aliases = [""]
-slug = "kpop-4th-gen"
-translationKey = "kpop-4th-gen"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-4th-gen-/"                                                   # the actual URL of the post; also used for disqus ID and url
+slug = "kpop-4th-generation"
+translationKey = "kpop-4th-generation-202217"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-4th-geneneration-202217/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
@@ -26,8 +26,8 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = [""]                                                       # used by og:images, etc.; first image is cover image
-#videos = [""]                                                       # used by og:video, etc.
+images = ["https://img.youronly.one/k/K-pop_4th_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+videos = ["https://www.youtube.com/watch?v=uBY1AoiF5Vo", "https://www.youtube.com/watch?v=Zzl9eAcI1lk"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -49,78 +49,74 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
 
 <!--more-->
 
-> For an explanation on our objective generation list, see: [K-Pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+> For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
+
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+* This list is in no way complete.
+* Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
+{{% /sembox %}}
 
 ## 2022
-### GOT the beat
-* Hangul:
-* Debut: 2022-01-01
-  * Song:
+### Girls On Top
+* Subgroups: GOT the beat
+  * Hangul: 갓더비트
+* Debut: 2022-01-01 - GOT the beat subgroup
+  * Song: Step Back
 {{< video
-  id=""
-  title=""
+  id="uBY1AoiF5Vo"
+  title="GOT the beat 'Step Back' Stage Video"
   caption=""
   inlanguage=""
   datecreated=""
-  datepublished=""
+  datepublished="2022-01-01"
   licensecode="allrightsreserved"
-  attribto=""
-  attriburl=""
+  attribto="Girls On Top"
+  attriburl="https://www.youtube.com/channel/UCcdX97nVNsZgAA0NxvHnU9w"
 >}}
-* Wikipedia:
+* Wikipedia: [Got the Beat](https://en.wikipedia.org/wiki/Got_the_Beat)
 
 ### Kep1er
-* Hangul:
+* Hangul: 케플러
 * Debut: 2022-01-03
-  * Song:
+  * Song: Wa Da Da
 {{< video
-  id=""
-  title=""
-  caption=""
+  id="Zzl9eAcI1lk"
+  title="[최초공개] Kep1er(케플러) - WA DA DA (4K) | Kep1er DEBUT SHOW"
+  caption="Mnet 220103 방송"
   inlanguage=""
   datecreated=""
-  datepublished=""
+  datepublished="2022-01-03"
   licensecode="allrightsreserved"
-  attribto=""
-  attriburl=""
+  attribto="M2"
+  attriburl="https://www.youtube.com/channel/UCTQVIXvcHrR9jYoJ6qaBAow"
 >}}
-* Wikipedia:
+* Wikipedia: [Kep1er](https://en.wikipedia.org/wiki/Kep1er)
+
+-------
+
+Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
 
 -------
 
 {{< image
   type="imagecoverattrib"
 
-  isrepresentativeofpage=false
+  isrepresentativeofpage=true
 
-  link=""
-  linkrel=""
-  thumbnailurl=""
+  link="https://img.youronly.one/k/K-pop_4th_Generation-01.webp"
+  linkrel="me noopener"
 
-  title=""
-  caption=""
-  alt=""
-  embeddedtextcaption=""
-  inlanguage=""
+  title="K-pop 4th Generation"
+  embeddedtextcaption="K-pop 4th Generation"
+  inlanguage="en"
 
-  licensecode=""
-  licenseurl=""
-  licensename=""
+  licensecode="cc0"
 
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
+  attribto="YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="me noopener"
 
-  attribto=""
-  attriburl=""
-  attribrel=""
-
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
+  cc0country="Philippines"
+  cc0countrycode="ph"
+  cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
-
--------
-
-注意：Google翻訳
-고시 : Google 번역
