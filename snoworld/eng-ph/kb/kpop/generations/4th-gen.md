@@ -97,6 +97,42 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
 
 * Wikipedia: [Kep1er](https://en.wikipedia.org/wiki/Kep1er)
 
+### TEMPEST
+* Hangul: 템페스트
+* Also known as: TPST
+* Debut: 2022-01-05 (1st dance video)
+  * Song: Kick It by ***[NCT 127]({{< ref "/3rd-gen.md#nct-127" >}} "NCT 127")***
+
+{{< video
+  id="yhCb3nEqxrQ"
+  title="Covered by TPST｜NCT127 - 영웅(英雄; Kick It)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2022-01-05"
+  licensecode="allrightsreserved"
+  attribto="TEMPEST"
+  attriburl="https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA"
+>}}
+
+* Debut: 2022-02-21
+  * Song: TBA
+* Sample covers: HIT by ***[SEVENTEEN]({{< ref "/3rd-gen.md#seventeen" >}} "SEVENTEEN")***
+
+{{< video
+  id="G7VsjectIzo"
+  title="Covered by TPST｜SEVENTEEN - HIT"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2022-01-13"
+  licensecode="allrightsreserved"
+  attribto="TEMPEST"
+  attriburl="https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA"
+>}}
+
+* YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA)
+
 -------
 
 Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
