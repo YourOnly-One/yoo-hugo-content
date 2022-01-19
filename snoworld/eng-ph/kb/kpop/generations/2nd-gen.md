@@ -1397,7 +1397,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 * Wikipedia: [Girl's Day](https://en.wikipedia.org/wiki/Girl's_Day)
 
-## G.NA
+### G.NA
 * Hangul: 지나
 * Debut: 2010-07-05
   * Song: 애인이 생기면 하고 싶은 일 (Things I Want to Do When I Have a Lover)
