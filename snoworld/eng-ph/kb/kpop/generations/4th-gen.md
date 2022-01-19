@@ -58,10 +58,12 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
 
 ## 2022
 ### Girls On Top
-* Subgroups: GOT the beat
-  * Hangul: 갓더비트
-* Debut: 2022-01-01 - GOT the beat subgroup
+#### GOT the beat
+* Hangul: 갓더비트
+* a subgroup of supergroup ***[Girls On Top]({{< ref "/4th-gen.md#girls-on-top" >}} "Girls On Top")***
+* Debut: 2022-01-01
   * Song: Step Back
+
 {{< video
   id="uBY1AoiF5Vo"
   title="GOT the beat 'Step Back' Stage Video"
@@ -73,12 +75,14 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
   attribto="Girls On Top"
   attriburl="https://www.youtube.com/channel/UCcdX97nVNsZgAA0NxvHnU9w"
 >}}
+
 * Wikipedia: [Got the Beat](https://en.wikipedia.org/wiki/Got_the_Beat)
 
 ### Kep1er
 * Hangul: 케플러
 * Debut: 2022-01-03
   * Song: Wa Da Da
+
 {{< video
   id="Zzl9eAcI1lk"
   title="[최초공개] Kep1er(케플러) - WA DA DA (4K) | Kep1er DEBUT SHOW"
@@ -90,6 +94,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
   attribto="M2"
   attriburl="https://www.youtube.com/channel/UCTQVIXvcHrR9jYoJ6qaBAow"
 >}}
+
 * Wikipedia: [Kep1er](https://en.wikipedia.org/wiki/Kep1er)
 
 -------

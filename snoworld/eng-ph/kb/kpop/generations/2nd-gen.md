@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=LlCblnuBkjg", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=ToASX6axGuw", "https://www.youtube.com/watch?v=846jDdHYxPM", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=U7mPqycQ0tQ", "https://www.youtube.com/watch?v=6SwiSpudKWI", "https://www.youtube.com/watch?v=TGbwL8kSpEk", "https://www.youtube.com/watch?v=q_gfD3nvh-8", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=Yq8uM9-uJ_M", "https://www.youtube.com/watch?v=BA7fdSkp8ds", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=o7OkV7QCRgc", "https://www.youtube.com/watch?v=GYjjpO781q4", "https://www.youtube.com/watch?v=PvsAVpvZj_A", "https://www.youtube.com/watch?v=u427qFG9WY8", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=KgrB2KBZws4", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=QZfhC7gQJgo", "https://www.youtube.com/watch?v=ks8bcUeRHL8", "https://www.youtube.com/watch?v=LDywzzjBfZk", "https://www.youtube.com/watch?v=o_nxIQTM_B0", "https://www.youtube.com/watch?v=bMOUP3ZpcUc", "https://www.youtube.com/watch?v=JtFI8dtPvxI", "https://www.youtube.com/watch?v=sqgxcCjD04s", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=4MgAxMO1KD0", "https://www.youtube.com/watch?v=ZAqiMCp9zrI", "https://www.youtube.com/watch?v=5n4V3lGEyG4", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=-KFpL9DUyms", "https://www.youtube.com/watch?v=tTd9Gna50ls", "https://www.youtube.com/watch?v=g3uIdA2IiKw", "https://www.youtube.com/watch?v=nyGxdCivBig", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=als-8K2vYBo", "https://www.youtube.com/watch?v=_yM86BVV7VM", "https://www.youtube.com/watch?v=sKCCfdi4YU4", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=n8I8QGFA1oM", "https://www.youtube.com/watch?v=Thds7IYKH34" "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=dBR0oEUIoGI", "https://www.youtube.com/watch?v=zO9RzrhYR-I", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=b34ri3-uxks", "https://www.youtube.com/watch?v=C4P96KzHmao", "https://www.youtube.com/watch?v=KcjGxAbeoc0", "https://www.youtube.com/watch?v=e48D3KtPOb0", "https://www.youtube.com/watch?v=B0Ij_eTECXc", "https://www.youtube.com/watch?v=ZEE3x_X4Cbw", "https://www.youtube.com/watch?v=RUUI0PilSiE", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=9PXLIgGqpeE", "https://www.youtube.com/watch?v=fqR2HGkjFCA", "https://www.youtube.com/watch?v=zVO5xTAbxm8", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=hspqQuuuGIw", "https://www.youtube.com/watch?v=K5H-GvnNz2Y"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=LlCblnuBkjg", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=ToASX6axGuw", "https://www.youtube.com/watch?v=846jDdHYxPM", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=U7mPqycQ0tQ", "https://www.youtube.com/watch?v=6SwiSpudKWI", "https://www.youtube.com/watch?v=TGbwL8kSpEk", "https://www.youtube.com/watch?v=q_gfD3nvh-8", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=Yq8uM9-uJ_M", "https://www.youtube.com/watch?v=BA7fdSkp8ds", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=o7OkV7QCRgc", "https://www.youtube.com/watch?v=GYjjpO781q4", "https://www.youtube.com/watch?v=PvsAVpvZj_A", "https://www.youtube.com/watch?v=u427qFG9WY8", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=KgrB2KBZws4", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=QZfhC7gQJgo", "https://www.youtube.com/watch?v=ks8bcUeRHL8", "https://www.youtube.com/watch?v=LDywzzjBfZk", "https://www.youtube.com/watch?v=o_nxIQTM_B0", "https://www.youtube.com/watch?v=bMOUP3ZpcUc", "https://www.youtube.com/watch?v=JtFI8dtPvxI", "https://www.youtube.com/watch?v=sqgxcCjD04s", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=4MgAxMO1KD0", "https://www.youtube.com/watch?v=ZAqiMCp9zrI", "https://www.youtube.com/watch?v=5n4V3lGEyG4", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=-KFpL9DUyms", "https://www.youtube.com/watch?v=tTd9Gna50ls", "https://www.youtube.com/watch?v=g3uIdA2IiKw", "https://www.youtube.com/watch?v=nyGxdCivBig", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=als-8K2vYBo", "https://www.youtube.com/watch?v=_yM86BVV7VM", "https://www.youtube.com/watch?v=sKCCfdi4YU4", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=n8I8QGFA1oM", "https://www.youtube.com/watch?v=Thds7IYKH34" "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=dBR0oEUIoGI", "https://www.youtube.com/watch?v=zO9RzrhYR-I", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=b34ri3-uxks", "https://www.youtube.com/watch?v=C4P96KzHmao", "https://www.youtube.com/watch?v=KcjGxAbeoc0", "https://www.youtube.com/watch?v=e48D3KtPOb0", "https://www.youtube.com/watch?v=B0Ij_eTECXc", "https://www.youtube.com/watch?v=ZEE3x_X4Cbw", "https://www.youtube.com/watch?v=RUUI0PilSiE", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=9PXLIgGqpeE", "https://www.youtube.com/watch?v=fqR2HGkjFCA", "https://www.youtube.com/watch?v=zVO5xTAbxm8", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=hspqQuuuGIw", "https://www.youtube.com/watch?v=K5H-GvnNz2Y"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -61,6 +61,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 별
 * Debut: 2002-10-10
   * Song: 12월 32일 (December 32)
+
 {{< video
   id="6nW0ZkZRZNs"
   title="Star - December 32nd, 별 - 12월 32일"
@@ -72,7 +73,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Also known for: 내가 정말 사랑하는 사람이 있죠 (Dear My Love) OST for *When the Weather Is Fine*; and other OSTs
+
+* Sample songs: 내가 정말 사랑하는 사람이 있죠 (Dear My Love) OST for *When the Weather Is Fine*
+
 {{< video
   id="LlCblnuBkjg"
   title="별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V"
@@ -84,7 +87,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="GENIE MUSIC"
   attriburl="https://www.youtube.com/channel/UCd-OrgPLrnQiQBcq19j5oEQ"
 >}}
-* Married to [Haha]({{< ref "/1st-gen.md#haha" >}} "Haha")
+
+* Did you know?
+  * She married K-pop and variety show star, ***[Haha]({{< ref "/1st-gen.md#haha" >}} "Haha")***
 * Wikipedia: [Byul](https://en.wikipedia.org/wiki/Byul)
 
 ## 2003
@@ -92,6 +97,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 거미
 * Debut: 2003-02-03
   * Song: 기억상실 (Memory Loss)
+
 {{< video
   id="k0YihgysbVs"
   title="GUMMY(거미) - MEMORY LOSS(기억상실) M/V"
@@ -103,7 +109,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="YG ENTERTAINMENT"
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
-* Also known for: You Are My Everything OST for *Descendants of the Sun*; 기억해줘요 내 모든 날과 그때를 (Remember Me) OST for *Hotel del Luna*; and more
+
+* Sample songs: You Are My Everything OST for *Descendants of the Sun*; 기억해줘요 내 모든 날과 그때를 (Remember Me) OST for *Hotel del Luna*
+
 {{< video
   id="ToASX6axGuw"
   title="[MV] Gummy(거미) - You Are My Everything l 태양의 후예 OST Part.4"
@@ -132,6 +140,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 세븐
 * Debut: 2003-03-07
   * Song: 한번 단 한번 (Hanbeon Dan Hanbeon; Once, Just Once)
+
 {{< video
   id="a4qMOLm1LHU"
   title="SE7EN - ONE MORE TIME(한번 단 한번) M/V"
@@ -143,6 +152,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="YG ENTERTAINMENT"
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
+
 * Wikipedia: [Seven (South Korean singer)](https://en.wikipedia.org/wiki/Seven_(South_Korean_singer))
 
 ## 2004
@@ -152,6 +162,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hanzi: 東方神起 (Tong Vfang Xien Qi)
 * Debut: 2004-01-14
   * Song: Hug
+
 {{< video
   id="xQ635vE2RQI"
   title="TVXQ! 동방신기 'Hug' MV"
@@ -163,6 +174,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
+
 * Wikipedia: [TVXQ](https://en.wikipedia.org/wiki/TVXQ)
 
 ## 2005
@@ -171,6 +183,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Katakana: ダブルエス ごーまるいち
 * Debut: 2005-06-22
   * Song: 경고 (Warning)
+
 {{< video
   id="QQF3TU6L57E"
   title="SS501 - Warning, 더블에스오공일 - 경고"
@@ -182,6 +195,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [SS501](https://en.wikipedia.org/wiki/SS501)
 
 ### Jessi
@@ -189,6 +203,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Also known as: 호현주 (Jessica Ho)
 * Debut: 2005-12-01 as a solo act
   * Song: 겟 업 (Get Up)
+
 {{< video
   id="7c8JrPdHKNI"
   title="Jessica H.o. - Get Up, 제시카 에이치오 - 겟 업"
@@ -200,9 +215,10 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Debut: 2006 as a member of Uptown
-* Debut: 2014-07-17 as a member of Lucky J
-* Debut: 2020-10-10 as a member of supergroup Refund Sisters
+
+* Debut: 2006 as a member of ***[Uptown]({{< ref "/1st-gen.md#uptown" >}} "Uptown")***
+* Debut: 2014-07-17 as a member of ***[Lucky J]({{< ref "/3rd-gen.md#lucky-j" >}} "Lucky J")***
+* Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
 * Wikipedia: [Jessi (musician)](https://en.wikipedia.org/wiki/Jessi_(musician))
 
 ### Super Junior
@@ -211,6 +227,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Debut: 2005-09-11 dancing to B2K (Boys of the New Millennium)'s *Take It to the Floor*
 * Debut: 2005-11-06 their own song
   * Song: Twins (Knock Out)
+
 {{< video
   id="SrazFGFRnhM"
   title="SUPER JUNIOR 슈퍼주니어 'Twins (Knock Out)' MV"
@@ -222,7 +239,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* King of Hallyu Wave
+
+* Did you know?
+  * They were called the King of Hallyu Wave
 * Wikipedia: [Super Junior](https://en.wikipedia.org/wiki/Super_Junior)
 
 ## 2006
@@ -232,6 +251,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Also known as: B.E.G.; BG; 브아걸
 * Debut: 2006-03-02
   * Song: 다가와서 (Come Closer)
+
 {{< video
   id="W__OBj1Suwc"
   title="다가와서"
@@ -243,12 +263,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="Brown Eyed Girls"
   attriburl="https://www.youtube.com/channel/UCepFAcPmJZz46lJN5gdv1Cg"
 >}}
+
 * Wikipedia: [Brown Eyed Girls](https://en.wikipedia.org/wiki/Brown_Eyed_Girls)
 
 ### BIGBANG
 * Hangul: 빅뱅
 * Debut: 2006-12-21
   * Song: 눈물뿐인 바보 (A Fool's Only Tears)
+
 {{< video
   id="MVetyA1KfG0"
   title="BIGBANG - 눈물뿐인 바보(A FOOL OF TEARS) M/V"
@@ -260,7 +282,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="BIGBANG"
   attriburl="https://www.youtube.com/channel/UCzw-C7fNfs018R1FzIKnlaA"
 >}}
-* Kings of K-Pop
+
+* Did you know?
+  * They were called the Kings of K-Pop
 * Wikipedia: [Big Bang (band)](https://en.wikipedia.org/wiki/Big_Bang_(band))
 
 ## 2007
@@ -269,6 +293,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Katakana: カラ
 * Debut: 2007-03-29
   * Song: Break It
+
 {{< video
   id="9NIYJ8A5R0s"
   title="[MV] KARA(카라) _ Break It"
@@ -280,6 +305,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [Kara (South Korean group)](https://en.wikipedia.org/wiki/Kara_(South_Korean_group))
 
 ### F.T. Island
@@ -287,6 +313,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Also known as: Five Treasure Island
 * Debut: 2007-06-07
   * Song: Love Sick
+
 {{< video
   id="aSyXgv_v3no"
   title="[MV] FTISLAND _ Love Sick(사랑앓이) (With Kim Na Young(김나영))"
@@ -298,6 +325,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [F.T. Island](https://en.wikipedia.org/wiki/F.T._Island)
 
 ### Girls' Generation
@@ -306,6 +334,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Also known as: SNSD (Sonyeo Sidae)
 * Debut: 2007-08-05
   * Song: 다시 만난 세계 (Into the New World)
+
 {{< video
   id="0k2Zzkw_-0I"
   title="Girls' Generation 소녀시대 '다시 만난 세계 (Into The New World)' MV"
@@ -317,7 +346,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* Also known for: Gee; Genie; Oh!; Run Devil Run
+
+* Sample songs: Gee; Genie; Oh!; Run Devil Run
+
 {{< video
   id="U7mPqycQ0tQ"
   title="Girls' Generation 소녀시대 'Gee' MV"
@@ -362,13 +393,16 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* The Nation's Girl Group
+
+* Did you know?
+  * They were called as The Nation's Girl Group
 * Wikipedia: [Girls' Generation](https://en.wikipedia.org/wiki/Girls%27_Generation)
 
 ### WONDER GIRLS
 * Hangul: 원더걸스
 * Debut: 2007-09-13
   * Song: Irony
+
 {{< video
   id="uxFxoLxmcdg"
   title="Wonder Girls Irony M/V"
@@ -380,7 +414,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="wondergirls"
   attriburl="https://www.youtube.com/channel/UCTE8ueKNA54RcO6MgXif2Tg"
 >}}
-* Also known for: Nobody
+
+* Sample songs: Nobody
+
 {{< video
   id="Yq8uM9-uJ_M"
   title="【TVPP】Wonder Girls - Nobody, 원더걸스 - 노바디 @ Comeback Stage"
@@ -403,8 +439,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="wondergirls"
   attriburl="https://www.youtube.com/channel/UCTE8ueKNA54RcO6MgXif2Tg"
 >}}
+
 * Did you know?
-  * Their internationally hit *Nobody* (2008; en 2009) is still referred to by International fans as the song which made the word "K-Pop" known all over? **Wonder Girls** is a very important part of Korean Pop Music history.
+  * Their internationally hit song, *Nobody* (2008; 2009), is still referred to by international fans as the song which made the word "K-pop" known all over
 * Wikipedia: [Wonder Girls](https://en.wikipedia.org/wiki/Wonder_Girls)
 
 ### SUPERNOVA
@@ -414,6 +451,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Also known as: 초신성 (Choshinsung); 超新星 (Choshinsei)
 * Debut: 2007-10-13
   * Song: Hit
+
 {{< video
   id="tjp2Dg3tZ_k"
   title="Choshinsung - Hit, 초신성 - 히트"
@@ -425,6 +463,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Supernova (South Korean group)](https://en.wikipedia.org/wiki/Supernova_(South_Korean_group))
 
 ## 2008
@@ -432,6 +471,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 다비치
 * Debut: 2008-02-04
   * Song: 미워도 사랑하니까 (I Love You Even Though I Hate You)
+
 {{< video
   id="FB8FSekVnLg"
   title="[MV] Davichi(다비치) _ Even though I hate you, I love you(미워도 사랑하니까)"
@@ -443,7 +483,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
-* Also known for: 그대를 잊는다는 건 (Forgetting You) OST for *Moon Lovers: Scarlet Heart Ryeo*; 오늘도 그리워 그리워 (Today I Miss You Too) OST for *While You Were Sleeping*; 꿈처럼 내린 (Falling In Love) OST for *The Beauty Inside*; Please Don't Cry OST for *The King: Eternal Monarch*; and many other beautiful songs.
+
+* Sample songs: 그대를 잊는다는 건 (Forgetting You) OST for *Moon Lovers: Scarlet Heart Ryeo*; 오늘도 그리워 그리워 (Today I Miss You Too) OST for *While You Were Sleeping*; 꿈처럼 내린 (Falling In Love) OST for *The Beauty Inside*; Please Don't Cry OST for *The King: Eternal Monarch*
+
 {{< video
   id="o7OkV7QCRgc"
   title="달의 연인 - 보보경심 려 OST - Davichi 다비치 'Forgetting You' 그대를 잊는다는 건"
@@ -488,12 +530,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="Stone Music Entertainment"
   attriburl="https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A"
 >}}
+
 * Wikipedia: [Davichi](https://en.wikipedia.org/wiki/Davichi)
 
 ### 2AM
 * Hangul: 투에이엠
 * Debut: 2008-07-11
   * Song: 이노래 (This Song)
+
 {{< video
   id="6eWE-z_SgrQ"
   title="2AM This Song(이노래) M/V"
@@ -505,7 +549,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="2am"
   attriburl="https://www.youtube.com/channel/UC69q_Edsjk-e_3fG0ntqu2A"
 >}}
-* Originally a ten-member group called ***One Day*** together with 2PM
+
+* Did you know?
+  * They were originally a ten-member group called ***One Day*** together with 2PM
 * Wikipedia: [2AM (band)](https://en.wikipedia.org/wiki/2AM_(band))
 
 ### SHINee
@@ -513,6 +559,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Katakana: シャイニー
 * Debut: 2008-08-28
   * Song: Replay
+
 {{< video
   id="VTASffPQGhY"
   title="SHINee 샤이니 '누난 너무 예뻐 (Replay)' MV"
@@ -524,13 +571,39 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* Princes of K-pop
+
+* Did you know?
+  * They were called the Princes of K-pop
 * Wikipedia: [Shinee](https://en.wikipedia.org/wiki/Shinee)
+
+### Taemin
+* Hangul: 태민
+* Debut: 2008-08-28 as a member of ***[SHINee]({{< ref "/2nd-gen.md#shinee" >}} "SHINee")***
+* Debut: 2014-08-15 as a solo act
+  * Song: Danger
+
+{{< video
+  id="UF8m2JIDjKU"
+  title="TAEMIN 태민 '괴도 (Danger)' MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2014-08-15"
+  licensecode="allrightsreserved"
+  attribto="SMTOWN"
+  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
+>}}
+
+* Debut: 2019-08 as a member of supergroup ***[SuperM]({{< ref "/3rd-gen.md#superm" >}} "SuperM")***
+* Did you know?
+  * He was dubbed the Idol's Idol
+* Wikipedia: [Lee Tae-min](https://en.wikipedia.org/wiki/Lee_Tae-min)
 
 ### 2PM
 * Hangul: 투피엠
 * Debut: 2008-08-29
   * Song: 10점 만점에 10점 (10 Out of 10)
+
 {{< video
   id="YEmRoYV8vMs"
   title="2PM 10 out of 10(10점 만점에 10점) M/V"
@@ -542,7 +615,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="JYP Entertainment"
   attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
 >}}
-* Also known for: Hands Up
+
+* Sample songs: Hands Up
+
 {{< video
   id="KgrB2KBZws4"
   title="2PM HANDS UP M/V"
@@ -554,7 +629,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="2PM"
   attriburl="https://www.youtube.com/channel/UCBpzJvEhkemwMOkYLq9yUsA"
 >}}
-* Originally a ten-member group called ***One Day*** together with 2AM
+
+* Did you know?
+  * They were originally a ten-member group called ***One Day*** together with 2AM
 * Wikipedia: [2PM](https://en.wikipedia.org/wiki/2PM)
 
 ### U-KISS
@@ -564,6 +641,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Debut: 2008-08-15 first public performance for another song
 * Debut: 2008-08-28 first public performance for own song
   * Song: 어리지 않아 (Not Young)
+
 {{< video
   id="AKu_0dA6yCI"
   title="U-Kiss - Not young, 유키스 - 어리지 않아"
@@ -575,12 +653,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [U-KISS](https://en.wikipedia.org/wiki/U-KISS)
 
 ### IU
 * Hangul: 아이유
 * Debut: 2008-09-18
   * Song: 미아 (Lost Child)
+
 {{< video
   id="gtT2QtttvR4"
   title="IU - Missing Child, 아이유 - 미아"
@@ -592,7 +672,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Also known for: 좋은 날 (Good Day); You & I; Beautiful Song; Blueming; BBIBBI; Celebrity; Strawberry Moon; and many more
+
+* Sample songs: 좋은 날 (Good Day); You & I; Beautiful Song; Blueming; BBIBBI; Celebrity; Strawberry Moon
+
 {{< video
   id="QZfhC7gQJgo"
   title="IU(아이유) - Good Day(좋은 날) (Sketchbook)"
@@ -670,17 +752,19 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
-* Korea's Little Sister
-* The Nation's Sweetheart
-* Did you know? IU is one of few K-Pop solo acts whose every track became highly popular locally and abroad?
+
+* Did you know?
+  * She was dubbed Korea's Little Sister
+  * She was also known as The Nation's Sweetheart
+  * IU is one of few K-pop solo acts whose every track became highly popular locally and abroad
 * Wikipedia: [IU (singer)](https://en.wikipedia.org/wiki/IU_(singer))
 
 ## 2009
 ### Zico
 * Hangul: 지코
-* Debut: 2009 as a member of Harmonics
+* Debut: 2009 as a member of ***Harmonics***
   * Song: The Letter
-* Debut: 2011-04-14 as a member of Block B
+* Debut: 2011-04-14 as a member of ***[Block B]({{< ref "/2nd-gen.md#block-b" >}} "Block B")***
 * Debut: 2014 as a solo act
 * Wikipedia: [Zico (rapper)](https://en.wikipedia.org/wiki/Zico_(rapper))
 
@@ -688,6 +772,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 애프터스쿨
 * Debut: 2009-01-15
   * Song: 아! (AH!)
+
 {{< video
   id="gRiCliq8uiQ"
   title="After School - AH!, 애프터스쿨 - 아!"
@@ -699,12 +784,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [After School (group)](https://en.wikipedia.org/wiki/After_School_(group))
 
 ### 2NE1
 * Hangul: 투애니원
 * Debut: 2009-03-27 first public appearance
   * Song: Lollipop
+
 {{< video
   id="zIRW_elc-rY"
   title="BIGBANG & 2NE1 - LOLLIPOP M/V"
@@ -716,8 +803,10 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="YG ENTERTAINMENT"
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
+
 * Debut: 2009-05-06 first performance with own song
   * Song: Fire
+
 {{< video
   id="ISEoXdHb4W4"
   title="2NE1 - FIRE(Space Ver.) M/V"
@@ -740,7 +829,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="2NE1"
   attriburl="https://www.youtube.com/channel/UCnsQjCVzmEd-YvlQZbo6zCg"
 >}}
-* Also known for: I Don't Care; Kiss; and Lonely, to mention a few.
+
+* Sample songs: I Don't Care; Kiss; Lonely
+
 {{< video
   id="4MgAxMO1KD0"
   title="2NE1 - I DON'T CARE M/V"
@@ -774,12 +865,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="2NE1"
   attriburl="https://www.youtube.com/channel/UCnsQjCVzmEd-YvlQZbo6zCg"
 >}}
+
 * Wikipedia: [2NE1](https://en.wikipedia.org/wiki/2NE1)
 
 ### 4MINUTE
 * Hangul: 포미닛
 * Debut: 2009-06-15
   * Song: Hot Issue
+
 {{< video
   id="kb4iKfnW2Yo"
   title="[MV] 4minute _ Hot Issue"
@@ -791,12 +884,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [4Minute](https://en.wikipedia.org/wiki/4Minute)
 
 ### T-ara
 * Hangul: 티아라
 * Debut: 2009-07-29
   * Song: 거짓말 (Lie)
+
 {{< video
   id="21UjHv8EOxY"
   title="T-ara - Lie, 티아라 - 거짓말"
@@ -808,7 +903,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Also known for: Bo Peep Bo Peep; Roly-Poly; Lovey-Dovey; 티키타카 (Tiki Taka)
+
+* Sample songs: Bo Peep Bo Peep; Roly-Poly; Lovey-Dovey; 티키타카 (Tiki Taka)
+
 {{< video
   id="-KFpL9DUyms"
   title="T-ARA - Bo Peep Bo Peep, 티아라 - 보핍보핍"
@@ -853,6 +950,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="딩고 뮤직 / dingo music"
   attriburl="https://www.youtube.com/channel/UCtCiO5t2voB14CmZKTkIzPQ"
 >}}
+
 * Wikipedia: [T-ara](https://en.wikipedia.org/wiki/T-ara)
 
 ### Eun Jung
@@ -862,6 +960,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Debut: 2009-07-29 as a member of T-ara
 * Debut: 2013 as a solo act
   * Song: Two As One
+
 {{< video
   id="8tzhuG3ezRM"
   title="T-ara Eunjung Two As One"
@@ -873,8 +972,10 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="Melissa nuncio"
   attriburl="https://www.youtube.com/channel/UCd4BG_naCHX3SL6x38MV7qw"
 >}}
+
 * Debut: 2015-05-07 as Elsie
   * Song: I'm Good
+
 {{< video
   id="Q4XEHXLRhII"
   title="Elsie (EunJung) - I'm good (Feat. Hyomin) | 엘시 (은정) - 편해졌어"
@@ -886,7 +987,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="KBS WORLD TV"
   attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
 >}}
-* Also known for: DESIRE; Sweet Snow; あともう少し… (A little more …)
+
+* Popoular songs: DESIRE; Sweet Snow; あともう少し… (A little more …)
+
 {{< video
   id="als-8K2vYBo"
   title="EUN JUNG 「DESIRE」 MUSIC VIDEO"
@@ -920,7 +1023,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="ELSIE (Eunjung) - Topic"
   attriburl="https://www.youtube.com/channel/UCygJlz3hYSeclea23yBVEcg"
 >}}
-* Little Miss Korea at age 7
+
+* Did you know?
+  * She won Little Miss Korea at age 7
 * Wikipedia: [Hahm Eun-jung](https://en.wikipedia.org/wiki/Hahm_Eun-jung)
 
 ### CNBLUE
@@ -929,6 +1034,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Debut: 2009 early first public performance
 * Debut: 2009-08-19
   * Song: Now or Never (English version)
+
 {{< video
   id="kLaIItxDsto"
   title="CNBLUE (씨엔블루) - Now Or Never (English Version) [Lyrics Video]"
@@ -940,12 +1046,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="Worldwide Butt"
   attriburl="https://www.youtube.com/channel/UCUc-Ej8-4RrrhOKYlIcNCzA"
 >}}
+
 * Wikipedia: [CNBLUE](https://en.wikipedia.org/wiki/CNBLUE)
 
 ### f(x)
 * Hangul: 에프엑스
 * Debut: 2009-09-01
   * Song: 라차타 (LA chA TA)
+
 {{< video
   id="H7MHZpSNJQc"
   title="f(x) 에프엑스 '라차타 (LA chA TA)' MV"
@@ -957,7 +1065,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* Also known for: Electric Shock
+
+* Sample songs: Electric Shock
+
 {{< video
   id="n8I8QGFA1oM"
   title="f(x) 에프엑스 'Electric Shock' MV"
@@ -969,7 +1079,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* First K-Pop act to perform at SXSW
+
+* Did you know?
+  * They were the first K-Pop act to perform at SXSW
 * Wikipedia: [f(x) (musical group)](https://en.wikipedia.org/wiki/F(x)_(musical_group))
 
 ### MBLAQ
@@ -978,6 +1090,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Also known as: Music Boys Live in Absolute Quality
 * Debut: 2009-10-14
   * Song: Oh Yeah
+
 {{< video
   id="Thds7IYKH34"
   title="MBLAQ - Oh Yeah, 엠블랙 - 오 예"
@@ -989,12 +1102,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [MBLAQ](https://en.wikipedia.org/wiki/MBLAQ)
 
 ### Rainbow
 * Hangul: 레인보우
 * Debut: 2009-11-12
   * Song: 가십 걸 (Gossip Girl)
+
 {{< video
   id="1Lwjl1LGiEQ"
   title="Rainbow - Gossip Girl, 레인보우 - 가십 걸"
@@ -1006,6 +1121,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Rainbow (girl group)](https://en.wikipedia.org/wiki/Rainbow_(girl_group))
 
 ## 2010
@@ -1013,6 +1129,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 씨스타
 * Debut: 2010-06-03
   * Song: Push Push
+
 {{< video
   id="6-WzG9vzRpM"
   title="Sistar - Push Push, 씨스타 - 푸쉬 푸쉬"
@@ -1024,12 +1141,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Sistar](https://en.wikipedia.org/wiki/Sistar)
 
 ### INFINITE
 * Hangul: 인피니트
 * Debut: 2010-06-09
   * Song: Come Back Again
+
 {{< video
   id="Hi54WjHr-DA"
   title="Infinite Come Back Again MV"
@@ -1041,12 +1160,41 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="woolliment"
   attriburl="https://www.youtube.com/channel/UCoQIdt0bWPv3-_xuybJvTjQ"
 >}}
+
 * Wikipedia: [Infinite (band)](https://en.wikipedia.org/wiki/Infinite_(band))
 
 ### miss A
 * Hangul: 미쓰에이
-* Debut: 2010-07-01
+* Debut: 2010 sometime before or around March, as *Chinese Wonder Girls*
+* Debut: 2010 March, as a 3-member group *miss A*
+  * Song: Love Again (original in Chinese)
+
+{{< video
+  id="9JBq45FKfvk"
+  title="miss A Love Again from Samsung Anycall Campaign M/V (Chinese Ver.)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2010-06-23"
+  licensecode="allrightsreserved"
+  attribto="missA"
+  attriburl="https://www.youtube.com/channel/UCCSqiAQFvOjjVtXkZgtKZ-g"
+>}}
+{{< video
+  id="hY8ZPvupO14"
+  title="miss A Love Again from Samsung Anycall Campaign M/V (Korean Ver.)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2010-06-22"
+  licensecode="allrightsreserved"
+  attribto="missA"
+  attriburl="https://www.youtube.com/channel/UCCSqiAQFvOjjVtXkZgtKZ-g"
+>}}
+
+* Debut: 2010-07-01, as a 4-member group *miss A*
   * Song: Bad Girl Good Girl
+
 {{< video
   id="8TeeJvcBdLA"
   title="miss A Bad Girl, Good Girl M/V"
@@ -1058,10 +1206,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="missA"
   attriburl="https://www.youtube.com/channel/UCCSqiAQFvOjjVtXkZgtKZ-g"
 >}}
-* First debut song to reach the number one in the Gaon Digital Chart
-* Fastest girl group to take the number one spot in a music show (KBS *Music Bank*)
-* Number 1 song in *Inkigayo* for four straight weeks, breaking the record set by *Girls' Generation*
-* Also known for: Love Again; 다른 남자 말고 너 (Only You); to mention two
+
+* Sample songs: Love Again; 다른 남자 말고 너 (Only You)
+
 {{< video
   id="dBR0oEUIoGI"
   title="miss A Love Alone M/V"
@@ -1084,15 +1231,21 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="JYP Entertainment"
   attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
 >}}
-* Originally marketed as "Chinese Wonder Girls", with two of four members Chinese; and before Bae Suzy joined.
+
+* Did you know?
+  * *Bad Girl, Good Girl* was the first debut song to reach number one in the **Gaon Digital Chart**
+  * They were the fastest girl group to take the number one spot in a music show (**KBS** *Music Bank*)
+  * *Bad Girl, Good Girl* was the number 1 song in *Inkigayo* for four straight weeks, breaking the record set by ***[Girls' Generation]({{< ref "/2nd-gen.md#girls-generation" >}} "Girls' Generation")***
+  * Originally marketed as the "Chinese Wonder Girls"
 * Wikipedia: [Miss A](https://en.wikipedia.org/wiki/Miss_A)
 
 ### Suzy
 * Hangul: 수지
 * Also known as: 배수지 (Bae Su Ji)
-* Debut: 2010-07-01 as a member of *miss A*
+* Debut: 2010 March as a member of ***[miss A]({{< ref "/2nd-gen.md#miss-a" >}} "miss A")***
 * Debut: 2017-01-16 as a solo act
   * Song: 행복한 척 (Pretend)
+
 {{< video
   id="ZqOg_wqGGWk"
   title="SUZY - Pretend LIVE [세로라이브]"
@@ -1104,7 +1257,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="딩고 뮤직 / dingo music"
   attriburl="https://www.youtube.com/channel/UCtCiO5t2voB14CmZKTkIzPQ"
 >}}
-* Also known for: Yes No Maybe; 다른 사람을 사랑하고 있어 (I'm in Love with Someone Else); 나를 잊지말아요 (Don't Forget Me) OST for *Gu Family Book*; Ring My Bell OST for *Uncontrollably Fond*; I Love You Boy OST for *While You Were Sleeping*; 듣고 싶은 말 (Words I Want To Hear) OST for *While You Were Sleeping*; My Dear Love OST for *Start-Up*
+
+* Sample songs: Yes No Maybe; 다른 사람을 사랑하고 있어 (I'm in Love with Someone Else); 나를 잊지말아요 (Don't Forget Me) OST for *Gu Family Book*; Ring My Bell OST for *Uncontrollably Fond*; I Love You Boy OST for *While You Were Sleeping*; 듣고 싶은 말 (Words I Want To Hear) OST for *While You Were Sleeping*; My Dear Love OST for *Start-Up*
+
 {{< video
   id="b34ri3-uxks"
   title="Suzy(수지) Yes No Maybe M/V"
@@ -1182,13 +1337,16 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="VLENDING 블렌딩"
   attriburl="https://www.youtube.com/channel/UCxOZuUWuWhnsJqnlTcLlSYg"
 >}}
-* The Nation's First Love
+
+* Did you know?
+  * She is also known as The Nation's First Love
 * Wikipedia: [Bae Suzy](https://en.wikipedia.org/wiki/Bae_Suzy)
 
 ### Girl's Day
 * Hangul: 걸스데이
 * Debut: 2010-07-07
   * Song: 갸우뚱 (Tilt My Head)
+
 {{< video
   id="BGTJ37qRn-g"
   title="【TVPP】Girl's Day -Tilt My Head, 걸스데이 - 갸우뚱 @ Debut Stage"
@@ -1200,7 +1358,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="TV-People"
   attriburl="https://www.youtube.com/channel/UC1cWTErb7vw_UmmuB0dYgsQ"
 >}}
-* Also known for: 나를 잊지마요 (Don't Forget Me); 기대해 (Expectation); 썸씽 (Something)
+
+* Sample songs: 나를 잊지마요 (Don't Forget Me); 기대해 (Expectation); 썸씽 (Something)
+
 {{< video
   id="9PXLIgGqpeE"
   title="[Music Bank K-Chart] Girl's Day - Don't Forget Me (2012.11.02)"
@@ -1234,12 +1394,14 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [Girl's Day](https://en.wikipedia.org/wiki/Girl's_Day)
 
 ## G.NA
 * Hangul: 지나
 * Debut: 2010-07-05
   * Song: 애인이 생기면 하고 싶은 일 (Things I Want to Do When I Have a Lover)
+
 {{< video
   id="VpkhnJzu9I0"
   title="G.NA (지나) & Rain (비) - 애인이 생기면 하고 싶은 일"
@@ -1251,14 +1413,15 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="ayhkim91"
   attriburl="https://www.youtube.com/channel/UCKBCYxP1c4I7ta5hHVKSt_w"
 >}}
-* Wikipedia: [G.NA](https://en.wikipedia.org/wiki/G.NA)
 
+* Wikipedia: [G.NA](https://en.wikipedia.org/wiki/G.NA)
 
 ## 2011
 ### Block B
 * Hangul: 블락비
 * Debut: 2011-04-13
   * Song: Freeze!
+
 {{< video
   id="ae_vi3hM6K0"
   title="Block B(블락비) _ Freeze!(그대로 멈춰라!)"
@@ -1270,6 +1433,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [Block B](https://en.wikipedia.org/wiki/Block_B)
 
 ### Apink
@@ -1277,6 +1441,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Katakana: エーピンク
 * Debut: 2011-04-19
   * Song: 몰라요 (Mollayo; I Don't Know)
+
 {{< video
   id="2dMukY-kJwE"
   title="A Pink - I don't know, 에이핑크 - 몰라요"
@@ -1288,7 +1453,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Also known for: NoNoNo; 미스터 츄 (Mr. Chu)
+
+* Sample songs: NoNoNo; 미스터 츄 (Mr. Chu)
+
 {{< video
   id="hspqQuuuGIw"
   title="[MV] Apink(에이핑크) _ NoNoNo"
@@ -1311,6 +1478,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [Apink](https://en.wikipedia.org/wiki/Apink)
 
 -------

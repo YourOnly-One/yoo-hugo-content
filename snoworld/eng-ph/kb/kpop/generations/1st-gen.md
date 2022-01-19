@@ -61,6 +61,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Hangul: 서태지와 아이들
 * Debut: 1992-04-11
   * Song: 난 알아요 (Nan Arayo; I Know)
+
 {{< video
   id="OEDHEzs5kyk"
   title="서태지와 아이들(Seotaiji and Boys) - 난 알아요(I Know) M/V"
@@ -72,8 +73,10 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="seotaiji"
   attriburl="https://www.youtube.com/channel/UC76q5di__eRuM1_kMArvKKQ"
 >}}
-* Started the modern K-Pop Music
-* The first boy group
+
+* Also known for:
+  * Starting the modern K-pop music
+  * The first modern K-pop boy group
 * Wikipedia: [Seo Taiji and Boys](https://en.wikipedia.org/wiki/Seo_Taiji_and_Boys)
 
 ## 1993
@@ -81,6 +84,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Hangul: 엄정화
 * Debut: 1993-01-16 as solo
   * Song: 눈동자 (Pupil)
+
 {{< video
   id="zEx_sjAkT5Y"
   title="Uhm Jung-hwa - Pupil - 눈동자"
@@ -92,13 +96,15 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCfestival"
   attriburl="https://www.youtube.com/channel/UCN-F1myCRkQ1kygS_QmlsPw"
 >}}
-* Debut: 2020-10-10 as a member of supergroup Refund Sisters
+
+* Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
 * Wikipedia: [Uhm Jung-hwa](https://en.wikipedia.org/wiki/Uhm_Jung-hwa)
 
 ### Deux
 * Hangul: 듀스
 * Debut: 1993-04-23
   * Song: Turn Around and Look at Me
+
 {{< video
   id="nrNx1NuDAGs"
   title="DEUX - Turn around and look at me, 듀스 - 나를 돌아봐"
@@ -110,12 +116,14 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCfestival"
   attriburl="https://www.youtube.com/channel/UCN-F1myCRkQ1kygS_QmlsPw"
 >}}
+
 * Wikipedia: [Deux (band)](https://en.wikipedia.org/wiki/Deux_(band))
 
 ### Solid
 * Hangul: 솔리드
 * Debut: 1993-12-15
   * Song: Give Me A Chance
+
 {{< video
   id="JaKZel1Ijfo"
   title="솔리드 - 이젠 나를 (Give Me A Chance)"
@@ -127,14 +135,16 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="JohanKimRNB"
   attriburl="https://www.youtube.com/channel/UCvZTXXJF4E3fUjTH2luN7HQ"
 >}}
+
 * Wikipedia: [Solid (band)](https://en.wikipedia.org/wiki/Solid_(band))
 
 ## 1994
 ### Jinu
 * Hangul: 지누
-* Also known as: Kim Jin Woo; 김진우
+* Also known as: 김진우 (Kim Jin Woo)
 * Debut: 1994-03-09
   * Song: 나는 캡이었어 (I Am Awesome)
+
 {{< video
   id="Wqu7X_aMA3c"
   title="나는 캡이었어 -- 김진우"
@@ -146,7 +156,8 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="southkoreanfolksongs"
   attriburl="https://www.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw"
 >}}
-* Debut: 1997-03-01 as a member of JINUSEAN
+
+* Debut: 1997-03-01 as a member of ***[JINUSEAN]({{< ref "/1st-gen.md#jinusean" >}} "JINUSEAN")***
 * Wikipedia: [Jinu](https://en.wikipedia.org/wiki/Jinu)
 
 ### JYP
@@ -155,6 +166,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Debut: 1994-09-01
 * Founder of JYP Entertainment (1997)
   * Song: 날 떠나지마 (Don't Leave Me)
+
 {{< video
   id="bwr1dfTyhhY"
   title="박진영 - '날 떠나지마' (1995)| J.Y. Park - 'Don't Leave Me' 【KBS 가요톱10】"
@@ -166,6 +178,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="Again 가요톱10 : KBS KPOP Classic"
   attriburl="https://www.youtube.com/channel/UCmZ19AIj_wcpwRcqG7p9L8g"
 >}}
+
 * Wikipedia: [Park Jin-young](https://en.wikipedia.org/wiki/Park_Jin-young)
 
 ## 1995
@@ -173,6 +186,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Hangul: 터보
 * Debut: 1995-09-06
   * Song: 나 어릴적 꿈 (My Childhood Dream)
+
 {{< video
   id="WruayckJTMY"
   title="Turbo - My childhood dream, 터보 - 나 어릴적 꿈"
@@ -184,13 +198,15 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Turbo (South Korean band)](https://en.wikipedia.org/wiki/Turbo_(South_Korean_band))
 
 ### Kim Jong Kook
 * Hangul: 김종국
-* Debut: 1995-09-06 as a member of Turbo
+* Debut: 1995-09-06 as a member of ***[Turbo]({{< ref "/1st-gen.md#turbo" >}} "Turbo")***
 * Debut: 2001-12-12 as a solo act
   * Song: 남자니까 (Because I'm A Man)
+
 {{< video
   id="mxD4dd75_YU"
   title="음악캠프 - Kim Jong-kook - Because I'm a man, 김종국 - 남자니까"
@@ -202,9 +218,11 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
+* Also known for:
+  * *Running Man* host
+  * Bodybuilder
 * Wikipedia: [Kim Jong-kook](https://en.wikipedia.org/wiki/Kim_Jong-kook)
-* ***Running Man*** host
-* Bodybuilder
 
 ## 1996
 ### H.O.T.
@@ -212,6 +230,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Also known as: Highfive Of Teenagers
 * Debut: 1996-09-07
   * Song: Descendants of Warriors
+
 {{< video
   id="1mWCan2qb_U"
   title="H.O.T - Warrior's Descendant, HOT - 전사의 후예"
@@ -223,6 +242,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [H.O.T.](https://en.wikipedia.org/wiki/H.O.T.)
 
 ## 1997
@@ -230,6 +250,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Hangul: 업타운
 * Debut: 1997
   * Song: 다시 만나 줘 (Let's Meet Again)
+
 {{< video
   id="P61ndtsw8x4"
   title="Uptown - Lets meet again"
@@ -241,7 +262,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="AC-1"
   attriburl="https://www.youtube.com/channel/UCbbGk2N-k-JIImLgLoxxfqA"
 >}}
-* Debut: 2006
+
 * Wikipedia: [Uptown (band)](https://en.wikipedia.org/wiki/Uptown_(band))
 
 ### Yoo Seung Jun
@@ -249,6 +270,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Also known as: Steve Seung Jun Yoo
 * Debut: 1997 March
   * Song: 가위 (Gawi; Nightmare)
+
 {{< video
   id="bQxSnvda0vs"
   title="Yoo Seung-jun - Nightmare, 유승준 - 가위"
@@ -260,12 +282,14 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Yoo Seung-jun](https://en.wikipedia.org/wiki/Yoo_Seung-jun)
 
 ### JINUSEAN
 * Hangul: 지누션
 * Debut: 1997-03-01
   * Song: Gasoline
+
 {{< video
   id="CwuTCJ1WpJY"
   title="JINUSEAN - GASOLINE M/V"
@@ -277,12 +301,14 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="YG ENTERTAINMENT"
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
+
 * Wikipedia: [Jinusean](https://en.wikipedia.org/wiki/Jinusean)
 
 ### Sechs Kies
 * Hangul: 젝스키스
 * Debut: 1997-04-15
   * Song: 학원별곡 (School Anthem)
+
 {{< video
   id="WqDfAtSxf0o"
   title="Sechs Kies - School byeolgok, 젝스키스 - 학원별곡"
@@ -294,15 +320,18 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Pioneered *idol fandom* culture
+
+* Did you know?
+  * They pioneered the *idol fandom* culture
 * Wikipedia: [Sechs Kies](https://en.wikipedia.org/wiki/Sechs_Kies)
 
 ### Haha
 * Hangul: 하하
 * Debut: 1997-05-01 as a solo act
-* Debut: 2001 as a member of 지키리 (Z-kiri)
+* Debut: 2001 as a member of ***지키리*** (***Z-kiri***)
 * Debut: 2005-02-18 as a solo act
   * Song: 사랑가 (Love Song)
+
 {{< video
   id="Yq8coViLkVo"
   title="Haha - Love song, 하하 - 사랑가"
@@ -314,13 +343,19 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Married to [Byul]({{< ref "/2nd-gen.md#byul" >}} "Byul")
+
+* Debut: 2012-07-30 as a member of ***RGP*** (***레게 강 같은 평화***; ***Reggae Peace like a River***)
+* Did you know?
+  * He is married to K-pop singer, ***[Byul]({{< ref "/2nd-gen.md#byul" >}} "Byul")***
+  * He is a *Running Man* host
+  * He is an *Infinite Challenge* host
 * Wikipedia: [Haha (entertainer)](https://en.wikipedia.org/wiki/Haha_(entertainer))
 
 ### Baby V.O.X.
 * Hangul: 베이비복스
 * Debut: 1997-07-10
   * Song: 머리 하는 날 (Hair Cut)
+
 {{< video
   id="vcDvdtAl4rg"
   title="Babyvox - Hair cut, 베이비복스 - 머리 하는 날"
@@ -332,14 +367,17 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* The first girl group
-* First girl group to break into the Chinese market
+
+* Did you know?
+  * They were the first modern K-pop girl group
+  * They were also the first modern K-pop girl group to break into the Chinese market
 * Wikipedia: [Baby Vox](https://en.wikipedia.org/wiki/Baby_Vox)
 
 ### DIVA
 * Hangul: 디바
 * Debut: 1997-08-29
   * Song: 그래 (Yeah)
+
 {{< video
   id="R9sLJJtoiRo"
   title="Diva - Yes, 디바 - 그래"
@@ -351,6 +389,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Diva (South Korean group)](https://en.wikipedia.org/wiki/Diva_(South_Korean_group))
 
 ### NRG
@@ -358,6 +397,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Also known as: New Radiancy Group
 * Debut: 1997-10-28
   * Song: 할 수 있어 (I Can Do It)
+
 {{< video
   id="Kh-AMnZojcE"
   title="NRG - I can do, 엔알지 - 할 수 있어"
@@ -369,6 +409,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [NRG (South Korean band)](https://en.wikipedia.org/wiki/NRG_(South_Korean_band))
 
 ### S.E.S.
@@ -376,6 +417,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Debut: 1997-11-01
 * Name stands for Sea, Eugene, and Shoo
   * Song: I'm Your Girl
+
 {{< video
   id="ZlRYeom9Szc"
   title="S.E.S - I'm your girl"
@@ -387,7 +429,9 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Well known for: Dreams Come True
+
+* Sample songs: Dreams Come True (Korean version of *Rakastuin mä looseriin* by Finnish girl group ***Nylon Beat***)
+
 {{< video
   id="8uiR4SrDGZk"
   title="S.E.S. 'Dreams Come True' MV"
@@ -399,14 +443,16 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
+
 * Wikipedia: [S.E.S. (group)](https://en.wikipedia.org/wiki/S.E.S._(group))
 
 ## 1998
 ### Rain
 * Hangul: 비
-* Debut: 1998 as a member of Fanclub
+* Debut: 1998 as a member of ***Fanclub***
 * Debut: 2002-05-13 as a solo act
   * Song: 나쁜 남자 (Bad Guy)
+
 {{< video
   id="Lfgg_AVzyIg"
   title="RAIN (비) - Bad Man (나쁜 남자) (Official Music Video)"
@@ -418,13 +464,15 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="JYP Entertainment"
   attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
 >}}
-* Debut: 2020-07-25 as a member of supergroup SSAK3
+
+* Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/3rd-gen.md#ssak3" >}} "SSAK3")***
 * Wikipedia: [Rain (entertainer)](https://en.wikipedia.org/wiki/Rain_(entertainer))
 
 ### Shinhwa
 * Hangul: 신화
 * Debut: 1998-04-19
   * Song: 천일유혼 (Sharing Forever)
+
 {{< video
   id="ExNuwh4Kq5Q"
   title="19981004 신화 천일유혼"
@@ -436,13 +484,15 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="Venus19980324"
   attriburl="https://www.youtube.com/channel/UCRCDZZc0klnxxP2j85zcegw"
 >}}
+
 * Wikipedia: [Shinhwa](https://en.wikipedia.org/wiki/Shinhwa)
 
 ### Fin.K.L
 * Hangul: 핑클
 * Also known as: Fine Killing Liberty
 * Debut: 1998-05-25
-  * Song: Blue Rain; and 내 남자친구에게 (To My Boyfriend)
+  * Song: Blue Rain; 내 남자친구에게 (To My Boyfriend)
+
 {{< video
   id="PZ-rMQtWoTc"
   title="[MV] Fin.K.L(핑클) _ Blue Rain"
@@ -465,13 +515,15 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="takeaway"
   attriburl="https://www.youtube.com/channel/UCBq4QYwE_xydwlb2PBbzotA"
 >}}
+
 * Wikipedia: [Fin.K.L](https://en.wikipedia.org/wiki/Fin.K.L)
 
 ### Lee Hyo Ri
 * Hangul: 이효리
-* Debut: 1998-05-25 as a member of Fin.K.L
+* Debut: 1998-05-25 as a member of ***[Fin.K.L]({{< ref "/1st-gen.md#finkl" >}} "Fin.K.L")***
 * Debut: 2003-08-13 as a solo act
   * Song: 10 Minutes
+
 {{< video
   id="iKdr44yEBQU"
   title="[MV] Lee Hyori(이효리) _ 10 Minutes"
@@ -483,13 +535,15 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
+* Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/3rd-gen.md#ssak3" >}} "SSAK3")***
 * Wikipedia: [Lee Hyori](https://en.wikipedia.org/wiki/Lee_Hyori)
-* Debut: 2020-07-25 as a member of supergroup SSAK3
 
 ### 1TYM
 * Hangul: 원타임
 * Debut: 1998-11-15
   * Song: 1TYM
+
 {{< video
   id="3eHi8VHKymo"
   title="1TYM - 1TYM M/V"
@@ -501,6 +555,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="YG ENTERTAINMENT"
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
+
 * Wikipedia: [1TYM](https://en.wikipedia.org/wiki/1TYM)
 
 ## 1999
@@ -509,6 +564,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Also known as: Groove Over Dose
 * Debut: 1999-01-13
   * Song: 어머님께 (To Mother)
+
 {{< video
   id="evb-3W3Wnls"
   title="G.O.D - 어머님께 (Dear Mother) MV (HQ)"
@@ -520,13 +576,16 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="parkerlewisrocks"
   attriburl="https://www.youtube.com/channel/UCxBFrBK6kL5cLWyFPagIsWA"
 >}}
-* Was originally to be named as *GOT6*
+
+* Did you know?
+  * They were originally to be named as *GOT6*
 * Wikipedia: [g.o.d](https://en.wikipedia.org/wiki/G.o.d)
 
 ### Drunken Tiger
 * Hangul: 드렁큰 타이거
 * Debut: 1999-02-02
   * Song: 난 널 원해 (I Want You)
+
 {{< video
   id="BZAbbYVH1EQ"
   title="Drunken Tiger - I Want You 난 널 원해 [MV]"
@@ -538,6 +597,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="O"
   attriburl="https://www.youtube.com/channel/UCWEQ6O7_0apU5d4pb-xYMag"
 >}}
+
 * Wikipedia: [Drunken Tiger](https://en.wikipedia.org/wiki/Drunken_Tiger)
 
 ## 2000
@@ -545,6 +605,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Hangul: 권보아
 * Debut: 2000-08-25 as a solo act
   * Song: "ID; Peace B"
+
 {{< video
   id="DfslE2pbmCk"
   title="BoA 보아 'ID; Peace B' MV"
@@ -556,7 +617,9 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* Also known for: No.1; Every Heart-ミンナノキモチ-; Milky Way; Atlantis Princess; Only One; and many more
+
+* Sample songs: No.1; Every Heart-ミンナノキモチ-; Milky Way; Atlantis Princess; Only One
+
 {{< video
   id="ceZc-5p3g1w"
   title="BoA 보아 'No.1' MV"
@@ -612,7 +675,8 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* Debut: 2022-01-01 as a member of supergroup GOT the beat
+
+* Debut: 2022-01-01 as a member of ***[GOT the beat]({{< ref "/4th-gen.md#got-the-beat" >}} "GOT the beat")*** a subgroup of supergroup ***[Girls On Top]({{< ref "/4th-gen.md#girls-on-top" >}} "Girls On Top")***
 * Wikipedia: [BoA](https://en.wikipedia.org/wiki/BoA)
 
 ## 2001
@@ -621,6 +685,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Also known as: 엽기가수 (The Bizarre Singer)
 * Debut: 2001-01-19
   * Song: 새 (Bird); 끝 (The End)
+
 {{< video
   id="2pB0zurYJAc"
   title="PSY - 새(BIRD) M/V"
@@ -632,7 +697,9 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="officialpsy"
   attriburl="https://www.youtube.com/channel/UCrDkAvwZum-UTjHmzDI2iIw"
 >}}
-* Also known for: 강남스타일 (Gangnam Style)
+
+* Sample songs: 강남스타일 (Gangnam Style)
+
 {{< video
   id="9bZkp7q19f0"
   title="PSY - GANGNAM STYLE(강남스타일) M/V"
@@ -644,12 +711,14 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="officialpsy"
   attriburl="https://www.youtube.com/channel/UCrDkAvwZum-UTjHmzDI2iIw"
 >}}
+
 * Wikipedia: [Psy](https://en.wikipedia.org/wiki/Psy)
 
 ### Jewelry
 * Hangul: 쥬얼리
 * Debut: 2001-03-30
   * Song: 사랑해 (I Love You)
+
 {{< video
   id="mZcYcS2x0rA"
   title="쥬얼리 - 사랑해"
@@ -661,12 +730,14 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="Entertainment World"
   attriburl="https://www.youtube.com/channel/UC0W-n4sel1fDbO7kGz7D9WA"
 >}}
+
 * Wikipedia: [Jewelry (group)](https://en.wikipedia.org/wiki/Jewelry_(group))
 
 ### Jang Na Ra
 * Hangul: 장나라
 * Debut: 2001-05-04
   * Song: 눈물에 얼굴을 묻는다 (Burying My Face In Tears)
+
 {{< video
   id="QoRs_lwwW8E"
   title="Jang Na-ra - Buried my face in tears, 장나라 - 눈물에 얼굴을 묻는다"
@@ -678,7 +749,9 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Also known for: 스윗 드림 (Sweet Dream)
+
+* Sample songs: 스윗 드림 (Sweet Dream)
+
 {{< video
   id="tbsvXAxGPQU"
   title="음악캠프 - Jang Nara - Sweet Dream, 장나라 - 스윗 드림"
@@ -690,6 +763,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Jang Na-ra](https://en.wikipedia.org/wiki/Jang_Na-ra)
 
 -------

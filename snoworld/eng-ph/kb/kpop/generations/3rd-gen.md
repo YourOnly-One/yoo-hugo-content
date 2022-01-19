@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_3rd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -61,6 +61,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 크레용팝
 * Debut: 2012-01-11 as Hurricane Pop
   * Song: Bing Bing
+
 {{< video
   id="VTV7N44iqOI"
   title="CRAYON POP was Hurricane Pop with Bing Bing"
@@ -72,8 +73,10 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="CHOAWAY"
   attriburl="https://www.youtube.com/channel/UCB-BkejwjcNU0ChLY7Z86cA"
 >}}
+
 * Debut: 2012-07-17 as Crayon Pop
   * Song: Saturday Night
+
 {{< video
   id="84BoSt8F27g"
   title="Crayon Pop [Saturday Night]"
@@ -85,7 +88,9 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="스브스케이팝 / SBS KPOP"
   attriburl="https://www.youtube.com/channel/UCS_hnpJLQTvBkqALgapi_4g"
 >}}
-* Also known for: Dancing Queen 2.0; Bar Bar Bar; 히어로 (HERO); 어이 (Uh-ee); Dancing All Night (댄싱 올 나잇); FM
+
+* Sample songs: Dancing Queen 2.0; Bar Bar Bar; 히어로 (HERO); 어이 (Uh-ee); Dancing All Night (댄싱 올 나잇); FM
+
 {{< video
   id="26_F392ir7Q"
   title="Crayon Pop-Dancing Queen 2.0 MV(크레용팝 댄싱퀸2.0 뮤직비디오)"
@@ -152,6 +157,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="CROAYON POP"
   attriburl="https://www.youtube.com/channel/UC88nGROvozD_D3FWojbNErA"
 >}}
+
 * BONUS
 {{< video
   id="Hrc1EPLCUW8"
@@ -175,10 +181,13 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="EXOFanCreations"
   attriburl="https://www.youtube.com/channel/UCgtFGwNUsn7h7-V1lBuyLLQ"
 >}}
+
 #### Strawberry Milk
 * Hangul: 딸기우유
+* a subgroup of ***[Crayon Pop]({{< ref "/3rd-gen.md#crayon-pop" >}} "Crayon Pop")***
 * Debut: 2014-10-15 as Strawberry Milk
   * Song: OK
+
 {{< video
   id="1VQ-OJ3vCn0"
   title="[Strawberry Milk] 크레용팝 유닛-딸기우유 'OK(오케이)' M/V"
@@ -190,8 +199,10 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="CROAYON POP"
   attriburl="https://www.youtube.com/channel/UC88nGROvozD_D3FWojbNErA"
 >}}
+
 * Debut: 2019-09-05 as Choa & Way
   * Song: My Universe
+
 {{< video
   id="gfjf1I8mk94"
   title="[M/V] Choa, WAY(Crayon Pop)(초아 & 웨이) - My Universe(나의 우주)"
@@ -203,6 +214,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="SUPER SOUND Bugs!"
   attriburl="https://www.youtube.com/channel/UC9PVYlrwFSlqG7w8TDsqRvQ"
 >}}
+
 * Wikipedia: [Crayon Pop](https://en.wikipedia.org/wiki/Crayon_Pop)
 * YouTube: [웨이랜드WayLand](https://www.youtube.com/c/웨이랜드WayLand)
 
@@ -211,6 +223,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Subgroups: EXO-K (Korean); EXO-M (Mandarin)
 * Debut: 2012-04-08
   * Song: Mama
+
 {{< video
   id="KH6ZwnqZ7Wo"
   title="EXO-K 엑소케이 'MAMA' MV (Korean ver.)"
@@ -233,9 +246,42 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* Kings of K-Pop
-* Biggest boyband in the world
+
+* Did you know?
+  * They were dubbed as the Kings of K-Pop
+  * Also known as the biggest boyband in the world
 * Wikipedia: [Exo](https://en.wikipedia.org/wiki/Exo)
+
+### AOA
+* Hangul: 에이오에이
+* Also known as: Ace of Angels
+* Debut: 2012-07-30
+  * Song: Elvis
+
+{{< video
+  id="e5KOIrBcwj8"
+  title="AOA - ELVIS M/V"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2012-07-29"
+  licensecode="allrightsreserved"
+  attribto="AOS"
+  attriburl="https://www.youtube.com/channel/UCHMMStnbsv13tXigCkW_sBQ"
+>}}
+{{< video
+  id="Q9Cq5m_uu0M"
+  title="[MV] AOA _ ELVIS (Band Ver.)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2016-02-01"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
+* Wikipedia: [AOA (group)](https://en.wikipedia.org/wiki/AOA_(group))
 
 ## 2013
 ### BTS
@@ -243,6 +289,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Also known as: Bangtan Boys
 * Debut: 2013-06-12
   * Song: No More Dream
+
 {{< video
   id="rBG5L7UsUxA"
   title="BTS (방탄소년단) 'No More Dream' Official MV"
@@ -254,6 +301,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="HYBE LABELS"
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
 >}}
+
 * Wikipedia: [BTS](https://en.wikipedia.org/wiki/BTS)
 
 ## 2014
@@ -261,6 +309,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 갓세븐
 * Debut: 2014-01-16
   * Song: Girls Girls Girls
+
 {{< video
   id="GZ_LCa6X5LM"
   title="[GOT7 COMEBACK SHOW] GOT7(갓세븐) - Girls Girls Girls (Hiphop ver.)"
@@ -272,13 +321,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="M2"
   attriburl="https://www.youtube.com/channel/UCTQVIXvcHrR9jYoJ6qaBAow"
 >}}
-* Post 2PM
+
 * Wikipedia: [Got7](https://en.wikipedia.org/wiki/Got7)
 
 ### MAMAMOO
 * Hangul: 마마무
 * Debut: 2014-06-18
   * Song: Mr.애매모호 (Mr. Ambiguous)
+
 {{< video
   id="D15-XYRubsc"
   title="마마무 (MAMAMOO) - Mr.애매모호 (Mr.Ambiguous) MV"
@@ -290,12 +340,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Stone Music Entertainment"
   attriburl="https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A"
 >}}
+
 * Wikipedia: [Mamamoo](https://en.wikipedia.org/wiki/Mamamoo)
 
 ### Lucky J
 * Hangul: 럭키제이
 * Debut: 2014-07-17
   * Song: Can You Hear Me?
+
 {{< video
   id="S7hOmBSCtIA"
   title="Mnet [엠카운트다운] Ep.385 : 럭키제이(Lucky J) - 들리니(Can you hear me)"
@@ -307,12 +359,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [Lucky J](https://en.wikipedia.org/wiki/Lucky_J)
 
 ### Red Velvet
 * Hangul: 레드벨벳
 * Debut: 2014-08-01
   * Song: Happiness
+
 {{< video
   id="-xaVqMCS_KM"
   title="Red Velvet - Happiness, 레드벨벳 - 행복"
@@ -324,6 +378,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Red Velvet (group)](https://en.wikipedia.org/wiki/Red_Velvet_(group))
 
 ### WINNER
@@ -331,6 +386,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Debut: 2014-03-01 first public performance
 * Debut: 2014-08-12
   * Song: Empty; and 컬러링 (Color Ring)
+
 {{< video
   id="gEqlF5N8UMs"
   title="WINNER - '공허해(empty)' M/V"
@@ -353,12 +409,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="WINNER"
   attriburl="https://www.youtube.com/channel/UCayQxFAoFCvGariuQCtHRGQ"
 >}}
+
 * Wikipedia: [Winner (band)](https://en.wikipedia.org/wiki/Winner_(band))
 
 ### Lovelyz
 * Hangul: 러블리즈
 * Debut: 2014-11-05
   * Song: 어제처럼 굿나잇 (Good Night Like Yesterday)
+
 {{< video
   id="YXGVpjqIopE"
   title="Lovelyz 어제처럼 굿나잇 Official MV"
@@ -370,6 +428,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="woolliment"
   attriburl="https://www.youtube.com/channel/UCoQIdt0bWPv3-_xuybJvTjQ"
 >}}
+
 * Wikipedia: [Lovelyz](https://en.wikipedia.org/wiki/Lovelyz)
 
 ## 2015
@@ -377,6 +436,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 여자친구
 * Debut: 2015-01-12
   * Song: Glass Bead
+
 {{< video
   id="GU7icQFVzHo"
   title="[MV] GFRIEND(여자친구) _ Glass Bead(유리구슬)"
@@ -388,6 +448,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [GFriend](https://en.wikipedia.org/wiki/GFriend)
 
 ### CLC
@@ -395,6 +456,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Also known as: CrystaL Clear
 * Debut: 2015-03-19
   * Song: Pepe
+
 {{< video
   id="3qmsJbJasfo"
   title="CLC(씨엘씨) - Pepe"
@@ -406,12 +468,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="CLC 씨엘씨 (Official YouTube Channel)"
   attriburl="CLC(씨엘씨) - Pepe"
 >}}
+
 * Wikipedia: [CLC (group)](https://en.wikipedia.org/wiki/CLC_(group))
 
 ### MONSTA X
 * Hangul: 몬스타엑스
 * Debut: 2015-05-14
   * Song: 무단침입 (Trespass)
+
 {{< video
   id="WLeFYKDtw1I"
   title="[MV] MONSTA X(몬스타엑스) _ Trespass(무단침입)"
@@ -423,6 +487,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia:
 
 ### SEVENTEEN
@@ -430,6 +495,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Also known as: SVT
 * Debut: 2015-05-26
   * Song: 아낀다 (Adore U)
+
 {{< video
   id="9rUFQJrCT7M"
   title="[M/V] 세븐틴(SEVENTEEN)-아낀다 (Adore U)"
@@ -441,16 +507,19 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="SEVENTEEN"
   attriburl="https://www.youtube.com/channel/UCfkXDY7vwkcJ8ddFGz8KusA"
 >}}
-* Self-Producing
-* Performance Kings
-* Theater Kids of K-Pop
-* K-Pop Performance Powerhouse
+
+* Did you know?
+  * They are known as self-producing
+  * Called the Performance Kings
+  * Also dubbed as the Theater Kids of K-pop
+  * And as the K-pop Performance Powerhouse
 * Wikipedia: [Seventeen (South Korean band)](https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band))
 
 ### iKON
 * Hangul: 아이콘
 * Debut: 2015-09-15
   * Song: My Type
+
 {{< video
   id="ZS6vfv4sszg"
   title="iKON - 취향저격(MY TYPE) M/V"
@@ -462,6 +531,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="iKON"
   attriburl="https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw"
 >}}
+
 * Wikipedia: [iKon](https://en.wikipedia.org/wiki/IKon)
 
 ### TWICE
@@ -469,6 +539,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Katakana: トゥワイス
 * Debut: 2015-10-20
   * Song: Like Ooh-Ahh
+
 {{< video
   id="vYkGpOeqp4g"
   title="TWICE(트와이스) - Like OOH-AHH(OOH-AHH 하게) Debut stage"
@@ -480,6 +551,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [Twice](https://en.wikipedia.org/wiki/Twice)
 
 ## 2016
@@ -490,6 +562,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Subgroups: Wonder Unit; Joy Unit; Sweet Unit; Natural Unit
 * Debut: 2016-02-25
   * Song: Mo Mo Mo; Catch Me
+
 {{< video
   id="QRcrEidaSGQ"
   title="WJSN(우주소녀) - Mo Mo Mo Debut Stage"
@@ -501,14 +574,19 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [WJSN](https://en.wikipedia.org/wiki/WJSN)
 
 ### NCT
 * Hangul: 엔시티
-* Hanzi: 威神V (WayV; 4th subgroup)
 * Also known as: Neo Culture Technology
-* Debut: 2016-04-09 - NCT U subgroup
+* Wikipedia: [NCT (group)](https://en.wikipedia.org/wiki/NCT_(group))
+
+#### NCT U
+* a subgroup of ***[NCT]({{< ref "/3rd-gen.md#nct" >}} "NCT")***
+* Debut: 2016-04-09
   * Song: 일곱 번째 감각 (The 7th Sense); 위드아웃 유 (Without You)
+
 {{< video
   id="NCVwGm6In5o"
   title="[HOT] NCT U - The 7th Sense, 엔씨티 유 - 일곱 번째 감각"
@@ -531,8 +609,12 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Debut: 2016-07-07 - NCT 127 subgroup
+
+#### NCT 127
+* a subgroup of ***[NCT]({{< ref "/3rd-gen.md#nct" >}} "NCT")***
+* Debut: 2016-07-07
   * Song: Fire Truck; Once Again
+
 {{< video
   id="9pCZDmsa1Pg"
   title="Debut Stage NCT 127 - Fire Truck (Fire Truck)"
@@ -555,8 +637,12 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
-* Debut: 2016-08-24 - NCT Dream subgroup
+
+#### NCT Dream
+* a subgroup of ***[NCT]({{< ref "/3rd-gen.md#nct" >}} "NCT")***
+* Debut: 2016-08-24
   * Song: Chewing Gum
+
 {{< video
   id="tu-8AJBqUm8"
   title="[NCT Dream - Chewing Gum] Comeback Stage"
@@ -568,8 +654,13 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
-* Debut: 2019-01-17 - WayV subgroup
+
+#### WayV
+* Hanzi: 威神V (WayV)
+* a subgroup of ***[NCT]({{< ref "/3rd-gen.md#nct" >}} "NCT")***
+* Debut: 2019-01-17
   * Song: 梦想发射计划 (Dream Launch)
+
 {{< video
   id="jxKIOhAwrik"
   title="WayV 威神V '梦想发射计划 (Dream Launch)' MV"
@@ -581,13 +672,13 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="SMTOWN"
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
-* Wikipedia: [NCT (group)](https://en.wikipedia.org/wiki/NCT_(group))
 
 ### I.O.I
 * Hangul: 아이오아이
 * Also known as: Ideal of Idol
 * Debut: 2016-05-04
   * Song: Dream Girls
+
 {{< video
   id="Zv1K-ZtPQfs"
   title="[I.O.I - Dream Girls] KPOP TV Show"
@@ -599,13 +690,15 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [I.O.I](https://en.wikipedia.org/wiki/I.O.I)
 
 ### CHUNG HA
 * Hangul: 청하
-* Debut: 2016-05-04 as a member of I.O.I.
+* Debut: 2016-05-04 as a member of ***[I.O.I]({{< ref "/3rd-gen.md#i-o-i" >}} "I.O.I")***
 * Debut: 2017-06-17 as a solo act
   * Song: Why Don't You Know
+
 {{< video
   id="EHgeGRU3wDI"
   title="청하 (CHUNG HA) - Why Don’t You Know (Feat. 넉살 (Nucksal)) MV"
@@ -617,6 +710,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Stone Music Entertainment"
   attriburl="https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A"
 >}}
+
 * Wikipedia: [Chungha](https://en.wikipedia.org/wiki/Chungha)
 
 ### gu9udan
@@ -625,6 +719,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Subgroups: SeMiNa; 5959
 * Debut: 2016-06-28
   * Song: Wonderland
+
 {{< video
   id="8n7qIFevh94"
   title="구구단 - Wonderland (gugudan - Wonderland)"
@@ -636,14 +731,16 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="MBC every1"
   attriburl="https://www.youtube.com/channel/UC-VbFgagk6GJGDJgRQIMpZw"
 >}}
+
 * Wikipedia: [Gugudan](https://en.wikipedia.org/wiki/Gugudan)
 
 ### Kim Se Jeong
 * Hangul: 김세정
-* Debut: 2016-05-04 as a member of I.O.I.
-* Debut: 2016-06-28 as a member of gu9udan
+* Debut: 2016-05-04 as a member of ***[I.O.I]({{< ref "/3rd-gen.md#i-o-i" >}} "I.O.I")***
+* Debut: 2016-06-28 as a member of ***[gu9udan]({{< ref "/3rd-gen.md#gu9udan" >}} "gu9udan")***
 * Debut: 2016-11-23 as a solo act
   * Song: Flower Way
+
 {{< video
   id="2xxo9ZtS0Bc"
   title="SEJEONG - Flower Way | 세정 - 꽃길"
@@ -655,7 +752,9 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="KBS WORLD TV"
   attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
 >}}
-* Also known for: Baby I Love U; Warning; SKYLINE; Whale; 화분 (Plant); Tunnel
+
+* Sample songs: Baby I Love U; Warning; SKYLINE; Whale; 화분 (Plant); Tunnel
+
 {{< video
   id="y9pB01pxgBY"
   title="[MV] KIM SEJEONG(김세정) _ Baby I Love U"
@@ -722,6 +821,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="딩고 뮤직 / dingo music"
   attriburl="https://www.youtube.com/channel/UCtCiO5t2voB14CmZKTkIzPQ"
 >}}
+
 * BONUS:
 {{< video
   id="z4rAyp01n1s"
@@ -734,14 +834,17 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="KOCOWA TV"
   attriburl="https://www.youtube.com/channel/UCAqlxq4Bs9PjI86M9lM18TA"
 >}}
-* God Sejeong
-* Queen Sejeong
+
+* Did you know?
+  * She is called by fans as God Sejeong
+  * She is also known as Queen Sejeong
 * Wikipedia: [Kim Se-jeong](https://en.wikipedia.org/wiki/Kim_Se-jeong)
 
 ### BLΛƆKPIИK
 * Hangul: 블랙핑크
 * Debut: 2016-08-08
   * Song: 붐바야 (Boombayah)
+
 {{< video
   id="LpSH8MrYCfg"
   title="BLACKPINK - '붐바야(BOOMBAYAH)'"
@@ -753,7 +856,9 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="BLACKPINK"
   attriburl="https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A"
 >}}
-* Also known for: How You Like That
+
+* Sample songs: How You Like That
+
 {{< video
   id="IZnUWDugxnQ"
   title="BLACKPINK(블랙핑크) - How You Like That"
@@ -765,6 +870,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="스브스케이팝 / SBS KPOP"
   attriburl="https://www.youtube.com/channel/UCS_hnpJLQTvBkqALgapi_4g"
 >}}
+
 * Wikipedia: [Blackpink](https://en.wikipedia.org/wiki/Blackpink)
 
 ### VICTON
@@ -772,6 +878,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Also known as: Voice to New World
 * Debut: 2016-11-07
   * Song: I'm Fine; What Time Is It Now?
+
 {{< video
   id="HHJB_Zbn-lQ"
   title="[MV] VICTON(빅톤) _ I'm fine(아무렇지 않은 척)"
@@ -794,6 +901,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="1theK (원더케이)"
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
+
 * Wikipedia: [Victon](https://en.wikipedia.org/wiki/Victon)
 
 ## 2017
@@ -801,6 +909,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 프로미스 9; 프로미스나인
 * Debut: 2017-11-29
   * Song: Glass Shoes
+
 {{< video
   id="yuPVSvtrUfk"
   title="뮤직뱅크 Music Bank - 유리구두 - fromis_9 (Glass Shoes - fromis_9).20171215"
@@ -812,6 +921,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="KBS Kpop"
   attriburl="https://www.youtube.com/channel/UCeLPm9yH_a_QH8n6445G-Ow"
 >}}
+
 * Wikipedia: [Fromis 9](https://en.wikipedia.org/wiki/Fromis_9)
 
 ## 2018
@@ -820,6 +930,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Also known as: SKZ
 * Debut: 2018-01-08
   * Song: Hellevator
+
 {{< video
   id="oDhUiQBI_xw"
   title="[Stray Kids - Hellevator] Special Stage"
@@ -831,12 +942,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [Stray Kids](https://en.wikipedia.org/wiki/Stray_Kids)
 
 ### (G)I-DLE
 * Hangul: (여자)아이들
 * Debut: 2018-05-02
   * Song: Latata
+
 {{< video
   id="eZRmP-l3Nz0"
   title="[(G)I-DLE - LATATA] Debut Stage"
@@ -848,6 +961,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [(G)I-dle](https://en.wikipedia.org/wiki/(G)I-dle)
 
 ### LOOΠΔ
@@ -855,6 +969,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hiragana: 今月の少女
 * Debut: 2018-08-20
   * Song: favOriTe; Hi High
+
 {{< video
   id="qDmO3SwMx4Y"
   title="[LOONA - favOriTe] Debut Stage"
@@ -877,6 +992,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia:
 
 ### ATEEZ
@@ -885,6 +1001,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Formerly known as: KQ Fellaz
 * Debut: 2018-05-18 as KQ Fellaz
   * Dancing to: *Pick It Up* by **Famous Dex**
+
 {{< video
   id="5A9EMLrURS8"
   title="ATEEZ(KQ Fellaz) Performance Video Ⅰ"
@@ -896,8 +1013,10 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="KQ ENTERTAINMENT"
   attriburl="https://www.youtube.com/channel/UCQdq-lqPEq_yZ_wP_kuVB9Q"
 >}}
+
 * Debut: 2018-10-24
   * Song: 해적왕 (Pirate King)
+
 {{< video
   id="KAXWhITwJp8"
   title="ATEEZ - Pirate King] Debut Stage"
@@ -909,13 +1028,35 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [Ateez](https://en.wikipedia.org/wiki/Ateez)
+
+### VERIVERY
+* Hangul: 베리베리
+* Also known as: VRVR
+* Debut: 2018-09-21
+  * Song: Super Special
+
+{{< video
+  id="D1hWFlHRRas"
+  title="[지금부터 베리베리해 OST] VERIVERY - 'Super Special' Official M/V"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2018-09-21"
+  licensecode="allrightsreserved"
+  attribto="VERIVERY"
+  attriburl="https://www.youtube.com/channel/UC4t_pYSKIhLWFgutdzIK66Q"
+>}}
+
+* Wikipedia: [Verivery](https://en.wikipedia.org/wiki/Verivery)
 
 ### IZ*ONE
 * Hangul: 아이즈원
 * Katakana: アイズワン
 * Debut: 2018-10-29
   * Song: La Vie en Rose
+
 {{< video
   id="aV87Og9XQnM"
   title="[IZ*ONE - La Vie en Rose] Debut Stage"
@@ -927,6 +1068,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [Iz*One](https://en.wikipedia.org/wiki/Iz*One)
 
 ## 2019
@@ -934,6 +1076,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 있지
 * Debut: 2019-02-12
   * Song: Dalla Dalla
+
 {{< video
   id="2xU2PyI-sEI"
   title="[ITZY - DALLA DALLA] Debut Stage"
@@ -945,6 +1088,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [Itzy](https://en.wikipedia.org/wiki/Itzy)
 
 ### TOMORROW X TOGETHER
@@ -953,6 +1097,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Also known as: TXT
 * Debut: 2019-03-04
   * Song: Crown
+
 {{< video
   id="JtQlgdN-onM"
   title="[TOMORROW X TOGETHER - CROWN] Debut Stage"
@@ -964,13 +1109,36 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="Mnet K-POP"
   attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
 >}}
+
 * Wikipedia: [Tomorrow X Together](https://en.wikipedia.org/wiki/Tomorrow_X_Together)
+
+### SuperM
+* Hangul: 슈퍼엠
+* Debut: 2019-10-04
+  * Song: Jopping
+
+{{< video
+  id="pAnK1y7qjuE"
+  title="SuperM 슈퍼엠 ‘Jopping’ MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-10-04"
+  licensecode="allrightsreserved"
+  attribto="SMTOWN"
+  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
+>}}
+
+* Did you know?
+  * They are called as The Avengers of K-pop
+* Wikipedia: [SuperM](https://en.wikipedia.org/wiki/SuperM)
 
 ## 2020
 ### SSAK3
 * Hangul: 싹쓰리
 * Debut: 2020-07-25
   * Song: Beach Again
+
 {{< video
   id="ESKfHHtiSjs"
   title="[MV] 싹쓰리(SSAK3) - 다시 여기 바닷가(Beach Again) Official MV (ENG sub)"
@@ -982,12 +1150,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="놀면 뭐하니?"
   attriburl="https://www.youtube.com/channel/UCx6jsZ02B4K3SECUrkgPyzg"
 >}}
+
 * Wikipedia: [SSAK3](https://en.wikipedia.org/wiki/SSAK3)
 
 ### TREASURE
 * Hangul: 트레저
 * Debut: 2020-08-07
   * Song: Boy
+
 {{< video
   id="JSAfPh1A25E"
   title="TREASURE - 'BOY' M/V"
@@ -999,12 +1169,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="TREASURE (트레저)"
   attriburl="https://www.youtube.com/channel/UCx9hXYOCvUYwrprEqe4ZQHA"
 >}}
+
 * Wikipedia: [Treasure (band)](https://en.wikipedia.org/wiki/Treasure_(band))
 
 ### Refund Sisters
 * Hangul: 환불원정대
 * Debut: 2020-10-10
   * Song: Don't Touch Me
+
 {{< video
   id="PXE2Ykf8fXQ"
   title="[M/V] REFUND SISTERS(환불원정대) - DON'T TOUCH ME"
@@ -1016,12 +1188,14 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="SUPER SOUND Bugs!"
   attriburl="https://www.youtube.com/channel/UC9PVYlrwFSlqG7w8TDsqRvQ"
 >}}
+
 * Wikipedia: [Refund Sisters](https://en.wikipedia.org/wiki/Refund_Sisters)
 
 ### æspa
 * Hangul: 에스
 * Debut: 2020-11-17
   * Song: Black Mamba
+
 {{< video
   id="Ky5RT5oGg0w"
   title="aespa 에스파 'Black Mamba' The Debut Stage"
@@ -1033,7 +1207,9 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="aespa"
   attriburl="https://www.youtube.com/channel/UC9GtSLeksfK4yuJ_g1lgQbg"
 >}}
-* Also known for: Dreams Come True (a remake of ***S.E.S.***'s cover of *Rakastuin mä looseriin* by Finnish girl group ***Nylon Beat***)
+
+* Sample songs: Dreams Come True (a remake of ***S.E.S.***'s cover of *Rakastuin mä looseriin* by Finnish girl group ***Nylon Beat***)
+
 {{< video
   id="bNTKqRwh2XM"
   title="(ENG sub) [쇼! 음악중심] 에스파 - 드림스 컴 트루 (aespa - Dreams Come True)"
@@ -1045,6 +1221,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
+
 * Wikipedia: [Aespa](https://en.wikipedia.org/wiki/Aespa)
 
 ### ENHYPEN
@@ -1052,6 +1229,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Katakana: ンハイプン (Enhaipun)
 * Debut: 2020-11-30
   * Song: Given-Taken
+
 {{< video
   id="nQ6wLuYvGd4"
   title="ENHYPEN (엔하이픈) 'Given-Taken' Official MV"
@@ -1063,6 +1241,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="HYBE LABELS"
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"
 >}}
+
 * Wikipedia: [Enhypen](https://en.wikipedia.org/wiki/Enhypen)
 
 ## 2021
@@ -1070,6 +1249,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 아이브
 * Debut: 2021-12-01
   * Song: Eleven
+
 {{< video
   id="--FmExEAsM8"
   title="[MV] IVE(아이브) - ELEVEN"
@@ -1081,6 +1261,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
   attribto="starshipTV"
   attriburl="https://www.youtube.com/channel/UCYDmx2Sfpnaxg488yBpZIGg"
 >}}
+
 * Wikipedia: [Ive (group)](https://en.wikipedia.org/wiki/Ive_(group))
 
 -------

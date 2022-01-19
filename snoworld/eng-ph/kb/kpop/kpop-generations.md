@@ -49,7 +49,7 @@ There are many proposals on how to divide K-pop into different generations, unfo
 
 <!--more-->
 
-For an objective approach in K-pop Generations, we should avoid using any criteria that we can not fix or draw a line. Some examples are: (a) the use of social media platforms; (b) fashion style; (c) dance choreography; and (d) music genre. Instead of using these, we can use the simplest of all, calendar year.
+For an objective approach in K-pop Generations, we should avoid using any criteria that we can not fix or draw a line. Some examples are: (a) the use of social media platforms; (b) fashion style; (c) dance choreography; and (d) music genre. Instead of using these, we can use the simplest of all: *calendar year*.
 
 ## How long is a generation?
 To define this, we have to ask these questions.
@@ -70,7 +70,7 @@ Let's find another method we can use.
 The notion of generation is widely used in the everyday world to make sense of differences between age groupings in society and to locate individual selves and other persons within historical time. We speak, for example, of 'my generation' and of 'the older generation'. We describe those who grew up in, say, the 1960s, as belonging to 'the sixties generation'. We speak of 'a few generations ago', 'a new generation' and of 'the generation gap'.
 {{% /quotebox %}}
 
-It is also generally accepted that a generation is between 20–30 years, and it is shorter in certain cases like in console gaming generations and MMORPG generations. But there is one thing that we can safely use … calendar year. As was mentioned above, <q>we describe those who grew up in, say, the 1960s, as belonging to 'the sixties generation'</q>. This is a good basis because it is fixed to ten (10) calendar years.
+It is also generally accepted that a generation is between 20–30 years, and it is shorter in certain cases like in console gaming generations and MMORPG generations. But there is one thing that we can safely use and that is *calendar years*. As was mentioned above, <q>we describe those who grew up in, say, the 1960s, as belonging to 'the sixties generation'</q>. This is a good basis because it is fixed to ten (10) calendar years.
 
 If so, then the 1st Generation of K-pop music ended in 2001.
 
@@ -79,7 +79,7 @@ The .5 generations simply exist because of subjective criteria. A K-pop act debu
 
 However, we can probably consider the borderline debuts as .5 generations. For example, K-pop acts which debuted in the years 2021 and 2022 can be considered as 3.5 generation, squeezed between the 3rd Generation and the 4th Generation. These acts can fall in either generations but any acts which debuted prior to 2021 and after 2022 clearly belongs to the 3rd and 4th respectively.
 
-If you prefer this approach, there is no harm in it. Think of it as "when did the 3rd millennium start, was it in the year 2000 or was it in 2001?" But for the purposes of this list, we are not listing the "border year" debuts separately.
+If you prefer this approach, there is no harm in it. Think of it as "when did the 3rd millennium start, was it in the year 2000 or was it in 2001?" But for this purpose of this list, we are not listing separately the "border year" debuts.
 
 ## The Generations of K-pop Music
 With me so far? Based on the above, here are the K-pop music acts per generation:
@@ -89,19 +89,21 @@ With me so far? Based on the above, here are the K-pop music acts per generation
 * [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
 
 ### (EXTRA) Border Years: 2001–2002
-Around 2001 to 2002, the K-pop music industry slowed down and many groups from the 1st Generation went on hiatus and later disbanded. It was not until 2003 that it started to pick-up again thanks to the continued efforts of solo acts from 1st Generation *BoA* and *Jang Na Ra*; and 2nd Generation *Gummy* and *Se7en*. By 2004 and 2005 we've seen the resurgence of K-pop groups which was re-ignited by *TVXQ!*, *SS501*, and *Super Junior*.
+Around 2001 to 2002, the K-pop music industry slowed down and many groups from the 1st Generation went on hiatus and later disbanded. It was not until 2003 that it started to pick-up again thanks to the continued efforts of solo acts from 1st Generation *BoA* and *Jang Na Ra*; and 2nd Generation *Gummy* and *Se7en*. By 2004 and 2005 we have seen the resurgence of K-pop groups which was re-ignited by *TVXQ!*, *SS501*, and *Super Junior*.
 
 ### (EXTRA) Border Years: 2011–2012
-In 2009 and 2010, we've seen the best girl groups in the likes of *2NE1*, *T-ara*, *f(x)*, *SISTAR*, *miss A*, and *Girl's Day*, to mention a few. The following year, 2011, marked the end of the 2nd Generation of K-pop music with *Block B* and *Apink*. The 3rd Generation of K-pop started in 2012 with a bang. This was the year when *EXO* debuted and in 2013 *BTS* followed.
+In 2009 and 2010, we have seen the best girl groups in the likes of *2NE1*, *T-ara*, *f(x)*, *SISTAR*, *miss A*, and *Girl's Day*, to mention a few. The following year, 2011, marked the end of the 2nd Generation of K-pop music with *Block B* and *Apink*. The 3rd Generation of K-pop started in 2012 with a bang. This was the year when *EXO* debuted and in 2013 *BTS* followed.
 
 ### (EXTRA) Border Years: 2021–2022
 These are the border years where there are a lot of disagreements: when did the 3rd Generation end and the 4th Generation start?
 
-Some fans claim that groups like *NCT*, who debuted in 2016, are 4th Generation but groups which debuted in the same year like *I.O.I*, *gu9udan*, and *BLΛƆKPIИK* are still 3rd Generation acts. Moving to 2018, _IZ*ONE_ and *(G)I-DLE* are 3rd Generation but *Stray Kids* and *LOOΠΔ* are 4th Generation. It continues on in 2019 and 2020, some K-pop acts, be it a group or solo, are 3rd Generation while some of those who debuted in the same year are 4th Generation.
+Some fans claim that groups like *NCT*, who debuted in 2016, are 4th Generation but groups which debuted in the same year like *I.O.I*, *gu9udan*, and *BLΛƆKPIИK* are still 3rd Generation acts. Moving to 2018, _IZ*ONE_ and *(G)I-DLE* are 3rd Generation but *Stray Kids* and *LOOΠΔ* are 4th Generation. It continues on in 2019 and 2020, some K-pop acts, be it a group or solo, are 3rd Generation while some of those who debuted in the same year are 4th Generation. In yet another list, they claim that the 4th Generation of K-pop started in 2018 but they tagged *LOOΠΔ* as a 2016 girl group in the 4th generation.
 
-None of it makes any sense.
+It does not end there, boy groups and girl groups have different start and end years for each generation because of all the subjective criteria being used, while the solo acts are largely ignored or just lumped to whichever generation they fit.
 
-This is why I came up with this *calendar year*-based K-pop Generations list: to make it clear and easy when each generation starts and ends. In this particular situation, the 3rd Generation ended on December 31, 2021 while the 4th Generation started on January 1, 2022. The last 3rd Generation debut was *IVE* and the first 4th Generation debut was supergroup *GOT the beat* and newcomer group *Kep1er*.
+None of it makes any sense. This is why a *calendar year*-based list is the best option to put order into chaos that is *K-pop Generations*.
+
+This means that the 3rd Generation of K-pop music [acts] ended on December 31, 2021 and the 4th Generation started on January 1, 2022. The last to debut as a 3rd Generation K-pop was *IVE* and the first 4th Generation debut are *GOT the beat* (a subgroup of supergroup *Girls On Top*) and newcomer group *Kep1er* (hailing from the talent competition *Girls Planet 999*).
 
 ## Coincidence?
 Is setting the K-pop Generations on 10 *calendar years* the right thing to do? It probably is. Consider the following …
@@ -130,9 +132,11 @@ But by January 1, 2022, when the 4th Generation of K-pop music [acts] started, a
 
 Which was quickly followed with the debut of *Kep1er* two days later on January 3, 2022.
 
-If each generation of K-pop music is set into 10 calendar years, a beautiful story emerges. K-pop, whether we like it or not, is a story of group acts. While girl groups were popular the scene was still dominated by boy groups for three generations. With the move to let *GOT the beat* start the 4th Generation, then quickly followed by newcomer *Kep1er*, girl groups are now on the forefront and for the first time they will define a generation.
+If each generation of K-pop music is set into 10 calendar years, a beautiful story emerges. K-pop, whether we like it or not, is a story of group acts. While girl groups were popular the scene was still dominated by boy groups for three generations. With *GOT the beat* opening the 4th Generation of K-pop music, then quickly followed by newcomer *Kep1er*, girl groups are now on the forefront and for the first time they will define a generation.
 
-The 4th Generation is set to become the true ***Girls' Generation*** and *Everyday* is ***Girl's Day***. ***2NE1*** out there, it is time to set the *Fire* and *Clap Your Hands*. From hereon we will see ***TWICE*** the *Happiness* as we see more *Dream Girls* in *Wonderland* blooming along the *Flower Way*. Because we know it is your *Sweet Dream* that you are our *Only One*, and ladies, in *Every Heart* you are still our *No.1*.
+The 4th Generation is set to become the true ***Girls' Generation*** and *Everyday* is ***Girl's Day***. ***2NE1*** out there, it is time to set the *Fire* and *Clap Your Hands*. For hereon we will see ***TWICE*** the *Happiness* as we see more *Dream Girls* in *Wonderland* blooming along the *Flower Way*.
+
+We know it is your *Sweet Dream* that you are our *Only One*, and ladies, in *Every Heart* you are still our *No.1*.
 
 *How You Like That*?
 
