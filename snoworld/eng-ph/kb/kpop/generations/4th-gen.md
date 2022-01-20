@@ -80,6 +80,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
 
 ### Kep1er
 * Hangul: 케플러
+* Fandom name: Kep1ian
 * Debut: 2022-01-03
   * Song: Wa Da Da
 
@@ -100,6 +101,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
 ### TEMPEST
 * Hangul: 템페스트
 * Also known as: TPST
+* Fandom name: TBA (maybe STORM or W1ND)
 * Debut: 2022-01-05 (1st dance video)
   * Song: Kick It by ***[NCT 127]({{< ref "/3rd-gen.md#nct-127" >}} "NCT 127")***
 
@@ -131,7 +133,15 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
   attriburl="https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA"
 >}}
 
+* Did you know?
+  * ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
+    * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/3rd-gen.md#nu-est" >}} "NU'EST")***.[^a] [^b]
+  * **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08.[^c]
 * YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA)
+
+[^a]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest)
+[^b]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
+[^c]: NAVER News: [위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]](https://n.news.naver.com/entertain/now/article/311/0001308929)
 
 -------
 

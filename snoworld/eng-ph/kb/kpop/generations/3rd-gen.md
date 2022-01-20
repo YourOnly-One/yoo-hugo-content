@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_3rd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=L9ro1KjkJMg", "https://www.youtube.com/watch?v=6rS7OUGXUik", "https://www.youtube.com/watch?v=V_OCFunB1Gc", "https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=eKp5CAsKzmg", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=L9ro1KjkJMg", "https://www.youtube.com/watch?v=6rS7OUGXUik", "https://www.youtube.com/watch?v=V_OCFunB1Gc", "https://www.youtube.com/watch?v=gyXy0m-4bvE", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=eKp5CAsKzmg", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -57,52 +57,6 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 {{% /sembox %}}
 
 ## 2012
-### Ailee
-* Hangul: 에일리
-* Also known as: (이예진) Amy Lee; A.Leean (North America)
-* Fandom name: Aileeans
-* Debut: 2012-02-08
-  * Song: Heaven
-
-{{< video
-  id="L9ro1KjkJMg"
-  title="Ailee(에일리) _ Heaven MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-02-08"
-  licensecode="allrightsreserved"
-  attribto="1theK (원더케이)"
-  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
->}}
-
-* Sample songs: 첫눈처럼 너에게 가겠다 (I Will Go to You Like the First Snow) OST for *Guardian: The Lonely and Great God*; Sweater (original English); Blue Bird OST for *Start-Up*
-
-{{< video
-  id="6rS7OUGXUik"
-  title="[도깨비 OST Part 9] 에일리 (Ailee) - 첫눈처럼 너에게 가겠다 (I will go to you like the first snow) (Official Audio)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2017-01-06"
-  licensecode="allrightsreserved"
-  attribto="Stone Music Entertainment"
-  attriburl="https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A"
->}}
-{{< video
-  id="V_OCFunB1Gc"
-  title="Sweater"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2019-12-13"
-  licensecode="allrightsreserved"
-  attribto="[에일리 OFFICIAL] aileemusic"
-  attriburl="https://www.youtube.com/channel/UCymeXjTfl8hMGN7M357oX3g"
->}}
-
-* Wikipedia: [Ailee](https://en.wikipedia.org/wiki/Ailee)
-
 ### Crayon Pop
 * Hangul: 크레용팝
 * Fandom name: Sketchbook
@@ -264,6 +218,80 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 * Wikipedia: [Crayon Pop](https://en.wikipedia.org/wiki/Crayon_Pop)
 * YouTube: [웨이랜드WayLand](https://www.youtube.com/c/웨이랜드WayLand)
+
+### Ailee
+* Hangul: 에일리
+* Also known as: (이예진) Amy Lee; A.Leean (North America)
+* Fandom name: Aileeans
+* Debut: 2012-02-08
+  * Song: Heaven
+
+{{< video
+  id="L9ro1KjkJMg"
+  title="Ailee(에일리) _ Heaven MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2012-02-08"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
+* Sample songs: 첫눈처럼 너에게 가겠다 (I Will Go to You Like the First Snow) OST for *Guardian: The Lonely and Great God*; Sweater (original English); Blue Bird OST for *Start-Up*
+
+{{< video
+  id="6rS7OUGXUik"
+  title="[도깨비 OST Part 9] 에일리 (Ailee) - 첫눈처럼 너에게 가겠다 (I will go to you like the first snow) (Official Audio)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2017-01-06"
+  licensecode="allrightsreserved"
+  attribto="Stone Music Entertainment"
+  attriburl="https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A"
+>}}
+{{< video
+  id="V_OCFunB1Gc"
+  title="Sweater"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-12-13"
+  licensecode="allrightsreserved"
+  attribto="[에일리 OFFICIAL] aileemusic"
+  attriburl="https://www.youtube.com/channel/UCymeXjTfl8hMGN7M357oX3g"
+>}}
+
+* Wikipedia: [Ailee](https://en.wikipedia.org/wiki/Ailee)
+
+### NU'EST
+* Hangul: 뉴이스트
+* Also known as: New Establish Style Tempo
+* Fandom name: ㄴㅇㅅㅌ; L.O.Λ.E.
+* Debut: 2012-03-15
+  * Song: 페이스 (Face)
+
+{{< video
+  id="gyXy0m-4bvE"
+  title="[MV] NU'EST(뉴이스트) _ FACE(페이스)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2012-03-14"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
+* Did you know?
+  * ***NU'EST*** was originally part of ***Pledis Boys***. It was split into two groups with the other named *Tempest* (*템페스트*)[^a] [^b] (not to be confused with **Yuehua Entertainment**'s ***[TEMPEST]({{< ref "/4th-gen.md#tempest" >}} "TEMPEST")***).
+    * *Tempest* disbanded before their debut due to the popularity of *NU'EST*.[^b]
+  * As *Pledis Boys*, they were dubbed as After School Boys.
+* Wikipedia: [NU'EST](https://en.wikipedia.org/wiki/NU%27EST)
+
+[^a]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest)
+[^b]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
 
 ### EXO
 * Hangul: 엑소
@@ -1348,6 +1376,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ## 2021
 ### IVE
 * Hangul: 아이브
+* Fandom name: DIVE
 * Debut: 2021-12-01
   * Song: Eleven
 
