@@ -203,6 +203,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### Kim Jong Kook
 * Hangul: 김종국
+* Fandom name: Papitus
 * Debut: 1995-09-06 as a member of ***[Turbo]({{< ref "/1st-gen.md#turbo" >}} "Turbo")***
 * Debut: 2001-12-12 as a solo act
   * Song: 남자니까 (Because I'm A Man)
@@ -228,6 +229,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ### H.O.T.
 * Hangul: 에이치오티
 * Also known as: Highfive Of Teenagers
+* Fandom name: Club H.O.T.
 * Debut: 1996-09-07
   * Song: Descendants of Warriors
 
@@ -306,6 +308,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### Sechs Kies
 * Hangul: 젝스키스
+* Fandom name: YellKies
 * Debut: 1997-04-15
   * Song: 학원별곡 (School Anthem)
 
@@ -353,6 +356,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### Baby V.O.X.
 * Hangul: 베이비복스
+* Fandom name: Baby Angels
 * Debut: 1997-07-10
   * Song: 머리 하는 날 (Hair Cut)
 
@@ -395,6 +399,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ### NRG
 * Hangul: 엔알지
 * Also known as: New Radiancy Group
+* Fandom name: Cheonjae Ilwoo
 * Debut: 1997-10-28
   * Song: 할 수 있어 (I Can Do It)
 
@@ -414,6 +419,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### S.E.S.
 * Hangul: 에스이에스
+* Fandom name: Friend
 * Debut: 1997-11-01
 * Name stands for Sea, Eugene, and Shoo
   * Song: I'm Your Girl
@@ -449,6 +455,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ## 1998
 ### Rain
 * Hangul: 비
+* Fandom name: Clouds
 * Debut: 1998 as a member of ***Fanclub***
 * Debut: 2002-05-13 as a solo act
   * Song: 나쁜 남자 (Bad Guy)
@@ -470,6 +477,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### Shinhwa
 * Hangul: 신화
+* Fandom name: Shinhwa Changjo
 * Debut: 1998-04-19
   * Song: 천일유혼 (Sharing Forever)
 
@@ -490,6 +498,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ### Fin.K.L
 * Hangul: 핑클
 * Also known as: Fine Killing Liberty
+* Fandom name: Pinky
 * Debut: 1998-05-25
   * Song: Blue Rain; 내 남자친구에게 (To My Boyfriend)
 
@@ -520,6 +529,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### Lee Hyo Ri
 * Hangul: 이효리
+* Fandom name: HyoRish
 * Debut: 1998-05-25 as a member of ***[Fin.K.L]({{< ref "/1st-gen.md#finkl" >}} "Fin.K.L")***
 * Debut: 2003-08-13 as a solo act
   * Song: 10 Minutes
@@ -541,6 +551,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### 1TYM
 * Hangul: 원타임
+* Fandom name: Hip-Hop Village
 * Debut: 1998-11-15
   * Song: 1TYM
 
@@ -562,6 +573,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ### g.o.d.
 * Hangul: 지오디
 * Also known as: Groove Over Dose
+* Fandom name: Fan god
 * Debut: 1999-01-13
   * Song: 어머님께 (To Mother)
 
@@ -603,6 +615,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ## 2000
 ### BoA
 * Hangul: 권보아
+* Fandom name: Jumping BoA; SOUL (Japan)
 * Debut: 2000-08-25 as a solo act
   * Song: "ID; Peace B"
 
@@ -683,6 +696,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ### PSY
 * Hangul: 싸이
 * Also known as: 엽기가수 (The Bizarre Singer)
+* Fandom name: PSYcho
 * Debut: 2001-01-19
   * Song: 새 (Bird); 끝 (The End)
 
@@ -716,6 +730,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### Jewelry
 * Hangul: 쥬얼리
+* Fandom name: Jewel Box
 * Debut: 2001-03-30
   * Song: 사랑해 (I Love You)
 
@@ -735,6 +750,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 ### Jang Na Ra
 * Hangul: 장나라
+* Fandom name: Fly Nara Love
 * Debut: 2001-05-04
   * Song: 눈물에 얼굴을 묻는다 (Burying My Face In Tears)
 

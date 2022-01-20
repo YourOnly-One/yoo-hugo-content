@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_3rd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=L9ro1KjkJMg", "https://www.youtube.com/watch?v=6rS7OUGXUik", "https://www.youtube.com/watch?v=V_OCFunB1Gc", "https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=eKp5CAsKzmg", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -57,8 +57,55 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 {{% /sembox %}}
 
 ## 2012
+### Ailee
+* Hangul: 에일리
+* Also known as: (이예진) Amy Lee; A.Leean (North America)
+* Fandom name: Aileeans
+* Debut: 2012-02-08
+  * Song: Heaven
+
+{{< video
+  id="L9ro1KjkJMg"
+  title="Ailee(에일리) _ Heaven MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2012-02-08"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
+* Sample songs: 첫눈처럼 너에게 가겠다 (I Will Go to You Like the First Snow) OST for *Guardian: The Lonely and Great God*; Sweater (original English); Blue Bird OST for *Start-Up*
+
+{{< video
+  id="6rS7OUGXUik"
+  title="[도깨비 OST Part 9] 에일리 (Ailee) - 첫눈처럼 너에게 가겠다 (I will go to you like the first snow) (Official Audio)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2017-01-06"
+  licensecode="allrightsreserved"
+  attribto="Stone Music Entertainment"
+  attriburl="https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A"
+>}}
+{{< video
+  id="V_OCFunB1Gc"
+  title="Sweater"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-12-13"
+  licensecode="allrightsreserved"
+  attribto="[에일리 OFFICIAL] aileemusic"
+  attriburl="https://www.youtube.com/channel/UCymeXjTfl8hMGN7M357oX3g"
+>}}
+
+* Wikipedia: [Ailee](https://en.wikipedia.org/wiki/Ailee)
+
 ### Crayon Pop
 * Hangul: 크레용팝
+* Fandom name: Sketchbook
 * Debut: 2012-01-11 as Hurricane Pop
   * Song: Bing Bing
 
@@ -221,6 +268,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### EXO
 * Hangul: 엑소
 * Subgroups: EXO-K (Korean); EXO-M (Mandarin)
+* Fandom name: EXO-L (Love)
 * Debut: 2012-04-08
   * Song: Mama
 
@@ -255,6 +303,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### AOA
 * Hangul: 에이오에이
 * Also known as: Ace of Angels
+* Fandom name: Elvis
 * Debut: 2012-07-30
   * Song: Elvis
 
@@ -287,6 +336,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### BTS
 * Hangul: 방탄소년단
 * Also known as: Bangtan Boys
+* Fandom name: A.R.M.Y. (Adorable Representative MC for Youth)
 * Debut: 2013-06-12
   * Song: No More Dream
 
@@ -307,6 +357,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ## 2014
 ### GOT7
 * Hangul: 갓세븐
+* Fandom name: IGOT7
 * Debut: 2014-01-16
   * Song: Girls Girls Girls
 
@@ -326,6 +377,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### MAMAMOO
 * Hangul: 마마무
+* Fandom name: Moomoo
 * Debut: 2014-06-18
   * Song: Mr.애매모호 (Mr. Ambiguous)
 
@@ -364,6 +416,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### Red Velvet
 * Hangul: 레드벨벳
+* Fandom name: ReVeluv
 * Debut: 2014-08-01
   * Song: Happiness
 
@@ -383,6 +436,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### WINNER
 * Hangul: 위너
+* Fandom name: InnerCircle
 * Debut: 2014-03-01 first public performance
 * Debut: 2014-08-12
   * Song: Empty; and 컬러링 (Color Ring)
@@ -414,6 +468,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### Lovelyz
 * Hangul: 러블리즈
+* Fandom name: Lovelinus
 * Debut: 2014-11-05
   * Song: 어제처럼 굿나잇 (Good Night Like Yesterday)
 
@@ -434,6 +489,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ## 2015
 ### GFRIEND
 * Hangul: 여자친구
+* Fandom name: Buddy
 * Debut: 2015-01-12
   * Song: Glass Bead
 
@@ -454,6 +510,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### CLC
 * Hangul: 씨엘씨
 * Also known as: CrystaL Clear
+* Fandom name: Cheshire
 * Debut: 2015-03-19
   * Song: Pepe
 
@@ -473,6 +530,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### MONSTA X
 * Hangul: 몬스타엑스
+* Fandom name: Monbebe
 * Debut: 2015-05-14
   * Song: 무단침입 (Trespass)
 
@@ -493,6 +551,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### SEVENTEEN
 * Hangul: 세븐틴
 * Also known as: SVT
+* Fandom name: Carat
 * Debut: 2015-05-26
   * Song: 아낀다 (Adore U)
 
@@ -517,6 +576,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### iKON
 * Hangul: 아이콘
+* Fandom name: iKONIC
 * Debut: 2015-09-15
   * Song: My Type
 
@@ -537,6 +597,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### TWICE
 * Hangul: 트와이스
 * Katakana: トゥワイス
+* Fandom name: Once
 * Debut: 2015-10-20
   * Song: Like Ooh-Ahh
 
@@ -560,6 +621,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hanzi: 宇宙少女
 * Also known as: Cosmic Girls
 * Subgroups: Wonder Unit; Joy Unit; Sweet Unit; Natural Unit
+* Fandom name: Ujung
 * Debut: 2016-02-25
   * Song: Mo Mo Mo; Catch Me
 
@@ -580,6 +642,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### NCT
 * Hangul: 엔시티
 * Also known as: Neo Culture Technology
+* Fandom name: NCTzen
 * Wikipedia: [NCT (group)](https://en.wikipedia.org/wiki/NCT_(group))
 
 #### NCT U
@@ -658,6 +721,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 #### WayV
 * Hanzi: 威神V (WayV)
 * a subgroup of ***[NCT]({{< ref "/3rd-gen.md#nct" >}} "NCT")***
+* Fandom name: WayZenNi
 * Debut: 2019-01-17
   * Song: 梦想发射计划 (Dream Launch)
 
@@ -717,6 +781,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 구구단
 * Also known as: gx9
 * Subgroups: SeMiNa; 5959
+* Fandom name: Dan-jjakn
 * Debut: 2016-06-28
   * Song: Wonderland
 
@@ -736,6 +801,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### Kim Se Jeong
 * Hangul: 김세정
+* Fandom name: Sesang
 * Debut: 2016-05-04 as a member of ***[I.O.I]({{< ref "/3rd-gen.md#i-o-i" >}} "I.O.I")***
 * Debut: 2016-06-28 as a member of ***[gu9udan]({{< ref "/3rd-gen.md#gu9udan" >}} "gu9udan")***
 * Debut: 2016-11-23 as a solo act
@@ -842,6 +908,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### BLΛƆKPIИK
 * Hangul: 블랙핑크
+* Fandom name: Blink
 * Debut: 2016-08-08
   * Song: 붐바야 (Boombayah)
 
@@ -876,6 +943,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### VICTON
 * Hangul: 빅톤
 * Also known as: Voice to New World
+* Fandom name: ALICE (Always We Love the VoICE)
 * Debut: 2016-11-07
   * Song: I'm Fine; What Time Is It Now?
 
@@ -907,6 +975,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ## 2017
 ### fromis_9
 * Hangul: 프로미스 9; 프로미스나인
+* Fandom name: Flover
 * Debut: 2017-11-29
   * Song: Glass Shoes
 
@@ -928,6 +997,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### Stray Kids
 * Hangul: 스트레이 키즈
 * Also known as: SKZ
+* Fandom name: Stay
 * Debut: 2018-01-08
   * Song: Hellevator
 
@@ -947,6 +1017,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### (G)I-DLE
 * Hangul: (여자)아이들
+* Fandom name: Neverland
 * Debut: 2018-05-02
   * Song: Latata
 
@@ -967,6 +1038,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### LOOΠΔ
 * Hangul: 이달의 소녀
 * Hiragana: 今月の少女
+* Fandom name: Orbit
 * Debut: 2018-08-20
   * Song: favOriTe; Hi High
 
@@ -999,6 +1071,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 에이티즈
 * Katakana: エイティーズ
 * Formerly known as: KQ Fellaz
+* Fandom name: ATINY (ATEEZ DESTINY)
 * Debut: 2018-05-18 as KQ Fellaz
   * Dancing to: *Pick It Up* by **Famous Dex**
 
@@ -1034,6 +1107,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### VERIVERY
 * Hangul: 베리베리
 * Also known as: VRVR
+* Fandom name: VERRER
 * Debut: 2018-09-21
   * Song: Super Special
 
@@ -1054,6 +1128,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### IZ*ONE
 * Hangul: 아이즈원
 * Katakana: アイズワン
+* Fandom name: WIZ*ONE
 * Debut: 2018-10-29
   * Song: La Vie en Rose
 
@@ -1074,6 +1149,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ## 2019
 ### ITZY
 * Hangul: 있지
+* Fandom name: MIDZY
 * Debut: 2019-02-12
   * Song: Dalla Dalla
 
@@ -1095,6 +1171,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 * Hangul: 투모로우바이투게더
 * Katakana: トゥモローバイトゥギャザー
 * Also known as: TXT
+* Fandom name: M.O.A. (Moment Of Alwaysness)
 * Debut: 2019-03-04
   * Song: Crown
 
@@ -1155,6 +1232,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 ### TREASURE
 * Hangul: 트레저
+* Fandom name: Treasure Maker
 * Debut: 2020-08-07
   * Song: Boy
 
@@ -1191,8 +1269,30 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 * Wikipedia: [Refund Sisters](https://en.wikipedia.org/wiki/Refund_Sisters)
 
+### P1Harmony
+* Hangul: 피원하모니
+* Also known as: P1H
+* Debut: 2020-10-28
+  * Song: Siren
+
+{{< video
+  id="eKp5CAsKzmg"
+  title="P1Harmony (피원하모니) - 'SIREN' MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2020-10-28"
+  licensecode="allrightsreserved"
+  attribto="FNCEnt"
+  attriburl="https://www.youtube.com/channel/UCZECMCJJJE47ei170XCXgdA"
+>}}
+
+* Wikipedia: [P1Harmony](https://en.wikipedia.org/wiki/P1Harmony)
+
+
 ### æspa
 * Hangul: 에스
+* Fandom name: MY
 * Debut: 2020-11-17
   * Song: Black Mamba
 
@@ -1227,6 +1327,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 ### ENHYPEN
 * Hangul: 엔하이픈
 * Katakana: ンハイプン (Enhaipun)
+* Fandom name: ENGENE
 * Debut: 2020-11-30
   * Song: Given-Taken
 

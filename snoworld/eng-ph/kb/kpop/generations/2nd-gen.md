@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=LlCblnuBkjg", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=ToASX6axGuw", "https://www.youtube.com/watch?v=846jDdHYxPM", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=U7mPqycQ0tQ", "https://www.youtube.com/watch?v=6SwiSpudKWI", "https://www.youtube.com/watch?v=TGbwL8kSpEk", "https://www.youtube.com/watch?v=q_gfD3nvh-8", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=Yq8uM9-uJ_M", "https://www.youtube.com/watch?v=BA7fdSkp8ds", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=o7OkV7QCRgc", "https://www.youtube.com/watch?v=GYjjpO781q4", "https://www.youtube.com/watch?v=PvsAVpvZj_A", "https://www.youtube.com/watch?v=u427qFG9WY8", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=KgrB2KBZws4", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=QZfhC7gQJgo", "https://www.youtube.com/watch?v=ks8bcUeRHL8", "https://www.youtube.com/watch?v=LDywzzjBfZk", "https://www.youtube.com/watch?v=o_nxIQTM_B0", "https://www.youtube.com/watch?v=bMOUP3ZpcUc", "https://www.youtube.com/watch?v=JtFI8dtPvxI", "https://www.youtube.com/watch?v=sqgxcCjD04s", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=4MgAxMO1KD0", "https://www.youtube.com/watch?v=ZAqiMCp9zrI", "https://www.youtube.com/watch?v=5n4V3lGEyG4", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=-KFpL9DUyms", "https://www.youtube.com/watch?v=tTd9Gna50ls", "https://www.youtube.com/watch?v=g3uIdA2IiKw", "https://www.youtube.com/watch?v=nyGxdCivBig", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=als-8K2vYBo", "https://www.youtube.com/watch?v=_yM86BVV7VM", "https://www.youtube.com/watch?v=sKCCfdi4YU4", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=n8I8QGFA1oM", "https://www.youtube.com/watch?v=Thds7IYKH34" "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=dBR0oEUIoGI", "https://www.youtube.com/watch?v=zO9RzrhYR-I", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=b34ri3-uxks", "https://www.youtube.com/watch?v=C4P96KzHmao", "https://www.youtube.com/watch?v=KcjGxAbeoc0", "https://www.youtube.com/watch?v=e48D3KtPOb0", "https://www.youtube.com/watch?v=B0Ij_eTECXc", "https://www.youtube.com/watch?v=ZEE3x_X4Cbw", "https://www.youtube.com/watch?v=RUUI0PilSiE", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=9PXLIgGqpeE", "https://www.youtube.com/watch?v=fqR2HGkjFCA", "https://www.youtube.com/watch?v=zVO5xTAbxm8", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=hspqQuuuGIw", "https://www.youtube.com/watch?v=K5H-GvnNz2Y"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=LlCblnuBkjg", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=ToASX6axGuw", "https://www.youtube.com/watch?v=846jDdHYxPM", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=U7mPqycQ0tQ", "https://www.youtube.com/watch?v=6SwiSpudKWI", "https://www.youtube.com/watch?v=TGbwL8kSpEk", "https://www.youtube.com/watch?v=q_gfD3nvh-8", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=Yq8uM9-uJ_M", "https://www.youtube.com/watch?v=BA7fdSkp8ds", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=o7OkV7QCRgc", "https://www.youtube.com/watch?v=GYjjpO781q4", "https://www.youtube.com/watch?v=PvsAVpvZj_A", "https://www.youtube.com/watch?v=u427qFG9WY8", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=KgrB2KBZws4", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=QZfhC7gQJgo", "https://www.youtube.com/watch?v=ks8bcUeRHL8", "https://www.youtube.com/watch?v=LDywzzjBfZk", "https://www.youtube.com/watch?v=o_nxIQTM_B0", "https://www.youtube.com/watch?v=bMOUP3ZpcUc", "https://www.youtube.com/watch?v=JtFI8dtPvxI", "https://www.youtube.com/watch?v=sqgxcCjD04s", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=4MgAxMO1KD0", "https://www.youtube.com/watch?v=ZAqiMCp9zrI", "https://www.youtube.com/watch?v=5n4V3lGEyG4", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=-KFpL9DUyms", "https://www.youtube.com/watch?v=tTd9Gna50ls", "https://www.youtube.com/watch?v=g3uIdA2IiKw", "https://www.youtube.com/watch?v=nyGxdCivBig", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=als-8K2vYBo", "https://www.youtube.com/watch?v=_yM86BVV7VM", "https://www.youtube.com/watch?v=sKCCfdi4YU4", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=n8I8QGFA1oM", "https://www.youtube.com/watch?v=Thds7IYKH34" "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=dBR0oEUIoGI", "https://www.youtube.com/watch?v=zO9RzrhYR-I", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=b34ri3-uxks", "https://www.youtube.com/watch?v=C4P96KzHmao", "https://www.youtube.com/watch?v=KcjGxAbeoc0", "https://www.youtube.com/watch?v=e48D3KtPOb0", "https://www.youtube.com/watch?v=B0Ij_eTECXc", "https://www.youtube.com/watch?v=ZEE3x_X4Cbw", "https://www.youtube.com/watch?v=RUUI0PilSiE", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=9PXLIgGqpeE", "https://www.youtube.com/watch?v=fqR2HGkjFCA", "https://www.youtube.com/watch?v=zVO5xTAbxm8", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=hspqQuuuGIw", "https://www.youtube.com/watch?v=K5H-GvnNz2Y"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -138,6 +138,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### Se7en
 * Hangul: 세븐
+* Fandom name: Lucky 7
 * Debut: 2003-03-07
   * Song: 한번 단 한번 (Hanbeon Dan Hanbeon; Once, Just Once)
 
@@ -158,6 +159,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ## 2004
 ### TVXQ!
 * Hangul: 동방신기 (DBSK; Dong Bang Shin Ki)
+* Fandom name: Cassiopeia; Big East (Japan)
 * Hiragana: とうほうしんき (Tōhōshinki)
 * Hanzi: 東方神起 (Tong Vfang Xien Qi)
 * Debut: 2004-01-14
@@ -181,6 +183,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ### SS501
 * Hangul: 더블에스오공일
 * Katakana: ダブルエス ごーまるいち
+* Fandom name: Triple S
 * Debut: 2005-06-22
   * Song: 경고 (Warning)
 
@@ -224,6 +227,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ### Super Junior
 * Hangul: 슈퍼주니어
 * Also known as: SJ; SuJu
+* Fandom name: E.L.F. (Everlasting Friends)
 * Debut: 2005-09-11 dancing to B2K (Boys of the New Millennium)'s *Take It to the Floor*
 * Debut: 2005-11-06 their own song
   * Song: Twins (Knock Out)
@@ -249,6 +253,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 브라운 아이드 걸스
 * Katakana: ブラウン・アイド・ガールズ
 * Also known as: B.E.G.; BG; 브아걸
+* Fandom name: Everlasting
 * Debut: 2006-03-02
   * Song: 다가와서 (Come Closer)
 
@@ -268,6 +273,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### BIGBANG
 * Hangul: 빅뱅
+* Fandom name: V.I.P.
 * Debut: 2006-12-21
   * Song: 눈물뿐인 바보 (A Fool's Only Tears)
 
@@ -290,6 +296,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ## 2007
 ### KARA
 * Hangul: 카라
+* Fandom name: Kamilia
 * Katakana: カラ
 * Debut: 2007-03-29
   * Song: Break It
@@ -311,6 +318,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ### F.T. Island
 * Hangul: 에프티 아일랜드; FT아일랜드
 * Also known as: Five Treasure Island
+* Fandom name: Primadonna
 * Debut: 2007-06-07
   * Song: Love Sick
 
@@ -332,6 +340,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 소녀시대
 * Hiragana: しょうじょじだい
 * Also known as: SNSD (Sonyeo Sidae)
+* Fandom name: Sone
 * Debut: 2007-08-05
   * Song: 다시 만난 세계 (Into the New World)
 
@@ -400,6 +409,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### WONDER GIRLS
 * Hangul: 원더걸스
+* Fandom name: Wonderful
 * Debut: 2007-09-13
   * Song: Irony
 
@@ -449,6 +459,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Kanji: 超新星
 * Hanzi: 超新星
 * Also known as: 초신성 (Choshinsung); 超新星 (Choshinsei)
+* Fandom name: Tinkerbell
 * Debut: 2007-10-13
   * Song: Hit
 
@@ -469,6 +480,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ## 2008
 ### Davichi
 * Hangul: 다비치
+* Fandom name: Davichi Chord
 * Debut: 2008-02-04
   * Song: 미워도 사랑하니까 (I Love You Even Though I Hate You)
 
@@ -535,6 +547,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### 2AM
 * Hangul: 투에이엠
+* Fandom name: I Am
 * Debut: 2008-07-11
   * Song: 이노래 (This Song)
 
@@ -557,6 +570,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ### SHINee
 * Hangul: 샤이니
 * Katakana: シャイニー
+* Fandom name: Shawol
 * Debut: 2008-08-28
   * Song: Replay
 
@@ -601,6 +615,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### 2PM
 * Hangul: 투피엠
+* Fandom name: Hottest
 * Debut: 2008-08-29
   * Song: 10점 만점에 10점 (10 Out of 10)
 
@@ -638,6 +653,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 유키스
 * Katakana: ユーキス
 * Also known as: Ubiquitous Korean International Idol Super Star
+* Fandom name: Kiss Me
 * Debut: 2008-08-15 first public performance for another song
 * Debut: 2008-08-28 first public performance for own song
   * Song: 어리지 않아 (Not Young)
@@ -658,6 +674,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### IU
 * Hangul: 아이유
+* Fandom name: UAENA
 * Debut: 2008-09-18
   * Song: 미아 (Lost Child)
 
@@ -770,6 +787,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### AFTERSCHOOL
 * Hangul: 애프터스쿨
+* Fandom name: Play Girlz; Play Boyz
 * Debut: 2009-01-15
   * Song: 아! (AH!)
 
@@ -789,6 +807,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### 2NE1
 * Hangul: 투애니원
+* Fandom name: Blackjack; Blackjack Nolza (Japan)
 * Debut: 2009-03-27 first public appearance
   * Song: Lollipop
 
@@ -870,6 +889,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### 4MINUTE
 * Hangul: 포미닛
+* Fandom name: 4NIA (4 Minute Mania)
 * Debut: 2009-06-15
   * Song: Hot Issue
 
@@ -889,6 +909,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### T-ara
 * Hangul: 티아라
+* Fandom name: Queens; Sweet Treasure (Japan)
 * Debut: 2009-07-29
   * Song: 거짓말 (Lie)
 
@@ -1031,6 +1052,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ### CNBLUE
 * Hangul: 씨엔블루
 * Also known as: Code Name: Burning, Lovely, Untouchable, and Emotional
+* Fandom name: Boice (Blue Voice)
 * Debut: 2009 early first public performance
 * Debut: 2009-08-19
   * Song: Now or Never (English version)
@@ -1051,6 +1073,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### f(x)
 * Hangul: 에프엑스
+* Fandom name: MeU
 * Debut: 2009-09-01
   * Song: 라차타 (LA chA TA)
 
@@ -1088,6 +1111,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Hangul: 엠블랙
 * Katakana: エムブラック
 * Also known as: Music Boys Live in Absolute Quality
+* Fandom name: A+
 * Debut: 2009-10-14
   * Song: Oh Yeah
 
@@ -1107,6 +1131,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### Rainbow
 * Hangul: 레인보우
+* Fandom name: Rain-nous
 * Debut: 2009-11-12
   * Song: 가십 걸 (Gossip Girl)
 
@@ -1125,8 +1150,30 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 * Wikipedia: [Rainbow (girl group)](https://en.wikipedia.org/wiki/Rainbow_(girl_group))
 
 ## 2010
+### ZE:A
+* Hangul: 제국의 아이들
+* Also known as: Children of Empire
+* Fandom name: ZE:A STYLE
+* Debut: 2010-01-07
+  * Song: Mazeltov
+
+{{< video
+  id="lReJuxI7z-o"
+  title="ZE:A[제국의아이들] Mazeltov MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2011-01-19"
+  licensecode="allrightsreserved"
+  attribto="ZEA2011"
+  attriburl="https://www.youtube.com/channel/UC0hP4NCSzvRGIFrs_ZrXxWg"
+>}}
+
+* Wikipedia: [ZE:A](https://en.wikipedia.org/wiki/ZE:A)
+
 ### SISTAR
 * Hangul: 씨스타
+* Fandom name: Star1
 * Debut: 2010-06-03
   * Song: Push Push
 
@@ -1146,6 +1193,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### INFINITE
 * Hangul: 인피니트
+* Fandom name: Inspirit
 * Debut: 2010-06-09
   * Song: Come Back Again
 
@@ -1165,6 +1213,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### miss A
 * Hangul: 미쓰에이
+* Fandom name: Say A
 * Debut: 2010 sometime before or around March, as *Chinese Wonder Girls*
 * Debut: 2010 March, as a 3-member group *miss A*
   * Song: Love Again (original in Chinese)
@@ -1242,6 +1291,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ### Suzy
 * Hangul: 수지
 * Also known as: 배수지 (Bae Su Ji)
+* Fandom name: Sueweeties; Suzyholic
 * Debut: 2010 March as a member of ***[miss A]({{< ref "/2nd-gen.md#miss-a" >}} "miss A")***
 * Debut: 2017-01-16 as a solo act
   * Song: 행복한 척 (Pretend)
@@ -1344,6 +1394,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### Girl's Day
 * Hangul: 걸스데이
+* Fandom name: Dai5y
 * Debut: 2010-07-07
   * Song: 갸우뚱 (Tilt My Head)
 
@@ -1399,6 +1450,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 ### G.NA
 * Hangul: 지나
+* Fandom name: G.NI
 * Debut: 2010-07-05
   * Song: 애인이 생기면 하고 싶은 일 (Things I Want to Do When I Have a Lover)
 
@@ -1419,6 +1471,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ## 2011
 ### Block B
 * Hangul: 블락비
+* Fandom name: BBC (Block B Club); Honeybees
 * Debut: 2011-04-13
   * Song: Freeze!
 
@@ -1439,6 +1492,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ### Apink
 * Hangul: 에이핑크
 * Katakana: エーピンク
+* Fandom name: Pink Panda
 * Debut: 2011-04-19
   * Song: 몰라요 (Mollayo; I Don't Know)
 
