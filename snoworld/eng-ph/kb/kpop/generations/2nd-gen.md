@@ -159,9 +159,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ## 2004
 ### TVXQ!
 * Hangul: 동방신기 (DBSK; Dong Bang Shin Ki)
-* Fandom name: Cassiopeia; Big East (Japan)
 * Hiragana: とうほうしんき (Tōhōshinki)
 * Hanzi: 東方神起 (Tong Vfang Xien Qi)
+* Fandom name: Cassiopeia; Big East (Japan)
 * Debut: 2004-01-14
   * Song: Hug
 
@@ -296,8 +296,8 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 ## 2007
 ### KARA
 * Hangul: 카라
-* Fandom name: Kamilia
 * Katakana: カラ
+* Fandom name: Kamilia
 * Debut: 2007-03-29
   * Song: Break It
 
