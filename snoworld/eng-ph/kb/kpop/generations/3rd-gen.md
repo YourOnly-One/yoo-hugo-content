@@ -1331,8 +1331,8 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 ### STAYC
 * Hangul: 스테이씨
-* Also known as: Star to a Young Culture
-* Fandom name:
+* Also known as: STAr to a Young Culture
+* Fandom name: SWITH
 * Debut: 2020-11-12
   * Song: So Bad
 
@@ -1348,7 +1348,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
   attriburl="https://www.youtube.com/channel/UCod5V2dpnpJLklGvVOv5FcQ"
 >}}
 
-* Sample songs:
+* Sample songs: ASAP; STEREOTYPE
 
 {{< video
   id="NsY-9MCOIAQ"
