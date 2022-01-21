@@ -45,7 +45,7 @@ type = "sitepage"                                                           # ar
   #rel = "noopener external nofollow"
 +++
 
-The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
+The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which was led by solo acts like ***Byul***, ***Gummy***, and ***Se7en***; and the revival of K-pop groups by ***TVXQ!***, ***SS501***, and ***Super Junior***.
 
 <!--more-->
 
@@ -1537,7 +1537,13 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011.
 
 -------
 
-Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
+Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
+
+Or check the other generations!
+* [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
+* You are here: 2nd Generation: 2002–2011
+* [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
+* [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
 
 -------
 

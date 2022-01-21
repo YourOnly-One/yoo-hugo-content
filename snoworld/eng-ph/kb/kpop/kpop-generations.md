@@ -45,7 +45,7 @@ type = "sitepage"                                                           # ar
   #rel = "noopener external nofollow"
 +++
 
-There are many proposals on how to divide K-pop into different generations, unfortunately most are subjective. While there is nothing wrong with a subjective approach, we need to have something we can all, or most, can agree on—at least as a common basis or starting point. Allow me to present **YourOnly.One**'s objective approach to *K-pop Generations*.
+There are many proposals on how to divide K-pop into different generations, unfortunately most are subjective. While there is nothing wrong with a subjective approach, we need to have something we can all, or most, can agree on—at least as a common basis or starting point. Allow me to present **YourOnly.One**'s objective approach to *K-pop Generations*, the only one you will ever need.
 
 <!--more-->
 

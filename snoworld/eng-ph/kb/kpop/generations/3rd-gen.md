@@ -45,7 +45,7 @@ type = "sitepage"                                                           # ar
   #rel = "noopener external nofollow"
 +++
 
-The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
+The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In this generation's first year it was clear that K-pop is here to stay. Solo act ***Ailee*** together with groups ***Crayon Pop***, ***NU'EST***, ***EXO***, and ***AOA*** showed what the third generation should be.
 
 <!--more-->
 
@@ -1407,7 +1407,13 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021.
 
 -------
 
-Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
+Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
+
+Or check the other generations!
+* [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
+* [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
+* You are here: 3rd Generation: 2012–2021
+* [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
 
 -------
 

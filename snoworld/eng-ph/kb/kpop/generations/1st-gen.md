@@ -45,7 +45,7 @@ type = "sitepage"                                                           # ar
   #rel = "noopener external nofollow"
 +++
 
-The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here are some of the pioneering groups and solo acts.
+The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here are the pioneering groups and solo acts who started the modern K-pop that we all know today.
 
 <!--more-->
 
@@ -784,7 +784,13 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 -------
 
-Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
+Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
+
+Or check the other generations!
+* You are here: 1st Generation: 1992–2001
+* [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
+* [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
+* [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
 
 -------
 

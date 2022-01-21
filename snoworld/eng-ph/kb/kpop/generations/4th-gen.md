@@ -45,7 +45,7 @@ type = "sitepage"                                                           # ar
   #rel = "noopener external nofollow"
 +++
 
-The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
+The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Already an exciting generation as it was opened by supergroup ***Girls On Top*** through its subgroup ***GOT the beat*** which was quickly followed by newcomer girl group ***Kep1er***, a generation which will definitely become a *Girls' Generation* and everyday a *Girl's Day*.
 
 <!--more-->
 
@@ -145,7 +145,13 @@ The ***4th Generation of K-Pop Music*** started in 2022 and ends 2031.
 
 -------
 
-Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations").
+Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
+
+Or check the other generations!
+* [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
+* [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
+* [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
+* You are here: 4th Generation: 2022–2031
 
 -------
 
