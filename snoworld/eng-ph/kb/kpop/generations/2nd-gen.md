@@ -1,6 +1,6 @@
 +++
-title = "2nd Generation K-Pop Music"
-description = "An objective list of Second Generation K-pop music with fandom names, song samples, and videos."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "Most Believable 2nd Generation K-Pop Music List"
+description = "An objective list of Second Generation Korean Popular music bands, groups, and solo acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-13T08:00:02"                                        # manually adjust to local timezone
 lastmod = "2022-01-22T02:08:25"                                     # manually adjust to local timezone

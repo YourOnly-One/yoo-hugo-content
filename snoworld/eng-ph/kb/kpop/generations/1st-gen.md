@@ -1,6 +1,6 @@
 +++
-title = "1st Generation K-Pop Music"
-description = "An objective list of First Generation K-pop music with fandom names, song samples, and videos."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "Most Rational 1st Generation K-Pop Music List"
+description = "An objective list of First Generation Korean Popular music bands, groups, and solo acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-12T08:00:01"                                        # manually adjust to local timezone
 lastmod = "2022-01-22T02:08:24"                                     # manually adjust to local timezone

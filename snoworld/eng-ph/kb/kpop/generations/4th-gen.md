@@ -1,6 +1,6 @@
 +++
-title = "4th Generation K-Pop Music"
-description = "An objective list of Fourth Generation K-pop music with fandom names, song samples, and videos."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "Most Logical 4th Generation K-Pop Music List"
+description = "An objective list of Fourth Generation Korean Popular music bands, groups, and solo acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-17T08:00:04"                                        # manually adjust to local timezone
 lastmod = "2022-01-22T02:08:27"                                     # manually adjust to local timezone
