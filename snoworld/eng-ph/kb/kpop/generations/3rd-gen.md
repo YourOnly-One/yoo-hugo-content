@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_3rd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=T3IlUKlThdY", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=L9ro1KjkJMg", "https://www.youtube.com/watch?v=6rS7OUGXUik", "https://www.youtube.com/watch?v=V_OCFunB1Gc", "https://www.youtube.com/watch?v=gyXy0m-4bvE", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=eKp5CAsKzmg", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=84BoSt8F27g", "https://www.youtube.com/watch?v=26_F392ir7Q", "https://www.youtube.com/watch?v=nyKHU6Zb3RM", "https://www.youtube.com/watch?v=6WB_3b3ARZ8", "https://www.youtube.com/watch?v=yyDG3BQRdDY", "https://www.youtube.com/watch?v=K-B5XAxDQ8w", "https://www.youtube.com/watch?v=tna90t2je-4", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=T3IlUKlThdY", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=L9ro1KjkJMg", "https://www.youtube.com/watch?v=6rS7OUGXUik", "https://www.youtube.com/watch?v=V_OCFunB1Gc", "https://www.youtube.com/watch?v=gyXy0m-4bvE", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=9pCZDmsa1Pg", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=y9pB01pxgBY", "https://www.youtube.com/watch?v=JwaROOrBGfk", "https://www.youtube.com/watch?v=KtC-YoxpPrU", "https://www.youtube.com/watch?v=qmV2yjyEJxA", "https://www.youtube.com/watch?v=vDdQv-safCs", "https://www.youtube.com/watch?v=Ddk6OkuVzFE", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=IZnUWDugxnQ", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=eKp5CAsKzmg", "https://www.youtube.com/watch?v=gMe1c4UegBY", "https://www.youtube.com/watch?v=NsY-9MCOIAQ", "https://www.youtube.com/watch?v=Xmxcnf2v_gs", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=bNTKqRwh2XM", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -928,6 +928,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 * BONUS:
+
 {{< video
   id="z4rAyp01n1s"
   title="Se Jeong Casually Loaded the Arrow and Shot it [2020 ISAC New Year Special Ep 8]"
@@ -1328,6 +1329,53 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 * Wikipedia: [P1Harmony](https://en.wikipedia.org/wiki/P1Harmony)
 
+### STAYC
+* Hangul: 스테이씨
+* Also known as: Star to a Young Culture
+* Fandom name:
+* Debut: 2020-11-12
+  * Song: So Bad
+
+{{< video
+  id="gMe1c4UegBY"
+  title="STAYC(스테이씨) 'SO BAD' MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2020-11-12"
+  licensecode="allrightsreserved"
+  attribto="STAYC"
+  attriburl="https://www.youtube.com/channel/UCod5V2dpnpJLklGvVOv5FcQ"
+>}}
+
+* Sample songs:
+
+{{< video
+  id="NsY-9MCOIAQ"
+  title="STAYC(스테이씨) 'ASAP' MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2021-04-08"
+  licensecode="allrightsreserved"
+  attribto="STAYC"
+  attriburl="https://www.youtube.com/channel/UCod5V2dpnpJLklGvVOv5FcQ"
+>}}
+{{< video
+  id="Xmxcnf2v_gs"
+  title="STAYC(스테이씨) '색안경 (STEREOTYPE)' MV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2021-09-06"
+  licensecode="allrightsreserved"
+  attribto="STAYC"
+  attriburl="https://www.youtube.com/channel/UCod5V2dpnpJLklGvVOv5FcQ"
+>}}
+
+* Did you know?
+  * They were originally known as *High Up Girls*.
+* Wikipedia: [STAYC](https://en.wikipedia.org/wiki/STAYC)
 
 ### æspa
 * Hangul: 에스
