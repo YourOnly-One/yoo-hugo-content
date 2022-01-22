@@ -143,6 +143,16 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 [^b]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
 [^c]: NAVER News: [위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]](https://n.news.naver.com/entertain/now/article/311/0001308929)
 
+### VIVIZ
+* Hangul: 비비지
+* Also known as: VIVId dayZ
+* Fandom name: NAV
+* Debut: sometime February
+  * Song: TBA
+* Did you know?
+  * The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/3rd-gen.md#gfriend" >}} "GFRIEND")***.
+* YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/)
+
 -------
 
 Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
