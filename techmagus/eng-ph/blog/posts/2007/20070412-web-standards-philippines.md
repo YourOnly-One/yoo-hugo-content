@@ -3,7 +3,7 @@ title = "Web Standards Philippines"
 description = "Being web standard compliant is a must these days. There are few who bother with it. In the Philippines, someone finally took the job in spreading it."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2007-04-12T09:10:38"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2007-04-12T09:10:38"                                        # manually adjust to local timezone
 
 aliases = ["/2007/04/web-standards-philippines.html"]
 slug = "web-standards-philippines"

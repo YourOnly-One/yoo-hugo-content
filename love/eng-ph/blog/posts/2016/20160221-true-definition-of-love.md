@@ -3,7 +3,7 @@ title = "True Definition of Love"
 description = "What is love, exactly?"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-02-21T23:07:30"
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-02-21T23:07:30"
 
 #aliases = [""]
 slug = "True Definition of Love"

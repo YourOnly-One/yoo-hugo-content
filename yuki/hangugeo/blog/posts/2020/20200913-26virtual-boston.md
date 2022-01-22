@@ -8,7 +8,7 @@ videos = ["https://www.youtube.com/watch?v=Zz8wlo-dHEY"]																								
 #audio = [""]																												# og:audio
 
 date = "2020-09-13T18:00:00"
-#expiryDate = ""
+lastmod = "2020-09-13T18:00:00"
 
 #aliases = [""]
 slug = "26virtual Boston, post-run vlog"

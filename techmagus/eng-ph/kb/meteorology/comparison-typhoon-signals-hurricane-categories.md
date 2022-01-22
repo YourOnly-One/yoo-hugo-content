@@ -3,7 +3,7 @@ title = "Comparison of Typhoon Signals and Hurricane Categories"
 description = "Philippine Typhoon Signals and the American Hurricane Categories are worlds apart. In this post, I'll clarify the difference between these two scale systems."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2009-10-02T00:03:23"                                        # manually adjust to local timezone
-lastmod = "2020-05-01T18:03:29"                                     # manually adjust to local timezone
+lastmod = "2009-10-02T00:03:23"                                        # manually adjust to local timezone
 
 aliases = ["/2009/10/comparison-typhoon-signals-hurricane-category.html"]
 slug = "comparison-typhoon-signals-hurricane-categories"

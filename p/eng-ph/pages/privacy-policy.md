@@ -3,7 +3,7 @@ title = "Privacy Policy"
 description = "YourOnly.One™ Privacy Policy"
 
 date = "2020-03-25T06:00:00"
-#lastmod = "{{ .Date }}"    # automatic, do not use unless necessary
+lastmod = "2021-01-28T07:00:00"
 
 #aliases = ["", ""]
 #slug = ""

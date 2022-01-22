@@ -3,7 +3,7 @@ title = "Disclosure"
 description = "YourOnly.One™ Disclosure"
 
 date = "2020-03-25T06:00:00"
-#lastmod = "{{ .Date }}"    # automatic, do not use unless necessary
+#lastmod = "2020-03-25T06:00:00"
 
 #aliases = ["", ""]
 #slug = ""
@@ -45,7 +45,6 @@ images = [""]                                                       # used by og
 +++
 
 This policy is valid from 2016-06-14.
-(previous update: 2016-02-22)
 
 <hr/>
 

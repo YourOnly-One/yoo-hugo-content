@@ -3,7 +3,7 @@ title = "[Image] On Unfailing Love and Men"
 description = "Mishlei (Proverbs) 20:6-7 [SQV]"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-03-16T01:22:39"
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-03-16T01:22:39"
 
 #aliases = [""]
 slug = "On Unfailing Love and Men"

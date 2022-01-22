@@ -3,7 +3,7 @@ title = "The 10th Commandment"
 description = "The last but equally important commandment: You shall not covet your neighbor's house, wife, servants, or anything that belongs to your neighbor."  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-09-10T11:40:20"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-09-10T11:40:20"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/the-10th-commandment.html"]
 slug = "The 10th Commandment"

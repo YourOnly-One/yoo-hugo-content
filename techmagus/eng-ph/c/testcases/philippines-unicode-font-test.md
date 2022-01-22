@@ -3,7 +3,7 @@ title = "The Philippines Unicode & Font Test with Barabara Font"
 description = "Unicode and font test page for Philippines related scripts. Test your browser and operating system today!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2018-03-03T00:17:36"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2018-03-03T00:17:36"                                        # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-font-test.html"]
 slug = "the-philippines-unicode-font-test-with-barabara-font"

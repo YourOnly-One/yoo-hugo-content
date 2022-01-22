@@ -3,7 +3,7 @@ title = "フリーカルチャーは反著作権です"
 description = "フリーカルチャー、クリエイティブ・コモンズ、オープンアクセス、オープンナレッジ、Libreコンテンツ、および関連するラベルは、反著作権を促進していますか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-12-16T10:21:27"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-12-16T10:21:27"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "free-culture-anti-copyright"

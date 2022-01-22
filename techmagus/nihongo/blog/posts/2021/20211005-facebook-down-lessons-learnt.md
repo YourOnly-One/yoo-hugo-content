@@ -3,7 +3,7 @@ title = "FacebookDownから学んだ教訓"
 description = "Facebook、Instagram、Messenger、WhatsAppの最長のダウンタイムからどのような教訓を学ぶ必要がありますか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-10-06T07:21:07"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-10-06T07:21:07"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "lessons-learned-facebook-down"

@@ -3,6 +3,7 @@ title = "퍼블릭 도메인의 파생물이 팬 픽션인가요?"
 description = "퍼블릭 도메인 저작물을 기반으로 한 파생 저작물은 팬픽이 아닙니다."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-04-07T18:53:01"
+lastmod = "2021-04-07T18:53:01"
 
 #aliases = [""]
 slug = "derivative public domain fanfiction"

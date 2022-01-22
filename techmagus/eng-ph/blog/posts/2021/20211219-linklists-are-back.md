@@ -3,7 +3,7 @@ title = "Linklists Are Back"
 description = "We are bringing back linklists and blogrolls!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-12-19T14:14:41"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-12-19T14:14:41"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "linklists-are-back"

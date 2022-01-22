@@ -3,7 +3,7 @@ title = "Feasts of Passover & Unleavened Bread"
 description = "The Feasts of Passover (Pesach) & Unleavened Bread (Matstsah) are the first two Feasts of the Most High, our Father Creator 𐤉𐤄𐤅𐤄 (YAHUAH)."  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2019-04-19T07:00:00"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2019-04-19T07:00:00"                          # manually adjust to local timezone
 
 aliases = ["/2019/04/feasts-passover-unleavened-bread.html"]
 slug = "Feasts of Passover and Unleavened Bread"

@@ -3,7 +3,7 @@ title = "Mars, A Beautiful Ruby Shines Tonight"
 description = "Planet Mars will shine as beautiful, rare ruby gem tonight.  Here's a simple guide on how you can spot it and have the best Mars experience on Earth…"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2009-12-31T13:05:01"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2009-12-31T13:05:01"                                        # manually adjust to local timezone
 
 aliases = ["/2009/12/mars-beautiful-ruby-shines-tonight.html"]
 slug = "mars-beautiful-ruby-tonight"

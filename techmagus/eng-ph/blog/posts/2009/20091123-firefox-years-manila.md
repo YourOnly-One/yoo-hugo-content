@@ -3,7 +3,7 @@ title = "[Event] 5 Years of Firefox in Manila"
 description = "An event report on the recently held 5 Years of Firefox in Manila celebration, organized by Mozilla Philippines headed by Regnard Raquedan."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2009-11-23T22:59:59"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2009-11-23T22:59:59"                                        # manually adjust to local timezone
 
 aliases = ["/2009/11/event-5-years-of-firefox-in-manila.html"]
 slug = "five-years-firefox-manila"

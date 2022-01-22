@@ -3,7 +3,7 @@ title = "Philippines Unicode Keyboard Layout for Linux Is Now Available!"
 description = "Filipino Linux users around the world can now download and use the first release of the Philippines Unicode Keyboard Layout."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2010-10-23T19:40:10"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2010-10-23T19:40:10"                                        # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-keyboard-linux.html"]
 slug = "philippines-baybayin-unicode-linux"

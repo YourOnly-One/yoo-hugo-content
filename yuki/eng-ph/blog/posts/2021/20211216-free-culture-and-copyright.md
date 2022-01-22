@@ -3,7 +3,7 @@ title = "Is Free Culture Anti-Copyright"
 description = "Is Free Culture, Creative Commons, Open Access, Open Knowledge, Libre Content, and related labels, promoting anti-Copyright?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-12-16T09:21:27"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-12-16T09:21:27"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "free-culture-anti-copyright"

@@ -3,7 +3,7 @@ title = "A Reminder from the President?"
 description = "President Duterte made comments about the G-d of the Bible which earned the ire of the people. I think he revealed something else."  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2018-06-30T10:23:33"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2018-06-30T10:23:33"                          # manually adjust to local timezone
 
 aliases = ["/2018/06/a-reminder-from-president.html"]
 slug = "A Reminder from the President?"

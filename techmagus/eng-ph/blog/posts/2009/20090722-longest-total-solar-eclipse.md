@@ -3,7 +3,7 @@ title = "Longest Total Solar Eclipse Report"
 description = "The July 22, 2009 Total Solar Eclipse was an experience to treasure - yes, even though from where I am it was only partial, about 49.5% here in Megapolitan ..."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2009-07-22T13:22:18"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2009-07-22T13:22:18"                                        # manually adjust to local timezone
 
 aliases = ["/2009/07/longest-total-solar-eclipse-report.html"]
 slug = "longest-total-solar-eclipse"

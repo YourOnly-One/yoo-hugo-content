@@ -3,7 +3,7 @@ title = "Butterflies in the Stomach Might Be Real"
 description = "Are butterflies in the stomach real? It might be according to a study."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-04-08T15:15:41"
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-04-08T15:15:41"
 
 #aliases = [""]
 slug = "Butterflies in Stomach Might Be Real"

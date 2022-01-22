@@ -3,7 +3,7 @@ title = "Song of Songs 4"
 description = "The Letter of King Solomon"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-03-03T21:48:15"
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-03-03T21:48:15"
 
 #aliases = [""]
 slug = "Song of Songs 4"

@@ -3,7 +3,7 @@ title = "YourOnly.Oneトップ映画2021年"
 description = "YourOnly.Oneトップ10映画2021年"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "youronlyone-top-movies-2021"
@@ -654,7 +654,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 ***スペーススウィーパー***は**Netflix**でのみ利用できます：[今すぐ見る](https://www.netflix.com/ph/title/81094067)。
 
 ### YourOnly.Oneレビュー
-*スペーススウィーパー*のレビューは別売りです：[スペーススウィーパーレビュー]({{< ref "/20210206-승리호-Space_Sweepers-(2021).md" >}} "スペーススウィーパーレビュー")。
+*スペーススウィーパー*のレビューは別売りです：[スペーススウィーパーレビュー]({{< ref "/20210206-space-sweepers-2021.md" >}} "スペーススウィーパーレビュー")。
 
 ## 特記
 ### 1. 砂丘（2021）

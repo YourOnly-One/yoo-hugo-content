@@ -3,7 +3,7 @@ title = "胸キュンは本物かもしれない"
 description = "胃の中の蝶は本物ですか？ 研究によるかもしれません。"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-04-08T16:15:41"
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-04-08T16:15:41"
 
 #aliases = [""]
 slug = "Butterflies in Stomach Might Be Real"

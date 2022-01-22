@@ -3,7 +3,7 @@ title = "How We Ought to Pray"
 description = "A study of the popularly known as The Lord's Prayer reveals how we ought to pray as, instructed by our Messiah himself. Simple yet effective."  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2017-04-06T00:49:20"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2017-04-06T00:49:20"                          # manually adjust to local timezone
 
 aliases = ["/2017/04/how-we-ought-to-pray.html"]
 slug = "How We Ought to Pray"

@@ -3,7 +3,7 @@ title = "The Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
 description = ""  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2020-04-07T03:27:17"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2020-04-07T03:27:17"                          # manually adjust to local timezone
 
 aliases = ["/2020/04/feast-yahuah-passover.html"]
 slug = "The Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"

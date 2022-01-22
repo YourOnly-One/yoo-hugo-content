@@ -3,7 +3,7 @@ title = "Lessons learnt from FacebookDown"
 description = "What lessons should we learn from the longest downtime of Facebook, Instagram, Messenger, and WhatsApp?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-10-06T06:21:07"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-10-06T06:21:07"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "lessons-learned-facebook-down"

@@ -3,7 +3,7 @@ title = "Stealing is Against the Law"
 description = "You shall not steal. The 8th commandment of YaHuWaH. Be it as small as 1¢, stealing is stealing. Simple but we transgress on this a lot of times!"  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-09-07T12:46:34"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-09-07T12:46:34"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/stealing-is-against-the-law.html"]
 slug = "Stealing is Against the Law"

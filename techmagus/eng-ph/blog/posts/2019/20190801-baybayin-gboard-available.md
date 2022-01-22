@@ -3,7 +3,7 @@ title = "(Updated) Baybayin in Gboard App Now Available!"
 description = "The wait was worth it as Google's Gboard team releases Baybayin-Buhid, Baybayin-Hanunoó, Baybayin-Tagalog, and Baybayin-Tagbanwa support!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2019-08-01T07:34:39"                                        # manually adjust to local timezone
-lastmod = "2021-09-27T12:22:40"                                     # manually adjust to local timezone
+lastmod = "2019-08-01T07:34:39"                                        # manually adjust to local timezone
 
 aliases = ["/2019/08/baybayin-gboard-now-available.html"]
 slug = "baybayin-gboard-available"

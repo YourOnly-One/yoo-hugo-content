@@ -3,7 +3,7 @@ title = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
 description = "The Order of Operations explained."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-08-15T09:40:35"
-#lastmod = "2021-09-10T23:40:10"
+lastmod = "2021-08-15T09:40:35"
 
 #aliases = [""]
 slug = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"

@@ -3,7 +3,7 @@ title = "[How-To] Implement Cross-Browser @font-face Support"
 description = "Do you want to make your site's font to show up the same across browsers and platforms? Use @font-face! Let me show you how."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2010-01-22T14:55:48"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2010-01-22T14:55:48"                                        # manually adjust to local timezone
 
 aliases = ["/2010/01/how-to-implement-cross-browser-font.html"]
 slug = "css-font-face-support"

@@ -3,7 +3,7 @@ title = "[How-To] Add DISQUS Manually on Blogger/BlogSpot"
 description = "A guide on how to add DISQUS comments in your Blogger Blogspot blog. This tutorial is for those using the XML template."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2008-05-23T12:12:48"                                        # manually adjust to local timezone
-lastmod = "2021-10-09T08:48:39"                                     # manually adjust to local timezone
+lastmod = "2008-05-23T12:12:48"                                        # manually adjust to local timezone
 
 aliases = ["/2008/05/how-to-add-disqus-manually-on-blogger.html"]
 slug = "add-disqus-blogger-blogspot"

@@ -3,7 +3,7 @@ title = "Browser Wars III: Blink vs Gecko Quantum"
 description = "Browser Wars 3 is not about Chromium and Firefox. The third Browser Wars is about the war between Blink and Gecko Quantum."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2018-12-10T06:54:23"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2018-12-10T06:54:23"                                        # manually adjust to local timezone
 
 aliases = ["/2018/12/browser-wars-3-blink-gecko-quantum.html"]
 slug = "browser-wars-3-blink-gecko"

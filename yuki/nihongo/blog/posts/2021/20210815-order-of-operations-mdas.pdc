@@ -3,6 +3,7 @@ title = "MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、GEMDASを正しく使用す�
 description = "演算の順序について説明しました。"  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-08-15T10:40:35"
+lastmod = "2021-08-15T10:40:35"
 
 #aliases = [""]
 slug = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"

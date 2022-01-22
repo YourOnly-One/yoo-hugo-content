@@ -3,7 +3,7 @@ title = "Contact Us"
 description = "YourOnly.One™ Contact Us"
 
 date = "2020-03-25T06:00:00"
-#lastmod = "{{ .Date }}"    # automatic, do not use unless necessary
+lastmod = "2020-03-25T06:00:00"
 
 #aliases = ["", ""]
 #slug = ""

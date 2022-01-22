@@ -3,7 +3,7 @@ title = "YourOnly.One Best 2022 New Year Celebrations"
 description = "Which 2022 New Year Celebrations were the best?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-01T22:59:59"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2022-01-01T22:59:59"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "2022-best-new-year"

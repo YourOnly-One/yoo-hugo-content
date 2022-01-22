@@ -3,7 +3,7 @@ title = "Google Public DNS vs. OpenDNS"
 description = "Google DNS vs. Open DNS, which is faster anyway? From where I am, Google DNS showed up as the winner. Test it yourself!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2009-12-07T17:43:23"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2009-12-07T17:43:23"                                        # manually adjust to local timezone
 
 aliases = ["/2009/12/google-public-dns-vs-opendns.html"]
 slug = "google-open-dns"

@@ -3,7 +3,7 @@ title = "A Rare New Year's Day Blue Moon"
 description = "An hour and thirteen minutes after Aseans and China welcomes the New Year 2010, we will be treated with a rare New Year's Day Blue Moon. No, Earth's Moon w…"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2009-12-31T13:07:59"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2009-12-31T13:07:59"                                        # manually adjust to local timezone
 
 aliases = ["/2009/12/a-rare-new-years-day-blue-moon.html"]
 slug = "rare-new-year-blue-moon"

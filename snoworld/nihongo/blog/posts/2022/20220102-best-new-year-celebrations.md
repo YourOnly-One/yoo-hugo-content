@@ -3,7 +3,7 @@ title = "YourOnly.One Best2022新年のお祝い"
 description = "どの2022年の新年のお祝いが最高でしたか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-01T23:59:59"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2022-01-01T23:59:59"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "2022-best-new-year"

@@ -3,7 +3,7 @@ title = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
 description = "Do you know the Name of your GOD? Did they tell you His Name is the LORD? Are you aware that GOD and LORD are not names? It's 𐤉𐤄𐤅𐤄!"  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2018-12-30T12:00:00"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2018-12-30T12:00:00"                          # manually adjust to local timezone
 
 aliases = ["/2018/12/it-is-all-about-yahuah.html"]
 slug = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"

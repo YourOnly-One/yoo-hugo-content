@@ -3,6 +3,7 @@ title = "Is a derivative of a Public Domain work, fanfiction?"
 description = "A derivative work based on a public domain work is not fanfiction."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-04-07T17:53:01"
+lastmod = "2021-04-07T17:53:01"
 
 #aliases = [""]
 slug = "derivative public domain fanfiction"

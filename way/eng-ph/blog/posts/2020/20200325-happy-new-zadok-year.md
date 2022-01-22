@@ -3,7 +3,7 @@ title = "Happy True New Year!"
 description = "March 25, 2020 is the True New Year! Happy New Year!"  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2020-03-25T21:32:17"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2020-03-25T21:32:17"                          # manually adjust to local timezone
 
 aliases = ["/2020/03/happy-true-new-year.html"]
 slug = "Happy True New Year!"

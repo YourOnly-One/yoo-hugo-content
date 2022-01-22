@@ -3,7 +3,7 @@ title = "Why You Should Verify Your Accounts through Keybase"
 description = "You should verify your official accounts through Keybase … here's how."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2020-06-09T00:11:48"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2020-06-09T00:11:48"                                        # manually adjust to local timezone
 
 aliases = ["/2020/06/verify-your-accounts-through-keybase.html"]
 slug = "verify-account-keybase"

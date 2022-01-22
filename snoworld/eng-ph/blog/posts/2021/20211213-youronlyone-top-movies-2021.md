@@ -3,7 +3,7 @@ title = "YourOnly.One Top Movies of 2021"
 description = "YourOnly.One Top 10 Movies of 2021"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-12-14T22:17:08"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-12-14T22:17:08"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "youronlyone-top-movies-2021"
@@ -654,7 +654,7 @@ Can you guess how many languages were spoken and nationalities represented in �
 ***Space Sweepers*** is available exclusively on **Netflix**: [watch it now](https://www.netflix.com/ph/title/81094067).
 
 ### YourOnly.One Review
-Our review of *Space Sweepers* is available separately: [Space Sweepers Review]({{< ref "/20210206-승리호-Space_Sweepers-(2021).md" >}} "Space Sweepers Review").
+Our review of *Space Sweepers* is available separately: [Space Sweepers Review]({{< ref "/20210206-space-sweepers-2021.md" >}} "Space Sweepers Review").
 
 ## Special mention
 ### 1. Dune (2021)

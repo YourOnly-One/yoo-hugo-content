@@ -8,7 +8,7 @@ videos = ["https://www.youtube.com/watch?v=cShMNxRJ27o"]                        
 #audio = [""]                                                       # og:audio
 
 date = "2020-09-23T21:15:00"
-#expiryDate = ""
+lastmod = "2020-09-23T21:15:00"
 
 #aliases = [""]
 slug = "26virtual Moscow, My First Half-marathon"

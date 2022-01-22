@@ -3,7 +3,7 @@ title = "7th: You Shall Not Commit Adultery"
 description = "In our continuing preparation for the  coming Day of Atonement, today's meditation is the 7th commandment: You shall not commit adultery."  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-09-06T12:47:55"                          # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-09-06T12:47:55"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/shall-not-commit-adultery.html"]
 slug = "7th: You Shall Not Commit Adultery"

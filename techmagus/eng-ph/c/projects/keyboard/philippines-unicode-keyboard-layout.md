@@ -3,7 +3,7 @@ title = "Philippines Unicode Keyboard Layout Intro"
 description = "The official page for the Philippines Unicode Keyboard Layout. For Linux and Windows!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2010-10-25T21:20:39"                                        # manually adjust to local timezone
-lastmod = "2021-10-10T18:54:42"                                     # manually adjust to local timezone
+lastmod = "2010-10-25T21:20:39"                                        # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-keyboard.html"]
 slug = "philippines-baybayin"

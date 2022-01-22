@@ -3,7 +3,7 @@ title = "LANG属性"
 description = "LANG属性は、Webサイトを設計する際の強力なコードです。 LANG属性を正しく使用する方法を紹介します。"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2009-06-21T01:20:37"                                        # manually adjust to local timezone
-lastmod = "2021-09-24T19:32:17"                                     # manually adjust to local timezone
+lastmod = "2009-06-21T01:20:37"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "lang-attribute"

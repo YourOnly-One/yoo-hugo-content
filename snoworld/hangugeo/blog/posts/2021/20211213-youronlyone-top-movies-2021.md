@@ -3,7 +3,7 @@ title = "YourOnly.One 2021년 최고의 영화"
 description = "YourOnly.One 2021년 최고의 영화 10편"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
-#lastmod = "2021-04-07T17:53:01"                                     # manually adjust to local timezone
+lastmod = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "youronlyone-top-movies-2021"
@@ -654,7 +654,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 ***Space Sweepers***는 **Netflix**에서만 사용할 수 있습니다. [지금 보기](https://www.netflix.com/ph/title/81094067).
 
 ### YourOnly.One 리뷰
-*Space Sweepers*에 대한 우리의 리뷰는 별도로 볼 수 있습니다: [Space Sweepers Review]({{< ref "/20210206-승리호-Space_Sweepers-(2021).md" >}} "Space Sweepers Review").
+*Space Sweepers*에 대한 우리의 리뷰는 별도로 볼 수 있습니다: [Space Sweepers Review]({{< ref "/20210206-space-sweepers-2021.md" >}} "Space Sweepers Review").
 
 ## 특별 언급
 ### 1. 듄 (2021)

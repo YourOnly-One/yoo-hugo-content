@@ -3,7 +3,7 @@ title = "[Video] Best Marriage Proposal of 2015 - 365 Day Proposal"
 description = "The best marriage proposal of 2015 is a 365 days proposal"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2016-02-23T14:53:50"
-#lastmod = "2021-04-07T17:53:01"                 # manually adjust to local timezone
+lastmod = "2016-02-23T14:53:50"
 
 #aliases = [""]
 slug = "Best Marriage Proposal of 2015 - 365 Day Proposal"
