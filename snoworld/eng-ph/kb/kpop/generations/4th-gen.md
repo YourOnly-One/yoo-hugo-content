@@ -135,13 +135,13 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 
 * Did you know?
   * ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
-    * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/3rd-gen.md#nu-est" >}} "NU'EST")***.[^a] [^b]
-  * **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08.[^c]
+    * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/3rd-gen.md#nu-est" >}} "NU'EST")***.[^tempest-01] [^tempest-02]
+  * **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08.[^tempest-03]
 * YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA)
 
-[^a]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest)
-[^b]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
-[^c]: NAVER News: [위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]](https://n.news.naver.com/entertain/now/article/311/0001308929)
+[^tempest-01]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest)
+[^tempest-02]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
+[^tempest-03]: NAVER News: [위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]](https://n.news.naver.com/entertain/now/article/311/0001308929)
 
 ### VIVIZ
 * Hangul: 비비지
@@ -151,7 +151,16 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
   * Song: TBA
 * Did you know?
   * The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/3rd-gen.md#gfriend" >}} "GFRIEND")***.
+* Instagram: [viviz_official](https://www.instagram.com/viviz_official/)
+* Twitter: [@VIVIZ](https://twitter.com/viviz_official)
 * YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/)
+
+### NMIXX
+* Debut: sometime February
+  * Song: TBA
+* Facebook: [NMIXX](https://facebook.com/NMIXXOfficial/)
+* Twitter: [@NMIXX_official](https://twitter.com/NMIXX_official)
+* YouTube: [NMIXX](https://www.youtube.com/c/NMIXXOfficial)
 
 -------
 
