@@ -296,13 +296,13 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 * Did you know?
-  * ***NU'EST*** was originally part of ***Pledis Boys***. It was split into two groups with the other named *Tempest* (*템페스트*)[^a] [^b] (not to be confused with **Yuehua Entertainment**'s ***[TEMPEST]({{< ref "/4th-gen.md#tempest" >}} "TEMPEST")***).
-    * *Tempest* disbanded before their debut due to the popularity of *NU'EST*.[^b]
+  * ***NU'EST*** was originally part of ***Pledis Boys***. It was split into two groups with the other named *Tempest* (*템페스트*)[^nuest-01] [^nuest-02] (not to be confused with **Yuehua Entertainment**'s ***[TEMPEST]({{< ref "/4th-gen.md#tempest" >}} "TEMPEST")***).
+    * *Tempest* disbanded before their debut due to the popularity of *NU'EST*.[^nuest-02]
   * As *Pledis Boys*, they were dubbed as After School Boys.
 * Wikipedia: [NU'EST](https://en.wikipedia.org/wiki/NU%27EST)
 
-[^a]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest)
-[^b]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
+[^nuest-01]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest)
+[^nuest-02]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
 
 ### EXO
 * Hangul: 엑소
