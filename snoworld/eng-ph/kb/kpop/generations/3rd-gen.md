@@ -27,7 +27,9 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_3rd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=g3wnue2ivNg", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=T3IlUKlThdY", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=L9ro1KjkJMg", "https://www.youtube.com/watch?v=gyXy0m-4bvE", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=EbSEw7kul5A", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=uOYrKOz88Uc", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=HHJB_Zbn-lQ", "https://www.youtube.com/watch?v=I5hiKaEUcBc", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=DBKESlZxl9M", "https://www.youtube.com/watch?v=Q54D7QkGOcQ", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=eKp5CAsKzmg", "https://www.youtube.com/watch?v=gMe1c4UegBY", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=VTV7N44iqOI", "https://www.youtube.com/watch?v=g3wnue2ivNg", "https://www.youtube.com/watch?v=Hrc1EPLCUW8", "https://www.youtube.com/watch?v=T3IlUKlThdY", "https://www.youtube.com/watch?v=MlCiM9bm-UQ", "https://www.youtube.com/watch?v=1VQ-OJ3vCn0", "https://www.youtube.com/watch?v=gfjf1I8mk94", "https://www.youtube.com/watch?v=L9ro1KjkJMg", "https://www.youtube.com/watch?v=gyXy0m-4bvE", "https://www.youtube.com/watch?v=KH6ZwnqZ7Wo", "https://www.youtube.com/watch?v=eQ9sTtXSDwo", "https://www.youtube.com/watch?v=e5KOIrBcwj8", "https://www.youtube.com/watch?v=Q9Cq5m_uu0M", "https://www.youtube.com/watch?v=EbSEw7kul5A", "https://www.youtube.com/watch?v=rBG5L7UsUxA", "https://www.youtube.com/watch?v=GZ_LCa6X5LM", "https://www.youtube.com/watch?v=D15-XYRubsc", "https://www.youtube.com/watch?v=S7hOmBSCtIA", "https://www.youtube.com/watch?v=-xaVqMCS_KM", "https://www.youtube.com/watch?v=gEqlF5N8UMs", "https://www.youtube.com/watch?v=vQIfXg7UukI", "https://www.youtube.com/watch?v=YXGVpjqIopE", "https://www.youtube.com/watch?v=GU7icQFVzHo", "https://www.youtube.com/watch?v=3qmsJbJasfo", "https://www.youtube.com/watch?v=WLeFYKDtw1I", "https://www.youtube.com/watch?v=9rUFQJrCT7M", "https://www.youtube.com/watch?v=ZS6vfv4sszg", "https://www.youtube.com/watch?v=vYkGpOeqp4g", "https://www.youtube.com/watch?v=QRcrEidaSGQ", "https://www.youtube.com/watch?v=NCVwGm6In5o", "https://www.youtube.com/watch?v=mh_uesmAWAA", "https://www.youtube.com/watch?v=uOYrKOz88Uc", "https://www.youtube.com/watch?v=pB9gafSNJNY", "https://www.youtube.com/watch?v=tu-8AJBqUm8", "https://www.youtube.com/watch?v=jxKIOhAwrik", "https://www.youtube.com/watch?v=Zv1K-ZtPQfs", "https://www.youtube.com/watch?v=EHgeGRU3wDI", "https://www.youtube.com/watch?v=8n7qIFevh94", "https://www.youtube.com/watch?v=2xxo9ZtS0Bc", "https://www.youtube.com/watch?v=z4rAyp01n1s", "https://www.youtube.com/watch?v=LpSH8MrYCfg", "https://www.youtube.com/watch?v=HHJB_Zbn-lQ", "https://www.youtube.com/watch?v=I5hiKaEUcBc", "https://www.youtube.com/watch?v=yuPVSvtrUfk", "https://www.youtube.com/watch?v=m8EUx9Itrd4", "https://www.youtube.com/watch?v=5xBNro6otb0", "https://www.youtube.com/watch?v=oDhUiQBI_xw", "https://www.youtube.com/watch?v=eZRmP-l3Nz0", "https://www.youtube.com/watch?v=qDmO3SwMx4Y", "https://www.youtube.com/watch?v=uR2GNipmkxU", "https://www.youtube.com/watch?v=5A9EMLrURS8", "https://www.youtube.com/watch?v=KAXWhITwJp8", "https://www.youtube.com/watch?v=D1hWFlHRRas", "https://www.youtube.com/watch?v=aV87Og9XQnM", "https://www.youtube.com/watch?v=DBKESlZxl9M", "https://www.youtube.com/watch?v=Q54D7QkGOcQ", "https://www.youtube.com/watch?v=2xU2PyI-sEI", "https://www.youtube.com/watch?v=JtQlgdN-onM", "https://www.youtube.com/watch?v=pAnK1y7qjuE", "https://www.youtube.com/watch?v=yc0cBe6Kq9g", "https://www.youtube.com/watch?v=ESKfHHtiSjs", "https://www.youtube.com/watch?v=JSAfPh1A25E", "https://www.youtube.com/watch?v=2S2KnnPKDjQ", "https://www.youtube.com/watch?v=PXE2Ykf8fXQ", "https://www.youtube.com/watch?v=eKp5CAsKzmg", "https://www.youtube.com/watch?v=gMe1c4UegBY", "https://www.youtube.com/watch?v=Ky5RT5oGg0w", "https://www.youtube.com/watch?v=nQ6wLuYvGd4", "https://www.youtube.com/watch?v=MPvVZNYt0k0", "https://www.youtube.com/watch?v=--FmExEAsM8"]                                                       # used by og:video, etc.
+
+type = "sitepage"                                                           # article, sitepage, review
 
 #draft = true
 
@@ -929,6 +931,43 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 
 * Wikipedia: [Fromis 9](https://en.wikipedia.org/wiki/Fromis_9 "Fromis 9")
 
+### The Boyz
+* Hangul: 더보이즈
+* Fandom name: The B (더비)
+* Debut: 2017-10-12 first song release
+  * Song: I'm Your Boy
+
+{{< video
+  id="m8EUx9Itrd4"
+  title="[Special Clip] THE BOYZ(더보이즈)_I’m Your Boy"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2017-10-12"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
+* Debut: 2017-12-06 first album release
+  * Song: Boy
+
+{{< video
+  id="5xBNro6otb0"
+  title="[HOT] THE BOYZ - Boy, 더보이즈 - 소년 20171209"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2017-12-09"
+  licensecode="allrightsreserved"
+  attribto="MBCkpop"
+  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
+>}}
+
+* Did you Know?
+  * They were formerly known as *Cre.kerz*.
+* Wikipedia: [The Boyz (South Korean band)](https://en.wikipedia.org/wiki/The_Boyz_(South_Korean_band))
+
 ## 2018
 ### Stray Kids
 * Hangul: 스트레이 키즈
@@ -1184,6 +1223,28 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 * Wikipedia: [SuperM](https://en.wikipedia.org/wiki/SuperM "SuperM")
 
 ## 2020
+### Weeekly
+* Hangul: 위클리
+* Fandom name: Daileee
+* Debut: 2020-06-30
+  * Song: Tag Me (@Me)
+
+{{< video
+  id="yc0cBe6Kq9g"
+  title="[Weeekly - Weeekly Day+Tag Me(@Me)] Hot Debut Stage"
+  caption="M COUNTDOWN 200702 EP.672"
+  inlanguage=""
+  datecreated=""
+  datepublished="2020-07-02"
+  licensecode="allrightsreserved"
+  attribto="Mnet K-POP"
+  attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
+>}}
+
+* Did you know?
+  * Their temporary name was *FAVE GIRLS*, then *PlayM Girls*. It wasn't until 2020-05-11 they finally settled on ***Weeekly***.
+* Wikipedia: [Weeekly](https://en.wikipedia.org/wiki/Weeekly)
+
 ### SSAK3
 * Hangul: 싹쓰리
 * Debut: 2020-07-25
@@ -1222,6 +1283,28 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 >}}
 
 * Wikipedia: [Treasure (band)](https://en.wikipedia.org/wiki/Treasure_(band) "Treasure (band)")
+
+### WEi
+* Hangul: 위아이
+* Fandom name: RUi (루아이)
+* Debut: 2020-10-05
+  * Song: Twilight
+
+{{< video
+  id="2S2KnnPKDjQ"
+  title="[WEi - TWILIGHT] Hot Debut Stage | KPOP TV Show"
+  caption="M COUNTDOWN 201008 EP.685"
+  inlanguage=""
+  datecreated=""
+  datepublished="2020-10-08"
+  licensecode="allrightsreserved"
+  attribto="Mnet K-POP"
+  attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
+>}}
+
+* Did you know?
+  * Their project name was *OUIBOYS*.
+* Wikipedia: [WEi](https://en.wikipedia.org/wiki/WEi)
 
 ### Refund Sisters
 * Hangul: 환불원정대
@@ -1339,6 +1422,27 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 * Wikipedia: [Enhypen](https://en.wikipedia.org/wiki/Enhypen "Enhypen")
 
 ## 2021
+### EPEX
+* Hangul: 이펙스
+* Also known as: Eight Apex
+* Fandom name: ZENITH
+* Debut: 2021-06-08
+  * Song: Lock Down
+
+{{< video
+  id="MPvVZNYt0k0"
+  title="[최초공개] EPEX (이펙스) - Lock Down | EPEX DEBUT SHOW : Prelude"
+  caption="Mnet 210608 방송"
+  inlanguage=""
+  datecreated=""
+  datepublished="2021-06-08"
+  licensecode="allrightsreserved"
+  attribto="M2"
+  attriburl="https://www.youtube.com/channel/UCTQVIXvcHrR9jYoJ6qaBAow"
+>}}
+
+* Wikipedia: [Epex](https://en.wikipedia.org/wiki/Epex)
+
 ### IVE
 * Hangul: 아이브
 * Fandom name: DIVE
