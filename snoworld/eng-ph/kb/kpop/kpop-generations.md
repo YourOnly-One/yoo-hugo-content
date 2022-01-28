@@ -55,14 +55,14 @@ For an objective approach in K-pop Generations, we should avoid using any criter
 To define this, we have to ask these questions.
 
 ### When did modern K-pop started?
-Fortunately this is well-documented: it started in 1992 with the first ever boy group called ***Seo Taiji & Boys*** (***서태지와 아이들***). Their experimentation with different styles and genres of music and integration of foreign musical elements helped reshape and modernize South Korea's contemporary music scene.[^a]
+Fortunately this is well-documented: it started in 1992 with the first ever boy group called ***Seo Taiji & Boys*** (***서태지와 아이들***). Their experimentation with different styles and genres of music and integration of foreign musical elements helped reshape and modernize South Korea's contemporary music scene. [^wikipedia-kpop]
 
-[^a]: Wikipedia: [K-pop](https://en.wikipedia.org/wiki/K-pop)
+[^wikipedia-kpop]: Wikipedia: [K-pop](https://en.wikipedia.org/wiki/K-pop "K-pop")
 
 ### When did the 1st Generation end?
 The next step is identifying when the 1st Generation of modern K-pop music ended. This is tricky because we can easily fall into a subjective approach. To help avoid this, let's define what a "generation" is.
 
-One definition of a "generation" is "people within a delineated population who experience the same significant events within a given period of time", according to Jane Pilcher's paper entitled *[Mannheim's Sociology of Generations: An undervalued legacy](https://doi.org/10.2307/591659)* published in **The British Journal of Sociology** in September 1994. This is a common method in defining a generation, examples are: *Baby Boomers*, *Generation X*, *Generation Y*, *Generation Z*, and *Millennials*; and not everyone agrees as to when each generation starts and ends.
+One definition of a "generation" is "people within a delineated population who experience the same significant events within a given period of time", according to Jane Pilcher's paper entitled *[Mannheim's Sociology of Generations: An undervalued legacy](https://doi.org/10.2307/591659 "Mannheim's Sociology of Generations: An undervalued legacy")* published in **The British Journal of Sociology** in September 1994. This is a common method in defining a generation, examples are: *Baby Boomers*, *Generation X*, *Generation Y*, *Generation Z*, and *Millennials*; and not everyone agrees as to when each generation starts and ends.
 
 Let's find another method we can use.
 
