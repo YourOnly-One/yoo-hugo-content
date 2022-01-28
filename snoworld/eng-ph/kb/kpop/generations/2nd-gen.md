@@ -1150,6 +1150,81 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Wikipedia: [Rainbow (girl group)](https://en.wikipedia.org/wiki/Rainbow_(girl_group))
 
 ## 2010
+### BéBé Mignon
+* Hangul: 베베 미뇽
+* Debut: 2010-09-06
+  * Song: 키도 작고, 예쁘지 않지만… (I'm Short and Not Pretty But…)
+* Wikipedia: [베베 미뇽](https://ko.wikipedia.org/wiki/베베_미뇽)
+
+### Ben
+* Hangul: 벤
+* Also known as: 이은영 (Lee Eun Young)
+* Debut: 2010 as a member of ***[BéBé Mignon]({{< ref "/1st-gen.md#bebe-mignon" >}} "BéBé Mignon")***
+* Debut: 2012-10-10 as solo act
+  * Song: 오늘은 가지마 (Don't Go Today)
+
+{{< video
+  id="E8eZ_mB5Uzo"
+  title="Ben - Don't go today, 벤 - 오늘은 가지마"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2014-11-14"
+  licensecode="allrightsreserved"
+  attribto="MBCkpop"
+  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
+>}}
+
+* Sample songs: Starlight Heart OST for *The Red Sleeve*; Whenever Wherever Whatever OST for *Alice*; Like A Dream OST for *Another Miss Oh*; STAY OST for *Oh My Ghostess*
+
+{{< video
+  id="vQqlziUYay4"
+  title="Ben (벤) - Starlight Heart (잠들지 않는 별) The Red Sleeve (옷소매 붉은 끝동) OST Part 2 Lyrics/가사 [Han|Rom|Eng]"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2021-11-28"
+  licensecode="allrightsreserved"
+  attribto="AlphaSubs"
+  attriburl="https://www.youtube.com/channel/UCDkKuGZovR6UUYkUgtW0FlQ"
+>}}
+{{< video
+  id="ScyKzjPfpHk"
+  title="[MV] 벤 - Whenever Wherever Whatever [앨리스 OST Part.2 (Alice OST Part.2)]"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2020-09-04"
+  licensecode="allrightsreserved"
+  attribto="VLENDING 블렌딩"
+  attriburl="https://www.youtube.com/channel/UCxOZuUWuWhnsJqnlTcLlSYg"
+>}}
+{{< video
+  id="LcPN92043ds"
+  title="Ben (벤) - 꿈처럼 (Like a Dream) FMV"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2016-05-12"
+  licensecode="allrightsreserved"
+  attribto="mong september"
+  attriburl="https://www.youtube.com/channel/UCobOgGtvuIQY--ARRBJxxIA"
+>}}
+{{< video
+  id="jE3QbJG1Oj0"
+  title="[FMV] Ben – STAY (Oh My Ghost OST)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2015-12-14"
+  licensecode="allrightsreserved"
+  attribto="Eugene"
+  attriburl="https://www.youtube.com/channel/UCTEad0hnzF7rjHGf_MD5Wwg"
+>}}
+
+* Did you know?
+* Wikipedia: [Ben (South Korean singer)](https://en.wikipedia.org/wiki/Ben_(South_Korean_singer))
+
 ### ZE:A
 * Hangul: 제국의 아이들
 * Also known as: Children of Empire
