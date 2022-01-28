@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=Thds7IYKH34", "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=9JBq45FKfvk", "https://www.youtube.com/watch?v=hY8ZPvupO14", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=iwoOdNsBmOE", "https://www.youtube.com/watch?v=E8eZ_mB5Uzo", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=Thds7IYKH34", "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=4Iov70BaXM4", "https://www.youtube.com/watch?v=VwIiIhhlhDw", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=9JBq45FKfvk", "https://www.youtube.com/watch?v=hY8ZPvupO14", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=iwoOdNsBmOE", "https://www.youtube.com/watch?v=E8eZ_mB5Uzo", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -892,6 +892,53 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 >}}
 
 * Wikipedia: [Sistar](https://en.wikipedia.org/wiki/Sistar "Sistar")
+
+### Hyolyn
+* Hangul: 효린
+* Also known as: 김효정 (Kim Hyo-jung)
+* Fandom name: BAE
+* Debut: 2010-06-03 as a member of ***[SISTAR]({{< ref "/2nd-gen.md#sistar" >}} "SISTAR")***
+* Debut: 2013 August as first solo act
+  * Song: 미치게 만들어 (Crazy of You) OST for *Master's Sun*
+
+{{< video
+  id="4Iov70BaXM4"
+  title="[MV] Hyolin(효린) (Sistar) _ Crazy of you(미치게 만들어) (Master`s sun(주군의 태양) OST Part.3)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2013-09-04"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
+* Debut: 2013-11-26 first solo album
+  * Song: Lonely
+
+{{< video
+  id="VwIiIhhlhDw"
+  title="[Solo Debut] HYOLYN - Lonely, 효린 - 론니, Show Music core 20131130"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2013-11-30"
+  licensecode="allrightsreserved"
+  attribto="MBCkpop"
+  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
+>}}
+
+* Sample songs:
+  * Always [^hyolyn-songs-always] OST for *Live Up To Your Name, Dr. Heo*
+  * I Miss You [^hyolyn-songs-i-miss-you] OST for *Uncontrollably Fond*
+  * Good bye [^hyolyn-songs-good-bye] OST for *My Love From the Star*
+  * Let It Go [^hyolyn-songs-let-it-go] OST for *Frozen* (Hangugeo)
+* Wikipedia: [Hyolyn](https://en.wikipedia.org/wiki/Hyolyn)
+
+[^hyolyn-songs-always]: [Hyolyn] YouTube: [[명불허전 OST Part 2] 효린 (Hyolyn) - ALWAYS MV](https://www.youtube.com/watch?v=r5VgR6oZwKI "[명불허전 OST Part 2] 효린 (Hyolyn) - ALWAYS MV")
+[^hyolyn-songs-i-miss-you]: [Hyolyn] YouTube: [[MV] Hyolin(효린) _ I Miss You(보고싶어) (Uncontrollably Fond(함부로 애틋하게) OST Part.5)](https://www.youtube.com/watch?v=F9rnTne_Lxw "[MV] Hyolin(효린) _ I Miss You(보고싶어) (Uncontrollably Fond(함부로 애틋하게) OST Part.5)")
+[^hyolyn-songs-good-bye]: [Hyolyn] YouTube: [[MV] Hyolyn(효린) _ Good bye(안녕) (My Love From the Star(별에서 온 그대) OST Part 4)](https://www.youtube.com/watch?v=CYyD1cQoIJY "[MV] Hyolyn(효린) _ Good bye(안녕) (My Love From the Star(별에서 온 그대) OST Part 4)")
+[^hyolyn-songs-let-it-go]: [Hyolyn] YouTube: [[겨울왕국] '오늘도 또 들으러 왔어요' 한 번만 들은 사람은 없다는 효린의 Let It Go | 디즈니OST](https://www.youtube.com/watch?v=7tQ_K_Bst2Y "[겨울왕국] '오늘도 또 들으러 왔어요' 한 번만 들은 사람은 없다는 효린의 Let It Go | 디즈니OST")
 
 ### INFINITE
 * Hangul: 인피니트
