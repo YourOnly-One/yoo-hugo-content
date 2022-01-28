@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_4th_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=uBY1AoiF5Vo", "https://www.youtube.com/watch?v=Zzl9eAcI1lk"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=uBY1AoiF5Vo", "https://www.youtube.com/watch?v=Zzl9eAcI1lk", "https://www.youtube.com/watch?v=yhCb3nEqxrQ"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -76,7 +76,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
   attriburl="https://www.youtube.com/channel/UCcdX97nVNsZgAA0NxvHnU9w"
 >}}
 
-* Wikipedia: [Got the Beat](https://en.wikipedia.org/wiki/Got_the_Beat)
+* Wikipedia: [Got the Beat](https://en.wikipedia.org/wiki/Got_the_Beat "Got the Beat")
 
 ### Kep1er
 * Hangul: 케플러
@@ -96,7 +96,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
   attriburl="https://www.youtube.com/channel/UCTQVIXvcHrR9jYoJ6qaBAow"
 >}}
 
-* Wikipedia: [Kep1er](https://en.wikipedia.org/wiki/Kep1er)
+* Wikipedia: [Kep1er](https://en.wikipedia.org/wiki/Kep1er "Kep1er")
 
 ### TEMPEST
 * Hangul: 템페스트
@@ -119,29 +119,18 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 
 * Debut: 2022-02-21
   * Song: TBA
-* Sample covers: HIT by ***[SEVENTEEN]({{< ref "/3rd-gen.md#seventeen" >}} "SEVENTEEN")***
-
-{{< video
-  id="G7VsjectIzo"
-  title="Covered by TPST｜SEVENTEEN - HIT"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2022-01-13"
-  licensecode="allrightsreserved"
-  attribto="TEMPEST"
-  attriburl="https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA"
->}}
-
+* Sample covers:
+  * *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN]({{< ref "/3rd-gen.md#seventeen" >}} "SEVENTEEN")***
 * Did you know?
   * ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
-    * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/3rd-gen.md#nu-est" >}} "NU'EST")***.[^tempest-01] [^tempest-02]
-  * **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08.[^tempest-03]
-* YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA)
+    * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/3rd-gen.md#nu-est" >}} "NU'EST")***. [^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts]
+  * **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08. [^naver-news-tempest-tpst-trademarked]
+* YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA "TEMPEST")
 
-[^tempest-01]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest)
-[^tempest-02]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/)
-[^tempest-03]: NAVER News: [위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]](https://n.news.naver.com/entertain/now/article/311/0001308929)
+[^tempest-cover-hit-seventeen]: [TEMPEST] YouTube: [Covered by TPST｜SEVENTEEN - HIT](https://www.youtube.com/watch?v=G7VsjectIzo "Covered by TPST｜SEVENTEEN - HIT")
+[^soompi-8-things-you-need-to-know-about-nuest]: Soompi: [8 Things You Need To Know About NU'EST](https://www.soompi.com/article/1000181wpp/8-important-things-need-know-nuest "8 Things You Need To Know About NU'EST")
+[^kprofiles-tempest-profile-and-facts]: KProfiles: [TEMPEST Profile and Facts](https://kprofiles.com/tempest-profile-facts/ "TEMPEST Profile and Facts")
+[^naver-news-tempest-tpst-trademarked]: NAVER News: [위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]](https://n.news.naver.com/entertain/now/article/311/0001308929 "위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]")
 
 ### VIVIZ
 * Hangul: 비비지
@@ -151,16 +140,16 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
   * Song: TBA
 * Did you know?
   * The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/3rd-gen.md#gfriend" >}} "GFRIEND")***.
-* Instagram: [viviz_official](https://www.instagram.com/viviz_official/)
-* Twitter: [@VIVIZ](https://twitter.com/viviz_official)
-* YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/)
+* Instagram: [viviz_official](https://www.instagram.com/viviz_official/ "viviz_official")
+* Twitter: [@VIVIZ](https://twitter.com/viviz_official "@VIVIZ")
+* YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/ "VIVIZ")
 
 ### NMIXX
 * Debut: sometime February
   * Song: TBA
-* Facebook: [NMIXX](https://facebook.com/NMIXXOfficial/)
-* Twitter: [@NMIXX_official](https://twitter.com/NMIXX_official)
-* YouTube: [NMIXX](https://www.youtube.com/c/NMIXXOfficial)
+* Facebook: [NMIXX](https://facebook.com/NMIXXOfficial/ "NMIXX")
+* Twitter: [@NMIXX_official](https://twitter.com/NMIXX_official "@NMIXX_official")
+* YouTube: [NMIXX](https://www.youtube.com/c/NMIXXOfficial "NMIXX")
 
 -------
 
@@ -170,7 +159,7 @@ Or check the other generations!
 * [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
 * [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
 * [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
-* You are here: 4th Generation: 2022–2031
+* 4th Generation: 2022–2031 👈🏽 You are here
 
 -------
 

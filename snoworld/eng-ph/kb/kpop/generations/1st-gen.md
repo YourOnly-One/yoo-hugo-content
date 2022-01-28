@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_1st_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=OEDHEzs5kyk", "https://www.youtube.com/watch?v=zEx_sjAkT5Y", "https://www.youtube.com/watch?v=nrNx1NuDAGs", "https://www.youtube.com/watch?v=JaKZel1Ijfo", "https://www.youtube.com/watch?v=Wqu7X_aMA3c", "https://www.youtube.com/watch?v=bwr1dfTyhhY", "https://www.youtube.com/watch?v=WruayckJTMY", "https://www.youtube.com/watch?v=mxD4dd75_YU", "https://www.youtube.com/watch?v=1mWCan2qb_U", "https://www.youtube.com/watch?v=P61ndtsw8x4", "https://www.youtube.com/watch?v=bQxSnvda0vs", "https://www.youtube.com/watch?v=CwuTCJ1WpJY", "https://www.youtube.com/watch?v=WqDfAtSxf0o", "https://www.youtube.com/watch?v=Yq8coViLkVo", "https://www.youtube.com/watch?v=vcDvdtAl4rg", "https://www.youtube.com/watch?v=R9sLJJtoiRo", "https://www.youtube.com/watch?v=Kh-AMnZojcE", "https://www.youtube.com/watch?v=ZlRYeom9Szc", "https://www.youtube.com/watch?v=8uiR4SrDGZk", "https://www.youtube.com/watch?v=Lfgg_AVzyIg", "https://www.youtube.com/watch?v=ExNuwh4Kq5Q", "https://www.youtube.com/watch?v=PZ-rMQtWoTc", "https://www.youtube.com/watch?v=GaW8CGJfEa4", "https://www.youtube.com/watch?v=iKdr44yEBQU", "https://www.youtube.com/watch?v=3eHi8VHKymo", "https://www.youtube.com/watch?v=evb-3W3Wnls", "https://www.youtube.com/watch?v=BZAbbYVH1EQ", "https://www.youtube.com/watch?v=DfslE2pbmCk", "https://www.youtube.com/watch?v=ceZc-5p3g1w", "https://www.youtube.com/watch?v=D3IDK_R1LTg", "https://www.youtube.com/watch?v=M48JMEkiu3Q", "https://www.youtube.com/watch?v=skbnuIhVQUA", "https://www.youtube.com/watch?v=PQjovLrnvVo", "https://www.youtube.com/watch?v=2pB0zurYJAc", "https://www.youtube.com/watch?v=9bZkp7q19f0", "https://www.youtube.com/watch?v=mZcYcS2x0rA", "https://www.youtube.com/watch?v=QoRs_lwwW8E", "https://www.youtube.com/watch?v=tbsvXAxGPQU"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=OEDHEzs5kyk", "https://www.youtube.com/watch?v=zEx_sjAkT5Y", "https://www.youtube.com/watch?v=nrNx1NuDAGs", "https://www.youtube.com/watch?v=JaKZel1Ijfo", "https://www.youtube.com/watch?v=Wqu7X_aMA3c", "https://www.youtube.com/watch?v=bwr1dfTyhhY", "https://www.youtube.com/watch?v=WruayckJTMY", "https://www.youtube.com/watch?v=mxD4dd75_YU", "https://www.youtube.com/watch?v=1mWCan2qb_U", "https://www.youtube.com/watch?v=P61ndtsw8x4", "https://www.youtube.com/watch?v=bQxSnvda0vs", "https://www.youtube.com/watch?v=CwuTCJ1WpJY", "https://www.youtube.com/watch?v=WqDfAtSxf0o", "https://www.youtube.com/watch?v=Yq8coViLkVo", "https://www.youtube.com/watch?v=vcDvdtAl4rg", "https://www.youtube.com/watch?v=R9sLJJtoiRo", "https://www.youtube.com/watch?v=Kh-AMnZojcE", "https://www.youtube.com/watch?v=ZlRYeom9Szc", "https://www.youtube.com/watch?v=Lfgg_AVzyIg", "https://www.youtube.com/watch?v=ExNuwh4Kq5Q", "https://www.youtube.com/watch?v=PZ-rMQtWoTc", "https://www.youtube.com/watch?v=GaW8CGJfEa4", "https://www.youtube.com/watch?v=iKdr44yEBQU", "https://www.youtube.com/watch?v=3eHi8VHKymo", "https://www.youtube.com/watch?v=evb-3W3Wnls", "https://www.youtube.com/watch?v=BZAbbYVH1EQ", "https://www.youtube.com/watch?v=DfslE2pbmCk", "https://www.youtube.com/watch?v=2pB0zurYJAc", "https://www.youtube.com/watch?v=mZcYcS2x0rA", "https://www.youtube.com/watch?v=QoRs_lwwW8E"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -75,9 +75,9 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Also known for:
-  * Starting the modern K-pop music
-  * The first modern K-pop boy group
-* Wikipedia: [Seo Taiji and Boys](https://en.wikipedia.org/wiki/Seo_Taiji_and_Boys)
+  * Starting the modern K-pop music.
+  * The first modern K-pop boy group.
+* Wikipedia: [Seo Taiji and Boys](https://en.wikipedia.org/wiki/Seo_Taiji_and_Boys "Seo Taiji and Boys")
 
 ## 1993
 ### Uhm Jung Hwa
@@ -98,7 +98,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
-* Wikipedia: [Uhm Jung-hwa](https://en.wikipedia.org/wiki/Uhm_Jung-hwa)
+* Wikipedia: [Uhm Jung-hwa](https://en.wikipedia.org/wiki/Uhm_Jung-hwa "Uhm Jung-hwa")
 
 ### Deux
 * Hangul: 듀스
@@ -117,7 +117,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCN-F1myCRkQ1kygS_QmlsPw"
 >}}
 
-* Wikipedia: [Deux (band)](https://en.wikipedia.org/wiki/Deux_(band))
+* Wikipedia: [Deux (band)](https://en.wikipedia.org/wiki/Deux_(band) "Deux (band)")
 
 ### Solid
 * Hangul: 솔리드
@@ -136,7 +136,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCvZTXXJF4E3fUjTH2luN7HQ"
 >}}
 
-* Wikipedia: [Solid (band)](https://en.wikipedia.org/wiki/Solid_(band))
+* Wikipedia: [Solid (band)](https://en.wikipedia.org/wiki/Solid_(band) "Solid (band)")
 
 ## 1994
 ### Jinu
@@ -158,7 +158,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Debut: 1997-03-01 as a member of ***[JINUSEAN]({{< ref "/1st-gen.md#jinusean" >}} "JINUSEAN")***
-* Wikipedia: [Jinu](https://en.wikipedia.org/wiki/Jinu)
+* Wikipedia: [Jinu](https://en.wikipedia.org/wiki/Jinu "Jinu")
 
 ### JYP
 * Hangul: 박진영
@@ -179,7 +179,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCmZ19AIj_wcpwRcqG7p9L8g"
 >}}
 
-* Wikipedia: [Park Jin-young](https://en.wikipedia.org/wiki/Park_Jin-young)
+* Wikipedia: [Park Jin-young](https://en.wikipedia.org/wiki/Park_Jin-young "Park Jin-young")
 
 ## 1995
 ### Turbo
@@ -199,7 +199,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [Turbo (South Korean band)](https://en.wikipedia.org/wiki/Turbo_(South_Korean_band))
+* Wikipedia: [Turbo (South Korean band)](https://en.wikipedia.org/wiki/Turbo_(South_Korean_band) "Turbo (South Korean band)")
 
 ### Kim Jong Kook
 * Hangul: 김종국
@@ -223,7 +223,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 * Also known for:
   * *Running Man* host
   * Bodybuilder
-* Wikipedia: [Kim Jong-kook](https://en.wikipedia.org/wiki/Kim_Jong-kook)
+* Wikipedia: [Kim Jong-kook](https://en.wikipedia.org/wiki/Kim_Jong-kook "Kim Jong-kook")
 
 ## 1996
 ### H.O.T.
@@ -245,7 +245,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [H.O.T.](https://en.wikipedia.org/wiki/H.O.T.)
+* Wikipedia: [H.O.T.](https://en.wikipedia.org/wiki/H.O.T. "H.O.T.")
 
 ## 1997
 ### Uptown
@@ -265,7 +265,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCbbGk2N-k-JIImLgLoxxfqA"
 >}}
 
-* Wikipedia: [Uptown (band)](https://en.wikipedia.org/wiki/Uptown_(band))
+* Wikipedia: [Uptown (band)](https://en.wikipedia.org/wiki/Uptown_(band) "Uptown (band)")
 
 ### Yoo Seung Jun
 * Hangul: 유승준
@@ -285,7 +285,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [Yoo Seung-jun](https://en.wikipedia.org/wiki/Yoo_Seung-jun)
+* Wikipedia: [Yoo Seung-jun](https://en.wikipedia.org/wiki/Yoo_Seung-jun "Yoo Seung-jun")
 
 ### JINUSEAN
 * Hangul: 지누션
@@ -304,7 +304,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
 
-* Wikipedia: [Jinusean](https://en.wikipedia.org/wiki/Jinusean)
+* Wikipedia: [Jinusean](https://en.wikipedia.org/wiki/Jinusean "Jinusean")
 
 ### Sechs Kies
 * Hangul: 젝스키스
@@ -325,8 +325,8 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Did you know?
-  * They pioneered the *idol fandom* culture
-* Wikipedia: [Sechs Kies](https://en.wikipedia.org/wiki/Sechs_Kies)
+  * They pioneered the *idol fandom* culture.
+* Wikipedia: [Sechs Kies](https://en.wikipedia.org/wiki/Sechs_Kies "Sechs Kies")
 
 ### Haha
 * Hangul: 하하
@@ -349,10 +349,10 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 * Debut: 2012-07-30 as a member of ***RGP*** (***레게 강 같은 평화***; ***Reggae Peace like a River***)
 * Did you know?
-  * He is married to K-pop singer, ***[Byul]({{< ref "/2nd-gen.md#byul" >}} "Byul")***
-  * He is a *Running Man* host
-  * He is an *Infinite Challenge* host
-* Wikipedia: [Haha (entertainer)](https://en.wikipedia.org/wiki/Haha_(entertainer))
+  * He is married to K-pop singer, ***[Byul]({{< ref "/2nd-gen.md#byul" >}} "Byul")***.
+  * He is a *Running Man* host.
+  * He is an *Infinite Challenge* host.
+* Wikipedia: [Haha (entertainer)](https://en.wikipedia.org/wiki/Haha_(entertainer) "Haha (entertainer)")
 
 ### Baby V.O.X.
 * Hangul: 베이비복스
@@ -373,9 +373,9 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Did you know?
-  * They were the first modern K-pop girl group
-  * They were also the first modern K-pop girl group to break into the Chinese market
-* Wikipedia: [Baby Vox](https://en.wikipedia.org/wiki/Baby_Vox)
+  * They were the first modern K-pop girl group.
+  * They were also the first modern K-pop girl group to break into the Chinese market.
+* Wikipedia: [Baby Vox](https://en.wikipedia.org/wiki/Baby_Vox "Baby Vox")
 
 ### DIVA
 * Hangul: 디바
@@ -394,7 +394,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [Diva (South Korean group)](https://en.wikipedia.org/wiki/Diva_(South_Korean_group))
+* Wikipedia: [Diva (South Korean group)](https://en.wikipedia.org/wiki/Diva_(South_Korean_group) "Diva (South Korean group)")
 
 ### NRG
 * Hangul: 엔알지
@@ -415,7 +415,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [NRG (South Korean band)](https://en.wikipedia.org/wiki/NRG_(South_Korean_band))
+* Wikipedia: [NRG (South Korean band)](https://en.wikipedia.org/wiki/NRG_(South_Korean_band) "NRG (South Korean band)")
 
 ### S.E.S.
 * Hangul: 에스이에스
@@ -436,21 +436,13 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Sample songs: Dreams Come True (Korean version of *Rakastuin mä looseriin* by Finnish girl group ***Nylon Beat***)
+* Sample songs:
+  * Dreams Come True [^ses-songs-dreams-come-true], Korean version of *Rakastuin mä looseriin* [^nylon-beat-songs-like-a-fool] by Finnish girl group ***Nylon Beat*** [^nylon-beat-wikipedia].
+* Wikipedia: [S.E.S. (group)](https://en.wikipedia.org/wiki/S.E.S._(group) "S.E.S. (group)")
 
-{{< video
-  id="8uiR4SrDGZk"
-  title="S.E.S. 'Dreams Come True' MV"
-  caption="📺 Remastered MV release ▶ SMTOWN channel"
-  inlanguage=""
-  datecreated=""
-  datepublished="2021-11-11"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-
-* Wikipedia: [S.E.S. (group)](https://en.wikipedia.org/wiki/S.E.S._(group))
+[^ses-songs-dreams-come-true]: [S.E.S.] YouTube: [S.E.S. 'Dreams Come True' MV](https://www.youtube.com/watch?v=8uiR4SrDGZk "S.E.S. 'Dreams Come True' MV")
+[^nylon-beat-songs-like-a-fool]: [Nylon Beat] YouTube: [Nylon Beat - Rakastuin mä looseriin -live (27.1.1996)](https://www.youtube.com/watch?v=NRSfVvgzPIE "Nylon Beat - Rakastuin mä looseriin -live (27.1.1996)")
+[^nylon-beat-wikipedia]: [Nylon Beat] Wikipedia: [Nylon Beat](https://en.wikipedia.org/wiki/Nylon_Beat "Nylon Beat")
 
 ## 1998
 ### Rain
@@ -473,7 +465,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/3rd-gen.md#ssak3" >}} "SSAK3")***
-* Wikipedia: [Rain (entertainer)](https://en.wikipedia.org/wiki/Rain_(entertainer))
+* Wikipedia: [Rain (entertainer)](https://en.wikipedia.org/wiki/Rain_(entertainer) "Rain (entertainer)")
 
 ### Shinhwa
 * Hangul: 신화
@@ -493,7 +485,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCRCDZZc0klnxxP2j85zcegw"
 >}}
 
-* Wikipedia: [Shinhwa](https://en.wikipedia.org/wiki/Shinhwa)
+* Wikipedia: [Shinhwa](https://en.wikipedia.org/wiki/Shinhwa "Shinhwa")
 
 ### Fin.K.L
 * Hangul: 핑클
@@ -525,7 +517,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCBq4QYwE_xydwlb2PBbzotA"
 >}}
 
-* Wikipedia: [Fin.K.L](https://en.wikipedia.org/wiki/Fin.K.L)
+* Wikipedia: [Fin.K.L](https://en.wikipedia.org/wiki/Fin.K.L "Fin.K.L")
 
 ### Lee Hyo Ri
 * Hangul: 이효리
@@ -547,7 +539,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/3rd-gen.md#ssak3" >}} "SSAK3")***
-* Wikipedia: [Lee Hyori](https://en.wikipedia.org/wiki/Lee_Hyori)
+* Wikipedia: [Lee Hyori](https://en.wikipedia.org/wiki/Lee_Hyori "Lee Hyori")
 
 ### 1TYM
 * Hangul: 원타임
@@ -567,7 +559,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
 
-* Wikipedia: [1TYM](https://en.wikipedia.org/wiki/1TYM)
+* Wikipedia: [1TYM](https://en.wikipedia.org/wiki/1TYM "1TYM")
 
 ## 1999
 ### g.o.d.
@@ -590,8 +582,8 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 >}}
 
 * Did you know?
-  * They were originally to be named as *GOT6*
-* Wikipedia: [g.o.d](https://en.wikipedia.org/wiki/G.o.d)
+  * They were originally to be named as *GOT6*.
+* Wikipedia: [g.o.d](https://en.wikipedia.org/wiki/G.o.d "g.o.d")
 
 ### Drunken Tiger
 * Hangul: 드렁큰 타이거
@@ -610,7 +602,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCWEQ6O7_0apU5d4pb-xYMag"
 >}}
 
-* Wikipedia: [Drunken Tiger](https://en.wikipedia.org/wiki/Drunken_Tiger)
+* Wikipedia: [Drunken Tiger](https://en.wikipedia.org/wiki/Drunken_Tiger "Drunken Tiger")
 
 ## 2000
 ### BoA
@@ -631,66 +623,20 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
 
-* Sample songs: No.1; Every Heart-ミンナノキモチ-; Milky Way; Atlantis Princess; Only One
-
-{{< video
-  id="ceZc-5p3g1w"
-  title="BoA 보아 'No.1' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2009-09-24"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-{{< video
-  id="D3IDK_R1LTg"
-  title="Every Heart-ミンナノキモチ- / BoA"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2015-06-30"
-  licensecode="allrightsreserved"
-  attribto="avex"
-  attriburl="https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ"
->}}
-{{< video
-  id="M48JMEkiu3Q"
-  title="BoA 보아 'Milky Way' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2009-09-25"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-{{< video
-  id="skbnuIhVQUA"
-  title="BoA 보아 '아틀란티스 소녀 (Atlantis Princess)' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2009-09-25"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-{{< video
-  id="PQjovLrnvVo"
-  title="BoA 보아 'Only One' MV (Dance ver.)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-07-22"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-
+* Sample songs:
+  * No.1 [^boa-songs-no-1]
+  * Every Heart-ミンナノキモチ- [^boa-songs-every-heart]
+  * Milky Way [^boa-songs-milky-way]
+  * Atlantis Princess [^boa-songs-atlantis-princess]
+  * Only One [^boa-songs-only-one]
 * Debut: 2022-01-01 as a member of ***[GOT the beat]({{< ref "/4th-gen.md#got-the-beat" >}} "GOT the beat")*** a subgroup of supergroup ***[Girls On Top]({{< ref "/4th-gen.md#girls-on-top" >}} "Girls On Top")***
-* Wikipedia: [BoA](https://en.wikipedia.org/wiki/BoA)
+* Wikipedia: [BoA](https://en.wikipedia.org/wiki/BoA "BoA")
+
+[^boa-songs-no-1]: [BoA] YouTube: [BoA 보아 'No.1' MV](https://www.youtube.com/watch?v=ceZc-5p3g1w "BoA 보아 'No.1' MV")
+[^boa-songs-every-heart]: [BoA] YouTube: [Every Heart-ミンナノキモチ- / BoA]((https://www.youtube.com/watch?v=D3IDK_R1LTg "Every Heart-ミンナノキモチ- / BoA")
+[^boa-songs-milky-way]: [BoA] YouTube: [BoA 보아 'Milky Way' MV](https://www.youtube.com/watch?v=M48JMEkiu3Q "BoA 보아 'Milky Way' MV")
+[^boa-songs-atlantis-princess]: [BoA] YouTube: [BoA 보아 '아틀란티스 소녀 (Atlantis Princess)' MV](https://www.youtube.com/watch?v=skbnuIhVQUA "BoA 보아 '아틀란티스 소녀 (Atlantis Princess)' MV")
+[^boa-songs-only-one]: [BoA] YouTube: [BoA 보아 'Only One' MV (Dance ver.)](https://www.youtube.com/watch?v=PQjovLrnvVo "BoA 보아 'Only One' MV (Dance ver.)")
 
 ## 2001
 ### PSY
@@ -712,21 +658,11 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCrDkAvwZum-UTjHmzDI2iIw"
 >}}
 
-* Sample songs: 강남스타일 (Gangnam Style)
+* Sample songs:
+  * 강남스타일 (Gangnam Style) [^psy-songs-gangnam-style]
+* Wikipedia: [Psy](https://en.wikipedia.org/wiki/Psy "Psy")
 
-{{< video
-  id="9bZkp7q19f0"
-  title="PSY - GANGNAM STYLE(강남스타일) M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-07-15"
-  licensecode="allrightsreserved"
-  attribto="officialpsy"
-  attriburl="https://www.youtube.com/channel/UCrDkAvwZum-UTjHmzDI2iIw"
->}}
-
-* Wikipedia: [Psy](https://en.wikipedia.org/wiki/Psy)
+[^psy-songs-gangnam-style]: [PSY] YouTube: [PSY - GANGNAM STYLE(강남스타일) M/V](https://www.youtube.com/watch?v=9bZkp7q19f0 "PSY - GANGNAM STYLE(강남스타일) M/V")
 
 ### Jewelry
 * Hangul: 쥬얼리
@@ -746,7 +682,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UC0W-n4sel1fDbO7kGz7D9WA"
 >}}
 
-* Wikipedia: [Jewelry (group)](https://en.wikipedia.org/wiki/Jewelry_(group))
+* Wikipedia: [Jewelry (group)](https://en.wikipedia.org/wiki/Jewelry_(group) "Jewelry (group)")
 
 ### Jang Na Ra
 * Hangul: 장나라
@@ -766,28 +702,22 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Sample songs: 스윗 드림 (Sweet Dream)
+* Sample songs:
+  * 스윗 드림 (Sweet Dream) [^jang-na-ra-songs-sweet-dream]
+  * Someday [^jang-na-ra-songs-someday] OST for *Your House Helper*
+  * calling love [^jang-na-ra-songs-calling-love]
+* Wikipedia: [Jang Na-ra](https://en.wikipedia.org/wiki/Jang_Na-ra "Jang Na-ra")
 
-{{< video
-  id="tbsvXAxGPQU"
-  title="음악캠프 - Jang Nara - Sweet Dream, 장나라 - 스윗 드림"
-  caption="Music Camp 20021026"
-  inlanguage=""
-  datecreated=""
-  datepublished=""
-  licensecode="allrightsreserved"
-  attribto="MBCkpop"
-  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
->}}
-
-* Wikipedia: [Jang Na-ra](https://en.wikipedia.org/wiki/Jang_Na-ra)
+[^jang-na-ra-songs-sweet-dream]: [Jang Na Ra] YouTube: [음악캠프 - Jang Nara - Sweet Dream, 장나라 - 스윗 드림, Music Camp 20021026](https://www.youtube.com/watch?v=tbsvXAxGPQU "음악캠프 - Jang Nara - Sweet Dream, 장나라 - 스윗 드림, Music Camp 20021026")
+[^jang-na-ra-songs-someday]: [Jang Na Ra] YouTube: [[MV] 장나라(Jang Nara) - Someday [당신의 하우스헬퍼 OST Part.4 (Your House Helper OST Part.4)]](https://www.youtube.com/watch?v=y6j1nIHZhYA "[MV] 장나라(Jang Nara) - Someday [당신의 하우스헬퍼 OST Part.4 (Your House Helper OST Part.4)]")
+[^jang-na-ra-songs-calling-love]: [Jang Na Ra] YouTube: [Jang Nara - Calling love, 장나라 - 사랑 부르기, Music Core 20070224](https://www.youtube.com/watch?v=RzZvC1R_X-Y "Jang Nara - Calling love, 장나라 - 사랑 부르기, Music Core 20070224")
 
 -------
 
 Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
 
 Or check the other generations!
-* You are here: 1st Generation: 1992–2001
+* 1st Generation: 1992–2001 👈🏽 You are here
 * [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
 * [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
 * [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")

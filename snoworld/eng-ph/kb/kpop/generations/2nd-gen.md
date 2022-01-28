@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=LlCblnuBkjg", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=ToASX6axGuw", "https://www.youtube.com/watch?v=846jDdHYxPM", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=U7mPqycQ0tQ", "https://www.youtube.com/watch?v=6SwiSpudKWI", "https://www.youtube.com/watch?v=TGbwL8kSpEk", "https://www.youtube.com/watch?v=q_gfD3nvh-8", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=Yq8uM9-uJ_M", "https://www.youtube.com/watch?v=BA7fdSkp8ds", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=o7OkV7QCRgc", "https://www.youtube.com/watch?v=GYjjpO781q4", "https://www.youtube.com/watch?v=PvsAVpvZj_A", "https://www.youtube.com/watch?v=u427qFG9WY8", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=KgrB2KBZws4", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=QZfhC7gQJgo", "https://www.youtube.com/watch?v=ks8bcUeRHL8", "https://www.youtube.com/watch?v=LDywzzjBfZk", "https://www.youtube.com/watch?v=o_nxIQTM_B0", "https://www.youtube.com/watch?v=bMOUP3ZpcUc", "https://www.youtube.com/watch?v=JtFI8dtPvxI", "https://www.youtube.com/watch?v=sqgxcCjD04s", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=4MgAxMO1KD0", "https://www.youtube.com/watch?v=ZAqiMCp9zrI", "https://www.youtube.com/watch?v=5n4V3lGEyG4", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=-KFpL9DUyms", "https://www.youtube.com/watch?v=tTd9Gna50ls", "https://www.youtube.com/watch?v=g3uIdA2IiKw", "https://www.youtube.com/watch?v=nyGxdCivBig", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=als-8K2vYBo", "https://www.youtube.com/watch?v=_yM86BVV7VM", "https://www.youtube.com/watch?v=sKCCfdi4YU4", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=n8I8QGFA1oM", "https://www.youtube.com/watch?v=Thds7IYKH34" "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=dBR0oEUIoGI", "https://www.youtube.com/watch?v=zO9RzrhYR-I", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=b34ri3-uxks", "https://www.youtube.com/watch?v=C4P96KzHmao", "https://www.youtube.com/watch?v=KcjGxAbeoc0", "https://www.youtube.com/watch?v=e48D3KtPOb0", "https://www.youtube.com/watch?v=B0Ij_eTECXc", "https://www.youtube.com/watch?v=ZEE3x_X4Cbw", "https://www.youtube.com/watch?v=RUUI0PilSiE", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=9PXLIgGqpeE", "https://www.youtube.com/watch?v=fqR2HGkjFCA", "https://www.youtube.com/watch?v=zVO5xTAbxm8", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=hspqQuuuGIw", "https://www.youtube.com/watch?v=K5H-GvnNz2Y"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=Thds7IYKH34", "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=9JBq45FKfvk", "https://www.youtube.com/watch?v=hY8ZPvupO14", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=iwoOdNsBmOE", "https://www.youtube.com/watch?v=E8eZ_mB5Uzo", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -74,23 +74,13 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Sample songs: 내가 정말 사랑하는 사람이 있죠 (Dear My Love) OST for *When the Weather Is Fine*
-
-{{< video
-  id="LlCblnuBkjg"
-  title="별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2020-03-31"
-  licensecode="allrightsreserved"
-  attribto="GENIE MUSIC"
-  attriburl="https://www.youtube.com/channel/UCd-OrgPLrnQiQBcq19j5oEQ"
->}}
-
+* Sample songs:
+  * 내가 정말 사랑하는 사람이 있죠 (Dear My Love) [^byul-songs-dear-my-love] OST for *When the Weather Is Fine*
 * Did you know?
-  * She married K-pop and variety show star, ***[Haha]({{< ref "/1st-gen.md#haha" >}} "Haha")***
-* Wikipedia: [Byul](https://en.wikipedia.org/wiki/Byul)
+  * She married K-pop and variety show star, ***[Haha]({{< ref "/1st-gen.md#haha" >}} "Haha")***.
+* Wikipedia: [Byul](https://en.wikipedia.org/wiki/Byul "Byul")
+
+[^byul-songs-dear-my-love]: [Byul] YouTube: [별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V](https://www.youtube.com/watch?v=LlCblnuBkjg "별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V")
 
 ## 2003
 ### Gummy
@@ -110,31 +100,13 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
 
-* Sample songs: You Are My Everything OST for *Descendants of the Sun*; 기억해줘요 내 모든 날과 그때를 (Remember Me) OST for *Hotel del Luna*
+* Sample songs:
+  * You Are My Everything [^gummy-songs-you-are-my-everything] OST for *Descendants of the Sun*
+  * 기억해줘요 내 모든 날과 그때를 (Remember Me) [^gummy-songs-remember-me] OST for *Hotel del Luna*
+* Wikipedia: [Gummy (singer)](https://en.wikipedia.org/wiki/Gummy_(singer) "Gummy (singer)")
 
-{{< video
-  id="ToASX6axGuw"
-  title="[MV] Gummy(거미) - You Are My Everything l 태양의 후예 OST Part.4"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2016-03-09"
-  licensecode="allrightsreserved"
-  attribto="MUSIC&NEW 뮤직앤뉴"
-  attriburl="https://www.youtube.com/channel/UCyLHKUjX_fy8akafmRMr-PA"
->}}
-{{< video
-  id="846jDdHYxPM"
-  title="[MV] 거미 (GUMMY) - Remember me (기억해줘요 내 모든 날과 그때를) (Hotel Del Luna (호텔 델루나) OST Part.7)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2021-10-01"
-  licensecode="allrightsreserved"
-  attribto="DOM 덤스튜디오"
-  attriburl="https://www.youtube.com/channel/UC4ulGP7S0wzT7pogzzBIhjg"
->}}
-* Wikipedia: [Gummy (singer)](https://en.wikipedia.org/wiki/Gummy_(singer))
+[^gummy-songs-you-are-my-everything]: [Gummy] YouTube: [[MV] Gummy(거미) - You Are My Everything l 태양의 후예 OST Part.4](https://www.youtube.com/watch?v=ToASX6axGuw "[MV] Gummy(거미) - You Are My Everything l 태양의 후예 OST Part.4")
+[^gummy-songs-remember-me]: [Gummy] YouTube: [[MV] 거미 (GUMMY) - Remember me (기억해줘요 내 모든 날과 그때를) (Hotel Del Luna (호텔 델루나) OST Part.7)](https://www.youtube.com/watch?v=846jDdHYxPM "[MV] 거미 (GUMMY) - Remember me (기억해줘요 내 모든 날과 그때를) (Hotel Del Luna (호텔 델루나) OST Part.7)")
 
 ### Se7en
 * Hangul: 세븐
@@ -154,7 +126,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
 >}}
 
-* Wikipedia: [Seven (South Korean singer)](https://en.wikipedia.org/wiki/Seven_(South_Korean_singer))
+* Wikipedia: [Seven (South Korean singer)](https://en.wikipedia.org/wiki/Seven_(South_Korean_singer) "Seven (South Korean singer)")
 
 ## 2004
 ### TVXQ!
@@ -177,7 +149,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
 
-* Wikipedia: [TVXQ](https://en.wikipedia.org/wiki/TVXQ)
+* Wikipedia: [TVXQ](https://en.wikipedia.org/wiki/TVXQ "TVXQ")
 
 ## 2005
 ### SS501
@@ -199,7 +171,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [SS501](https://en.wikipedia.org/wiki/SS501)
+* Wikipedia: [SS501](https://en.wikipedia.org/wiki/SS501 "SS501")
 
 ### Jessi
 * Hangul: 제시
@@ -222,7 +194,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Debut: 2006 as a member of ***[Uptown]({{< ref "/1st-gen.md#uptown" >}} "Uptown")***
 * Debut: 2014-07-17 as a member of ***[Lucky J]({{< ref "/3rd-gen.md#lucky-j" >}} "Lucky J")***
 * Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
-* Wikipedia: [Jessi (musician)](https://en.wikipedia.org/wiki/Jessi_(musician))
+* Wikipedia: [Jessi (musician)](https://en.wikipedia.org/wiki/Jessi_(musician) "Jessi (musician)")
 
 ### Super Junior
 * Hangul: 슈퍼주니어
@@ -245,8 +217,8 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 >}}
 
 * Did you know?
-  * They were called the King of Hallyu Wave
-* Wikipedia: [Super Junior](https://en.wikipedia.org/wiki/Super_Junior)
+  * They were called the King of Hallyu Wave.
+* Wikipedia: [Super Junior](https://en.wikipedia.org/wiki/Super_Junior "Super Junior")
 
 ## 2006
 ### Brown Eyed Girls
@@ -269,7 +241,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCepFAcPmJZz46lJN5gdv1Cg"
 >}}
 
-* Wikipedia: [Brown Eyed Girls](https://en.wikipedia.org/wiki/Brown_Eyed_Girls)
+* Wikipedia: [Brown Eyed Girls](https://en.wikipedia.org/wiki/Brown_Eyed_Girls "Brown Eyed Girls")
 
 ### BIGBANG
 * Hangul: 빅뱅
@@ -290,8 +262,8 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 >}}
 
 * Did you know?
-  * They were called the Kings of K-Pop
-* Wikipedia: [Big Bang (band)](https://en.wikipedia.org/wiki/Big_Bang_(band))
+  * They were called the Kings of K-Pop.
+* Wikipedia: [Big Bang (band)](https://en.wikipedia.org/wiki/Big_Bang_(band) "Big Bang (band)")
 
 ## 2007
 ### KARA
@@ -313,7 +285,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
 
-* Wikipedia: [Kara (South Korean group)](https://en.wikipedia.org/wiki/Kara_(South_Korean_group))
+* Wikipedia: [Kara (South Korean group)](https://en.wikipedia.org/wiki/Kara_(South_Korean_group) "Kara (South Korean group)")
 
 ### F.T. Island
 * Hangul: 에프티 아일랜드; FT아일랜드
@@ -334,7 +306,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
 
-* Wikipedia: [F.T. Island](https://en.wikipedia.org/wiki/F.T._Island)
+* Wikipedia: [F.T. Island](https://en.wikipedia.org/wiki/F.T._Island "F.T. Island")
 
 ### Girls' Generation
 * Hangul: 소녀시대
@@ -356,56 +328,19 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
 
-* Sample songs: Gee; Genie; Oh!; Run Devil Run
-
-{{< video
-  id="U7mPqycQ0tQ"
-  title="Girls' Generation 소녀시대 'Gee' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2009-06-08"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-{{< video
-  id="6SwiSpudKWI"
-  title="Girls' Generation 소녀시대 '소원을 말해봐 (Genie)' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2010-02-25"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-{{< video
-  id="TGbwL8kSpEk"
-  title="Girls' Generation 소녀시대 'Oh!' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2010-01-27"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-{{< video
-  id="q_gfD3nvh-8"
-  title="Girls' Generation 소녀시대 'Run Devil Run' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2010-03-17"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-
+* Sample songs:
+  * Gee [^girls-generation-songs-gee]
+  * Genie [^girls-generation-songs-genie]
+  * Oh! [^girls-generation-songs-oh]
+  * Run Devil Run [^girls-generation-songs-run-devil-run]
 * Did you know?
-  * They were called as The Nation's Girl Group
-* Wikipedia: [Girls' Generation](https://en.wikipedia.org/wiki/Girls%27_Generation)
+  * They were called as The Nation's Girl Group.
+* Wikipedia: [Girls' Generation](https://en.wikipedia.org/wiki/Girls%27_Generation "Girls' Generation")
+
+[^girls-generation-songs-gee]: [Girls' Generation] YouTube: [Girls' Generation 소녀시대 'Gee' MV](https://www.youtube.com/watch?v=U7mPqycQ0tQ "Girls' Generation 소녀시대 'Gee' MV")
+[^girls-generation-songs-genie]: [Girls' Generation] YouTube: [Girls' Generation 소녀시대 '소원을 말해봐 (Genie)' MV](https://www.youtube.com/watch?v=6SwiSpudKWI "Girls' Generation 소녀시대 '소원을 말해봐 (Genie)' MV")
+[^girls-generation-songs-oh]: [Girls' Generation] YouTube: [Girls' Generation 소녀시대 'Oh!' MV](https://www.youtube.com/watch?v=TGbwL8kSpEk "Girls' Generation 소녀시대 'Oh!' MV")
+[^girls-generation-songs-run-devil-run]: [Girls' Generation] YouTube: [Girls' Generation 소녀시대 'Run Devil Run' MV](https://www.youtube.com/watch?v=q_gfD3nvh-8 "Girls' Generation 소녀시대 'Run Devil Run' MV")
 
 ### WONDER GIRLS
 * Hangul: 원더걸스
@@ -425,34 +360,15 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCTE8ueKNA54RcO6MgXif2Tg"
 >}}
 
-* Sample songs: Nobody
-
-{{< video
-  id="Yq8uM9-uJ_M"
-  title="【TVPP】Wonder Girls - Nobody, 원더걸스 - 노바디 @ Comeback Stage"
-  caption="Show! Music core"
-  inlanguage=""
-  datecreated=""
-  datepublished="2015-08-25"
-  licensecode="allrightsreserved"
-  attribto="TV-People"
-  attriburl="https://www.youtube.com/channel/UC1cWTErb7vw_UmmuB0dYgsQ"
->}}
-{{< video
-  id="BA7fdSkp8ds"
-  title="Wonder Girls NOBODY (Eng. Ver) M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2009-07-28"
-  licensecode="allrightsreserved"
-  attribto="wondergirls"
-  attriburl="https://www.youtube.com/channel/UCTE8ueKNA54RcO6MgXif2Tg"
->}}
-
+* Sample songs:
+  * Nobody [^wonder-girls-songs-nobody]
+  * Nobody (English) [^wonder-girls-songs-nobody-english]
 * Did you know?
-  * Their internationally hit song, *Nobody* (2008; 2009), is still referred to by international fans as the song which made the word "K-pop" known all over
-* Wikipedia: [Wonder Girls](https://en.wikipedia.org/wiki/Wonder_Girls)
+  * Their internationally hit song, *Nobody* (2008; 2009), is still referred to by international fans as the song which made the word "K-pop" known all over.
+* Wikipedia: [Wonder Girls](https://en.wikipedia.org/wiki/Wonder_Girls "Wonder Girls")
+
+[^wonder-girls-songs-nobody]: [WONDER GIRLS] YouTube: [【TVPP】Wonder Girls - Nobody, 원더걸스 - 노바디 @ Comeback Stage, Show! Music core](https://www.youtube.com/watch?v=Yq8uM9-uJ_M "【TVPP】Wonder Girls - Nobody, 원더걸스 - 노바디 @ Comeback Stage, Show! Music core")
+[^wonder-girls-songs-nobody-english]: [WONDER GIRLS] YouTube: [Wonder Girls 'NOBODY (Eng. Ver)' M/V](https://www.youtube.com/watch?v=BA7fdSkp8ds "Wonder Girls 'NOBODY (Eng. Ver)' M/V")
 
 ### SUPERNOVA
 * Hangul: 슈퍼노바
@@ -475,7 +391,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [Supernova (South Korean group)](https://en.wikipedia.org/wiki/Supernova_(South_Korean_group))
+* Wikipedia: [Supernova (South Korean group)](https://en.wikipedia.org/wiki/Supernova_(South_Korean_group) "Supernova (South Korean group)")
 
 ## 2008
 ### Davichi
@@ -496,54 +412,17 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
 
-* Sample songs: 그대를 잊는다는 건 (Forgetting You) OST for *Moon Lovers: Scarlet Heart Ryeo*; 오늘도 그리워 그리워 (Today I Miss You Too) OST for *While You Were Sleeping*; 꿈처럼 내린 (Falling In Love) OST for *The Beauty Inside*; Please Don't Cry OST for *The King: Eternal Monarch*
+* Sample songs:
+  * 그대를 잊는다는 건 (Forgetting You) [^davichi-songs-forgetting-you] OST for *[Moon Lovers: Scarlet Heart Ryeo]({{< ref "/20210103-moon-lovers-scarlet-heart-ryeo-2016.md" >}} "")*
+  * 오늘도 그리워 그리워 (Today I Miss You Too) [^davichi-songs-today-i-miss-you-too] OST for *[While You Were Sleeping]({{< ref "/20201224-while-you-were-sleeping-2017.md" >}} "")*
+  * 꿈처럼 내린 (Falling In Love) [^davichi-songs-falling-in-love] OST for *The Beauty Inside*
+  * Please Don't Cry OST [^davichi-songs-please-dont-cry] for *[The King: Eternal Monarch]({{< ref "/20210124-the-king-eternal-monarch-2020.md" >}} "")*
+* Wikipedia: [Davichi](https://en.wikipedia.org/wiki/Davichi "Davichi")
 
-{{< video
-  id="o7OkV7QCRgc"
-  title="달의 연인 - 보보경심 려 OST - Davichi 다비치 'Forgetting You' 그대를 잊는다는 건"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2016-10-24"
-  licensecode="allrightsreserved"
-  attribto="Seoul Kat"
-  attriburl="https://www.youtube.com/channel/UC6oiqQhM3b9FSbH5vF3bKMA"
->}}
-{{< video
-  id="GYjjpO781q4"
-  title="[MV] DAVICHI (다비치) - Today I Miss You (While You Were Sleeping OST Part.7) 당신이 잠든 사이에 OST Part.7"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2017-10-19"
-  licensecode="allrightsreserved"
-  attribto="DOM 덤스튜디오"
-  attriburl="https://www.youtube.com/channel/UC4ulGP7S0wzT7pogzzBIhjg"
->}}
-{{< video
-  id="PvsAVpvZj_A"
-  title="[MV] Davichi (다비치) - Falling In Love (꿈처럼 내린) | Beauty Inside 뷰티 인사이드 OST"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2018-10-17"
-  licensecode="allrightsreserved"
-  attribto="MUSIC&NEW 뮤직앤뉴"
-  attriburl="https://www.youtube.com/channel/UCyLHKUjX_fy8akafmRMr-PA"
->}}
-{{< video
-  id="u427qFG9WY8"
-  title="[더 킹 : 영원의 군주 OST Part 6] 다비치 (DAVICHI) - Please Don't Cry MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2020-05-03"
-  licensecode="allrightsreserved"
-  attribto="Stone Music Entertainment"
-  attriburl="https://www.youtube.com/channel/UC_pwIXKXNm5KGhdEVzmY60A"
->}}
-
-* Wikipedia: [Davichi](https://en.wikipedia.org/wiki/Davichi)
+[^davichi-songs-forgetting-you]: [Davichi] YouTube: [달의 연인 - 보보경심 려 OST - Davichi 다비치 'Forgetting You' 그대를 잊는다는 건](https://www.youtube.com/watch?v=o7OkV7QCRgc "달의 연인 - 보보경심 려 OST - Davichi 다비치 'Forgetting You' 그대를 잊는다는 건")
+[^davichi-songs-today-i-miss-you-too]: [Davichi] YouTube: [[MV] DAVICHI (다비치) - Today I Miss You (While You Were Sleeping OST Part.7) 당신이 잠든 사이에 OST Part.7](https://www.youtube.com/watch?v=GYjjpO781q4 "[MV] DAVICHI (다비치) - Today I Miss You (While You Were Sleeping OST Part.7) 당신이 잠든 사이에 OST Part.7")
+[^davichi-songs-falling-in-love]: [Davichi] YouTube: [[MV] Davichi (다비치) - Falling In Love (꿈처럼 내린) | Beauty Inside 뷰티 인사이드 OST](https://www.youtube.com/watch?v=PvsAVpvZj_A "[MV] Davichi (다비치) - Falling In Love (꿈처럼 내린) | Beauty Inside 뷰티 인사이드 OST")
+[^davichi-songs-please-dont-cry]: [Davichi] YouTube: [[더 킹 : 영원의 군주 OST Part 6] 다비치 (DAVICHI) - Please Don't Cry MV](https://www.youtube.com/watch?v=u427qFG9WY8 "[더 킹 : 영원의 군주 OST Part 6] 다비치 (DAVICHI) - Please Don't Cry MV")
 
 ### 2AM
 * Hangul: 투에이엠
@@ -564,8 +443,8 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 >}}
 
 * Did you know?
-  * They were originally a ten-member group called ***One Day*** together with 2PM
-* Wikipedia: [2AM (band)](https://en.wikipedia.org/wiki/2AM_(band))
+  * They were originally a ten-member group called ***One Day*** together with 2PM.
+* Wikipedia: [2AM (band)](https://en.wikipedia.org/wiki/2AM_(band) "2AM (band)")
 
 ### SHINee
 * Hangul: 샤이니
@@ -587,8 +466,8 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 >}}
 
 * Did you know?
-  * They were called the Princes of K-pop
-* Wikipedia: [Shinee](https://en.wikipedia.org/wiki/Shinee)
+  * They were called the Princes of K-pop.
+* Wikipedia: [Shinee](https://en.wikipedia.org/wiki/Shinee "Shinee")
 
 ### Taemin
 * Hangul: 태민
@@ -610,8 +489,8 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 * Debut: 2019-08 as a member of supergroup ***[SuperM]({{< ref "/3rd-gen.md#superm" >}} "SuperM")***
 * Did you know?
-  * He was dubbed the Idol's Idol
-* Wikipedia: [Lee Tae-min](https://en.wikipedia.org/wiki/Lee_Tae-min)
+  * He was dubbed the Idol's Idol.
+* Wikipedia: [Lee Tae-min](https://en.wikipedia.org/wiki/Lee_Tae-min "Lee Tae-min")
 
 ### 2PM
 * Hangul: 투피엠
@@ -631,23 +510,13 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
 >}}
 
-* Sample songs: Hands Up
-
-{{< video
-  id="KgrB2KBZws4"
-  title="2PM HANDS UP M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2011-06-20"
-  licensecode="allrightsreserved"
-  attribto="2PM"
-  attriburl="https://www.youtube.com/channel/UCBpzJvEhkemwMOkYLq9yUsA"
->}}
-
+* Sample songs:
+  * Hands Up [^2pm-songs-hands-up]
 * Did you know?
-  * They were originally a ten-member group called ***One Day*** together with 2AM
-* Wikipedia: [2PM](https://en.wikipedia.org/wiki/2PM)
+  * They were originally a ten-member group called ***One Day*** together with 2AM.
+* Wikipedia: [2PM](https://en.wikipedia.org/wiki/2PM "2PM")
+
+[^2pm-songs-hands-up]: [2PM] YouTube: [2PM 'HANDS UP' M/V](https://www.youtube.com/watch?v=KgrB2KBZws4 "2PM 'HANDS UP' M/V")
 
 ### U-KISS
 * Hangul: 유키스
@@ -670,7 +539,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [U-KISS](https://en.wikipedia.org/wiki/U-KISS)
+* Wikipedia: [U-KISS](https://en.wikipedia.org/wiki/U-KISS "U-KISS")
 
 ### IU
 * Hangul: 아이유
@@ -690,91 +559,27 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Sample songs: 좋은 날 (Good Day); You & I; Beautiful Song; Blueming; BBIBBI; Celebrity; Strawberry Moon
-
-{{< video
-  id="QZfhC7gQJgo"
-  title="IU(아이유) - Good Day(좋은 날) (Sketchbook)"
-  caption="KBS WORLD TV 200918"
-  inlanguage=""
-  datecreated=""
-  datepublished="2020-10-06"
-  licensecode="allrightsreserved"
-  attribto="KBS WORLD TV"
-  attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
->}}
-{{< video
-  id="ks8bcUeRHL8"
-  title="IU You and I live 2011 KBS drama awards"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2020-12-22"
-  licensecode="allrightsreserved"
-  attribto="Nayou"
-  attriburl="https://www.youtube.com/channel/UC5H7b_7_hhsuiri_b0UYvKQ"
->}}
-{{< video
-  id="LDywzzjBfZk"
-  title="[ENGSUB] IU & Jo Jung Suk - Beautiful Song (예쁘다송) You're The Best Lee Soon Shin FMV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2013-08-27"
-  licensecode="allrightsreserved"
-  attribto="Yozohhh9"
-  attriburl="https://www.youtube.com/channel/UCUV3fNs5WxX8f1baVbMJuKQ"
->}}
-{{< video
-  id="o_nxIQTM_B0"
-  title="[IU] Blueming Live Clip (2019 IU Tour Concert 'Love, poem')"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2019-12-24"
-  licensecode="allrightsreserved"
-  attribto="이지금 [IU Official]"
-  attriburl="https://www.youtube.com/channel/UC3SyT4_WLHzN7JmHQwKQZww"
->}}
-{{< video
-  id="bMOUP3ZpcUc"
-  title="IU(아이유) - BBIBBI(삐삐) (Sketchbook)"
-  caption="KBS WORLD TV 201918"
-  inlanguage=""
-  datecreated=""
-  datepublished="2020-10-06"
-  licensecode="allrightsreserved"
-  attribto="KBS WORLD TV"
-  attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
->}}
-{{< video
-  id="JtFI8dtPvxI"
-  title="[최초 공개] 아이유(IU) 'Celebrity' 라이브🎤 | 스페셜클립 | Special Clip | 셀러브리티 | LYRICS | 4K"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2021-01-29"
-  licensecode="allrightsreserved"
-  attribto="1theK Originals - 원더케이 오리지널"
-  attriburl="https://www.youtube.com/channel/UCqq-ovGE01ErlXakPihhKDA"
->}}
-{{< video
-  id="sqgxcCjD04s"
-  title="[MV] IU(아이유) _ strawberry moon"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2021-10-18"
-  licensecode="allrightsreserved"
-  attribto="1theK (원더케이)"
-  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
->}}
-
+* Sample songs:
+  * 좋은 날 (Good Day) [^iu-songs-good-day]
+  * You & I [^iu-songs-you-and-i]
+  * Beautiful Song [^iu-songs-beautiful-song]
+  * Blueming [^iu-songs-blueming]
+  * BBIBBI [^iu-songs-bbibbi]
+  * Celebrity [^iu-songs-celebrity]
+  * Strawberry Moon [^iu-songs-strawberry-moon]
 * Did you know?
-  * She was dubbed Korea's Little Sister
-  * She was also known as The Nation's Sweetheart
-  * IU is one of few K-pop solo acts whose every track became highly popular locally and abroad
-* Wikipedia: [IU (singer)](https://en.wikipedia.org/wiki/IU_(singer))
+  * She was dubbed Korea's Little Sister.
+  * She was also known as The Nation's Sweetheart.
+  * IU is one of few K-pop solo acts whose every track became highly popular locally and abroad.
+* Wikipedia: [IU (singer)](https://en.wikipedia.org/wiki/IU_(singer) "IU (singer)")
+
+[^iu-songs-good-day]: [IU] YouTube: [IU(아이유) - Good Day(좋은 날) (Sketchbook) | KBS WORLD TV 200918](https://www.youtube.com/watch?v=QZfhC7gQJgo "IU(아이유) - Good Day(좋은 날) (Sketchbook) | KBS WORLD TV 200918")
+[^iu-songs-you-and-i]: [IU] YouTube: [IU You and I live 2011 KBS drama awards](https://www.youtube.com/watch?v=ks8bcUeRHL8 "IU You and I live 2011 KBS drama awards")
+[^iu-songs-beautiful-song]: [IU] YouTube: [[ENGSUB] IU & Jo Jung Suk - Beautiful Song (예쁘다송) You're The Best Lee Soon Shin FMV](https://www.youtube.com/watch?v=LDywzzjBfZk "[ENGSUB] IU & Jo Jung Suk - Beautiful Song (예쁘다송) You're The Best Lee Soon Shin FMV")
+[^iu-songs-blueming]: [IU] YouTube: [[IU] Blueming Live Clip (2019 IU Tour Concert 'Love, poem')](https://www.youtube.com/watch?v=o_nxIQTM_B0 "[IU] Blueming Live Clip (2019 IU Tour Concert 'Love, poem')")
+[^iu-songs-bbibbi]: [IU] YouTube: [IU(아이유) - BBIBBI(삐삐) (Sketchbook) | KBS WORLD TV 201918](https://www.youtube.com/watch?v=bMOUP3ZpcUc "IU(아이유) - BBIBBI(삐삐) (Sketchbook) | KBS WORLD TV 201918")
+[^iu-songs-celebrity]: [IU] YouTube: [[최초 공개] 아이유(IU) 'Celebrity' 라이브🎤 | 스페셜클립 | Special Clip | 셀러브리티 | LYRICS | 4K](https://www.youtube.com/watch?v=JtFI8dtPvxI "[최초 공개] 아이유(IU) 'Celebrity' 라이브🎤 | 스페셜클립 | Special Clip | 셀러브리티 | LYRICS | 4K")
+[^iu-songs-strawberry-moon]: [IU] YouTube: [[MV] IU(아이유) _ strawberry moon](https://www.youtube.com/watch?v=sqgxcCjD04s "[MV] IU(아이유) _ strawberry moon")
 
 ## 2009
 ### Zico
@@ -783,7 +588,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   * Song: The Letter
 * Debut: 2011-04-14 as a member of ***[Block B]({{< ref "/2nd-gen.md#block-b" >}} "Block B")***
 * Debut: 2014 as a solo act
-* Wikipedia: [Zico (rapper)](https://en.wikipedia.org/wiki/Zico_(rapper))
+* Wikipedia: [Zico (rapper)](https://en.wikipedia.org/wiki/Zico_(rapper) "Zico (rapper)")
 
 ### AFTERSCHOOL
 * Hangul: 애프터스쿨
@@ -803,7 +608,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [After School (group)](https://en.wikipedia.org/wiki/After_School_(group))
+* Wikipedia: [After School (group)](https://en.wikipedia.org/wiki/After_School_(group) "After School (group)")
 
 ### 2NE1
 * Hangul: 투애니원
@@ -849,43 +654,15 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCnsQjCVzmEd-YvlQZbo6zCg"
 >}}
 
-* Sample songs: I Don't Care; Kiss; Lonely
+* Sample songs:
+  * I Don't Care [^2ne1-songs-i-dont-care]
+  * Kiss [^2ne1-songs-kiss]
+  * Lonely [^2ne1-songs-lonely]
+* Wikipedia: [2NE1](https://en.wikipedia.org/wiki/2NE1 "2NE1")
 
-{{< video
-  id="4MgAxMO1KD0"
-  title="2NE1 - I DON'T CARE M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2009-08-27"
-  licensecode="allrightsreserved"
-  attribto="YG ENTERTAINMENT"
-  attriburl="https://www.youtube.com/channel/UCQi67q4kGdmnJaRzX81uK5g"
->}}
-{{< video
-  id="ZAqiMCp9zrI"
-  title="DARA - KISS M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2010-09-06"
-  licensecode="allrightsreserved"
-  attribto="2NE1"
-  attriburl="https://www.youtube.com/channel/UCnsQjCVzmEd-YvlQZbo6zCg"
->}}
-{{< video
-  id="5n4V3lGEyG4"
-  title="2NE1 - LONELY M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2011-05-11"
-  licensecode="allrightsreserved"
-  attribto="2NE1"
-  attriburl="https://www.youtube.com/channel/UCnsQjCVzmEd-YvlQZbo6zCg"
->}}
-
-* Wikipedia: [2NE1](https://en.wikipedia.org/wiki/2NE1)
+[^2ne1-songs-i-dont-care]: [2NE1] YouTube: [2NE1 - I DON'T CARE M/V](https://www.youtube.com/watch?v=4MgAxMO1KD0 "2NE1 - I DON'T CARE M/V")
+[^2ne1-songs-kiss]: [2NE1] YouTube: [DARA - KISS M/V](https://www.youtube.com/watch?v=ZAqiMCp9zrI "DARA - KISS M/V")
+[^2ne1-songs-lonely]: [2NE1] YouTube: [2NE1 - LONELY M/V](https://www.youtube.com/watch?v=5n4V3lGEyG4 "2NE1 - LONELY M/V")
 
 ### 4MINUTE
 * Hangul: 포미닛
@@ -905,7 +682,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
 
-* Wikipedia: [4Minute](https://en.wikipedia.org/wiki/4Minute)
+* Wikipedia: [4Minute](https://en.wikipedia.org/wiki/4Minute "4Minute")
 
 ### T-ara
 * Hangul: 티아라
@@ -925,54 +702,17 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Sample songs: Bo Peep Bo Peep; Roly-Poly; Lovey-Dovey; 티키타카 (Tiki Taka)
+* Sample songs:
+  * Bo Peep Bo Peep [^tara-songs-bo-peep-bo-peep]
+  * Roly-Poly [^tara-songs-roly-poly]
+  * Lovey-Dovey [^tara-songs-lovey-dovey]
+  * 티키타카 (Tiki Taka) [^tara-songs-tiki-taka]
+* Wikipedia: [T-ara](https://en.wikipedia.org/wiki/T-ara "T-ara")
 
-{{< video
-  id="-KFpL9DUyms"
-  title="T-ARA - Bo Peep Bo Peep, 티아라 - 보핍보핍"
-  caption="Music Core 20091219"
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-02-04"
-  licensecode="allrightsreserved"
-  attribto="MBCkpop"
-  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
->}}
-{{< video
-  id="tTd9Gna50ls"
-  title="T-ARA - Roly Poly, 티아라 : 롤리폴리"
-  caption="Music Core 20110716"
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-01-18"
-  licensecode="allrightsreserved"
-  attribto="MBCkpop"
-  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
->}}
-{{< video
-  id="g3uIdA2IiKw"
-  title="[쇼! 음악중심] T-ARA - Lovey Dovey, 티아라 - 러비 더비"
-  caption="Music Core 20120107"
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-01-14"
-  licensecode="allrightsreserved"
-  attribto="MBCkpop"
-  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
->}}
-{{< video
-  id="nyGxdCivBig"
-  title="[MV]티아라(T-ARA) - TIKI TAKA(티키타카)ㅣ딩고뮤직ㅣDingo Music"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2021-11-15"
-  licensecode="allrightsreserved"
-  attribto="딩고 뮤직 / dingo music"
-  attriburl="https://www.youtube.com/channel/UCtCiO5t2voB14CmZKTkIzPQ"
->}}
-
-* Wikipedia: [T-ara](https://en.wikipedia.org/wiki/T-ara)
+[^tara-songs-bo-peep-bo-peep]: [T-ara] YouTube: [T-ARA - Bo Peep Bo Peep, 티아라 - 보핍보핍, Music Core 20091219](https://www.youtube.com/watch?v=-KFpL9DUyms "T-ARA - Bo Peep Bo Peep, 티아라 - 보핍보핍, Music Core 20091219")
+[^tara-songs-roly-poly]: [T-ara] YouTube: [T-ARA - Roly Poly, 티아라 : 롤리폴리, Music Core 20110716](https://www.youtube.com/watch?v=tTd9Gna50ls "T-ARA - Roly Poly, 티아라 : 롤리폴리, Music Core 20110716")
+[^tara-songs-lovey-dovey]: [T-ara] YouTube: [[쇼! 음악중심] T-ARA - Lovey Dovey, 티아라 - 러비 더비, Music Core 20120107](https://www.youtube.com/watch?v=g3uIdA2IiKw "[쇼! 음악중심] T-ARA - Lovey Dovey, 티아라 - 러비 더비, Music Core 20120107")
+[^tara-songs-tiki-taka]: [T-ara] YouTube: [[MV]티아라(T-ARA) - TIKI TAKA(티키타카)ㅣ딩고뮤직ㅣDingo Music](https://www.youtube.com/watch?v=nyGxdCivBig "[MV]티아라(T-ARA) - TIKI TAKA(티키타카)ㅣ딩고뮤직ㅣDingo Music")
 
 ### Eun Jung
 * Hangul: 은정
@@ -1009,45 +749,17 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
 >}}
 
-* Popoular songs: DESIRE; Sweet Snow; あともう少し… (A little more …)
-
-{{< video
-  id="als-8K2vYBo"
-  title="EUN JUNG 「DESIRE」 MUSIC VIDEO"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2019-05-20"
-  licensecode="allrightsreserved"
-  attribto="J-ROCK CHANNEL"
-  attriburl="https://www.youtube.com/channel/UClSI3Ck2seUI0UGTCHYxpng"
->}}
-{{< video
-  id="_yM86BVV7VM"
-  title="Sweet Snow"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2019-12-10"
-  licensecode="allrightsreserved"
-  attribto="ELSIE (Eunjung) - Topic"
-  attriburl="https://www.youtube.com/channel/UCygJlz3hYSeclea23yBVEcg"
->}}
-{{< video
-  id="sKCCfdi4YU4"
-  title="あともう少し…"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2019-06-11"
-  licensecode="allrightsreserved"
-  attribto="ELSIE (Eunjung) - Topic"
-  attriburl="https://www.youtube.com/channel/UCygJlz3hYSeclea23yBVEcg"
->}}
-
+* Sample songs:
+  * DESIRE [^eun-jung-songs-desire]
+  * Sweet Snow [^eun-jung-songs-sweet-snow]
+  * あともう少し… (A little more …) [^eun-jung-songs-a-little-more]
 * Did you know?
-  * She won Little Miss Korea at age 7
-* Wikipedia: [Hahm Eun-jung](https://en.wikipedia.org/wiki/Hahm_Eun-jung)
+  * She won Little Miss Korea at age 7.
+* Wikipedia: [Hahm Eun-jung](https://en.wikipedia.org/wiki/Hahm_Eun-jung "Hahm Eun-jung")
+
+[^eun-jung-songs-desire]: [Eun Jung] YouTube: [EUN JUNG 「DESIRE」 MUSIC VIDEO](https://www.youtube.com/watch?v=als-8K2vYBo "EUN JUNG 「DESIRE」 MUSIC VIDEO")
+[^eun-jung-songs-sweet-snow]: [Eun Jung] YouTube: [Sweet Snow](https://www.youtube.com/watch?v=_yM86BVV7VM "Sweet Snow")
+[^eun-jung-songs-a-little-more]: [Eun Jung] YouTube: [あともう少し…](https://www.youtube.com/watch?v=sKCCfdi4YU4 "あともう少し…") (A little more …)
 
 ### CNBLUE
 * Hangul: 씨엔블루
@@ -1069,7 +781,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCUc-Ej8-4RrrhOKYlIcNCzA"
 >}}
 
-* Wikipedia: [CNBLUE](https://en.wikipedia.org/wiki/CNBLUE)
+* Wikipedia: [CNBLUE](https://en.wikipedia.org/wiki/CNBLUE "CNBLUE")
 
 ### f(x)
 * Hangul: 에프엑스
@@ -1089,23 +801,13 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
 
-* Sample songs: Electric Shock
-
-{{< video
-  id="n8I8QGFA1oM"
-  title="f(x) 에프엑스 'Electric Shock' MV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-06-12"
-  licensecode="allrightsreserved"
-  attribto="SMTOWN"
-  attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
->}}
-
+* Sample songs:
+  * Electric Shock [^fx-songs-electric-shock]
 * Did you know?
-  * They were the first K-Pop act to perform at SXSW
-* Wikipedia: [f(x) (musical group)](https://en.wikipedia.org/wiki/F(x)_(musical_group))
+  * They were the first K-Pop act to perform at SXSW.
+* Wikipedia: [f(x) (musical group)](https://en.wikipedia.org/wiki/F(x)_(musical_group) "f(x) (musical group)")
+
+[^fx-songs-electric-shock]: [f(x)] YouTube: [f(x) 에프엑스 'Electric Shock' MV](https://www.youtube.com/watch?v=n8I8QGFA1oM "f(x) 에프엑스 'Electric Shock' MV")
 
 ### MBLAQ
 * Hangul: 엠블랙
@@ -1127,7 +829,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [MBLAQ](https://en.wikipedia.org/wiki/MBLAQ)
+* Wikipedia: [MBLAQ](https://en.wikipedia.org/wiki/MBLAQ "MBLAQ")
 
 ### Rainbow
 * Hangul: 레인보우
@@ -1147,84 +849,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [Rainbow (girl group)](https://en.wikipedia.org/wiki/Rainbow_(girl_group))
+* Wikipedia: [Rainbow (girl group)](https://en.wikipedia.org/wiki/Rainbow_(girl_group) "Rainbow (girl group)")
 
 ## 2010
-### BéBé Mignon
-* Hangul: 베베 미뇽
-* Debut: 2010-09-06
-  * Song: 키도 작고, 예쁘지 않지만… (I'm Short and Not Pretty But…)
-* Wikipedia: [베베 미뇽](https://ko.wikipedia.org/wiki/베베_미뇽)
-
-### Ben
-* Hangul: 벤
-* Also known as: 이은영 (Lee Eun Young)
-* Debut: 2010 as a member of ***[BéBé Mignon]({{< ref "/1st-gen.md#bebe-mignon" >}} "BéBé Mignon")***
-* Debut: 2012-10-10 as solo act
-  * Song: 오늘은 가지마 (Don't Go Today)
-
-{{< video
-  id="E8eZ_mB5Uzo"
-  title="Ben - Don't go today, 벤 - 오늘은 가지마"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2014-11-14"
-  licensecode="allrightsreserved"
-  attribto="MBCkpop"
-  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
->}}
-
-* Sample songs: Starlight Heart OST for *The Red Sleeve*; Whenever Wherever Whatever OST for *Alice*; Like A Dream OST for *Another Miss Oh*; STAY OST for *Oh My Ghostess*
-
-{{< video
-  id="vQqlziUYay4"
-  title="Ben (벤) - Starlight Heart (잠들지 않는 별) The Red Sleeve (옷소매 붉은 끝동) OST Part 2 Lyrics/가사 [Han|Rom|Eng]"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2021-11-28"
-  licensecode="allrightsreserved"
-  attribto="AlphaSubs"
-  attriburl="https://www.youtube.com/channel/UCDkKuGZovR6UUYkUgtW0FlQ"
->}}
-{{< video
-  id="ScyKzjPfpHk"
-  title="[MV] 벤 - Whenever Wherever Whatever [앨리스 OST Part.2 (Alice OST Part.2)]"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2020-09-04"
-  licensecode="allrightsreserved"
-  attribto="VLENDING 블렌딩"
-  attriburl="https://www.youtube.com/channel/UCxOZuUWuWhnsJqnlTcLlSYg"
->}}
-{{< video
-  id="LcPN92043ds"
-  title="Ben (벤) - 꿈처럼 (Like a Dream) FMV"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2016-05-12"
-  licensecode="allrightsreserved"
-  attribto="mong september"
-  attriburl="https://www.youtube.com/channel/UCobOgGtvuIQY--ARRBJxxIA"
->}}
-{{< video
-  id="jE3QbJG1Oj0"
-  title="[FMV] Ben – STAY (Oh My Ghost OST)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2015-12-14"
-  licensecode="allrightsreserved"
-  attribto="Eugene"
-  attriburl="https://www.youtube.com/channel/UCTEad0hnzF7rjHGf_MD5Wwg"
->}}
-
-* Did you know?
-* Wikipedia: [Ben (South Korean singer)](https://en.wikipedia.org/wiki/Ben_(South_Korean_singer))
-
 ### ZE:A
 * Hangul: 제국의 아이들
 * Also known as: Children of Empire
@@ -1244,7 +871,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UC0hP4NCSzvRGIFrs_ZrXxWg"
 >}}
 
-* Wikipedia: [ZE:A](https://en.wikipedia.org/wiki/ZE:A)
+* Wikipedia: [ZE:A](https://en.wikipedia.org/wiki/ZE:A "ZE:A")
 
 ### SISTAR
 * Hangul: 씨스타
@@ -1264,7 +891,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Wikipedia: [Sistar](https://en.wikipedia.org/wiki/Sistar)
+* Wikipedia: [Sistar](https://en.wikipedia.org/wiki/Sistar "Sistar")
 
 ### INFINITE
 * Hangul: 인피니트
@@ -1284,7 +911,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCoQIdt0bWPv3-_xuybJvTjQ"
 >}}
 
-* Wikipedia: [Infinite (band)](https://en.wikipedia.org/wiki/Infinite_(band))
+* Wikipedia: [Infinite (band)](https://en.wikipedia.org/wiki/Infinite_(band) "Infinite (band)")
 
 ### miss A
 * Hangul: 미쓰에이
@@ -1331,37 +958,18 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCCSqiAQFvOjjVtXkZgtKZ-g"
 >}}
 
-* Sample songs: Love Again; 다른 남자 말고 너 (Only You)
-
-{{< video
-  id="dBR0oEUIoGI"
-  title="miss A Love Alone M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2011-05-11"
-  licensecode="allrightsreserved"
-  attribto="missA"
-  attriburl="https://www.youtube.com/channel/UCCSqiAQFvOjjVtXkZgtKZ-g"
->}}
-{{< video
-  id="zO9RzrhYR-I"
-  title="miss A “Only You(다른 남자 말고 너)” M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2015-03-29"
-  licensecode="allrightsreserved"
-  attribto="JYP Entertainment"
-  attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
->}}
-
+* Sample songs:
+  * Love Again [^miss-a-songs-love-again]
+  * 다른 남자 말고 너 (Only You) [^miss-a-songs-only-you]
 * Did you know?
-  * *Bad Girl, Good Girl* was the first debut song to reach number one in the **Gaon Digital Chart**
-  * They were the fastest girl group to take the number one spot in a music show (**KBS** *Music Bank*)
-  * *Bad Girl, Good Girl* was the number 1 song in *Inkigayo* for four straight weeks, breaking the record set by ***[Girls' Generation]({{< ref "/2nd-gen.md#girls-generation" >}} "Girls' Generation")***
-  * Originally marketed as the "Chinese Wonder Girls"
-* Wikipedia: [Miss A](https://en.wikipedia.org/wiki/Miss_A)
+  * *Bad Girl, Good Girl* was the first debut song to reach number one in the **Gaon Digital Chart**.
+  * They were the fastest girl group to take the number one spot in a music show (**KBS** *Music Bank*).
+  * *Bad Girl, Good Girl* was the number 1 song in *Inkigayo* for four straight weeks, breaking the record set by ***[Girls' Generation]({{< ref "/2nd-gen.md#girls-generation" >}} "Girls' Generation")***.
+  * Originally marketed as the "Chinese Wonder Girls".
+* Wikipedia: [Miss A](https://en.wikipedia.org/wiki/Miss_A "Miss A")
+
+[^miss-a-songs-love-again]: [miss A] YouTube: [miss A 'Love Alone' M/V](https://www.youtube.com/watch?v=dBR0oEUIoGI "miss A 'Love Alone' M/V")
+[^miss-a-songs-only-you]: [miss A] YouTube: [miss A 'Only You(다른 남자 말고 너)' M/V)](https://www.youtube.com/watch?v=zO9RzrhYR-I "miss A 'Only You(다른 남자 말고 너)' M/V")
 
 ### Suzy
 * Hangul: 수지
@@ -1383,89 +991,25 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCtCiO5t2voB14CmZKTkIzPQ"
 >}}
 
-* Sample songs: Yes No Maybe; 다른 사람을 사랑하고 있어 (I'm in Love with Someone Else); 나를 잊지말아요 (Don't Forget Me) OST for *Gu Family Book*; Ring My Bell OST for *Uncontrollably Fond*; I Love You Boy OST for *While You Were Sleeping*; 듣고 싶은 말 (Words I Want To Hear) OST for *While You Were Sleeping*; My Dear Love OST for *Start-Up*
-
-{{< video
-  id="b34ri3-uxks"
-  title="Suzy(수지) Yes No Maybe M/V"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2017-01-23"
-  licensecode="allrightsreserved"
-  attribto="JYP Entertainment"
-  attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
->}}
-{{< video
-  id="C4P96KzHmao"
-  title="[SUZY - I'm In Love With Someone Else] Comeback Stage"
-  caption="M COUNTDOWN 180201 EP.556"
-  inlanguage=""
-  datecreated=""
-  datepublished="2018-02-01"
-  licensecode="allrightsreserved"
-  attribto="Mnet K-POP"
-  attriburl="https://www.youtube.com/channel/UCbD8EppRX3ZwJSou-TVo90A"
->}}
-{{< video
-  id="KcjGxAbeoc0"
-  title="[MV] Sooji(수지)(miss A) _ Don`t forget me(나를 잊지말아요)(Kangchi, the Beginning(구가의서) OST Part 5)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2013-05-06"
-  licensecode="allrightsreserved"
-  attribto="1theK (원더케이)"
-  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
->}}
-{{< video
-  id="e48D3KtPOb0"
-  title="[MV] Suzy(수지) _ Ring My Bell(Uncontrollably Fond(함부로 애틋하게) OST Part. 1)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2016-06-30"
-  licensecode="allrightsreserved"
-  attribto="1theK (원더케이)"
-  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
->}}
-{{< video
-  id="B0Ij_eTECXc"
-  title="[MV] Suzy (수지) - I Love You Boy (While You Were Sleeping OST Part.4) 당신이 잠든 사이에 OST Part.4"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2017-10-11"
-  licensecode="allrightsreserved"
-  attribto="DOM 덤스튜디오"
-  attriburl="https://www.youtube.com/channel/UC4ulGP7S0wzT7pogzzBIhjg"
->}}
-{{< video
-  id="ZEE3x_X4Cbw"
-  title="[MV] Suzy (수지) - Words I Want To Hear (듣고 싶은 말) While You Were Sleeping OST Part.13"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2017-11-09"
-  licensecode="allrightsreserved"
-  attribto="DOM 덤스튜디오"
-  attriburl="https://www.youtube.com/channel/UC4ulGP7S0wzT7pogzzBIhjg"
->}}
-{{< video
-  id="RUUI0PilSiE"
-  title="[MV] 수지 - My Dear Love [스타트업 OST Part.14 (START-UP OST Part.14)]"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished=""
-  licensecode="allrightsreserved"
-  attribto="VLENDING 블렌딩"
-  attriburl="https://www.youtube.com/channel/UCxOZuUWuWhnsJqnlTcLlSYg"
->}}
-
+* Sample songs:
+  * Yes No Maybe [^suzy-songs-yes-no-maybe]
+  * 다른 사람을 사랑하고 있어 (I'm in Love with Someone Else) [^suzy-songs-im-in-love-with-someone-else]
+  * 나를 잊지말아요 (Don't Forget Me) [^suzy-songs-dont-forget-me] OST for *[Gu Family Book]({{< ref "/20201231-gu-family-book-2013.md" >}} "Gu Family Book")*
+  * Ring My Bell [^suzy-songs-ring-my-bell] OST for *Uncontrollably Fond*
+  * I Love You Boy [^suzy-songs-i-love-you-boy] OST for *[While You Were Sleeping]({{< ref "/20201224-while-you-were-sleeping-2017.md" >}} "While You Were Sleeping")*
+  * 듣고 싶은 말 (Words I Want To Hear) [^suzy-songs-words-i-want-to-hear] OST for *[While You Were Sleeping]({{< ref "/20201224-while-you-were-sleeping-2017.md" >}} "While You Were Sleeping")*
+  * My Dear Love [^suzy-songs-my-dear-love] OST for *[Start-Up]({{< ref "/20201225-start-up-2020.md" >}} "Start-Up")*
 * Did you know?
-  * She is also known as The Nation's First Love
-* Wikipedia: [Bae Suzy](https://en.wikipedia.org/wiki/Bae_Suzy)
+  * She is also known as The Nation's First Love.
+* Wikipedia: [Bae Suzy](https://en.wikipedia.org/wiki/Bae_Suzy "Bae Suzy")
+
+[^suzy-songs-yes-no-maybe]: [Suzy] YouTube: [Suzy(수지) 'Yes No Maybe' M/V](https://www.youtube.com/watch?v=b34ri3-uxks "Suzy(수지) 'Yes No Maybe' M/V")
+[^suzy-songs-im-in-love-with-someone-else]: [Suzy] YouTube: [[SUZY - I'm In Love With Someone Else] Comeback Stage | M COUNTDOWN 180201 EP.556](https://www.youtube.com/watch?v=C4P96KzHmao "[SUZY - I'm In Love With Someone Else] Comeback Stage | M COUNTDOWN 180201 EP.556")
+[^suzy-songs-dont-forget-me]: [Suzy] YouTube: [[MV] Sooji(수지)(miss A) _ Don't forget me(나를 잊지말아요)(Kangchi, the Beginning(구가의서) OST Part 5)](https://www.youtube.com/watch?v=KcjGxAbeoc0 "[MV] Sooji(수지)(miss A) _ Don't forget me(나를 잊지말아요)(Kangchi, the Beginning(구가의서) OST Part 5)")
+[^suzy-songs-ring-my-bell]: [Suzy] YouTube: [[MV] Suzy(수지) _ Ring My Bell(Uncontrollably Fond(함부로 애틋하게) OST Part. 1)](https://www.youtube.com/watch?v=e48D3KtPOb0 "[MV] Suzy(수지) _ Ring My Bell(Uncontrollably Fond(함부로 애틋하게) OST Part. 1)")
+[^suzy-songs-i-love-you-boy]: [Suzy] YouTube: [[MV] Suzy (수지) - I Love You Boy (While You Were Sleeping OST Part.4) 당신이 잠든 사이에 OST Part.4](https://www.youtube.com/watch?v=B0Ij_eTECXc "[MV] Suzy (수지) - I Love You Boy (While You Were Sleeping OST Part.4) 당신이 잠든 사이에 OST Part.4")
+[^suzy-songs-words-i-want-to-hear]: [Suzy] YouTube: [[MV] Suzy (수지) - Words I Want To Hear (듣고 싶은 말) While You Were Sleeping OST Part.13](https://www.youtube.com/watch?v=ZEE3x_X4Cbw "[MV] Suzy (수지) - Words I Want To Hear (듣고 싶은 말) While You Were Sleeping OST Part.13")
+[^suzy-songs-my-dear-love]: [Suzy] YouTube: [[MV] 수지 - My Dear Love [스타트업 OST Part.14 (START-UP OST Part.14)]](https://www.youtube.com/watch?v=RUUI0PilSiE "[MV] 수지 - My Dear Love [스타트업 OST Part.14 (START-UP OST Part.14)]")
 
 ### Girl's Day
 * Hangul: 걸스데이
@@ -1485,43 +1029,15 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UC1cWTErb7vw_UmmuB0dYgsQ"
 >}}
 
-* Sample songs: 나를 잊지마요 (Don't Forget Me); 기대해 (Expectation); 썸씽 (Something)
+* Sample songs:
+  * 나를 잊지마요 (Don't Forget Me) [^girls-day-songs-dont-forget-me]
+  * 기대해 (Expectation) [^girls-day-songs-expectation]
+  * 썸씽 (Something) [^girls-day-songs-something]
+* Wikipedia: [Girl's Day](https://en.wikipedia.org/wiki/Girl's_Day "Girl's Day")
 
-{{< video
-  id="9PXLIgGqpeE"
-  title="[Music Bank K-Chart] Girl's Day - Don't Forget Me (2012.11.02)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2012-11-07"
-  licensecode="allrightsreserved"
-  attribto="KBS WORLD TV"
-  attriburl="https://www.youtube.com/channel/UC5BMQOsAB8hKUyHu9KI6yig"
->}}
-{{< video
-  id="fqR2HGkjFCA"
-  title="Girl's Day(걸스데이) 'Expectation(기대해)' Official MV (Dance.ver)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2013-03-18"
-  licensecode="allrightsreserved"
-  attribto="GIRL'S DAY"
-  attriburl="https://www.youtube.com/channel/UCw-HcGlT9V7ErYfoAPvem4A"
->}}
-{{< video
-  id="zVO5xTAbxm8"
-  title="[MV] GIRL'S DAY(걸스데이) _ Something (Dance ver.)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2014-01-16"
-  licensecode="allrightsreserved"
-  attribto="1theK (원더케이)"
-  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
->}}
-
-* Wikipedia: [Girl's Day](https://en.wikipedia.org/wiki/Girl's_Day)
+[^girls-day-songs-dont-forget-me]: [Girl's Day] YouTube: [[Music Bank K-Chart] Girl's Day - Don't Forget Me (2012.11.02)](https://www.youtube.com/watch?v=9PXLIgGqpeE "[Music Bank K-Chart] Girl's Day - Don't Forget Me (2012.11.02)")
+[^girls-day-songs-expectation]: [Girl's Day] YouTube: [Girl's Day(걸스데이) 'Expectation(기대해)' Official MV (Dance.ver)](https://www.youtube.com/watch?v=fqR2HGkjFCA "Girl's Day(걸스데이) 'Expectation(기대해)' Official MV (Dance.ver)")
+[^girls-day-songs-something]: [Girl's Day] YouTube: [[MV] GIRL'S DAY(걸스데이) _ Something (Dance ver.)](https://www.youtube.com/watch?v=zVO5xTAbxm8 "[MV] GIRL'S DAY(걸스데이) _ Something (Dance ver.)")
 
 ### G.NA
 * Hangul: 지나
@@ -1541,7 +1057,57 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCKBCYxP1c4I7ta5hHVKSt_w"
 >}}
 
-* Wikipedia: [G.NA](https://en.wikipedia.org/wiki/G.NA)
+* Wikipedia: [G.NA](https://en.wikipedia.org/wiki/G.NA "G.NA")
+
+### BéBé Mignon
+* Hangul: 베베 미뇽
+* Debut: 2010-09-06
+  * Song: 키도 작고, 예쁘지 않지만… (Even Though I'm small and not Pretty…)
+
+{{< video
+  id="iwoOdNsBmOE"
+  title=""
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2019-05-30"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
+* Wikipedia: [베베 미뇽](https://ko.wikipedia.org/wiki/베베_미뇽 "베베 미뇽")
+
+### Ben
+* Hangul: 벤
+* Also known as: 이은영 (Lee Eun Young)
+* Debut: 2010 as a member of ***[BéBé Mignon]({{< ref "/1st-gen.md#bébé-mignon" >}} "BéBé Mignon")***
+* Debut: 2012-10-10 as solo act
+  * Song: 오늘은 가지마 (Don't Go Today)
+
+{{< video
+  id="E8eZ_mB5Uzo"
+  title="Ben - Don't go today, 벤 - 오늘은 가지마"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2014-11-14"
+  licensecode="allrightsreserved"
+  attribto="MBCkpop"
+  attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
+>}}
+
+* Sample songs:
+  * Starlight Heart [^ben-songs-starlight-heart] OST for *The Red Sleeve*
+  * Whenever Wherever Whatever [^ben-songs-whenever-wherever-whatever] OST for *[Alice]({{< ref "/20201211-alice-2020.md" >}} "Alice")*
+  * Like A Dream [^ben-songs-like-a-dream] OST for *Another Miss Oh*
+  * STAY [^ben-songs-stay] OST for *Oh My Ghostess*
+* Wikipedia: [Ben (South Korean singer)](https://en.wikipedia.org/wiki/Ben_(South_Korean_singer) "Ben")
+
+[^ben-songs-starlight-heart]: [Ben] YouTube: [Ben (벤) - Starlight Heart (잠들지 않는 별) The Red Sleeve (옷소매 붉은 끝동) OST Part 2 Lyrics/가사 [Han|Rom|Eng]](https://www.youtube.com/watch?v=vQqlziUYay4 "Ben (벤) - Starlight Heart (잠들지 않는 별) The Red Sleeve (옷소매 붉은 끝동) OST Part 2 Lyrics/가사 [Han|Rom|Eng]")
+[^ben-songs-whenever-wherever-whatever]: [Ben] YouTube: [[MV] 벤 - Whenever Wherever Whatever [앨리스 OST Part.2 (Alice OST Part.2)]](https://www.youtube.com/watch?v=ScyKzjPfpHk "[MV] 벤 - Whenever Wherever Whatever [앨리스 OST Part.2 (Alice OST Part.2)]")
+[^ben-songs-like-a-dream]: [Ben] YouTube: [Ben (벤) - 꿈처럼 (Like a Dream) FMV](https://www.youtube.com/watch?v=LcPN92043ds "Ben (벤) - 꿈처럼 (Like a Dream) FMV")
+[^ben-songs-stay]: [Ben] YouTube: [[FMV] Ben – STAY (Oh My Ghost OST)](https://www.youtube.com/watch?v=jE3QbJG1Oj0 "[FMV] Ben – STAY (Oh My Ghost OST)")
 
 ## 2011
 ### Block B
@@ -1562,7 +1128,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
 
-* Wikipedia: [Block B](https://en.wikipedia.org/wiki/Block_B)
+* Wikipedia: [Block B](https://en.wikipedia.org/wiki/Block_B "Block B")
 
 ### Apink
 * Hangul: 에이핑크
@@ -1583,32 +1149,13 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Sample songs: NoNoNo; 미스터 츄 (Mr. Chu)
+* Sample songs:
+  * NoNoNo [^apink-songs-nonono]
+  * 미스터 츄 (Mr. Chu) [^apink-songs-mr-chu]
+* Wikipedia: [Apink](https://en.wikipedia.org/wiki/Apink "Apink")
 
-{{< video
-  id="hspqQuuuGIw"
-  title="[MV] Apink(에이핑크) _ NoNoNo"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2016-01-13"
-  licensecode="allrightsreserved"
-  attribto="1theK (원더케이)"
-  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
->}}
-{{< video
-  id="K5H-GvnNz2Y"
-  title="[MV] Apink(에이핑크) _ Mr. Chu(미스터 츄)"
-  caption=""
-  inlanguage=""
-  datecreated=""
-  datepublished="2014-03-31"
-  licensecode="allrightsreserved"
-  attribto="1theK (원더케이)"
-  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
->}}
-
-* Wikipedia: [Apink](https://en.wikipedia.org/wiki/Apink)
+[^apink-songs-nonono]: [Apink] YouTube: [[MV] Apink(에이핑크) _ NoNoNo](https://www.youtube.com/watch?v=hspqQuuuGIw "[MV] Apink(에이핑크) _ NoNoNo")
+[^apink-songs-mr-chu]: [Apink] YouTube: [[MV] Apink(에이핑크) _ Mr. Chu(미스터 츄)](https://www.youtube.com/watch?v=K5H-GvnNz2Y "[MV] Apink(에이핑크) _ Mr. Chu(미스터 츄)")
 
 -------
 
@@ -1616,7 +1163,7 @@ Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md"
 
 Or check the other generations!
 * [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
-* You are here: 2nd Generation: 2002–2011
+* 2nd Generation: 2002–2011 👈🏽 You are here
 * [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
 * [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
 
