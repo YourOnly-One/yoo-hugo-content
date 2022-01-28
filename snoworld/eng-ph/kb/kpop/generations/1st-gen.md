@@ -630,6 +630,12 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   * Atlantis Princess [^boa-songs-atlantis-princess]
   * Only One [^boa-songs-only-one]
 * Debut: 2022-01-01 as a member of ***[GOT the beat]({{< ref "/4th-gen.md#got-the-beat" >}} "GOT the beat")*** a subgroup of supergroup ***[Girls On Top]({{< ref "/4th-gen.md#girls-on-top" >}} "Girls On Top")***
+* Did you know?
+  * BoA can sing well not just in Korean but also in English, Japanese, and Chinese.
+  * She's called the Queen of K-pop.
+  * BoA was the first K-pop act to break in Japan after the restriction of imports between Japan and Korea was lifted. [^boa-japan-times-no-constrictions-on-boas-ambitions]
+  * She is the only non-Japanese with three albums which sold one million copies in Japan. [^boa-dyk-japan-times]
+  * BoA is one of three female pop star with six consecutive number 1 studio albums in the Oricon charts since her debut. The other two are highly popoular and successful Japanese stars **Ayumi Hamasaki** and **Utada Hikaru**. [^boa-dyk-wikipeda]
 * Wikipedia: [BoA](https://en.wikipedia.org/wiki/BoA "BoA")
 
 [^boa-songs-no-1]: [BoA] YouTube: [BoA 보아 'No.1' MV](https://www.youtube.com/watch?v=ceZc-5p3g1w "BoA 보아 'No.1' MV")
@@ -637,6 +643,8 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 [^boa-songs-milky-way]: [BoA] YouTube: [BoA 보아 'Milky Way' MV](https://www.youtube.com/watch?v=M48JMEkiu3Q "BoA 보아 'Milky Way' MV")
 [^boa-songs-atlantis-princess]: [BoA] YouTube: [BoA 보아 '아틀란티스 소녀 (Atlantis Princess)' MV](https://www.youtube.com/watch?v=skbnuIhVQUA "BoA 보아 '아틀란티스 소녀 (Atlantis Princess)' MV")
 [^boa-songs-only-one]: [BoA] YouTube: [BoA 보아 'Only One' MV (Dance ver.)](https://www.youtube.com/watch?v=PQjovLrnvVo "BoA 보아 'Only One' MV (Dance ver.)")
+[^boa-japan-times-no-constrictions-on-boas-ambitions]: [BoA] Japan Times: [No constrictions on BoA's ambitions](https://web.archive.org/web/20211230082341/https://www.japantimes.co.jp/culture/2009/03/20/music/no-constrictions-on-boas-ambitions/)
+[^boa-dyk-wikipeda]: [BoA](https://en.wikipedia.org/wiki/BoA "BoA")
 
 ## 2001
 ### PSY
@@ -660,9 +668,16 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 * Sample songs:
   * 강남스타일 (Gangnam Style) [^psy-songs-gangnam-style]
+* Did you know?
+  * *Gangnam Style* earned PSY multiple **Guinness World Records** as the "Most Viewed Video Online", "Most 'Liked' Video Online", "First Video to Receive 1 billion views". [^psy-guinness-world-records-gentleman] As of 2022-01-28 20:25:35+0800:
+    * Likes: 23 million [^psy-songs-gangnam-style]
+    * Views: 4,320,893,237 [^psy-songs-gangnam-style]
+    * Since: 2012-07-15 [^psy-songs-gangnam-style]
+  * *Gentleman* also entered the **Guinness World Records** as the "Most Viewed Video Online in a 24-hour period" hitting 38.4 million views on 2013-04-14. [^psy-guinness-world-records-gentleman]
 * Wikipedia: [Psy](https://en.wikipedia.org/wiki/Psy "Psy")
 
 [^psy-songs-gangnam-style]: [PSY] YouTube: [PSY - GANGNAM STYLE(강남스타일) M/V](https://www.youtube.com/watch?v=9bZkp7q19f0 "PSY - GANGNAM STYLE(강남스타일) M/V")
+[^psy-guinness-world-records-gentleman]: [PSY] Guinness World Records: [PSY secures new YouTube world record with "Gentleman"](https://www.guinnessworldrecords.com/news/2013/4/psy-secures-new-youtube-world-record-with-gentleman-48291 "PSY secures new YouTube world record with "Gentleman")
 
 ### Jewelry
 * Hangul: 쥬얼리
