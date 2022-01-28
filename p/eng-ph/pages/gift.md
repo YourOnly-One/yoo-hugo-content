@@ -3,7 +3,7 @@ title = "Send a gift"
 description = ""                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2020-03-25T06:00:00"                                        # manually adjust to local timezone
-lastmod = "2021-12-18T06:51:40"                                     # manually adjust to local timezone
+#lastmod = "2021-12-18T06:51:40"                                     # manually adjust to local timezone
 
 #aliases = [""]
 slug = "gift"
