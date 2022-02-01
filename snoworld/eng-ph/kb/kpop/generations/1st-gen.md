@@ -631,7 +631,11 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   * Only One [^boa-songs-only-one]
 * Debut: 2022-01-01 as a member of ***[GOT the beat]({{< ref "/4th-gen.md#got-the-beat" >}} "GOT the beat")*** a subgroup of supergroup ***[Girls On Top]({{< ref "/4th-gen.md#girls-on-top" >}} "Girls On Top")***
 * Did you know?
+  * She was discovered by **SM Entertainment** at the age of 11 and trained for two years.
+  * She debuted at the young age of 13.
   * BoA can sing well not just in Korean but also in English, Japanese, and Chinese.
+  * She's known as the Star of Asia. [^boa-heyday]
+  * First Korean to be in Billboard. [^boa-heyday]
   * She's called the Queen of K-pop.
   * BoA was the first K-pop act to break in Japan after the restriction of imports between Japan and Korea was lifted. [^boa-japan-times-no-constrictions-on-boas-ambitions]
   * She is the only non-Japanese with three albums which sold one million copies in Japan. [^boa-dyk-japan-times]
@@ -645,6 +649,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 [^boa-songs-only-one]: [BoA] YouTube: [BoA 보아 'Only One' MV (Dance ver.)](https://www.youtube.com/watch?v=PQjovLrnvVo "BoA 보아 'Only One' MV (Dance ver.)")
 [^boa-japan-times-no-constrictions-on-boas-ambitions]: [BoA] Japan Times: [No constrictions on BoA's ambitions](https://web.archive.org/web/20211230082341/https://www.japantimes.co.jp/culture/2009/03/20/music/no-constrictions-on-boas-ambitions/)
 [^boa-dyk-wikipeda]: [BoA](https://en.wikipedia.org/wiki/BoA "BoA")
+[^boa-heyday]: [BoA] Heyday: [Legend of Kpop? Korean Teenagers React to BoA's golden days](https://www.youtube.com/watch?v=5wfKJ64SD9U)
 
 ## 2001
 ### PSY
