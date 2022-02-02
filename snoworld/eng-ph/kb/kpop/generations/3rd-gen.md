@@ -5,10 +5,10 @@ description = "An objective list of Third Generation Korean Popular music bands,
 date = "2022-01-14T08:00:03"                                        # manually adjust to local timezone
 #lastmod = "2022-01-22T02:08:26"                                     # manually adjust to local timezone
 
-#aliases = [""]
-slug = "kpop-3rd-geneneration"
-translationKey = "kpop-3rd-geneneration-202214"
-relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-3rd-geneneration-202214/"                                                   # the actual URL of the post; also used for disqus ID and url
+aliases = ["kpop-3rd-geneneration-202214"]
+slug = "kpop-3rd-generation"
+translationKey = "kpop-3rd-generation-202214"
+relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-3rd-generation-202214/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 

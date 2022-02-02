@@ -7,8 +7,8 @@ lastmod = "2015-08-12T10:23:28"                                        # manuall
 
 aliases = ["/p/unicode-emoji-test.html"]
 slug = "unicode-emoji-test"
-translationKey = "unicode-emoji-test-2015230"
-relCanonical = "https://im.youronly.one/techmagus/testcases/unicode-emoji-test-2015230/"                                                   # the actual URL of the post; also used for disqus ID and url
+translationKey = "unicode-emoji-test-2015224"
+relCanonical = "https://im.youronly.one/techmagus/testcases/unicode-emoji-test-2015224/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
