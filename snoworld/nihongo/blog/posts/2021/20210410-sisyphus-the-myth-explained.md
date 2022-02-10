@@ -3,7 +3,7 @@ title = "（更新）「シーシュポス：The Myth」は論理的の説明し
 description = "「シーシュポス：The Myth」の結末に戸惑う？"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-04-10T22:12:21"
-lastmod = "2021-04-10T22:12:21"
+#lastmod = "2021-04-10T22:12:21"
 
 #aliases = [""]
 slug = "시지프스 Sisyphus The Myth (2021) Explained Logically"
@@ -16,7 +16,7 @@ channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
 keywords = ["시지프스: The Myth", "Sisyphus: The Myth", "K-Drama", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
-tags = ["kdrama"]																	# taxonomy
+tags = ["kdrama", "explained"]																	# taxonomy
 
 comments = true
 #weight = ""

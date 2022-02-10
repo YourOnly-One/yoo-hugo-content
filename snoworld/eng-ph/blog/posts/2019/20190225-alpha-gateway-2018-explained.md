@@ -3,7 +3,7 @@ title = "「Alpha Gateway」 Parallel Worlds Explained"
 description = "Confused on the parallel worlds of 「The Gateway」?"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2019-02-25T16:46:12"
-lastmod = "2019-02-25T16:46:12"
+#lastmod = "2019-02-25T16:46:12"
 
 #aliases = [""]
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"
@@ -16,7 +16,7 @@ channels = ["snoworld"]
 categories = ["films"]														# taxonomy
 keywords = ["Alpha Gateway", "The Gateway", "Film", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
-#tags = [""]																	# taxonomy
+tags = ["explained"]																	# taxonomy
 
 comments = true
 #weight = ""

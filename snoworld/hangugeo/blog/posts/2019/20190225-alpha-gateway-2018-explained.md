@@ -3,7 +3,7 @@ title = "「알파 게이트웨이」 병렬 세계 설명"
 description = "「알파 게이트웨이」의 평행 세계가 헷갈 리나요?" # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2019-02-25T17:46:12"
-lastmod = "2019-02-25T17:46:12"
+#lastmod = "2019-02-25T17:46:12"
 
 #aliases = [""]
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"
@@ -16,7 +16,7 @@ channels = ["snoworld"]
 categories = ["films"]														# taxonomy
 keywords = ["Alpha Gateway", "The Gateway", "Film", "Snoworld", "YourOnlyOne", "YourOnly.One"]															# meta keywords
 #series = [""]																# subset of series taxonomy
-#tags = [""]																	# taxonomy
+tags = ["explained"]																	# taxonomy
 
 comments = true
 #weight = ""
