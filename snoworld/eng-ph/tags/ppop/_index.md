@@ -8,12 +8,6 @@ translationKey = "tag-ppop"
 #metarobots = "noindex"
 +++
 
-**P-pop** or **Pinoy pop**, also as **Pilipino pop** and **Philippine pop**, started in the 1960s; it is a generic and [politically] neutral umbrella term for popular music composed and/or performed by Pilipino artists, regardless if they originated from the Philippines or abroad. The most common music genres in P-pop are:
-1. Pinoy ballad
-1. Pinoy hip hop / rap
-1. Pinoy jazz
-1. Pinoy pop
-1. Pinoy R&B
-1. Pinoy reggae
-1. Pinoy rock
-1. Pinoy soul
+**P-pop** or **Pinoy pop**, also as **Pilipino pop** and **Philippine pop**, started in the 1960s. It is an umbrella terminology for music composed and/or performed by a Pilipino. *Modern* P-pop began in 1990, while the *idol generation* in 2002.
+
+The music genres in P-pop are Pinoy ballad, Pinoy folk, Pinoy hip hop or Pinoy rap, Pinoy jazz, Pinoy pop, Pinoy R&B or Pinoy soul, Pinoy reggae, and Pinoy rock. In addition to these, ***kundiman*** is a pre-colonial music genre still popular in the Philippines.
