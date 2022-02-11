@@ -1,6 +1,6 @@
 +++
 title = "今、私たちの学校は死んでいる"
-description = "今、私たちの学校のシーズン2はありますか？ 今、私たちの学校で調べてください！"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+description = "Netflixの「今、私たちの学校」のシーズン2はありますか？ 今、私たちの学校で調べてください！"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-02-11T18:30:12"                                        # manually adjust to local timezone
 #lastmod = "2022-04-07T17:53:01"                                     # manually adjust to local timezone
@@ -26,7 +26,7 @@ comments = true
 toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/a/all-of-us-are-dead-s01-prez-nam-ra.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-what-is-a-hambie.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-orangibberish.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-hyosan-high-bomb.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-rooftop.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-chung-san-gwi-nam.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-lee-byung-chan.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-01.webp"]                                                       # used by og:images, etc.; first image is cover image
+images = ["https://img.youronly.one/a/all-of-us-are-dead-s01-01.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-what-is-a-hambie.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-orangibberish.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-hyosan-high-bomb.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-rooftop.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-chung-san-gwi-nam.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-lee-byung-chan.webp", "https://img.youronly.one/a/all-of-us-are-dead-s01-prez-nam-ra.webp"]                                                       # used by og:images, etc.; first image is cover image
 videos = ["https://www.youtube.com/watch?v=G99V9Kl9JhQ"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
