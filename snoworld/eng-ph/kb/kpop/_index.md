@@ -1,5 +1,5 @@
 +++
-title = "K-Pop"
+title = "K-pop"
 translationKey = "section-kpop"
 #url = ""
 #aliases = [""]
