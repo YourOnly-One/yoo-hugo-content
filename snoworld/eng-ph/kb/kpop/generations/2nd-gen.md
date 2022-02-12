@@ -207,7 +207,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="SrazFGFRnhM"
   title="SUPER JUNIOR 슈퍼주니어 'Twins (Knock Out)' MV"
-  caption=""
+  caption="SUPER JUNIOR’s 1st Album Super Junior 05 has been released."
   inlanguage=""
   datecreated=""
   datepublished="2009-09-28"
@@ -478,7 +478,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="UF8m2JIDjKU"
   title="TAEMIN 태민 '괴도 (Danger)' MV"
-  caption=""
+  caption="TAEMIN’s first mini album ACE has been released."
   inlanguage=""
   datecreated=""
   datepublished="2014-08-15"
@@ -619,7 +619,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="zIRW_elc-rY"
   title="BIGBANG & 2NE1 - LOLLIPOP M/V"
-  caption=""
+  caption="DIGITAL SINGLE [LOLLIPOP]"
   inlanguage=""
   datecreated=""
   datepublished="2009-05-15"
@@ -792,7 +792,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="H7MHZpSNJQc"
   title="f(x) 에프엑스 '라차타 (LA chA TA)' MV"
-  caption=""
+  caption="f(x)’s 1st digital single “LA chA TA” has been released."
   inlanguage=""
   datecreated=""
   datepublished="2009-09-03"
@@ -904,7 +904,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="4Iov70BaXM4"
   title="[MV] Hyolin(효린) (Sistar) _ Crazy of you(미치게 만들어) (Master`s sun(주군의 태양) OST Part.3)"
-  caption=""
+  caption="The SBS drama special Master's Sun that has been earning a lot of popularity let out its 3rd OST. As much as it is a famous drama, the third member to sing the OST is Hyolin from SISTAR."
   inlanguage=""
   datecreated=""
   datepublished="2013-09-04"
@@ -918,8 +918,8 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 {{< video
   id="VwIiIhhlhDw"
-  title="[Solo Debut] HYOLYN - Lonely, 효린 - 론니, Show Music core 20131130"
-  caption=""
+  title="[Solo Debut] HYOLYN - Lonely, 효린 - 론니"
+  caption="Show Music core 20131130"
   inlanguage=""
   datecreated=""
   datepublished="2013-11-30"
@@ -949,7 +949,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="Hi54WjHr-DA"
   title="Infinite Come Back Again MV"
-  caption=""
+  caption="Infinite First invasion title track Come Back Again MV Full Ver."
   inlanguage=""
   datecreated=""
   datepublished="2010-06-09"
@@ -970,7 +970,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="9JBq45FKfvk"
   title="miss A Love Again from Samsung Anycall Campaign M/V (Chinese Ver.)"
-  caption=""
+  caption="miss A(미쓰에이)  Love Again from Samsung Anycall Campaign M/V (Chinese Ver.)"
   inlanguage=""
   datecreated=""
   datepublished="2010-06-23"
@@ -981,7 +981,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="hY8ZPvupO14"
   title="miss A Love Again from Samsung Anycall Campaign M/V (Korean Ver.)"
-  caption=""
+  caption="miss A(미쓰에이)  Love Again from Samsung Anycall Campaign M/V (Korean Ver.)"
   inlanguage=""
   datecreated=""
   datepublished="2010-06-22"
@@ -1113,7 +1113,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 {{< video
   id="iwoOdNsBmOE"
-  title=""
+  title="[MV] BeBe Mignon _ Even Though I'm small and not Pretty..(키도 작고, 예쁘지 않지만..)"
   caption=""
   inlanguage=""
   datecreated=""
@@ -1166,7 +1166,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 {{< video
   id="ae_vi3hM6K0"
   title="Block B(블락비) _ Freeze!(그대로 멈춰라!)"
-  caption=""
+  caption="Block B has a clear identity of being a top idol group created by the best hip-hop musician. Two years have been put into their production by those including Korea's representative hip-hop musician Jo PD, the producer Rhymer with countless hit songs for all his artists in different genres, and the veteran in the management sector chairman Lee Seung-Young who was behind the scenes in making top stars of the Korean Wave celebrities Soh Ji-Seop and Song Seung-Hun and singers Kim Won-Jun and In Soon-Ee."
   inlanguage=""
   datecreated=""
   datepublished="2011-04-14"

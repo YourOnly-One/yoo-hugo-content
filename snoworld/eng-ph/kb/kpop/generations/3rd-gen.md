@@ -66,7 +66,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="VTV7N44iqOI"
   title="CRAYON POP was Hurricane Pop with Bing Bing"
-  caption=""
+  caption="The group was initially named Hurricane Pop consisting of members Serang (Mari), Gummi, Ellin, ChoA and Soyul. Serang, a former leader of the disbanded girl group Coin Jackson, left the group to pursue an acting career. ChoA's younger twin sister Way, was then added to preserve the group as a quintet. The group was later renamed to Crayon Pop prior to their debut."
   inlanguage=""
   datecreated=""
   datepublished="2013-12-29"
@@ -113,7 +113,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="T3IlUKlThdY"
   title="左左右右Zony&Yony-Crayon Pop -Bar Bar Bar"
-  caption=""
+  caption="左左右右自學舞蹈 Bar Bar Bar"
   inlanguage=""
   datecreated=""
   datepublished="2014-02-21"
@@ -124,7 +124,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="MlCiM9bm-UQ"
   title="BING BING M/V Comparison [Hurricane Pop & Crayon Pop]"
-  caption=""
+  caption="Crayon Pop - Bing Bing Music Video Comparison and Predebut Promo Music Video & Official Version"
   inlanguage=""
   datecreated=""
   datepublished="2020-10-03"
@@ -142,7 +142,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="1VQ-OJ3vCn0"
   title="[Strawberry Milk] 크레용팝 유닛-딸기우유 'OK(오케이)' M/V"
-  caption=""
+  caption="Crayon Pop Sub-unit Strawberry Milk Debut Title 'OK' M/V"
   inlanguage=""
   datecreated=""
   datepublished="2014-10-15"
@@ -157,7 +157,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="gfjf1I8mk94"
   title="[M/V] Choa, WAY(Crayon Pop)(초아 & 웨이) - My Universe(나의 우주)"
-  caption=""
+  caption="Choa, WAY(Crayon Pop)'s Single Album [My Universe]"
   inlanguage=""
   datecreated=""
   datepublished="2019-09-05"
@@ -186,7 +186,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="L9ro1KjkJMg"
   title="Ailee(에일리) _ Heaven MV"
-  caption=""
+  caption="Her debut song Heaven is an R&B soul genre produced by Hwee Sung, composed by the newly rising composers Lee Ki and Suh Yong-Bae along with Hwee Sung, with the lyrics written by Hwee Sung."
   inlanguage=""
   datecreated=""
   datepublished="2012-02-08"
@@ -215,7 +215,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="gyXy0m-4bvE"
   title="[MV] NU'EST(뉴이스트) _ FACE(페이스)"
-  caption=""
+  caption="Urban Electro Band NU'EST"
   inlanguage=""
   datecreated=""
   datepublished="2012-03-14"
@@ -243,7 +243,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="KH6ZwnqZ7Wo"
   title="EXO-K 엑소케이 'MAMA' MV (Korean ver.)"
-  caption=""
+  caption="The world of new boy band EXO-K and EXO-M presented by S.M.Entertainment is opened! The first mini album title song 'MAMA' of EXO-K and EXO-M has been released."
   inlanguage=""
   datecreated=""
   datepublished="2012-04-07"
@@ -254,7 +254,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="eQ9sTtXSDwo"
   title="EXO-M 엑소엠 'MAMA' MV (Chinese ver.)"
-  caption=""
+  caption="The world of new boy band EXO-K and EXO-M presented by S.M.Entertainment is opened! The first mini album title song 'MAMA' of EXO-K and EXO-M has been released."
   inlanguage=""
   datecreated=""
   datepublished="2012-04-07"
@@ -278,7 +278,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="e5KOIrBcwj8"
   title="AOA - ELVIS M/V"
-  caption=""
+  caption="AOA 1st Single Album [ANGELS' STORY]; ELVIS M/V"
   inlanguage=""
   datecreated=""
   datepublished="2012-07-29"
@@ -289,7 +289,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="Q9Cq5m_uu0M"
   title="[MV] AOA _ ELVIS (Band Ver.)"
-  caption=""
+  caption="AOA's 1st single album [Angels' Story] is, like the title suggests, an album filled with stories of angels who fell from the sky. AOA angels sing of different moments of love they experiences for the first time away from the sky. The album is full of new emotions they pick up, like the sweetness of love, the bitterness of betrayal, and more, as well as ones they feel from meeting to people on Earth."
   inlanguage=""
   datecreated=""
   datepublished="2016-02-01"
@@ -308,7 +308,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="EbSEw7kul5A"
   title="Oh! Dance - 스카프(SKARF)"
-  caption=""
+  caption="국내 최초 한국+싱가포르 걸그룹 '스카프(skarf)', 정엽과 에코브릿지의 최초 댄스곡 'Oh! Dance'로 HOT데뷔!"
   inlanguage=""
   datecreated=""
   datepublished="2012-08-27"
@@ -344,7 +344,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="rBG5L7UsUxA"
   title="BTS (방탄소년단) 'No More Dream' Official MV"
-  caption=""
+  caption="방탄소년단 데뷔 싱글 -2 COOL 4 SKOOL- 6월 12일 발매"
   inlanguage=""
   datecreated=""
   datepublished="2013-06-12"
@@ -385,7 +385,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="D15-XYRubsc"
   title="마마무 (MAMAMOO) - Mr.애매모호 (Mr.Ambiguous) MV"
-  caption=""
+  caption="마마무(MAMAMOO) 드디어 베일을 벗다!첫 번째 미니앨범 [HELLO]."
   inlanguage=""
   datecreated=""
   datepublished="2014-06-18"
@@ -476,7 +476,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="YXGVpjqIopE"
   title="Lovelyz 어제처럼 굿나잇 Official MV"
-  caption=""
+  caption="울림 엔터테인먼트가 내놓는 첫 번째 걸그룹으로 K-POP팬의 기대를 모으고 있는 러블리즈가 2014년11월 17일 데뷔 앨범 [Girls’ Invasion]을 발표하기에 앞서 선공개 싱글 ‘어제처럼 굿나잇’을 발표했다."
   inlanguage=""
   datecreated=""
   datepublished="2014-11-09"
@@ -728,7 +728,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="jxKIOhAwrik"
   title="WayV 威神V '梦想发射计划 (Dream Launch)' MV"
-  caption=""
+  caption="WayV's 'Dream Launch' music video is out!"
   inlanguage=""
   datecreated=""
   datepublished="2019-01-24"
@@ -768,7 +768,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="EHgeGRU3wDI"
   title="청하 (CHUNG HA) - Why Don’t You Know (Feat. 넉살 (Nucksal)) MV"
-  caption=""
+  caption="걸그룹 I.O.I에서 여성 솔로 아티스트로의 첫 발걸음을 떼는 청하의 첫 번째 미니앨범 ‘Hands on Me’."
   inlanguage=""
   datecreated=""
   datepublished="2017-06-07"
@@ -920,7 +920,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="yuPVSvtrUfk"
   title="뮤직뱅크 Music Bank - 유리구두 - fromis_9 (Glass Shoes - fromis_9).20171215"
-  caption=""
+  caption="유리구두 - fromis_9 (Glass Shoes - fromis_9). KBS2 TV 뮤직뱅크｜매주 금요일 오후 5시에 방송됩니다."
   inlanguage=""
   datecreated=""
   datepublished="2017-12-15"
@@ -940,7 +940,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="m8EUx9Itrd4"
   title="[Special Clip] THE BOYZ(더보이즈)_I’m Your Boy"
-  caption=""
+  caption="A gift song for the fans of THE BOYZ!"
   inlanguage=""
   datecreated=""
   datepublished="2017-10-12"
@@ -1089,7 +1089,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="D1hWFlHRRas"
   title="[지금부터 베리베리해 OST] VERIVERY - 'Super Special' Official M/V"
-  caption=""
+  caption="젤리피쉬 엔터테인먼트의 새로운 보이그룹 VERIVERY가, 본인들의 첫 리얼리티 프로그램 ‘지금부터 베리베리해’의 OST ‘Super Special’을 디지털 싱글로 발매한다."
   inlanguage=""
   datecreated=""
   datepublished="2018-09-21"
@@ -1253,7 +1253,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="ESKfHHtiSjs"
   title="[MV] 싹쓰리(SSAK3) - 다시 여기 바닷가(Beach Again) Official MV (ENG sub)"
-  caption=""
+  caption="다시 여기 바닷가(Beach Again) 노래 : 싹쓰리(유두래곤, 린다G, 비룡) / 작사 : 린다G, 지코 / 작곡 : 이상순 / 편곡 : 노는 어린이"
   inlanguage=""
   datecreated=""
   datepublished="2020-07-25"
@@ -1334,7 +1334,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
 {{< video
   id="eKp5CAsKzmg"
   title="P1Harmony (피원하모니) - 'SIREN' MV"
-  caption=""
+  caption="P1Harmony(피원하모니)는 Plus(플러스)와 숫자 1, Harmony(하모니)의 합성어로 ‘팀'과 미지의 ‘하나’가 더해져 다양한 하모니를 만드는 가능성이 무한한 아이들이라는 의미를 담고 있다. 이들은 데뷔 앨범 ‘DISHARMONY : STAND OUT’을 통해 세상을 바라보는 독창적인 시야로 자신들의 메시지를 음악으로 엮어냈다."
   inlanguage=""
   datecreated=""
   datepublished="2020-10-28"
@@ -1414,6 +1414,7 @@ The ***3rd Generation of K-Pop Music*** started in 2012 and ended in 2021. In th
   inlanguage=""
   datecreated=""
   datepublished="2020-11-30"
+  director="Yong Seok Choi (Lumpens)"
   licensecode="allrightsreserved"
   attribto="HYBE LABELS"
   attriburl="https://www.youtube.com/channel/UC3IZKseVpdzPSBaWxBxundA"

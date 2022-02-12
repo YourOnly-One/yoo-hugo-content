@@ -65,7 +65,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="OEDHEzs5kyk"
   title="서태지와 아이들(Seotaiji and Boys) - 난 알아요(I Know) M/V"
-  caption=""
+  caption="'뮤직비디오' 라는 개념이 정립되지도 못했던 1992년.. "
   inlanguage=""
   datecreated=""
   datepublished="2012-11-27"
@@ -256,7 +256,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="P61ndtsw8x4"
   title="Uptown - Lets meet again"
-  caption=""
+  caption="One of uptowns first hits!"
   inlanguage=""
   datecreated=""
   datepublished="2008-04-13"
@@ -295,7 +295,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="CwuTCJ1WpJY"
   title="JINUSEAN - GASOLINE M/V"
-  caption=""
+  caption="featuring YG from Jinusean's 1st album JINUSEAN (1997.3)"
   inlanguage=""
   datecreated=""
   datepublished="2008-10-04"
@@ -476,7 +476,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="ExNuwh4Kq5Q"
   title="19981004 신화 천일유혼"
-  caption=""
+  caption="⭐️2차 가공 & 재업로드 금지⭐️ 19981004 인기가요  신화 천일유혼"
   inlanguage=""
   datecreated=""
   datepublished="2019-09-04"
@@ -550,7 +550,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="3eHi8VHKymo"
   title="1TYM - 1TYM M/V"
-  caption=""
+  caption="from 1TYM's 1st album 'One Time For Your Mind' (1998.11)"
   inlanguage=""
   datecreated=""
   datepublished="2008-10-03"
@@ -593,7 +593,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="BZAbbYVH1EQ"
   title="Drunken Tiger - I Want You 난 널 원해 [MV]"
-  caption=""
+  caption="드렁큰 타이거 - 난 널 원해 (1999) music video"
   inlanguage=""
   datecreated=""
   datepublished="2011-07-26"
@@ -614,7 +614,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="DfslE2pbmCk"
   title="BoA 보아 'ID; Peace B' MV"
-  caption=""
+  caption="Original Release in 2000, Remastered in 2021."
   inlanguage=""
   datecreated=""
   datepublished="2009-09-24"
@@ -662,7 +662,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 {{< video
   id="2pB0zurYJAc"
   title="PSY - 새(BIRD) M/V"
-  caption=""
+  caption="1st Album 'PSY FROM THE PSYCHO WORLD!' (2001.1)"
   inlanguage=""
   datecreated=""
   datepublished="2013-05-07"

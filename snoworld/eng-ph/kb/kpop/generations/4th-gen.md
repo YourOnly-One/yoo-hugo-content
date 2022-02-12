@@ -67,7 +67,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 {{< video
   id="uBY1AoiF5Vo"
   title="GOT the beat 'Step Back' Stage Video"
-  caption=""
+  caption="GOT the beat's 1st single Step Back is out!"
   inlanguage=""
   datecreated=""
   datepublished="2022-01-01"
