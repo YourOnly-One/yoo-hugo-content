@@ -696,7 +696,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   caption="Music Core 20090815"
   inlanguage=""
   datecreated=""
-  datepublished=""
+  datepublished="2012-02-04"
   licensecode="allrightsreserved"
   attribto="MBCkpop"
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
