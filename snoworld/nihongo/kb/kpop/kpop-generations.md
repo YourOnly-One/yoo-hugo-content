@@ -83,10 +83,10 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 ## K-POPミュージックの世代
 これまで私と一緒に？ 上記に基づいて、世代ごとのK-popミュージックアクトは次のとおりです。
-* [第1世代：1992–2001]({{< relref path="1st-gen.md" lang="en-ph" >}} "第1世代：1992–2001") (英語)
-* [第2世代：2002–2011]({{< relref path="2nd-gen.md" lang="en-ph" >}} "第2世代：2002–2011") (英語)
-* [第3世代：2012–2021]({{< relref path="3rd-gen.md" lang="en-ph" >}} "第3世代：2012–2021") (英語)
-* [第4世代：2022–2031]({{< relref path="4th-gen.md" lang="en-ph" >}} "第4世代：2022–2031") (英語)
+* [第1世代：1992–2001]({{< relref path="kpop-1st-gen.md" lang="en-ph" >}} "第1世代：1992–2001") (英語)
+* [第2世代：2002–2011]({{< relref path="kpop-2nd-gen.md" lang="en-ph" >}} "第2世代：2002–2011") (英語)
+* [第3世代：2012–2021]({{< relref path="kpop-3rd-gen.md" lang="en-ph" >}} "第3世代：2012–2021") (英語)
+* [第4世代：2022–2031]({{< relref path="kpop-4th-gen.md" lang="en-ph" >}} "第4世代：2022–2031") (英語)
 
 ### （追加）国境年：2001–2002
 2001年から2002年頃、K-POP音楽業界は減速し、第1世代の多くのグループが休止状態になり、後に解散しました。 第1世代の*BoA*と*Jang Na Ra*のソロ活動の継続的な努力のおかげで、2003年になってようやく回復し始めました。 および第2世代の*Gummy*および*Se7en*。 2004年と2005年までに、*TVXQ！*、*SS501*、および*Super Junior*によって再燃したK-popグループの復活が見られました。

@@ -1,6 +1,6 @@
 +++
-title = "Most Believable 2nd Generation K-Pop Music List"
-description = "An objective list of Second Generation Korean Popular music bands, groups, and solo acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "2nd Generation Modern K-pop (2002–2011)"
+description = "A list of Second Generation Korean Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-13T08:00:02"                                        # manually adjust to local timezone
 #lastmod = "2022-01-22T02:08:25"                                     # manually adjust to local timezone
@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=Thds7IYKH34", "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=4Iov70BaXM4", "https://www.youtube.com/watch?v=VwIiIhhlhDw", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=9JBq45FKfvk", "https://www.youtube.com/watch?v=hY8ZPvupO14", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=iwoOdNsBmOE", "https://www.youtube.com/watch?v=E8eZ_mB5Uzo", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=Thds7IYKH34", "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=4Iov70BaXM4", "https://www.youtube.com/watch?v=VwIiIhhlhDw", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=9JBq45FKfvk", "https://www.youtube.com/watch?v=hY8ZPvupO14", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=iwoOdNsBmOE", "https://www.youtube.com/watch?v=E8eZ_mB5Uzo", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=5QMyb4ZwpXg", "https://www.youtube.com/watch?v=nk0tKW6KnVQ"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -77,7 +77,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Sample songs:
   * 내가 정말 사랑하는 사람이 있죠 (Dear My Love) [^byul-songs-dear-my-love] OST for *When the Weather Is Fine*
 * Did you know?
-  * She married K-pop and variety show star, ***[Haha]({{< ref "/1st-gen.md#haha" >}} "Haha")***.
+  * She married K-pop and variety show star, ***[Haha]({{< ref "/kpop-1st-gen.md#haha" >}} "Haha")***.
 * Wikipedia: [Byul](https://en.wikipedia.org/wiki/Byul "Byul")
 
 [^byul-songs-dear-my-love]: [Byul] YouTube: [별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V](https://www.youtube.com/watch?v=LlCblnuBkjg "별 byul - 내가 정말 사랑하는 사람이 있죠 Dear My Love Official M/V")
@@ -131,7 +131,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 ## 2004
 ### TVXQ!
 * Hangul: 동방신기 (DBSK; Dong Bang Shin Ki)
-* Hiragana: とうほうしんき (Tōhōshinki)
+* Kana: とうほうしんき (Tōhōshinki)
 * Hanzi: 東方神起 (Tong Vfang Xien Qi)
 * Fandom name: Cassiopeia; Big East (Japan)
 * Debut: 2004-01-14
@@ -154,7 +154,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 ## 2005
 ### SS501
 * Hangul: 더블에스오공일
-* Katakana: ダブルエス ごーまるいち
+* Kana: ダブルエス ごーまるいち
 * Fandom name: Triple S
 * Debut: 2005-06-22
   * Song: 경고 (Warning)
@@ -191,9 +191,9 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCe52oeb7Xv_KaJsEzcKXJJg"
 >}}
 
-* Debut: 2006 as a member of ***[Uptown]({{< ref "/1st-gen.md#uptown" >}} "Uptown")***
-* Debut: 2014-07-17 as a member of ***[Lucky J]({{< ref "/3rd-gen.md#lucky-j" >}} "Lucky J")***
-* Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
+* Debut: 2006 as a member of ***[Uptown]({{< ref "/kpop-1st-gen.md#uptown" >}} "Uptown")***
+* Debut: 2014-07-17 as a member of ***[Lucky J]({{< ref "/kpop-3rd-gen.md#lucky-j" >}} "Lucky J")***
+* Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/kpop-3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
 * Wikipedia: [Jessi (musician)](https://en.wikipedia.org/wiki/Jessi_(musician) "Jessi (musician)")
 
 ### Super Junior
@@ -223,7 +223,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 ## 2006
 ### Brown Eyed Girls
 * Hangul: 브라운 아이드 걸스
-* Katakana: ブラウン・アイド・ガールズ
+* Kana: ブラウン・アイド・ガールズ
 * Also known as: B.E.G.; BG; 브아걸
 * Fandom name: Everlasting
 * Debut: 2006-03-02
@@ -268,7 +268,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 ## 2007
 ### KARA
 * Hangul: 카라
-* Katakana: カラ
+* Kana: カラ
 * Fandom name: Kamilia
 * Debut: 2007-03-29
   * Song: Break It
@@ -310,7 +310,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 ### Girls' Generation
 * Hangul: 소녀시대
-* Hiragana: しょうじょじだい
+* Kana: しょうじょじだい
 * Also known as: SNSD (Sonyeo Sidae)
 * Fandom name: Sone
 * Debut: 2007-08-05
@@ -448,7 +448,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 ### SHINee
 * Hangul: 샤이니
-* Katakana: シャイニー
+* Kana: シャイニー
 * Fandom name: Shawol
 * Debut: 2008-08-28
   * Song: Replay
@@ -471,7 +471,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 ### Taemin
 * Hangul: 태민
-* Debut: 2008-08-28 as a member of ***[SHINee]({{< ref "/2nd-gen.md#shinee" >}} "SHINee")***
+* Debut: 2008-08-28 as a member of ***[SHINee]({{< ref "/kpop-2nd-gen.md#shinee" >}} "SHINee")***
 * Debut: 2014-08-15 as a solo act
   * Song: Danger
 
@@ -487,7 +487,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   attriburl="https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g"
 >}}
 
-* Debut: 2019-08 as a member of supergroup ***[SuperM]({{< ref "/3rd-gen.md#superm" >}} "SuperM")***
+* Debut: 2019-08 as a member of supergroup ***[SuperM]({{< ref "/kpop-3rd-gen.md#superm" >}} "SuperM")***
 * Did you know?
   * He was dubbed the Idol's Idol.
 * Wikipedia: [Lee Tae-min](https://en.wikipedia.org/wiki/Lee_Tae-min "Lee Tae-min")
@@ -520,7 +520,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 ### U-KISS
 * Hangul: 유키스
-* Katakana: ユーキス
+* Kana: ユーキス
 * Also known as: Ubiquitous Korean International Idol Super Star
 * Fandom name: Kiss Me
 * Debut: 2008-08-15 first public performance for another song
@@ -586,7 +586,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Hangul: 지코
 * Debut: 2009 as a member of ***Harmonics***
   * Song: The Letter
-* Debut: 2011-04-14 as a member of ***[Block B]({{< ref "/2nd-gen.md#block-b" >}} "Block B")***
+* Debut: 2011-04-14 as a member of ***[Block B]({{< ref "/kpop-2nd-gen.md#block-b" >}} "Block B")***
 * Debut: 2014 as a solo act
 * Wikipedia: [Zico (rapper)](https://en.wikipedia.org/wiki/Zico_(rapper) "Zico (rapper)")
 
@@ -716,7 +716,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 ### Eun Jung
 * Hangul: 은정
-* Katakana: ウンジョン
+* Kana: ウンジョン
 * Also known as: Elsie
 * Debut: 2009-07-29 as a member of T-ara
 * Debut: 2013 as a solo act
@@ -811,7 +811,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 ### MBLAQ
 * Hangul: 엠블랙
-* Katakana: エムブラック
+* Kana: エムブラック
 * Also known as: Music Boys Live in Absolute Quality
 * Fandom name: A+
 * Debut: 2009-10-14
@@ -897,7 +897,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Hangul: 효린
 * Also known as: 김효정 (Kim Hyo-jung)
 * Fandom name: BAE
-* Debut: 2010-06-03 as a member of ***[SISTAR]({{< ref "/2nd-gen.md#sistar" >}} "SISTAR")***
+* Debut: 2010-06-03 as a member of ***[SISTAR]({{< ref "/kpop-2nd-gen.md#sistar" >}} "SISTAR")***
 * Debut: 2013 August as first solo act
   * Song: 미치게 만들어 (Crazy of You) OST for *Master's Sun*
 
@@ -1011,7 +1011,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Did you know?
   * *Bad Girl, Good Girl* was the first debut song to reach number one in the **Gaon Digital Chart**.
   * They were the fastest girl group to take the number one spot in a music show (**KBS** *Music Bank*).
-  * *Bad Girl, Good Girl* was the number 1 song in *Inkigayo* for four straight weeks, breaking the record set by ***[Girls' Generation]({{< ref "/2nd-gen.md#girls-generation" >}} "Girls' Generation")***.
+  * *Bad Girl, Good Girl* was the number 1 song in *Inkigayo* for four straight weeks, breaking the record set by ***[Girls' Generation]({{< ref "/kpop-2nd-gen.md#girls-generation" >}} "Girls' Generation")***.
   * Originally marketed as the "Chinese Wonder Girls".
 * Wikipedia: [Miss A](https://en.wikipedia.org/wiki/Miss_A "Miss A")
 
@@ -1022,7 +1022,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Hangul: 수지
 * Also known as: 배수지 (Bae Su Ji)
 * Fandom name: Sueweeties; Suzyholic
-* Debut: 2010 March as a member of ***[miss A]({{< ref "/2nd-gen.md#miss-a" >}} "miss A")***
+* Debut: 2010 March as a member of ***[miss A]({{< ref "/kpop-2nd-gen.md#miss-a" >}} "miss A")***
 * Debut: 2017-01-16 as a solo act
   * Song: 행복한 척 (Pretend)
 
@@ -1128,7 +1128,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 ### Ben
 * Hangul: 벤
 * Also known as: 이은영 (Lee Eun Young)
-* Debut: 2010 as a member of ***[BéBé Mignon]({{< ref "/1st-gen.md#bébé-mignon" >}} "BéBé Mignon")***
+* Debut: 2010 as a member of ***[BéBé Mignon]({{< ref "/kpop-1st-gen.md#bébé-mignon" >}} "BéBé Mignon")***
 * Debut: 2012-10-10 as solo act
   * Song: 오늘은 가지마 (Don't Go Today)
 
@@ -1157,6 +1157,55 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 [^ben-songs-stay]: [Ben] YouTube: [[FMV] Ben – STAY (Oh My Ghost OST)](https://www.youtube.com/watch?v=jE3QbJG1Oj0 "[FMV] Ben – STAY (Oh My Ghost OST)")
 
 ## 2011
+### Leader'S
+* Hangul: 리더스
+* Fandom name:
+* Debut: 2011-03-22
+  * Song: Please (제발)
+
+{{< video
+  id="5QMyb4ZwpXg"
+  title="[Eng sub]Leader's(리더스) - Please(제발)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2011-06-18"
+  licensecode="allrightsreserved"
+  attribto="NelietsSUBS"
+  attriburl="https://www.youtube.com/channel/UC-q7XEoaiMpvRl72kGCIZtg"
+>}}
+
+### Kimi
+* Hangul: 키미
+* Also known as: Kim Minji (김민지); Habin (하빈)
+* Fandom name:
+* Debut: 2011-03-22 (as a member of ***Leader'S***)
+* Debut: 2014-03-06 (as a member of ***Scarlet***)
+* Debut: 2016-10-20 (as a member of ***BULLDOK***)
+* Debut: 2017-08-25 (as a solo act)
+  * Song: I Am
+
+{{< video
+  id="nk0tKW6KnVQ"
+  title="Kimi(키미)- I AM(가사) [Han|Rom|Eng Lyrics]"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2017-09-04"
+  licensecode="allrightsreserved"
+  attribto="wltjd00"
+  attriburl="https://www.youtube.com/channel/UCUKbW71aukd9ZF1CwIJKHiw"
+>}}
+
+* Debut: 2021-04-09 (as a member of ***We Girls***)
+
+* Sample songs:
+  * Mammy Mammy (맘이맘이) [^kimi-songs-mammy-mammy]
+* Did you know?
+  * Kimi's song "Mammy Mammy" was remixed by the P-pop girl group Clover entitled "Kakumakabog-kabog Ang Puso" (Pounding Heart).
+
+[^kimi-songs-mammy-mammy]: [Kimi] YouTube: [Mammy Mammy](https://www.youtube.com/watch?v=qcp5Tsl27LU "Kimi: Mammy Mammy")
+
 ### Block B
 * Hangul: 블락비
 * Fandom name: BBC (Block B Club); Honeybees
@@ -1179,7 +1228,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 ### Apink
 * Hangul: 에이핑크
-* Katakana: エーピンク
+* Kana: エーピンク
 * Fandom name: Pink Panda
 * Debut: 2011-04-19
   * Song: 몰라요 (Mollayo; I Don't Know)
@@ -1209,10 +1258,10 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
 
 Or check the other generations!
-* [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
+* [1st Generation: 1992–2001]({{< ref "/kpop-1st-gen.md" >}} "1st Generation K-pop")
 * 2nd Generation: 2002–2011 👈🏽 You are here
-* [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
-* [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
+* [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
+* [4th Generation: 2022–2031]({{< ref "/kpop-4th-gen.md" >}} "4th Generation K-pop")
 
 -------
 

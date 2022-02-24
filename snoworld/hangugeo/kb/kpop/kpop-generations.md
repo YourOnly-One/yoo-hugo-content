@@ -83,10 +83,10 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 ## K팝 음악의 세대
 지금까지 나와? 위의 내용을 바탕으로 세대별 K-pop 음악 행위는 다음과 같다.
-* [1세대: 1992–2001]({{< relref path="1st-gen.md" lang="en-ph" >}} "1세대: 2022–2031") (영어)
-* [2세대: 2002–2011]({{< relref path="2nd-gen.md" lang="en-ph" >}} "2세대: 2022–2031") (영어)
-* [3세대: 2012–2021]({{< relref path="3rd-gen.md" lang="en-ph" >}} "3세대: 2022–2031") (영어)
-* [4세대: 2022–2031]({{< relref path="4th-gen.md" lang="en-ph" >}} "4세대: 2022–2031") (영어)
+* [1세대: 1992–2001]({{< relref path="kpop-1st-gen.md" lang="en-ph" >}} "1세대: 2022–2031") (영어)
+* [2세대: 2002–2011]({{< relref path="kpop-2nd-gen.md" lang="en-ph" >}} "2세대: 2022–2031") (영어)
+* [3세대: 2012–2021]({{< relref path="kpop-3rd-gen.md" lang="en-ph" >}} "3세대: 2022–2031") (영어)
+* [4세대: 2022–2031]({{< relref path="kpop-4th-gen.md" lang="en-ph" >}} "4세대: 2022–2031") (영어)
 
 ### (추가) 국경 연도: 2001–2002
 2001년에서 2002년 사이에 K-pop 음악 산업은 침체되고 1세대의 많은 그룹이 활동을 중단하고 나중에 해산되었습니다. 2003년이 되어서야 1세대 *보아*와 *장나라*의 솔로 활동이 계속되면서 다시 정상에 오르기 시작했다. 그리고 2세대 *Gummy*와 *Se7en*. 2004년과 2005년에 우리는 *동방신기!*, *SS501*, *슈퍼주니어*에 의해 다시 불을 붙인 K팝 그룹의 부활을 보았습니다.

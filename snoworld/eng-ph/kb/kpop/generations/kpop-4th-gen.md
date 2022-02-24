@@ -1,6 +1,6 @@
 +++
-title = "Most Logical 4th Generation K-Pop Music List"
-description = "An objective list of Fourth Generation Korean Popular music bands, groups, and solo acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "4th Generation Modern K-pop (2022–2031)"
+description = "A list of Fourth Generation Korean Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-17T08:00:04"                                        # manually adjust to local timezone
 #lastmod = "2022-01-22T02:08:27"                                     # manually adjust to local timezone
@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_4th_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=uBY1AoiF5Vo", "https://www.youtube.com/watch?v=Zzl9eAcI1lk", "https://www.youtube.com/watch?v=yhCb3nEqxrQ"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=uBY1AoiF5Vo", "https://www.youtube.com/watch?v=Zzl9eAcI1lk", "https://www.youtube.com/watch?v=yhCb3nEqxrQ", "https://www.youtube.com/watch?v=KLF85_qHujQ", "https://www.youtube.com/watch?v=3GWscde8rM8"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -49,6 +49,8 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 
 <!--more-->
 
+In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with their powerful debut songs.
+
 > For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
@@ -60,7 +62,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 ### Girls On Top
 #### GOT the beat
 * Hangul: 갓더비트
-* a subgroup of supergroup ***[Girls On Top]({{< ref "/4th-gen.md#girls-on-top" >}} "Girls On Top")***
+* a subgroup of supergroup ***[Girls On Top]({{< ref "/kpop-4th-gen.md#girls-on-top" >}} "Girls On Top")***
 * Debut: 2022-01-01
   * Song: Step Back
 
@@ -103,7 +105,7 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 * Also known as: TPST
 * Fandom name: TBA (maybe STORM or W1ND)
 * Debut: 2022-01-05 (1st dance video)
-  * Song: Kick It by ***[NCT 127]({{< ref "/3rd-gen.md#nct-127" >}} "NCT 127")***
+  * Song: Kick It by ***[NCT 127]({{< ref "/kpop-3rd-gen.md#nct-127" >}} "NCT 127")***
 
 {{< video
   id="yhCb3nEqxrQ"
@@ -117,13 +119,13 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
   attriburl="https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA"
 >}}
 
-* Debut: 2022-02-21
+* Debut: 2022-03-02
   * Song: TBA
 * Sample covers:
-  * *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN]({{< ref "/3rd-gen.md#seventeen" >}} "SEVENTEEN")***
+  * *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN]({{< ref "/kpop-3rd-gen.md#seventeen" >}} "SEVENTEEN")***
 * Did you know?
   * ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
-    * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/3rd-gen.md#nu-est" >}} "NU'EST")***. [^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts]
+    * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/kpop-3rd-gen.md#nu-est" >}} "NU'EST")***. [^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts]
   * **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08. [^naver-news-tempest-tpst-trademarked]
 * YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA "TEMPEST")
 
@@ -136,17 +138,43 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 * Hangul: 비비지
 * Also known as: VIVId dayZ
 * Fandom name: NAV
-* Debut: sometime February
-  * Song: TBA
+* Debut: 2022-02-09
+  * Song: BOP BOP!
+
+{{< video
+  id="KLF85_qHujQ"
+  title="[MV] VIVIZ _ BOP BOP!"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2022-02-09"
+  licensecode="allrightsreserved"
+  attribto="1theK (원더케이)"
+  attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
+>}}
+
 * Did you know?
-  * The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/3rd-gen.md#gfriend" >}} "GFRIEND")***.
+  * The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/kpop-3rd-gen.md#gfriend" >}} "GFRIEND")***.
 * Instagram: [viviz_official](https://www.instagram.com/viviz_official/ "viviz_official")
 * Twitter: [@VIVIZ](https://twitter.com/viviz_official "@VIVIZ")
 * YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/ "VIVIZ")
 
 ### NMIXX
-* Debut: sometime February
-  * Song: TBA
+* Debut: 2022-02-22
+  * Song: O.O
+
+{{< video
+  id="3GWscde8rM8"
+  title="NMIXX O.O M/V"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2022-02-22"
+  licensecode="allrightsreserved"
+  attribto="JYP Entertainment"
+  attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
+>}}
+
 * Facebook: [NMIXX](https://facebook.com/NMIXXOfficial/ "NMIXX")
 * Twitter: [@NMIXX_official](https://twitter.com/NMIXX_official "@NMIXX_official")
 * YouTube: [NMIXX](https://www.youtube.com/c/NMIXXOfficial "NMIXX")
@@ -156,9 +184,9 @@ The ***4th Generation of K-Pop Music*** started in 2022 and will end on 2031. Al
 Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
 
 Or check the other generations!
-* [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
-* [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
-* [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
+* [1st Generation: 1992–2001]({{< ref "/kpop-1st-gen.md" >}} "1st Generation K-pop")
+* [2nd Generation: 2002–2011]({{< ref "/kpop-2nd-gen.md" >}} "2nd Generation K-pop")
+* [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
 * 4th Generation: 2022–2031 👈🏽 You are here
 
 -------

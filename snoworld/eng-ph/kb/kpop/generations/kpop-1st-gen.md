@@ -1,6 +1,6 @@
 +++
-title = "Most Rational 1st Generation K-Pop Music List"
-description = "An objective list of First Generation Korean Popular music bands, groups, and solo acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+title = "1st Generation Modern K-pop (1992–2001)"
+description = "A list of First Generation Korean Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-01-12T08:00:01"                                        # manually adjust to local timezone
 #lastmod = "2022-01-22T02:08:24"                                     # manually adjust to local timezone
@@ -97,7 +97,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCN-F1myCRkQ1kygS_QmlsPw"
 >}}
 
-* Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
+* Debut: 2020-10-10 as a member of supergroup ***[Refund Sisters]({{< ref "/kpop-3rd-gen.md#refund-sisters" >}} "Refund Sisters")***
 * Wikipedia: [Uhm Jung-hwa](https://en.wikipedia.org/wiki/Uhm_Jung-hwa "Uhm Jung-hwa")
 
 ### Deux
@@ -157,7 +157,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCHJ6XB91dAdu1X3h4nggbKw"
 >}}
 
-* Debut: 1997-03-01 as a member of ***[JINUSEAN]({{< ref "/1st-gen.md#jinusean" >}} "JINUSEAN")***
+* Debut: 1997-03-01 as a member of ***[JINUSEAN]({{< ref "/kpop-1st-gen.md#jinusean" >}} "JINUSEAN")***
 * Wikipedia: [Jinu](https://en.wikipedia.org/wiki/Jinu "Jinu")
 
 ### JYP
@@ -204,7 +204,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ### Kim Jong Kook
 * Hangul: 김종국
 * Fandom name: Papitus
-* Debut: 1995-09-06 as a member of ***[Turbo]({{< ref "/1st-gen.md#turbo" >}} "Turbo")***
+* Debut: 1995-09-06 as a member of ***[Turbo]({{< ref "/kpop-1st-gen.md#turbo" >}} "Turbo")***
 * Debut: 2001-12-12 as a solo act
   * Song: 남자니까 (Because I'm A Man)
 
@@ -349,7 +349,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 
 * Debut: 2012-07-30 as a member of ***RGP*** (***레게 강 같은 평화***; ***Reggae Peace like a River***)
 * Did you know?
-  * He is married to K-pop singer, ***[Byul]({{< ref "/2nd-gen.md#byul" >}} "Byul")***.
+  * He is married to K-pop singer, ***[Byul]({{< ref "/kpop-2nd-gen.md#byul" >}} "Byul")***.
   * He is a *Running Man* host.
   * He is an *Infinite Challenge* host.
 * Wikipedia: [Haha (entertainer)](https://en.wikipedia.org/wiki/Haha_(entertainer) "Haha (entertainer)")
@@ -464,7 +464,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCaO6TYtlC8U5ttz62hTrZgg"
 >}}
 
-* Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/3rd-gen.md#ssak3" >}} "SSAK3")***
+* Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/kpop-3rd-gen.md#ssak3" >}} "SSAK3")***
 * Wikipedia: [Rain (entertainer)](https://en.wikipedia.org/wiki/Rain_(entertainer) "Rain (entertainer)")
 
 ### Shinhwa
@@ -522,7 +522,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 ### Lee Hyo Ri
 * Hangul: 이효리
 * Fandom name: HyoRish
-* Debut: 1998-05-25 as a member of ***[Fin.K.L]({{< ref "/1st-gen.md#finkl" >}} "Fin.K.L")***
+* Debut: 1998-05-25 as a member of ***[Fin.K.L]({{< ref "/kpop-1st-gen.md#finkl" >}} "Fin.K.L")***
 * Debut: 2003-08-13 as a solo act
   * Song: 10 Minutes
 
@@ -538,7 +538,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   attriburl="https://www.youtube.com/channel/UCweOkPb1wVVH0Q0Tlj4a5Pw"
 >}}
 
-* Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/3rd-gen.md#ssak3" >}} "SSAK3")***
+* Debut: 2020-07-25 as a member of supergroup ***[SSAK3]({{< ref "/kpop-3rd-gen.md#ssak3" >}} "SSAK3")***
 * Wikipedia: [Lee Hyori](https://en.wikipedia.org/wiki/Lee_Hyori "Lee Hyori")
 
 ### 1TYM
@@ -629,7 +629,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
   * Milky Way [^boa-songs-milky-way]
   * Atlantis Princess [^boa-songs-atlantis-princess]
   * Only One [^boa-songs-only-one]
-* Debut: 2022-01-01 as a member of ***[GOT the beat]({{< ref "/4th-gen.md#got-the-beat" >}} "GOT the beat")*** a subgroup of supergroup ***[Girls On Top]({{< ref "/4th-gen.md#girls-on-top" >}} "Girls On Top")***
+* Debut: 2022-01-01 as a member of ***[GOT the beat]({{< ref "/kpop-4th-gen.md#got-the-beat" >}} "GOT the beat")*** a subgroup of supergroup ***[Girls On Top]({{< ref "/kpop-4th-gen.md#girls-on-top" >}} "Girls On Top")***
 * Did you know?
   * She was discovered by **SM Entertainment** at the age of 11 and trained for two years.
   * She debuted at the young age of 13.
@@ -738,9 +738,9 @@ Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md"
 
 Or check the other generations!
 * 1st Generation: 1992–2001 👈🏽 You are here
-* [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
-* [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
-* [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
+* [2nd Generation: 2002–2011]({{< ref "/kpop-2nd-gen.md" >}} "2nd Generation K-pop")
+* [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
+* [4th Generation: 2022–2031]({{< ref "/kpop-4th-gen.md" >}} "4th Generation K-pop")
 
 -------
 

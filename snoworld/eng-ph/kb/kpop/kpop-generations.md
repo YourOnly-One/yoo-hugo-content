@@ -83,10 +83,10 @@ If you prefer this approach, there is no harm in it. Think of it as "when did th
 
 ## The Generations of K-pop Music
 With me so far? Based on the above, here are the K-pop music acts per generation:
-* [1st Generation: 1992–2001]({{< ref "/1st-gen.md" >}} "1st Generation K-pop")
-* [2nd Generation: 2002–2011]({{< ref "/2nd-gen.md" >}} "2nd Generation K-pop")
-* [3rd Generation: 2012–2021]({{< ref "/3rd-gen.md" >}} "3rd Generation K-pop")
-* [4th Generation: 2022–2031]({{< ref "/4th-gen.md" >}} "4th Generation K-pop")
+* [1st Generation: 1992–2001]({{< ref "/kpop-1st-gen.md" >}} "1st Generation K-pop")
+* [2nd Generation: 2002–2011]({{< ref "/kpop-2nd-gen.md" >}} "2nd Generation K-pop")
+* [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
+* [4th Generation: 2022–2031]({{< ref "/kpop-4th-gen.md" >}} "4th Generation K-pop")
 
 ### (EXTRA) Border Years: 2001–2002
 Around 2001 to 2002, the K-pop music industry slowed down and many groups from the 1st Generation went on hiatus and later disbanded. It was not until 2003 that it started to pick-up again thanks to the continued efforts of solo acts from 1st Generation *BoA* and *Jang Na Ra*; and 2nd Generation *Gummy* and *Se7en*. By 2004 and 2005 we have seen the resurgence of K-pop groups which was re-ignited by *TVXQ!*, *SS501*, and *Super Junior*.
