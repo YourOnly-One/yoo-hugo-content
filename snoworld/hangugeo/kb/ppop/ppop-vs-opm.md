@@ -8,7 +8,7 @@ date = "2022-02-27T19:35:00"                                        # manually a
 #aliases = [""]
 slug = "difference-ppop-opm"
 translationKey = "difference-ppop-opm-202258"
-relCanonical = "https://im.youronly.one/snoworld/kb/ppop/difference-ppop-opm-202258/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/snoworld/ko/kb/ppop/difference-ppop-opm-202258/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
