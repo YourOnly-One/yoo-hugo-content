@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/k/K-pop_2nd_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=Thds7IYKH34", "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=4Iov70BaXM4", "https://www.youtube.com/watch?v=VwIiIhhlhDw", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=9JBq45FKfvk", "https://www.youtube.com/watch?v=hY8ZPvupO14", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=iwoOdNsBmOE", "https://www.youtube.com/watch?v=E8eZ_mB5Uzo", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=5QMyb4ZwpXg", "https://www.youtube.com/watch?v=nk0tKW6KnVQ"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=6nW0ZkZRZNs", "https://www.youtube.com/watch?v=k0YihgysbVs", "https://www.youtube.com/watch?v=a4qMOLm1LHU", "https://www.youtube.com/watch?v=xQ635vE2RQI", "https://www.youtube.com/watch?v=QQF3TU6L57E", "https://www.youtube.com/watch?v=7c8JrPdHKNI", "https://www.youtube.com/watch?v=SrazFGFRnhM", "https://www.youtube.com/watch?v=W__OBj1Suwc", "https://www.youtube.com/watch?v=MVetyA1KfG0", "https://www.youtube.com/watch?v=9NIYJ8A5R0s", "https://www.youtube.com/watch?v=aSyXgv_v3no", "https://www.youtube.com/watch?v=0k2Zzkw_-0I", "https://www.youtube.com/watch?v=uxFxoLxmcdg", "https://www.youtube.com/watch?v=tjp2Dg3tZ_k", "https://www.youtube.com/watch?v=FB8FSekVnLg", "https://www.youtube.com/watch?v=6eWE-z_SgrQ", "https://www.youtube.com/watch?v=VTASffPQGhY", "https://www.youtube.com/watch?v=UF8m2JIDjKU", "https://www.youtube.com/watch?v=YEmRoYV8vMs", "https://www.youtube.com/watch?v=AKu_0dA6yCI", "https://www.youtube.com/watch?v=gtT2QtttvR4", "https://www.youtube.com/watch?v=gRiCliq8uiQ", "https://www.youtube.com/watch?v=zIRW_elc-rY", "https://www.youtube.com/watch?v=ISEoXdHb4W4", "https://www.youtube.com/watch?v=49AfuuRbgGo", "https://www.youtube.com/watch?v=kb4iKfnW2Yo", "https://www.youtube.com/watch?v=21UjHv8EOxY", "https://www.youtube.com/watch?v=8tzhuG3ezRM", "https://www.youtube.com/watch?v=Q4XEHXLRhII", "https://www.youtube.com/watch?v=kLaIItxDsto", "https://www.youtube.com/watch?v=H7MHZpSNJQc", "https://www.youtube.com/watch?v=Thds7IYKH34", "https://www.youtube.com/watch?v=1Lwjl1LGiEQ", "https://www.youtube.com/watch?v=lReJuxI7z-o", "https://www.youtube.com/watch?v=6-WzG9vzRpM", "https://www.youtube.com/watch?v=4Iov70BaXM4", "https://www.youtube.com/watch?v=VwIiIhhlhDw", "https://www.youtube.com/watch?v=Hi54WjHr-DA", "https://www.youtube.com/watch?v=9JBq45FKfvk", "https://www.youtube.com/watch?v=hY8ZPvupO14", "https://www.youtube.com/watch?v=8TeeJvcBdLA", "https://www.youtube.com/watch?v=ZqOg_wqGGWk", "https://www.youtube.com/watch?v=BGTJ37qRn-g", "https://www.youtube.com/watch?v=VpkhnJzu9I0", "https://www.youtube.com/watch?v=iwoOdNsBmOE", "https://www.youtube.com/watch?v=E8eZ_mB5Uzo", "https://www.youtube.com/watch?v=ae_vi3hM6K0", "https://www.youtube.com/watch?v=2dMukY-kJwE", "https://www.youtube.com/watch?v=5QMyb4ZwpXg", "https://www.youtube.com/watch?v=nk0tKW6KnVQ", "https://www.youtube.com/watch?v=_IKAPJSAiSQ", "https://www.youtube.com/watch?v=ZAqiMCp9zrI"]                                                       # used by og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
@@ -150,6 +150,76 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 >}}
 
 * Wikipedia: [TVXQ](https://en.wikipedia.org/wiki/TVXQ "TVXQ")
+
+### Sandara Park {#sandara-park-QhNACVCJLYzU76wTv}
+* Hangul: 박산다라
+* Also known as: Dara; Sandy; Sandy Park; Krung-krung
+* Fandom name:
+* Debut: 2004 (as a solo act in the Philippines)
+  * Song: 「In Or Out」
+
+{{< video
+  id="_IKAPJSAiSQ"
+  title="Sandara Park - In or Out Official MV (Eng Sub)"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2011-02-14"
+  licensecode="allrightsreserved"
+  attribto="WolfAnimeGurl115"
+  attriburl="https://www.youtube.com/channel/UCZ_WklLJ3zbUdFZ21f49yPQ"
+>}}
+
+* Debut: 2009-03-27 (as a member of ***2NE1***)
+* Debut: 2009-07-09 (as a solo act in Korea)
+  * Song: 「Kiss」
+
+{{< video
+  id="ZAqiMCp9zrI"
+  title="DARA - KISS M/V"
+  caption=""
+  inlanguage=""
+  datecreated=""
+  datepublished="2010-09-06"
+  licensecode="allrightsreserved"
+  attribto="2NE1"
+  attriburl="https://www.youtube.com/channel/UCnsQjCVzmEd-YvlQZbo6zCg"
+>}}
+
+* Did you know?
+  * ***Sandara Park*** is dubbed as the "*BoA* of the Philippines" due to her immense popularity in the country; similar to how ***BoA*** is immensely popular in Japan.
+  * She is considered as the standard for Korean beauty.
+  * She is also known as the "Pambansang krung-krung" ("Nation's Crazy Person").
+  * In 2004, she released her self-titled EP, with the first track 「In Or Out」, as her debut in singing.
+    * Her EP is also the only album by a South Korean to be certified platinum by the Philippine Association of the Record Industry or PARI.
+  * Her inspiration to become a celebrity was the K-pop boy band ***Seo Taiji and Boys*** who started the modern K-pop music in 1992.
+  * In 2004, ***Sandara Parak*** joined **ABS-CBN**'s talent program, *Star Circle Quest* where she finished in second place.
+    * She reportedly received half a million text/SMS votes nationwide during the final round.
+  * In 2007, she and her family returned to Korea, and later in the year **YG Entertainment** signed her.
+  * She trained under the *K-pop idol industry* for two years and in 2009 debut as a member of the girl group ***2NE1***.
+    * In the same year, she also debut as a solo act in Korea.
+* Authority control:
+  * [Discogs](https://www.discogs.com/artist/4024698-Dara-10)
+  * [ISNI](https://isni.org/isni/0000000372844723)
+  * [MusicBrainz](https://musicbrainz.org/artist/e8cfbf58-95cc-42f3-92e8-c616b66b02c0)
+  * [Wikidata](https://www.wikidata.org/wiki/Q496170)
+  * YourOnly.One MD: QhNACVCJLYzU76wTv
+* Audio streaming:
+  * [Apple Music](https://music.apple.com/artist/sandara-park/196081197)
+  * [deezer](https://www.deezer.com/artist/126847)
+  * [LINE MUSIC](https://music.line.me/artist/mi000000000aee39c5)
+  * [Melon](https://www.melon.com/artist/timeline.htm?artistId=165537)
+  * [Spotify](https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP)
+  * [YouTube Music](https://music.youtube.com/channel/UCLL0Ep2Claa55NSR-HHyuQw)
+* Video streaming:
+  * [YouTube](https://www.youtube.com/channel/UCX4uTPyZkp1d0ogkNNp8LtA)
+* Social:
+  * [Facebook](https://fb.com/SANDARAxABYSS)
+  * [Instagram](https://www.instagram.com/daraxxi)
+  * [Twitter](https://twitter.com/krungy21)
+  * [Weibo](https://www.weibo.com/daraxxicn)
+* More:
+  * [Wikipedia](https://en.wikipedia.org/wiki/Sandara_Park)
 
 ## 2005
 ### SS501
@@ -661,7 +731,6 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 * Wikipedia: [2NE1](https://en.wikipedia.org/wiki/2NE1 "2NE1")
 
 [^2ne1-songs-i-dont-care]: [2NE1] YouTube: [2NE1 - I DON'T CARE M/V](https://www.youtube.com/watch?v=4MgAxMO1KD0 "2NE1 - I DON'T CARE M/V")
-[^2ne1-songs-kiss]: [2NE1] YouTube: [DARA - KISS M/V](https://www.youtube.com/watch?v=ZAqiMCp9zrI "DARA - KISS M/V")
 [^2ne1-songs-lonely]: [2NE1] YouTube: [2NE1 - LONELY M/V](https://www.youtube.com/watch?v=5n4V3lGEyG4 "2NE1 - LONELY M/V")
 
 ### 4MINUTE
