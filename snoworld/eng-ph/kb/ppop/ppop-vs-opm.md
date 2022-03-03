@@ -96,7 +96,7 @@ Philippine music, or P-pop, started in the 1960s, artists like ***Jose Mari Chan
   attriburl="https://www.youtube.com/channel/UCoKUqjqgKPdOj57j3l3e4vw"
 >}}
 
-They were then followed by popular songwriters, singers, and bands like ***Ryan Cayabyab*** (1970), ***Boyfriends*** (1970), ***Hotdog*** (1972), ***Freddie Aguilar*** (1973), ***Rico Puno*** (1975), ***Asin*** (1976), ***Sampaguita*** (1977), ***VST & Company*** (1977), ***Lea Salonga*** (1978), ***Sharon Cuneta*** (1978), and ***Hagibis*** (1979),
+They were then followed by popular songwriters, singers, and bands like ***Ryan Cayabyab*** (1970), ***Boyfriends*** (1970), ***Hotdog*** (1972), ***Freddie Aguilar*** (1973), ***Rico Puno*** (1975), ***Asin*** (1976), ***Sampaguita*** (1977), ***VST & Company*** (1977), ***Lea Salonga*** (1978), ***Sharon Cuneta*** (1978), and ***Hagibis*** (1979).
 
 ### 1980s: the rise of dance-pop and the beginnings of Pinoy hip hop
 In the 1980s, the legendary ***Gary V.*** brought dance-pop to the mainstream.
