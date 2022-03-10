@@ -45,44 +45,42 @@ type = "article"                                                           # art
   #rel = "noopener external nofollow"
 +++
 
-For more than ten (10) years now, the label *P-pop* has become a terminology used to refer to a new genre of music. Often than not, it is used to mean the rising Philippine *idol* groups and also compared to *OPM* or *Original Pilipino Music*.
+For more than ten years now, the label P-pop has become a terminology used to refer to a new genre of music. Often than not, it is used to mean the rising Philippine idol groups and also compared to OPM or Original Pilipino Music.
 
 But what is it exactly? Is not P-pop *Pilipino popular music* by definition?
 
 <!--more-->
 
-If one will search the Internet, there are different definitions of *P-pop*, what it covers, and what it represents. There are those that use it to mean the *idol* groups. There were articles written wherein it was used interchangeably with *OPM*. While there are also people who used it as an umbrella terminology for everything Filipino made. It can not all be correct, right?
+An Internet search for P-pop will give different definitions of it, what it covers, and what it represents. There are those who use it to mean the idol groups. There are articles written wherein it was used interchangeably with OPM. While there are also those who use it as an umbrella terminology for everything Filipino made. It can not all be correct, right?
 
 Simple answer?
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  *P-pop*, or ***P***_inoy_ ***Pop***_ular music_, is all music composed or performed by a Filipino.
+  P-pop, or _**P**inoy **Pop**ular music_, is all music composed or performed by a Filipino.
 {{% /quotebox %}}
 
 How about OPM?
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  *OPM*, or *Original Pilipino Music*, is every ***original*** music composed by a Filipino.
+  OPM, or *Original Pilipino Music*, is every ***original*** music composed by a Filipino.
 {{% /quotebox %}}
 
 It can not get any simpler than that.
 
-We are done. Thank you for reading and I hope we can start using the terms *P-pop* and *OPM* correctly.
-
-However, there is more to it than meets the eye.
+But wait! There is more to it than meets the eye.
 
 ## P-pop
-*P-pop* or ***P***_inoy_ ***Pop***_ular music_ encompasses all music composed or performed by a Filipino. It is *not* the successor to *OPM*. It is *not* a subgenre of *OPM*. P-pop is simply another term for the entirety of *Pinoy music* regardless if the music is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
+P-pop, or _**P**inoy **Pop**ular music_, encompasses all music composed or performed by a Filipino. It is not the successor to OPM. It is not a subgenre of OPM. P-pop is simply another term for the entirety of Pinoy music regardless if the music is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
 
-It also should not be confused with *pop music*. While *pop music* and *popular music* are similar these two terms are not interchangeable. *Popular music* is defined as music which is <q>most in line with the tastes and interests of the urban middle class</q> [^liveaboutdotcom-popular-music] or <q>music with a wide appeal typically distributed to large audiences through the music industry</q> [^wikipedia-popular-music] and <q>typically have easily singable melodies</q> [^wikipedia-popular-music]. While *pop music*, <q>as a phrase with the shortened first word, has primarily come into usage to describe the music that evolved out of the rock and roll revolution of the mid-1950s</q> [^liveaboutdotcom-popular-music].
+It also should not be confused with the genre known as pop music. While pop music as a genre and pop music as popular music are similar these are not interchangeable. Pop music as *popular music* is defined as music which is <q>most in line with the tastes and interests of the urban middle class</q> [^liveaboutdotcom-popular-music] or <q>music with a wide appeal typically distributed to large audiences through the music industry</q> [^wikipedia-popular-music] and <q>typically have easily singable melodies</q> [^wikipedia-popular-music]. While pop music as a genre <q>has primarily come into usage to describe the music that evolved out of the rock and roll revolution of the mid-1950s</q> [^liveaboutdotcom-popular-music].
 
-Still confusing? It is. There is a big overlap between *pop music* as a genre and *pop music* as *popular music*. Just remember that *pop music* since the mid-1950s <q>has usually been identified as the music ***and*** the musical styles that are accessible to the broadest audience</q> [^liveaboutdotcom-popular-music] (emphasis mine).
+Still confusing? It is. There is a big overlap between pop music as a genre and pop music as popular music. Just remember that pop music since the mid-1950s <q>has usually been identified as the music **and** the musical styles that are accessible to the broadest audience</q> (emphasis mine). [^liveaboutdotcom-popular-music]
 
 [^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
 [^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music)
 
 ### 1960s and 1970s
-Philippine music, or P-pop, started in the 1960s, artists like ***Jose Mari Chan*** (1966), ***Nora Aunor*** (1967), the ***Juan de la Cruz Band*** (1968), and ***APO Hiking Society*** (1969), to mention a few, were the early acts in the growing Philippine music industry.
+Philippine music, or P-pop, started in the 1960s, acts and artists like Jose Mari Chan (1966), Nora Aunor (1967), the Juan de la Cruz Band (1968), and APO Hiking Society (1969), to mention a few, were the early acts in the growing Philippine music industry.
 
 {{< video
   id="MzmNUlKGbuw"
@@ -96,10 +94,10 @@ Philippine music, or P-pop, started in the 1960s, artists like ***Jose Mari Chan
   attriburl="https://www.youtube.com/channel/UCoKUqjqgKPdOj57j3l3e4vw"
 >}}
 
-They were then followed by popular songwriters, singers, and bands like ***Ryan Cayabyab*** (1970), ***Boyfriends*** (1970), ***Hotdog*** (1972), ***Freddie Aguilar*** (1973), ***Rico Puno*** (1975), ***Asin*** (1976), ***Sampaguita*** (1977), ***VST & Company*** (1977), ***Lea Salonga*** (1978), ***Sharon Cuneta*** (1978), and ***Hagibis*** (1979).
+They were then followed by popular songwriters, singers, and bands like Ryan Cayabyab (1970), Boyfriends (1970), Hotdog (1972), Freddie Aguilar (1973), Rico J. Puno (1975), Asin (1976), Sampaguita (1977), VST & Company (1977), Lea Salonga (1978), Sharon Cuneta (1978), and Hagibis (1979).
 
 ### 1980s: the rise of dance-pop and the beginnings of Pinoy hip hop
-In the 1980s, the legendary ***Gary V.*** brought dance-pop to the mainstream.
+In the 1980s, the legendary Gary V. brought dance-pop to the mainstream.
 
 {{< video
   id="vBTtKDOAcYA"
@@ -113,14 +111,14 @@ In the 1980s, the legendary ***Gary V.*** brought dance-pop to the mainstream.
   attriburl="https://www.youtube.com/c/GaryValencianoOfficial"
 >}}
 
-This was also when Pinoy hip hop or rap started, since then the Philippines have been known to be the first in Asia to have a hip hop music scene [^wikipedia-pinoy-hip-hop].
+This was also when Pinoy hip hop or rap started, since then the Philippines have been known to be the first in Asia to have a hip hop music scene. [^wikipedia-pinoy-hip-hop]
 
 [^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop)
 
 ### 1990s: a music revolution and the 1st Generation of Modern P-pop
 Finally, the 1990s saw the biggest revolution in Philippine music history.
 
-Pinoy hip hop / rap broke into mainstream led by ***Francis M.*** (1990 mainstream), ***Andrew E.*** (1990 mainstream), and ***Michael V.*** (1991).
+Pinoy hip hop / rap broke into mainstream led by Francis M. (1990 mainstream), Andrew E. (1990 mainstream), and Michael V. (1991).
 
 {{< video
   id="OlQ6hj6ulkU"
@@ -134,28 +132,28 @@ Pinoy hip hop / rap broke into mainstream led by ***Francis M.*** (1990 mainstre
   attriburl="https://www.youtube.com/channel/UCywOoc45gfKKFORLSy_NUmA"
 >}}
 
-Pinoy rock also entered mainstream with the discovery of acts like ***Eraserheads*** (1989), ***Rivermaya*** (1994), and ***Siakol*** (1994), thanks to radio stations **NU107.5** and **DWLA 105.9** who broke the accepted rules, and the payola system, on how and when to air music [^wikipedia-pinoy-rock].
+Pinoy rock also entered mainstream with the discovery of acts like Eraserheads (1989), Rivermaya (1994), and Siakol (1994), thanks to radio stations NU107.5 and DWLA 105.9 who broke the accepted rules, and the payola system, on how and when to air music. [^wikipedia-pinoy-rock]
 
-Pinoy reggae and Pinoy ska also became mainstream with acts like ***Tropical Depression*** (1990), ***Put3ska*** (1993), ***Brownman Revival*** (1994), and ***Blakdyak*** (1997 mainstream).
+Pinoy reggae and Pinoy ska also became mainstream with acts like Tropical Depression (1990), Put3ska (1993), Brownman Revival (1994), and Blakdyak (1997 mainstream).
 
-These major changes in mainstream Philippine music marked the *1st Generation of Modern P-pop* (more on this in another article).
+These major changes in mainstream Philippine music marked the *1st Generation of Modern P-pop*.
 
 [^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock)
 
 ## OPM
-If *P-pop* is all music composed or performed by a Filipino, *OPM* is an ***Original*** _Pilipino Music_ composed by a Filipino. We can say that all OPM are P-pop but not all P-pop are OPM. A music composition or performance by a Filipino is P-pop but for a music to be considered OPM it must be composed by a Filipino.
+If P-pop is all music composed or performed by a Filipino, OPM is an _**Original** Pilipino Music_ composed by a Filipino. We can say that all OPM are P-pop but not all P-pop are OPM. A music composition or performance by a Filipino is P-pop but for a music to be considered OPM it must be composed by a Filipino.
 
 ### Is OPM an era?
-It is true that OPM as a classification appeared after the end of the *Manila Sound* era. In the late 1970s, there was a strong call for more original Pilipino music. The country's first songwriting competition, the Metro Manila Popular Music Festival (1977), or Metropop for short, became the platform to encourage and produce more original Pilipino music. It was then that OPM became the Nation's national pride.
+It is true that OPM as a classification appeared after the end of the Manila Sound era. In the late 1970s, there was a strong call for more original Pilipino music. The country's first songwriting competition, the Metro Manila Popular Music Festival (1977), or Metropop for short, became the platform to encourage and produce more original Pilipino music. It was then that OPM became the nation's national pride.
 
-But how about original Pilipino music composed before the "OPM era"? Are those not *original Pilipino music*?
+If OPM is an era, then how about original music composed by Filipinos before the "OPM era"? Are those not *original Pilipino music*?
 
 ### Is OPM for Tagalog songs only?
-This is still a common misconception today "a song is OPM if it was written in Tagalog". However, there were songs in Taglish (Tagalog and English) as well as in full English during the early days of OPM.
+This is still a common misconception today: "a song is OPM if it was written in Tagalog". However, there were already songs in Taglish (Tagalog and English) as well as in full English during the early days of OPM.
 
-For example, in the 5th Metro Manila Popular Music Festival (1982), 「Give Me A Chance」 won second place in the amateur division, with 「Memories」 and 「Coming Back」 as finalists together with Filipino language songs. In the professional category, songs 「Don't Deceive Yourself」, 「What Are You Doing On A Rainy Sunday Morning」, and 「You Made Me Live Again」 were finalists. [^wikipedia-metropop]
+To mention a few notable English OPM songs, in the 5th Metro Manila Popular Music Festival (1982) <cite>Give Me A Chance</cite> won second place in the amateur division, with <cite>Memories</cite> and <cite>Coming Back</cite> as finalists. In the professional category, songs <cite>Don't Deceive Yourself</cite>, <cite>What Are You Doing On A Rainy Sunday Morning</cite>, and <cite>You Made Me Live Again</cite>, were finalists. [^wikipedia-metropop]
 
-In the 6th Metro Manila Popular Music Festival (1983) the competition have seen 「My Love, My Soul, My Everything」, 「We're In Love」, and 「Still Got Love」 in the amateur category as finalists. In the professional division, the grand prize went to 「Till I Met You」 with finalists 「Away From You」 and 「Be My Lady」. [^wikipedia-metropop]
+In the 6th Metro Manila Popular Music Festival (1983) the competition have seen <cite>My Love, My Soul, My Everything</cite>, <cite>We're In Love</cite>, and <cite>Still Got Love</cite>, in the amateur category as finalists. While in the professional division, the grand prize went to <cite>Till I Met You</cite> with finalists <cite>Away From You</cite> and <cite>Be My Lady</cite>. [^wikipedia-metropop]
 
 {{< video
   id="Lo2SYyDJgE4"
@@ -169,24 +167,24 @@ In the 6th Metro Manila Popular Music Festival (1983) the competition have seen 
   attriburl="https://www.youtube.com/channel/UCZtPrxv8_ZGgaEFVgVoKxvg"
 >}}
 
-The 7th Metropop in 1984 produced 「A Smile In Your Heart」 as the grand champion in the amateur category, with 「Fallin in Love Again」 in the third place. Finalists in both the amateur and professional divisions were all English OPM. [^wikipedia-metropop]
+The 7th Metropop in 1984 produced <cite>A Smile In Your Heart</cite> as the grand champion in the amateur category, with <cite>Fallin in Love Again</cite> in the third place. Finalists in both the amateur and professional divisions were all English OPM. [^wikipedia-metropop]
 
 Language is not a qualification for what an OPM is. From these annual competitions, there is no doubt that an OPM is an *original* music composed by a Filipino.
 
 [^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival)
 
-We can end this here but let us address the other misconceptions.
-
 ### Is OPM about using native instruments?
-Another misconception of an OPM, though rarely talked about today, are the instruments used. In this line of thinking, an OPM can only be an OPM if they used native instruments. But consider this: if the use of native musical instruments is what makes a music OPM then those without it are not? Or, if a music composed and performed by a foreigner used a Philippine music instrument, does it make their music OPM?
+Another misconception about an OPM, though rarely talked about today, are the instruments used. In this line of thinking, an OPM can only be an OPM if they used native instruments. But consider this: if the use of native musical instruments is what makes a music OPM then those without it are not? Or, if a music composed and performed by a foreigner used a Philippine music instrument, does it make their music OPM?
 
 ### Is OPM truly original?
-It is also of importance to remember that Philippine music was highly influenced by foreign music during the colonial era—333 years from Spain which was followed by 48 years under the USA. Popular music genres in the Philippine music scene are pop, rock, hip hop, reggae, blues, R&B, jazz, ska, and soul, however, all of these were only brought in the country. Strictly speaking, the only *original* Pilipino music are those which developed or were composed in pre-colonial times—folk and kundiman music.
+It is also of importance to remember that Philippine music was highly influenced by foreign music during the colonial era—333 years from Spain which was followed by 48 years under the USA. Popular music genres in the Philippine music scene are pop, rock, hip hop, reggae, blues, R&B, jazz, ska, and soul, however, all of these were only brought in the country. Strictly speaking, the only *original* Pilipino music genres are those which developed or were composed in pre-colonial times—folk and kundiman music.
+
+If this is the case …
 
 ### What makes an OPM original?
 What makes an OPM an *original* Pilipino music? It was composed by a Filipino because only a Filipino can capture and express the Filipino sentiment and music style. It is why there are genres like Pinoy rock, Pinoy hip hop, Pinoy R&B, Pinoy jazz, and Pinoy reggae. The Filipinos took these genres, experimented with it, and added the Pinoy touch and made it their own.
 
-OPM is not about the language it was written in, not about the instruments used, not about the genres, not about when the music was composed. OPM is *___Original___ Pilipino Music* because it was composed by a Filipino to express his/her Filipino sentiment and to showcase the Filipino style.
+OPM is not about the language it was written in, not about the instruments used, not about the genres, not about when the music was composed. OPM is _**Original** Pilipino Music_ because it was composed by a Filipino to express his/her Filipino heart as well as to showcase the Filipino style.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   All OPM are P-pop but not all P-pop are OPM.
@@ -195,9 +193,22 @@ OPM is not about the language it was written in, not about the instruments used,
 [^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population)
 
 ## Closing
-Is this an attempt to redefine *P-pop* and *OPM*? Far from it. This is an attempt to untangle the confusion about these two labels. This is important because of the growing *Philippine idol industry* which many Filipinos are confusing as the entirety of P-pop and supposedly none of their songs are OPM.
+Is this an attempt to redefine P-pop and OPM? Far from it. This is an attempt to shed light about these two misunderstood labels. This is important because of the growing Philippine idol industry which many Filipinos are confusing as the entirety of P-pop, and supposedly not a single one is OPM.
 
-This will be addressed in the next article.
+In <cite>[All P-pop are idols, Not]({{< ref path="ppop-vs-idols.md" >}} "All P-pop are idols, Not")</cite>, the confusion between P-pop and idols is disentangled.
+
+-------
+
+This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpopandidols" >}} "Asian Pop and Idols")"
+* "[P-pop and Idols]({{< ref path="ppopandidols" >}} "P-pop and Idols")"
+  * What is the difference between P-pop and OPM? 👈🏽 You are here
+  * [All P-pop are idols, Not]({{< ref path="ppop-vs-idols.md" >}} "All P-pop are idols, Not")
+* "[K-pop and Idols]({{< ref path="kpopandidols" >}} "K-pop and Idols")"
+  * [Most Coherent List of K-pop Generations]({{< ref path="kpop-generations.md" >}} "Most Coherent List of K-pop Generations")
+    * [1st Generation: 1992–2001]({{< ref path="kpop-1st-gen.md" lang="en-ph" >}} "1st Generation K-pop")
+    * [2nd Generation: 2002–2011]({{< ref path="kpop-2nd-gen.md" lang="en-ph" >}} "2nd Generation K-pop")
+    * [3rd Generation: 2012–2021]({{< ref path="kpop-3rd-gen.md" lang="en-ph" >}} "3rd Generation K-pop")
+    * [4th Generation: 2022–2031]({{< ref path="kpop-4th-gen.md" lang="en-ph" >}} "4th Generation K-pop")
 
 -------
 
