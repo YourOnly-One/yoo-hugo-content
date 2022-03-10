@@ -49,16 +49,16 @@ P-pop is commonly used to refer to Pilipino idols, or P-idols, but did you know 
 
 <!--more-->
 
-*P-pop* is an umbrella terminology for all music composed or performed by a Filipino. On the other hand, *idols* are acts commercialized and marketed for their attractiveness and personality; and to sell dreams [^idols-bbc-asia-pop-music].
+P-pop is an umbrella terminology for all music composed or performed by a Filipino. On the other hand, idols are acts commercialized and marketed for their attractiveness and personality; and to sell dreams [^idols-bbc-asia-pop-music].
 
 [^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705)
 
 ## What is P-pop?
-*P-pop*, or ***P***_inoy_ ***Pop***_ular music_, encompasses all music composed or performed by a Filipino. It is not the successor to OPM ("Original Pilipino Music") and neither is it a subgenre of it. P-pop is simply another term for the entirety of Pinoy music regardless if it is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
+P-pop, or _**P**inoy **Pop**ular music_, encompasses all music composed or performed by a Filipino. It is not the successor to OPM ("Original Pilipino Music") and neither is it a subgenre of it. P-pop is simply another term for the entirety of Pinoy music regardless if it is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
 
 There is a big overlap between pop music as a *genre* and pop music as *popular music*. Just remember that *pop music* since the mid-1950s <q>has usually been identified as the music ***and*** the musical styles that are accessible to the broadest audience</q> [^liveaboutdotcom-popular-music] (emphasis mine).
 
-An in-depth look about P-pop was discussed in <cite lang="en-PH">[What is the difference between P-pop and OPM?]({{< ref path="ppop-vs-opm.md" >}} "What is the difference between P-pop and OPM?")</cite>
+An in-depth look about P-pop was discussed in <cite>[What is the difference between P-pop and OPM?]({{< ref path="ppop-vs-opm.md" >}} "What is the difference between P-pop and OPM?")</cite>
 
 [^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
 
@@ -79,7 +79,7 @@ An in-depth look about P-pop was discussed in <cite lang="en-PH">[What is the di
 {{% /quotebox %}}
 
 ## What is an idol or P-idol?
-Most who are fans of *idols* assume it originated from *K-pop*, or ***K***_orean_ ***Pop***_ular music_, and like most assumptions it is incorrect. The *idol culture* started in early 1930s Japan, although it was only in mid 1960s that the word idol was first used as a label for this particular type of entertainers.
+Most who are fans of idols assume it originated from K-pop, or _**K**orean **Pop**ular music_, and like most assumptions it is incorrect. The *idol culture* started in early 1930s Japan, although it was only in mid 1960s that the word idol was first used as a label for this particular type of entertainers.
 
 ### History of idol culture
 The year was 1933, actor <span lang="ja-Latn">Korema Arima</span> (<span lang="ja">有馬 是馬</span>) was on a tour in <span lang="ja-Latn">Kamaishi City</span> (<span lang="ja">釜石市</span>) when he scouted 13-year old <span lang="ja-Latn">Matsuko Ashita</span> (<span lang="ja">あした まつこ</span> / <span lang="ja">明日 待子</span>) to be an actress in the <span lang="fr">Moulin Rouge</span> <span lang="ja-Latn">Shinjuku</span> (<span lang="ja">レッドミル新宿区</span>) theater in <span lang="ja-Latn">Tokyo</span> (<span lang="ja">東京都</span>). With her captivating smile, unmatched beauty and cuteness, and natural talent as an entertainer, she immediately rose to stardom. People visited the <span lang="fr">Moulin Rouge</span> <span lang="ja-Latn">Shinjuku</span> (<span lang="ja">レッドミル新宿区</span>) theater to watch and interact with her.
@@ -131,9 +131,9 @@ Music idols are entertainers—generally from 12 to 25 years old—whose visual 
 >}}
 
 ## Conclusion
-Is this an important distinction the industry and fans should remember? Yes. In the Japanese and Korean music industries, *J-pop* and *J-idols*, and *K-pop* and *K-idols*, are often used interchangeably by foreign fans yet within their respective nations they make a distinction between idols and non-idol acts.
+Is this an important distinction the industry and fans should remember? Yes. In the Japanese and Korean music industries, J-pop and J-idols, and K-pop and K-idols, are often used interchangeably by foreign fans yet within their respective nations they make a distinction between idols and non-idol acts.
 
-Similarly, *P-pop* and *P-idols* are often used interchangeably but should not be the case within the Philippines and the Filipino diaspora. All Filipinos love music more than any nation on Earth and, as of this post, majority of P-pop acts are either bands or solo acts who are not idols as defined.
+Similarly, P-pop and P-idols are often used interchangeably but should not be the case within the Philippines and the Filipino diaspora. All Filipinos love music more than any nation on Earth and, as of this post, majority of P-pop acts are either bands or solo acts who are not idols as defined.
 
 Idol or not, a music composed or performed by a Filipino is P-pop but not all P-pop acts are idols.
 
