@@ -261,7 +261,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
 {{< video
   id="V06g4a_VCIA"
-  title="April Boy Regino, Vingo & Jimmy "Sana'y Laging Magkapiling" Las Vegas Reunion 2020"
+  title="April Boy Regino, Vingo & Jimmy Sana'y Laging Magkapiling Las Vegas Reunion 2020"
   caption=""
   inlanguage=""
   datecreated=""
@@ -523,7 +523,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
 {{< video
   id="NABWA5zHW9M"
-  title="Siakol performs "Bakit Ba" LIVE on Wish 107.5 Bus"
+  title="Siakol performs Bakit Ba LIVE on Wish 107.5 Bus"
   caption=""
   inlanguage=""
   datecreated=""
@@ -1228,7 +1228,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
   caption=""
   inlanguage=""
   datecreated=""
-  datepublished="2013-02-6"
+  datepublished="2013-02-06"
   licensecode="allrightsreserved"
   attribto="Alpha Records"
   attriburl="https://www.youtube.com/channel/UCm_xfjr2cl3uFAM662JiP3w"
