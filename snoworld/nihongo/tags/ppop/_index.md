@@ -1,5 +1,5 @@
 +++
-title = "P-pop"
+title = "P-POP"
 translationKey = "tag-ppop"
 #url = ""
 #aliases = [""]

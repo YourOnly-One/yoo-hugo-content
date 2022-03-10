@@ -1,5 +1,5 @@
 +++
-title = "J-pop"
+title = "J-POP"
 translationKey = "tag-jpop"
 #url = ""
 #aliases = [""]
