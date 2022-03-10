@@ -1324,13 +1324,16 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 -------
 
-Go back to [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations");
-
-Or check the other generations!
-* [1st Generation: 1992–2001]({{< ref "/kpop-1st-gen.md" >}} "1st Generation K-pop")
-* 2nd Generation: 2002–2011 👈🏽 You are here
-* [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
-* [4th Generation: 2022–2031]({{< ref "/kpop-4th-gen.md" >}} "4th Generation K-pop")
+This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpopandidols" >}} "Asian Pop and Idols")"
+* "[P-pop and Idols]({{< ref path="ppopandidols" >}} "P-pop and Idols")"
+  * [What is the difference between P-pop and OPM?]({{< ref path="ppop-vs-opm.md" >}} "What is the difference between P-pop and OPM?")
+  * All P-pop are idols, Not 👈🏽 You are here
+* "[K-pop and Idols]({{< ref path="kpopandidols" >}} "K-pop and Idols")"
+  * [Most Coherent List of K-pop Generations]({{< ref path="kpop-generations.md" >}} "Most Coherent List of K-pop Generations")
+    * [1st Generation: 1992–2001]({{< ref path="kpop-1st-gen.md" lang="en-ph" >}} "1st Generation K-pop")
+    * 2nd Generation: 2002–2011 👈🏽 You are here
+    * [3rd Generation: 2012–2021]({{< ref path="kpop-3rd-gen.md" lang="en-ph" >}} "3rd Generation K-pop")
+    * [4th Generation: 2022–2031]({{< ref path="kpop-4th-gen.md" lang="en-ph" >}} "4th Generation K-pop")
 
 -------
 
