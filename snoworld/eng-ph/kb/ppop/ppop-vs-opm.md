@@ -27,7 +27,7 @@ toc = true
 
 #audio = [""]                                                        # used by og:audio, etc.
 images = ["https://img.youronly.one/p/Ppop-OPM.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = ["https://www.youtube.com/MzmNUlKGbuw", "https://www.youtube.com/vBTtKDOAcYA", "https://www.youtube.com/OlQ6hj6ulkU", "https://www.youtube.com/Lo2SYyDJgE4"]                                                       # used by og:video, etc.
+videos = ["https://www.youtube.com/watch?v=MzmNUlKGbuw", "https://www.youtube.com/watch?v=vBTtKDOAcYA", "https://www.youtube.com/watch?v=OlQ6hj6ulkU", "https://www.youtube.com/watch?v=Lo2SYyDJgE4"]                                                       # used by og:video, etc.
 
 type = "article"                                                           # article, sitepage, review
 
