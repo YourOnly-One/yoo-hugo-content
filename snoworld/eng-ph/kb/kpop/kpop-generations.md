@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-generations-202218
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
-#series = [""]                                                       # subset of series taxonomy
+series = ["asianpopandidols", "kpopandidols"]                                                       # subset of series taxonomy
 tags = ["kpop"]                                                         # taxonomy
 
 comments = true

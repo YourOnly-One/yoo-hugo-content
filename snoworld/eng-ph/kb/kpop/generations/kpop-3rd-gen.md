@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/kb/kpop/kpop-3rd-generation-202
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
 keywords = ["kpop", "k-pop", "generations", "music"]                                                     # meta keywords
-#series = [""]                                                       # subset of series taxonomy
+series = ["asianpopandidols", "kpopandidols"]                                                       # subset of series taxonomy
 tags = ["kpop", "videos"]                                                         # taxonomy
 
 comments = true

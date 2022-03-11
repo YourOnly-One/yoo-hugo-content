@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/kb/ppop/ppop-1st-generation-/" 
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
 keywords = ["ppop", "p-pop", "generations", "music"]                                                     # meta keywords
-#series = [""]                                                       # subset of series taxonomy
+series = ["asianpopandidols", "ppopandidols"]                                                       # subset of series taxonomy
 tags = ["ppop", "videos"]                                                         # taxonomy
 
 comments = true

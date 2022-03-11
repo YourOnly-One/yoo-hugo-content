@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/difference-ppop-opm-
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
 keywords = ["ppop", "p-pop", "opm", "philippine music", "pinoy pop", "pinoy popular music", "philippine pop", "philippine popular music", "pilipino pop", "pilipino popular music", "music"]                                                     # meta keywords
-#series = [""]                                                       # subset of series taxonomy
+series = ["asianpopandidols", "ppopandidols"]                                                       # subset of series taxonomy
 tags = ["ppop"]                                                         # taxonomy
 
 comments = true
