@@ -88,7 +88,7 @@ Philippine music, or P-pop, started in the 1960s, acts and artists like Jose Mar
   caption=""
   inlanguage=""
   datecreated=""
-  datepublished=""
+  datepublished="2015-06-04"
   licensecode="allrightsreserved"
   attribto="Jose Mari Chan - Topic"
   attriburl="https://www.youtube.com/channel/UCoKUqjqgKPdOj57j3l3e4vw"
