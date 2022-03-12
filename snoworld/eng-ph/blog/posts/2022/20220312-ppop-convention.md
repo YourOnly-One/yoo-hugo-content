@@ -212,7 +212,7 @@ See you there!
 
   licensecode="allrightsreserved"
 
-  attribto="PPOPCIB"
+  attribto="PPOPCON"
   attriburl="https://ppopcon.ph/"
   attribrel="noopener external"
 >}}

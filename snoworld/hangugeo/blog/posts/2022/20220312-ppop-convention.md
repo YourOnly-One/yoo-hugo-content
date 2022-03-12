@@ -212,7 +212,7 @@ type = "article"                                                           # art
 
   licensecode="allrightsreserved"
 
-  attribto="PPOPCIB"
+  attribto="PPOPCON"
   attriburl="https://ppopcon.ph/"
   attribrel="noopener external"
 >}}
