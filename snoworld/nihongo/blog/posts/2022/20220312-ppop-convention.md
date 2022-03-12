@@ -1,5 +1,5 @@
 +++
-title = "最初のPPOPCONが起こっています"
+title = "（更新しました）最初のPPOPCONが起こっています"
 description = "最初のP-POPコンベンションに興奮していますか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-03-12T14:08:45"                                        # manually adjust to local timezone
@@ -49,6 +49,10 @@ type = "article"                                                           # art
 
 <!--more-->
 
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
+  最新の更新：2022-03-12 21:20:20 JST
+{{% /sembox %}}
+
 <span lang="en-PH">P-POP</span>、または[<span lang="en-PH">_**P**inoy **Pop**ular music_</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")が大きな復活を遂げていることに疑いの余地はありません。 国内外のフィリピン人は、ファンダム、商品、データファンダム、そして今では慣習など、P-POPの数十年にわたる歴史ではかつて見られなかった方法で<span lang="en-PH">P-POP</span>の行為の背後に集結しています。
 
 フィリピンは大会に異質ではなく、過去に国際大会を主催していました。 しかし、音楽ファンのための大会が開催されるのはこれが初めてです。 ほとんどの定期的なコンサートと同様に、それはすべて有名人に関するものですが、コンベンションでは、それはファンと彼らの夢に関するものです。
@@ -76,11 +80,29 @@ type = "article"                                                           # art
 
 - 日時：2022年4月9〜10日11:00JSTから21:00JST
 - 何：
-  - 公演
+  - 2022-03-12の時点で確認されたパフォーマンス：
+    - DAYDREAM
+    - G22
+    - VER5US
   - 商品
-  - ファンブースとアクティビティ
+  - ファンブース
+    - <span lang="fil">A'tin</span>
+    - <span lang="en-PH">Aces</span>
+    - <span lang="en-PH">Allies</span>
+    - <span lang="en-PH">Blooms</span>
+    - <span lang="en-PH">Bullets</span>
+    - <span lang="en-PH">Dreamers</span>
+    - <span lang="en-PH">For.One</span>
+    - <span lang="en-PH">Genatics</span>
+    - <span lang="en-PH">Kaia Stans</span>
+    - <span lang="fil">Magiliw</span>
+    - <span lang="en-PH">MNLoves</span>
+    - <span lang="en-PH">Pearls</span>
+    - <span lang="en-PH">Vixies</span>
   - ゲーム
   - とより多くの驚き
+
+*특이사항: 아티스트 공연은 4월 9일 첫 날에만 진행됩니다.*
 
 ### コンサート会場：アラネータコロシアム
 2日目のコンサートはアラネータコロシアム。 フィリピン、ケソンシティ、キューバオのアラネータシティにあります。 ブルーライン（以前は<span lang="en-PH">LRT</span>-2）とイエローライン（以前は<span lang="en-PH">MRT</span>-3）のアラネタキューバオ駅からの参加者は、それぞれゲートウェイモールとファーマーズプラザを経由して橋を利用できます。
@@ -106,7 +128,7 @@ type = "article"                                                           # art
   - <span lang="en-PH">SB</span>19
 - ボーナス：オープニングパフォーマンス
   - <span lang="fil">KAIA</span>
-  - <span lang="en-PH">VXON</span>
+  - <span lang="en-PH">Vxon</span>
 - 追加：ファンの活動
 
 {{< video
@@ -126,11 +148,24 @@ type = "article"                                                           # art
 >}}
 
 ## 今日チケットを購入する
+### コンベンションチケット価格
+コンベンションチケットの詳細は次のとおりです。
+
+- ₱1,000.00（¥2,239.56）
+  - 2日パス
+  - 追い越し車線
+  - ラウンジへのアクセス
+- ₱650.00（¥1,455.71）
+  - 2日パス
+
+主催者はまだ大会のチケットを購入する場所を発表していません（2022-03-12現在）。
+
+*注：₱1.00=¥2.24（2022-03-12 04:36 <span lang="en-PH">UTC</span>為替レートに基づく）、日本のコンテキストでのみ使用されます。*
+
+### コンサートチケットの価格と特典
 2022 <span lang="en-PH">PPOPCON</span>のチケットは、チケットネットアウトレット（<span lang="en-PH">SM</span>モール、フィッシャーモール、イーストウッドモール、ロビンソンガレリアデパート）、アラネタコロシアムイエローゲートのチケットネットボックスオフィス、および<span lang="en-PH">UGF</span>のゲートウェイモールアクティビティエリアで購入できます。
 
 チケットは、<span lang="en-PH">TicketnetOnline</span>からオンラインで購入することもできます。 [2022 PPOPCON Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON).
-
-### チケットの価格とメリット
 
 {{< image
   src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"

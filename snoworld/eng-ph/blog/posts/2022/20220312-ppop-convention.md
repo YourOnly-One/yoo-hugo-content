@@ -1,5 +1,5 @@
 +++
-title = "The First PPOPCON Is Happening"
+title = "(Updated) The First PPOPCON Is Happening"
 description = "Are you excited for the first P-pop Convention?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-03-12T13:08:45"                                        # manually adjust to local timezone
@@ -49,6 +49,10 @@ Do you love attending conventions? Do you collect merchandise of products you li
 
 <!--more-->
 
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
+  Latest update: 2022-03-12 20:20:20 PHT
+{{% /sembox %}}
+
 There is no longer any doubt that P-pop, or [_**P**inoy **Pop**ular music_]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music"), is having a major resurgence. Filipinos both locally and abroad are rallying behind P-pop acts in a way never before seen in P-pop's decades-long history—fandoms, merchandise, data fandom, and now conventions.
 
 The Philippines is not alien to conventions, the country hosted international conventions in the past. However, this is the first time a convention is held for music fans. As with most regular concerts, it is all about the celebrities but in a convention, it is about the fans and their dreams.
@@ -76,11 +80,29 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
 
 - When: April 9–10, 2022 from 10:00 PHT to 20:00 PHT
 - What:
-  - Performances
+  - Performances, confirmed as of 2022-03-12:
+    - Daydream
+    - G22
+    - Ver5us
   - Merchandise
-  - Fan booths and activities
+  - Fan booths
+    - A'tin
+    - Aces
+    - Allies
+    - Blooms
+    - Bullets
+    - Dreamers
+    - For.One
+    - Genatics
+    - Kaia Stans
+    - Magiliw
+    - MNLoves
+    - Pearls
+    - Vixies
   - Games
   - and more surprises
+
+*Special note: Artist performances will be held on the first day only, April 9th.*
 
 ### Concert venue: Araneta Coliseum
 The second venue is Araneta Coliseum for the concert on the second day. It is located at Araneta City, Cubao, Quezon City, Philippines. Attendees coming from the Blue Line (f. LRT-2) and Yellow Line (f. MRT-3) Araneta Cubao Stations can use the bridgeway via Gateway Mall and Farmers Plaza respectively.
@@ -106,7 +128,7 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
   - SB19
 - Bonus: Opening performances from
   - KAIA
-  - VXON
+  - Vxon
 - Extra: fan activities
 
 {{< video
@@ -126,11 +148,24 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
 >}}
 
 ## Buy Tickets Today
+### Convention ticket price
+Here are the details for the convention tickets:
+
+- ₱1,000.00 (U$19.09)
+  - 2-day pass
+  - fast lane
+  - lounge access
+- ₱650.00 (U$12.41)
+  - 2-day pass
+
+The organizers have yet to announce where to buy tickets for the convention (as of 2022-03-12).
+
+*Note: ₱1.00 = U$0.019 based on 2022-03-11 22:01 UTC exchange rate, and used only for International context.*
+
+### Concert ticket price and benefits
 Tickets for the 2022 PPOPCON is available at Ticketnet outlets (SM Malls, Fisher Mall, Eastwood Mall, and Robinson's Galleria Department Store), Ticketnet Box Office at the Araneta Coliseum yellow gate, and at UGF, Gateway Mall activity area.
 
 Tickets can also be bought online via Ticketnet Online: [2022 PPOPCON Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON).
-
-### Ticket pricing and benefits
 
 {{< image
   src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"

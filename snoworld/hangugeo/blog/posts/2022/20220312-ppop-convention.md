@@ -1,5 +1,5 @@
 +++
-title = "최초의 피이팝 컨벤션이 개최됩니다"
+title = "(업데이트됨) 최초의 피이팝 컨벤션이 개최됩니다"
 description = "첫 번째 피이팝 컨벤션이 기대되나요?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-03-12T14:08:45"                                        # manually adjust to local timezone
@@ -49,6 +49,10 @@ type = "article"                                                           # art
 
 <!--more-->
 
+{{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
+  최신 업데이트: 2022-03-12 21:20:20 KST
+{{% /sembox %}}
+
 더 이상 피이팝 또는 [<span lang="en-PH">_**P**inoy **Pop**ular music_</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")이 크게 부활하고 있다는 데 의심의 여지가 없습니다. 국내외에서 필리핀인들은 피이팝의 수십 년 역사에서 볼 수 없었던 방식(팬덤, 상품, 데이터 팬덤, 현재의 관습)으로 피이팝 행위를 지지하고 있습니다.
 
 필리핀은 과거에 국제 컨벤션을 주최한 국가로 컨벤션이 낯선 나라가 아닙니다. 하지만 음악 팬들을 위한 컨벤션이 열리는 것은 이번이 처음이다. 대부분의 정기 콘서트가 그렇듯이 모든 것은 연예인에 관한 것이지만 컨벤션에서는 팬과 그들의 꿈에 관한 것입니다.
@@ -76,11 +80,29 @@ type = "article"                                                           # art
 
 - 일시: 2022년 4월 9일~10일 11:00 KST - 21:00 KST
 - 뭐:
-  - 공연
+  - 2022-03-12 현재 확인된 공연:
+    - DAYDREAM
+    - G22
+    - VER5US
   - 상품
-  - 팬 부스 및 활동
+  - 팬 부스
+    - <span lang="fil">A'tin</span>
+    - <span lang="en-PH">Aces</span>
+    - <span lang="en-PH">Allies</span>
+    - <span lang="en-PH">Blooms</span>
+    - <span lang="en-PH">Bullets</span>
+    - <span lang="en-PH">Dreamers</span>
+    - <span lang="en-PH">For.One</span>
+    - <span lang="en-PH">Genatics</span>
+    - <span lang="en-PH">Kaia Stans</span>
+    - <span lang="fil">Magiliw</span>
+    - <span lang="en-PH">MNLoves</span>
+    - <span lang="en-PH">Pearls</span>
+    - <span lang="en-PH">Vixies</span>
   - 계략
   - 그리고 더 많은 놀라움
+
+*특이사항: 아티스트 공연은 4월 9일 첫 날에만 진행됩니다.*
 
 ### 콘서트 장소: 아라네타 콜로세움
 두 번째 장소는 둘째 날 콘서트를 위한 아라네타 콜로세움(<span lang="en-PH">Araneta Coliseum</span>)입니다. 필리핀 케손시티 쿠바오 아라네타시에 위치하고 있습니다. <span lang="en-PH">Blue Line</span>(전에 <span lang="en-PH">LRT</span>-2) 및 <span lang="en-PH">Yellow Line</span>(전에 <span lang="en-PH">MRT</span>-3) <span lang="en-PH">Araneta Cubao</span> 역에서 오는 참석자는 각각 <span lang="en-PH">Gateway Mall</span> 및 <span lang="en-PH">Farmers Plaza</span>를 통해 브리지웨이를 사용할 수 있습니다.
@@ -106,7 +128,7 @@ type = "article"                                                           # art
   - <span lang="en-PH">SB</span>19
 - 보너스: 개막 공연
   - <span lang="fil">KAIA</span>
-  - <span lang="en-PH">VXON</span>
+  - <span lang="en-PH">Vxon</span>
 - 추가: 팬 활동
 
 {{< video
@@ -126,11 +148,24 @@ type = "article"                                                           # art
 >}}
 
 ## 오늘 티켓 구매
+### 대회 티켓 가격
+국제 대회 티켓에 대한 세부 정보는 다음과 같습니다.
+
+- ₱1,000.00 (₩23,614.97)
+  - 2일권
+  - 빠른 차선
+  - 라운지 이용
+- ₱650.00 (₩15,349.73)
+  - 2일권
+
+주최측은 아직 대회 티켓 구매처를 발표하지 않았습니다(2022-03-12 기준).
+
+*참고: ₱1.00 = ₩23.61은 2022-03-011 23:58 <span lang="en-PH">UTC</span> 환율을 기준으로 하며 한국어 컨텍스트에서만 사용됩니다.*
+
+### 콘서트 티켓 가격 및 혜택
 2022 <span lang="en-PH">PPOPCON</span> 티켓은 티켓넷 매장(SM몰, 피셔몰, 이스트우드몰, 로빈슨갤러리아백화점), 아라네타 콜로세움 옐로게이트 티켓넷 매표소, 게이트웨이몰 활동지역 UGF에서 예매할 수 있다.
 
 티켓은 또한 <span lang="en-PH">Ticketnet Online</span>을 통해 온라인으로 구매할 수 있습니다: [2022 PPOPCON Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON).
-
-### 티켓 가격 및 혜택
 
 {{< image
   src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
