@@ -753,7 +753,7 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/k/K-pop_1st_Generation-01.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="K-pop 1st Generation"
   embeddedtextcaption="K-pop 1st Generation"
@@ -761,9 +761,9 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
 
   licensecode="cc0"
 
-  attribto="YourOnly.One"
-  attriburl="https://im.youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="ph"

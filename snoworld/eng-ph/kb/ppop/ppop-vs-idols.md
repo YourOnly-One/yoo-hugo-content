@@ -64,6 +64,7 @@ An in-depth look about P-pop was discussed in <cite>[What is the difference betw
 
 {{< video
   id="wmzTYhjQh3A"
+  linkrel="noopener external"
   title="BINI performs ‘Born To Win’ at the Uplive Worldstage Grand Finals!"
   caption=""
   inlanguage=""
@@ -72,6 +73,7 @@ An in-depth look about P-pop was discussed in <cite>[What is the difference betw
   licensecode="allrightsreserved"
   attribto="ABS-CBN Entertainment"
   attriburl="https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw"
+  attribrel="noopener external"
 >}}
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
@@ -90,6 +92,7 @@ However, it was not until 1962 when the first *idol trainee system* was develope
 
 {{< video
   id="_5Y_mTfBh3o"
+  linkrel="noopener external"
   title="ALAMAT - 'kasmala' (Official M/V)"
   caption=""
   inlanguage=""
@@ -98,6 +101,7 @@ However, it was not until 1962 when the first *idol trainee system* was develope
   licensecode="allrightsreserved"
   attribto="ALAMAT"
   attriburl="https://www.youtube.com/channel/UCOnUfJpp-Fg8X2TnuH_JD7w"
+  attribrel="noopener external"
 >}}
 
 Two years later, the 1964 French movie <cite lang="fr">Cherchez l'idole</cite>, or <cite lang="ja-Latn">Aidoru o Sagase</cite> (<cite lang="ja">アイドルを探せ</cite>; Find an Idol), was released in Japan and one of the star-studded cast was Armenian-Bulgarian-French yé-yé singer-songwriter and actress, Sylvie Vartan. Vartan's adorable youthful looks, singing talent, and elaborate dance performances, captivated the nation. By November 1964, Japanese mass media started to label any act projecting a cute, innocent, and jolly aura and with talents in singing, dancing, and acting, as idols. [^wikipedia-history-japanese-idol-beginnings]
@@ -120,6 +124,7 @@ Music idols are entertainers—generally from 12 to 25 years old—whose visual 
 
 {{< video
   id="QmAQQhDnhiI"
+  linkrel="noopener external"
   title="UGG (U Go Girls) — Dati [Official Music Video]"
   caption=""
   inlanguage=""
@@ -128,6 +133,7 @@ Music idols are entertainers—generally from 12 to 25 years old—whose visual 
   licensecode="allrightsreserved"
   attribto="Viva Records"
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
+  attribrel="noopener external"
 >}}
 
 ## Conclusion
@@ -160,6 +166,7 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/ppop-idols.webp"
+  linkrel="noopener"
 
   title="P-pop and IDOLS"
   embeddedtextcaption="P-pop and IDOLS"
@@ -169,9 +176,9 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel=""
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"

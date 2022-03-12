@@ -84,6 +84,7 @@ Philippine music, or P-pop, started in the 1960s, acts and artists like Jose Mar
 
 {{< video
   id="MzmNUlKGbuw"
+  linkrel="noopener external"
   title="Deep in My Heart"
   caption=""
   inlanguage=""
@@ -92,6 +93,7 @@ Philippine music, or P-pop, started in the 1960s, acts and artists like Jose Mar
   licensecode="allrightsreserved"
   attribto="Jose Mari Chan - Topic"
   attriburl="https://www.youtube.com/channel/UCoKUqjqgKPdOj57j3l3e4vw"
+  attribrel="noopener external"
 >}}
 
 They were then followed by popular songwriters, singers, and bands like Ryan Cayabyab (1970), Boyfriends (1970), Hotdog (1972), Freddie Aguilar (1973), Rico J. Puno (1975), Asin (1976), Sampaguita (1977), VST & Company (1977), Lea Salonga (1978), Sharon Cuneta (1978), and Hagibis (1979).
@@ -101,6 +103,7 @@ In the 1980s, the legendary Gary V. brought dance-pop to the mainstream.
 
 {{< video
   id="vBTtKDOAcYA"
+  linkrel="noopener external"
   title="GARY VALENCIANO - SA YAHWEH ANG SAYAW [Live from ARISE 3.0 2014]"
   caption=""
   inlanguage=""
@@ -109,6 +112,7 @@ In the 1980s, the legendary Gary V. brought dance-pop to the mainstream.
   licensecode="allrightsreserved"
   attribto=""
   attriburl="https://www.youtube.com/c/GaryValencianoOfficial"
+  attribrel="noopener external"
 >}}
 
 This was also when Pinoy hip hop or rap started, since then the Philippines have been known to be the first in Asia to have a hip hop music scene. [^wikipedia-pinoy-hip-hop]
@@ -122,6 +126,7 @@ Pinoy hip hop / rap broke into mainstream led by Francis M. (1990 mainstream), A
 
 {{< video
   id="OlQ6hj6ulkU"
+  linkrel="noopener external"
   title="FRANCIS M. - TAYO'Y MGA PINOY (LIVE PERFORMANCE WITH SPINDICATE POSSE & BANYUHAY NI HEBER)"
   caption=""
   inlanguage=""
@@ -130,6 +135,7 @@ Pinoy hip hop / rap broke into mainstream led by Francis M. (1990 mainstream), A
   licensecode="allrightsreserved"
   attribto="THe Clouds TV"
   attriburl="https://www.youtube.com/channel/UCywOoc45gfKKFORLSy_NUmA"
+  attribrel="noopener external"
 >}}
 
 Pinoy rock also entered mainstream with the discovery of acts like Eraserheads (1989), Rivermaya (1994), and Siakol (1994), thanks to radio stations NU107.5 and DWLA 105.9 who broke the accepted rules, and the payola system, on how and when to air music. [^wikipedia-pinoy-rock]
@@ -157,6 +163,7 @@ In the 6th Metro Manila Popular Music Festival (1983) the competition have seen 
 
 {{< video
   id="Lo2SYyDJgE4"
+  linkrel="noopener external"
   title="A Smile in Your Heart"
   caption=""
   inlanguage=""
@@ -165,6 +172,7 @@ In the 6th Metro Manila Popular Music Festival (1983) the competition have seen 
   licensecode="allrightsreserved"
   attribto="Jam Morales - Topic"
   attriburl="https://www.youtube.com/channel/UCZtPrxv8_ZGgaEFVgVoKxvg"
+  attribrel="noopener external"
 >}}
 
 The 7th Metropop in 1984 produced <cite>A Smile In Your Heart</cite> as the grand champion in the amateur category, with <cite>Fallin in Love Again</cite> in the third place. Finalists in both the amateur and professional divisions were all English OPM. [^wikipedia-metropop]
@@ -218,7 +226,7 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/Ppop-OPM.webp"
-  linkrel=""
+  linkrel="noopener"
   thumbnailurl=""
 
   title="P-pop OPM"
@@ -231,9 +239,9 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel=""
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"

@@ -84,6 +84,7 @@ type = "article"                                                           # art
 
 {{< video
   id="MzmNUlKGbuw"
+  linkrel="noopener external"
   title="Deep in My Heart"
   caption=""
   inlanguage=""
@@ -92,6 +93,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="Jose Mari Chan - Topic"
   attriburl="https://www.youtube.com/channel/UCoKUqjqgKPdOj57j3l3e4vw"
+  attribrel="noopener external"
 >}}
 
 その後、などの人気のソングライター、歌手、バンドが続きました、ライアン・カヤビャブ（1970）、ボーイフレンズ（1970）、ホットドッグ（1972）、フレディ・アギラール(1973)、リコ・J・プーノ（1975）、アシン（1976）、サンパグイタ（1977）、<span lang="en-PH">VST＆Company</span>（1977）、レア・サロンガ（1978）、シャロン・クネタ（1978）、ハギビス（1979）。
@@ -101,6 +103,7 @@ type = "article"                                                           # art
 
 {{< video
   id="vBTtKDOAcYA"
+  linkrel="noopener external"
   title="GARY VALENCIANO - SA YAHWEH ANG SAYAW [Live from ARISE 3.0 2014]"
   caption=""
   inlanguage=""
@@ -109,6 +112,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto=""
   attriburl="https://www.youtube.com/c/GaryValencianoOfficial"
+  attribrel="noopener external"
 >}}
 
 これはピノイヒップホップやラップが始まったときでもあり、それ以来、フィリピンはアジアで最初にヒップホップミュージックシーンを持っていることが知られています。 [^wikipedia-pinoy-hip-hop]
@@ -122,6 +126,7 @@ type = "article"                                                           # art
 
 {{< video
   id="OlQ6hj6ulkU"
+  linkrel="noopener external"
   title="FRANCIS M. - TAYO'Y MGA PINOY (LIVE PERFORMANCE WITH SPINDICATE POSSE & BANYUHAY NI HEBER)"
   caption=""
   inlanguage=""
@@ -130,6 +135,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="THe Clouds TV"
   attriburl="https://www.youtube.com/channel/UCywOoc45gfKKFORLSy_NUmA"
+  attribrel="noopener external"
 >}}
 
 ピノイロックはまた、<span lang="en-PH">Eraserheads</span>（1989）、<span lang="en-PH">Rivermaya</span>（1994）、<span lang="fil">Siakol</span>（1994）のような行為の発見で主流になりました。これは、受け入れられた規則を破ったラジオ局NU107.5とDWLA 105.9、およびペイオラシステムのおかげです。 いつ音楽を放送するか。 [^wikipedia-pinoy-rock]
@@ -157,6 +163,7 @@ type = "article"                                                           # art
 
 {{< video
   id="Lo2SYyDJgE4"
+  linkrel="noopener external"
   title="A Smile in Your Heart"
   caption=""
   inlanguage=""
@@ -165,6 +172,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="Jam Morales - Topic"
   attriburl="https://www.youtube.com/channel/UCZtPrxv8_ZGgaEFVgVoKxvg"
+  attribrel="noopener external"
 >}}
 
 1984年の第7回メトロポップは、アマチュアカテゴリのグランドチャンピオンとして<cite lang="en-PH">A Smile In Your Heart</cite>を生み出し、3位は<cite lang="en-PH">Fallin in Love Again</cite>でした。 アマチュア部門とプロ部門の両方のファイナリストはすべて英語の<span lang="fil">OPM</span>でした。 [^wikipedia-metropop]
@@ -218,7 +226,7 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/Ppop-OPM.webp"
-  linkrel=""
+  linkrel="noopener"
   thumbnailurl=""
 
   title="P-POP OPM"
@@ -231,9 +239,9 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel=""
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"

@@ -643,7 +643,7 @@ Or check the other generations!
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/p-pop_4th_Generation-01.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="P-pop 4th Generation"
   embeddedtextcaption="P-pop 4th Generation"
@@ -651,9 +651,9 @@ Or check the other generations!
 
   licensecode="cc0"
 
-  attribto="YourOnly.One"
-  attriburl="https://im.youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="ph"

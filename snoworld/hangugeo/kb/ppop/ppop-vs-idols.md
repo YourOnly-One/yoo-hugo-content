@@ -64,6 +64,7 @@ type = "article"                                                           # art
 
 {{< video
   id="wmzTYhjQh3A"
+  linkrel="noopener external"
   title="BINI performs ‘Born To Win’ at the Uplive Worldstage Grand Finals!"
   caption=""
   inlanguage=""
@@ -72,6 +73,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="ABS-CBN Entertainment"
   attriburl="https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw"
+  attribrel="noopener external"
 >}}
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
@@ -90,6 +92,7 @@ type = "article"                                                           # art
 
 {{< video
   id="_5Y_mTfBh3o"
+  linkrel="noopener external"
   title="ALAMAT - 'kasmala' (Official M/V)"
   caption=""
   inlanguage=""
@@ -98,6 +101,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="ALAMAT"
   attriburl="https://www.youtube.com/channel/UCOnUfJpp-Fg8X2TnuH_JD7w"
+  attribrel="noopener external"
 >}}
 
 2년 후, 1964년 프랑스 영화 <cite lang="fr">Cherchez l'idole</cite> 또는 <cite lang="ja-Latn">Aidoru o Sagase</cite> (<cite lang="ja">アイドルを探せ</cite>; 아이돌을 찾아라)은 일본에서 발매되었으며 스타 출연진 중 한 명이 아르메니아-불가리아-프랑스 예예 싱어송라이터이자 배우인 <span lang="fr">Sylvie Vartan</span>이었습니다. 바탄의 사랑스러운 발랄한 외모와 가창력, 정교한 댄스 퍼포먼스는 온 국민을 사로잡았다. 1964년 11월에 일본 대중매체는 노래, 춤, 연기에 재능이 있고 귀엽고 청순하고 유쾌한 분위기를 나타내는 모든 행위를 아이돌로 분류하기 시작했습니다. [^wikipedia-history-japanese-idol-beginnings]
@@ -120,6 +124,7 @@ type = "article"                                                           # art
 
 {{< video
   id="QmAQQhDnhiI"
+  linkrel="noopener external"
   title="UGG (U Go Girls) — Dati [Official Music Video]"
   caption=""
   inlanguage=""
@@ -128,6 +133,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="Viva Records"
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
+  attribrel="noopener external"
 >}}
 
 ## 결론
@@ -160,6 +166,7 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/ppop-idols.webp"
+  linkrel="noopener"
 
   title="P-pop and IDOLS"
   embeddedtextcaption="P-pop and IDOLS"
@@ -169,9 +176,9 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel=""
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"

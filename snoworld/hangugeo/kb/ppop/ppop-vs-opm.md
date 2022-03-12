@@ -84,6 +84,7 @@ type = "article"                                                           # art
 
 {{< video
   id="MzmNUlKGbuw"
+  linkrel="noopener external"
   title="Deep in My Heart"
   caption=""
   inlanguage=""
@@ -92,6 +93,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="Jose Mari Chan - Topic"
   attriburl="https://www.youtube.com/channel/UCoKUqjqgKPdOj57j3l3e4vw"
+  attribrel="noopener external"
 >}}
 
 그 뒤를 같은 인기 있는 작곡가, 가수 및 밴드가 뒤따랐습니다 <span lang="fil">Ryan Cayabyab</span>(1970), 보이프렌드(1970), 핫도그(1972), 프레디 아길라(1973), 리코 J. 푸노(1975), 아신(1976), 삼파귀타(1977), <span lang="en-PH">VST & Company</span>(1977), 살롱가(1978), 샤론 쿠네타(1978), 하기비스(1979)와.
@@ -101,6 +103,7 @@ type = "article"                                                           # art
 
 {{< video
   id="vBTtKDOAcYA"
+  linkrel="noopener external"
   title="GARY VALENCIANO - SA YAHWEH ANG SAYAW [Live from ARISE 3.0 2014]"
   caption=""
   inlanguage=""
@@ -109,6 +112,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto=""
   attriburl="https://www.youtube.com/c/GaryValencianoOfficial"
+  attribrel="noopener external"
 >}}
 
 피노이의 힙합이나 랩이 시작된 것도 이때였는데, 그 이후로 필리핀은 아시아에서 힙합씬이 가장 먼저 생긴 나라로 알려져 왔다. [^wikipedia-pinoy-hip-hop]
@@ -122,6 +126,7 @@ type = "article"                                                           # art
 
 {{< video
   id="OlQ6hj6ulkU"
+  linkrel="noopener external"
   title="FRANCIS M. - TAYO'Y MGA PINOY (LIVE PERFORMANCE WITH SPINDICATE POSSE & BANYUHAY NI HEBER)"
   caption=""
   inlanguage=""
@@ -130,6 +135,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="THe Clouds TV"
   attriburl="https://www.youtube.com/channel/UCywOoc45gfKKFORLSy_NUmA"
+  attribrel="noopener external"
 >}}
 
 <span lang="fil">Pinoy</span> 록은 또한 <span lang="en-PH">Eraserheads</span>(1989), <span lang="en-PH">Rivermaya</span>(1994), <span lang="fil">Siakol</span>(1994)과 같은 행위의 발견으로 주류에 진입했습니다. 라디오 방송국 NU107.5 및 DWLA 105.9 덕분에 허용된 규칙과 페이올라 시스템 덕분에 그리고 언제 음악을 방송할지. [^wikipedia-pinoy-rock]
@@ -157,6 +163,7 @@ type = "article"                                                           # art
 
 {{< video
   id="Lo2SYyDJgE4"
+  linkrel="noopener external"
   title="A Smile in Your Heart"
   caption=""
   inlanguage=""
@@ -165,6 +172,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="Jam Morales - Topic"
   attriburl="https://www.youtube.com/channel/UCZtPrxv8_ZGgaEFVgVoKxvg"
+  attribrel="noopener external"
 >}}
 
 1984년 제7회 <span lang="en-PH">Metropop</span>은 아마추어 부문에서 그랜드 챔피언으로 <cite lang="en-PH">A Smile In Your Heart</cite>를 제작했으며 <cite lang="en-PH">Fallin in Love Again</cite>은 3위를 차지했습니다. 아마추어 및 프로 부문의 결선 진출자는 모두 영어 <span lang="fil">OPM</span>이었습니다. [^wikipedia-metropop]
@@ -218,7 +226,7 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/Ppop-OPM.webp"
-  linkrel=""
+  linkrel="noopener"
   thumbnailurl=""
 
   title="P-pop OPM"
@@ -231,9 +239,9 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel=""
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"

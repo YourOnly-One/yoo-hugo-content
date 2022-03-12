@@ -64,6 +64,7 @@ type = "article"                                                           # art
 
 {{< video
   id="wmzTYhjQh3A"
+  linkrel="noopener external"
   title="BINI performs ‘Born To Win’ at the Uplive Worldstage Grand Finals!"
   caption=""
   inlanguage=""
@@ -72,6 +73,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="ABS-CBN Entertainment"
   attriburl="https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw"
+  attribrel="noopener external"
 >}}
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
@@ -90,6 +92,7 @@ type = "article"                                                           # art
 
 {{< video
   id="_5Y_mTfBh3o"
+  linkrel="noopener external"
   title="ALAMAT - 'kasmala' (Official M/V)"
   caption=""
   inlanguage=""
@@ -98,6 +101,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="ALAMAT"
   attriburl="https://www.youtube.com/channel/UCOnUfJpp-Fg8X2TnuH_JD7w"
+  attribrel="noopener external"
 >}}
 
 2年後、1964年のフランス映画<cite lang="fr">Cherchez l'idole</cite>または<cite>アイドルを探せ</cite>が日本で公開されました。スターがちりばめられたキャストの1人は、アルメニア-ブルガリア-フランスのイエイエでした。 シンガーソングライター兼女優、シルヴィ・ヴァルタン。 ヴァルタンの愛らしい若々しいルックス、歌の才能、そして精巧なダンスパフォーマンスは、国を魅了しました。 1964年11月までに、日本のマスメディアは、キュートで無垢で陽気なオーラを映し出し、歌、踊り、演技の才能を持ったあらゆる行為をアイドルとしてラベル付けし始めました。
@@ -120,6 +124,7 @@ type = "article"                                                           # art
 
 {{< video
   id="QmAQQhDnhiI"
+  linkrel="noopener external"
   title="UGG (U Go Girls) — Dati [Official Music Video]"
   caption=""
   inlanguage=""
@@ -128,6 +133,7 @@ type = "article"                                                           # art
   licensecode="allrightsreserved"
   attribto="Viva Records"
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
+  attribrel="noopener external"
 >}}
 
 ## 結論
@@ -160,6 +166,7 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/ppop-idols.webp"
+  linkrel="noopener"
 
   title="P-pop and IDOLS"
   embeddedtextcaption="P-pop and IDOLS"
@@ -169,9 +176,9 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel=""
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"
