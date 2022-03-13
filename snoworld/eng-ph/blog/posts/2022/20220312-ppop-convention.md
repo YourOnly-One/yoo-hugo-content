@@ -101,7 +101,7 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
     - <span lang="en-PH">Genatics</span>
     - <span lang="en-PH">Kaia Stans</span> (<span lang="tl-Tglg">ᜃᜌ</span> <span lang="en-PH">Stans</span>)
     - <span lang="fil">Magiliw</span> (<span lang="tl-Tglg">ᜋᜄᜒᜎᜒᜏ᜔</span>)
-    - <span lang="en-PH">MNLoves</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔</span><span lang="en-PH">Love</span>)
+    - <span lang="en-PH">MNLoves</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔</span><span lang="en-PH">Loves</span>)
     - <span lang="en-PH">Pearls</span>
     - <span lang="en-PH">Vixies</span>
   - Games
