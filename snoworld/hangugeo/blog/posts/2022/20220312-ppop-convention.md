@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  최신 업데이트: 2022-03-13 22:50:50 KST
+  최신 업데이트: 2022-03-13 23:35:44 KST
 {{% /sembox %}}
 
 더 이상 피이팝 또는 [<span lang="en-PH">_**P**inoy **Pop**ular music_</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")이 크게 부활하고 있다는 데 의심의 여지가 없습니다. 국내외에서 필리핀인들은 피이팝의 수십 년 역사에서 볼 수 없었던 방식(팬덤, 상품, 데이터 팬덤, 현재의 관습)으로 피이팝 행위를 지지하고 있습니다.
@@ -86,9 +86,9 @@ type = "article"                                                           # art
     - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
     - <span lang="en-PH">R Rules</span> (<span lang="tl-Tglg">ᜇ᜔</span> <span lang="en-PH">Rules</span>)
     - <span lang="en-PH">Dione</span>
-    - <span lang="en-PH">Ver5us</span>
+    - <span lang="en-PH">Ver5us</span> — 업데이트: 일정 충돌로 인해 더 이상 참여할 수 없습니다. [^ver5us-ppopcon-conflict]
     - <span lang="en-PH">Vxon</span>
-    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>)
+    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>) — 업데이트: 일정 충돌로 인해 더 이상 참여할 수 없습니다. [^yara-ppopcon-conflict]
   - 상품
   - 팬 부스
     - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</span>)
@@ -108,6 +108,9 @@ type = "article"                                                           # art
   - 그리고 더 많은 놀라움
 
 *특이사항: 아티스트 공연은 4월 9일 첫 날에만 진행됩니다.*
+
+[^ver5us-ppopcon-conflict]: [Ver5us] [Schedule conflict](https://www.facebook.com/ver5usofficial/posts/271692321780481)
+[^yara-ppopcon-conflict]: [Yara] [Schedule conflict](https://twitter.com/official__yara/status/1501035777236795394)
 
 ### 콘서트 장소: 아라네타 콜로세움
 두 번째 장소는 둘째 날 콘서트를 위한 아라네타 콜로세움(<span lang="en-PH">Araneta Coliseum</span>)입니다. 필리핀 케손시티 쿠바오 아라네타시에 위치하고 있습니다. <span lang="en-PH">Blue Line</span>(전에 <span lang="en-PH">LRT</span>-2) 및 <span lang="en-PH">Yellow Line</span>(전에 <span lang="en-PH">MRT</span>-3) <span lang="en-PH">Araneta Cubao</span> 역에서 오는 참석자는 각각 <span lang="en-PH">Gateway Mall</span> 및 <span lang="en-PH">Farmers Plaza</span>를 통해 브리지웨이를 사용할 수 있습니다.

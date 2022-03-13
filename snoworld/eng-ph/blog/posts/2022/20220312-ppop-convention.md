@@ -50,7 +50,7 @@ Do you love attending conventions? Do you collect merchandise of products you li
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  Latest update: 2022-03-13 21:50:50 PHT
+  Latest update: 2022-03-13 22:35:44 PHT
 {{% /sembox %}}
 
 There is no longer any doubt that P-pop, or [_**P**inoy **Pop**ular music_]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music"), is having a major resurgence. Filipinos both locally and abroad are rallying behind P-pop acts in a way never before seen in P-pop's decades-long history—fandoms, merchandise, data fandom, and now conventions.
@@ -86,9 +86,9 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
     - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
     - <span lang="en-PH">R Rules</span> (<span lang="tl-Tglg">ᜇ᜔</span> <span lang="en-PH">Rules</span>)
     - <span lang="en-PH">Dione</span>
-    - <span lang="en-PH">Ver5us</span>
+    - <span lang="en-PH">Ver5us</span> — update: will no longer be able to join due to schedule conflict [^ver5us-ppopcon-conflict]
     - <span lang="en-PH">Vxon</span>
-    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>)
+    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>) — update: will no longer be able to participate due to conflict in schedule [^yara-ppopcon-conflict]
   - Merchandise
   - Fan booths
     - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</span>)
@@ -108,6 +108,9 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
   - and more surprises
 
 *Special note: Artist performances will be held on the first day only, April 9th.*
+
+[^ver5us-ppopcon-conflict]: [Ver5us] [Schedule conflict](https://www.facebook.com/ver5usofficial/posts/271692321780481)
+[^yara-ppopcon-conflict]: [Yara] [Schedule conflict](https://twitter.com/official__yara/status/1501035777236795394)
 
 ### Concert venue: Araneta Coliseum
 The second venue is Araneta Coliseum for the concert on the second day. It is located at Araneta City, Cubao, Quezon City, Philippines. Attendees coming from the Blue Line (f. LRT-2) and Yellow Line (f. MRT-3) Araneta Cubao Stations can use the bridgeway via Gateway Mall and Farmers Plaza respectively.
