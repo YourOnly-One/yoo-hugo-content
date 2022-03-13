@@ -84,14 +84,14 @@ type = "article"                                                           # art
     - <span lang="en-PH">Daydream</span>
     - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
     - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
-    - <span lang="en-PH">R Rules</span>
+    - <span lang="en-PH">R Rules</span> (<span lang="tl-Tglg">ᜇ᜔</span> <span lang="en-PH">Rules</span>)
     - <span lang="en-PH">Dione</span>
     - <span lang="en-PH">Ver5us</span>
     - <span lang="en-PH">Vxon</span>
     - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>)
   - 상품
   - 팬 부스
-    - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ'ᜆᜒᜈ᜔</span>)
+    - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</span>)
     - <span lang="en-PH">Aces</span>
     - <span lang="en-PH">Allies</span>
     - <span lang="en-PH">Blooms</span>
@@ -101,7 +101,7 @@ type = "article"                                                           # art
     - <span lang="en-PH">Genatics</span>
     - <span lang="en-PH">Kaia Stans</span> (<span lang="tl-Tglg">ᜃᜌ</span> <span lang="en-PH">Stans</span>)
     - <span lang="fil">Magiliw</span> (<span lang="tl-Tglg">ᜋᜄᜒᜎᜒᜏ᜔</span>)
-    - <span lang="en-PH">MNLoves</span>
+    - <span lang="en-PH">MNLoves</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔</span><span lang="en-PH">Love</span>)
     - <span lang="en-PH">Pearls</span>
     - <span lang="en-PH">Vixies</span>
   - 계략
@@ -126,10 +126,10 @@ type = "article"                                                           # art
   - <span lang="en-PH">1st.One</span>
   - <span lang="en-PH">4th Impact</span>
   - <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
-  - <span lang="en-PH">BGYO</span>
+  - <span lang="en-PH">BGYO</span> (<span lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</span>)
   - <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
-  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋᜈᜒᜎ48</span>)
-  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span>)
+  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)
+  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span> / <span lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</span>)
   - <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
 - 보너스: 개막 공연
   - <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
