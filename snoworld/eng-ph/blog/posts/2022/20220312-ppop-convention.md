@@ -50,7 +50,7 @@ Do you love attending conventions? Do you collect merchandise of products you li
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  Latest update: 2022-03-12 20:20:20 PHT
+  Latest update: 2022-03-13 21:50:50 PHT
 {{% /sembox %}}
 
 There is no longer any doubt that P-pop, or [_**P**inoy **Pop**ular music_]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music"), is having a major resurgence. Filipinos both locally and abroad are rallying behind P-pop acts in a way never before seen in P-pop's decades-long history—fandoms, merchandise, data fandom, and now conventions.
@@ -78,27 +78,32 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
   </figure>
 </div>
 
-- When: April 9–10, 2022 from 10:00 PHT to 20:00 PHT
+- When: April 9, 2022 from 10:00 PHT to 20:00 PHT; and April 10, 2022 from 10:00 PHT to 21:00 PHT
 - What:
-  - Performances, confirmed as of 2022-03-12:
-    - Daydream
-    - G22
-    - Ver5us
+  - Performances, confirmed as of 2022-03-13 21:35:37 PHT:
+    - <span lang="en-PH">Daydream</span>
+    - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
+    - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
+    - <span lang="en-PH">R Rules</span>
+    - <span lang="en-PH">Dione</span>
+    - <span lang="en-PH">Ver5us</span>
+    - <span lang="en-PH">Vxon</span>
+    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>)
   - Merchandise
   - Fan booths
-    - A'tin
-    - Aces
-    - Allies
-    - Blooms
-    - Bullets
-    - Dreamers
-    - For.One
-    - Genatics
-    - Kaia Stans
-    - Magiliw
-    - MNLoves
-    - Pearls
-    - Vixies
+    - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ'ᜆᜒᜈ᜔</span>)
+    - <span lang="en-PH">Aces</span>
+    - <span lang="en-PH">Allies</span>
+    - <span lang="en-PH">Blooms</span>
+    - <span lang="en-PH">Bullets</span>
+    - <span lang="en-PH">Dreamers</span>
+    - <span lang="en-PH">For.One</span>
+    - <span lang="en-PH">Genatics</span>
+    - <span lang="en-PH">Kaia Stans</span> (<span lang="tl-Tglg">ᜃᜌ</span> <span lang="en-PH">Stans</span>)
+    - <span lang="fil">Magiliw</span> (<span lang="tl-Tglg">ᜋᜄᜒᜎᜒᜏ᜔</span>)
+    - <span lang="en-PH">MNLoves</span>
+    - <span lang="en-PH">Pearls</span>
+    - <span lang="en-PH">Vixies</span>
   - Games
   - and more surprises
 
@@ -118,17 +123,17 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
 
 - When: April 10, 2022 from 15:00 PHT to 19:00 PHT
 - What: Concerts
-  - 1st.One
-  - 4th Impact
-  - Alamat
-  - BGYO
-  - BINI
-  - MNL48
-  - Press Hit Play
-  - SB19
+  - <span lang="en-PH">1st.One</span>
+  - <span lang="en-PH">4th Impact</span>
+  - <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
+  - <span lang="en-PH">BGYO</span>
+  - <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
+  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋᜈᜒᜎ48</span>)
+  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span>)
+  - <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
 - Bonus: Opening performances from
-  - KAIA
-  - Vxon
+  - <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
+  - <span lang="en-PH">Vxon</span>
 - Extra: fan activities
 
 {{< video

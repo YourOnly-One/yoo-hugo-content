@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  最新の更新：2022-03-12 21:20:20 JST
+  最新の更新：2022-03-13 22:50:50 JST
 {{% /sembox %}}
 
 <span lang="en-PH">P-POP</span>、または[<span lang="en-PH">_**P**inoy **Pop**ular music_</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")が大きな復活を遂げていることに疑いの余地はありません。 国内外のフィリピン人は、ファンダム、商品、データファンダム、そして今では慣習など、P-POPの数十年にわたる歴史ではかつて見られなかった方法で<span lang="en-PH">P-POP</span>の行為の背後に集結しています。
@@ -78,15 +78,20 @@ type = "article"                                                           # art
   </figure>
 </div>
 
-- 日時：2022年4月9〜10日11:00JSTから21:00JST
+- いつ：2022年4月9日11:00PHTから21:00JST; および2022年4月10日11:00PHTから22:00JST
 - 何：
-  - 2022-03-12の時点で確認されたパフォーマンス：
-    - DAYDREAM
-    - G22
-    - VER5US
+  - 2022-03-13 22:35:37 JSTの時点で確認されたパフォーマンス：
+    - <span lang="en-PH">Daydream</span>
+    - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
+    - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
+    - <span lang="en-PH">R Rules</span>
+    - <span lang="en-PH">Dione</span>
+    - <span lang="en-PH">Ver5us</span>
+    - <span lang="en-PH">Vxon</span>
+    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>)
   - 商品
   - ファンブース
-    - <span lang="fil">A'tin</span>
+    - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ'ᜆᜒᜈ᜔</span>)
     - <span lang="en-PH">Aces</span>
     - <span lang="en-PH">Allies</span>
     - <span lang="en-PH">Blooms</span>
@@ -94,8 +99,8 @@ type = "article"                                                           # art
     - <span lang="en-PH">Dreamers</span>
     - <span lang="en-PH">For.One</span>
     - <span lang="en-PH">Genatics</span>
-    - <span lang="en-PH">Kaia Stans</span>
-    - <span lang="fil">Magiliw</span>
+    - <span lang="en-PH">Kaia Stans</span> (<span lang="tl-Tglg">ᜃᜌ</span> <span lang="en-PH">Stans</span>)
+    - <span lang="fil">Magiliw</span> (<span lang="tl-Tglg">ᜋᜄᜒᜎᜒᜏ᜔</span>)
     - <span lang="en-PH">MNLoves</span>
     - <span lang="en-PH">Pearls</span>
     - <span lang="en-PH">Vixies</span>
@@ -120,14 +125,14 @@ type = "article"                                                           # art
 - 内容：コンサート
   - <span lang="en-PH">1st.One</span>
   - <span lang="en-PH">4th Impact</span>
-  - <span lang="fil">Alamat</span>
-  - <span lang="fil">BGYO</span>
-  - <span lang="fil">BINI</span>
-  - <span lang="en-PH">MNL</span>48
-  - <span lang="en-PH">Press Hit Play</span>
-  - <span lang="en-PH">SB</span>19
+  - <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
+  - <span lang="en-PH">BGYO</span>
+  - <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
+  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋᜈᜒᜎ48</span>)
+  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span>)
+  - <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
 - ボーナス：オープニングパフォーマンス
-  - <span lang="fil">KAIA</span>
+  - <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
   - <span lang="en-PH">Vxon</span>
 - 追加：ファンの活動
 

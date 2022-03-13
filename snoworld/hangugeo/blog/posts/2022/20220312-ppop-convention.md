@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  최신 업데이트: 2022-03-12 21:20:20 KST
+  최신 업데이트: 2022-03-13 22:50:50 KST
 {{% /sembox %}}
 
 더 이상 피이팝 또는 [<span lang="en-PH">_**P**inoy **Pop**ular music_</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")이 크게 부활하고 있다는 데 의심의 여지가 없습니다. 국내외에서 필리핀인들은 피이팝의 수십 년 역사에서 볼 수 없었던 방식(팬덤, 상품, 데이터 팬덤, 현재의 관습)으로 피이팝 행위를 지지하고 있습니다.
@@ -78,15 +78,20 @@ type = "article"                                                           # art
   </figure>
 </div>
 
-- 일시: 2022년 4월 9일~10일 11:00 KST - 21:00 KST
+- 일시: 2022년 4월 9일 11:00 PHT - 21:00 KST; 및 2022년 4월 10일 11:00 PHT - 22:00 KST
 - 뭐:
-  - 2022-03-12 현재 확인된 공연:
-    - DAYDREAM
-    - G22
-    - VER5US
+  - 2022-03-13 22:35:37 KST 기준 공연 확인:
+    - <span lang="en-PH">Daydream</span>
+    - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
+    - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
+    - <span lang="en-PH">R Rules</span>
+    - <span lang="en-PH">Dione</span>
+    - <span lang="en-PH">Ver5us</span>
+    - <span lang="en-PH">Vxon</span>
+    - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>)
   - 상품
   - 팬 부스
-    - <span lang="fil">A'tin</span>
+    - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ'ᜆᜒᜈ᜔</span>)
     - <span lang="en-PH">Aces</span>
     - <span lang="en-PH">Allies</span>
     - <span lang="en-PH">Blooms</span>
@@ -94,8 +99,8 @@ type = "article"                                                           # art
     - <span lang="en-PH">Dreamers</span>
     - <span lang="en-PH">For.One</span>
     - <span lang="en-PH">Genatics</span>
-    - <span lang="en-PH">Kaia Stans</span>
-    - <span lang="fil">Magiliw</span>
+    - <span lang="en-PH">Kaia Stans</span> (<span lang="tl-Tglg">ᜃᜌ</span> <span lang="en-PH">Stans</span>)
+    - <span lang="fil">Magiliw</span> (<span lang="tl-Tglg">ᜋᜄᜒᜎᜒᜏ᜔</span>)
     - <span lang="en-PH">MNLoves</span>
     - <span lang="en-PH">Pearls</span>
     - <span lang="en-PH">Vixies</span>
@@ -120,14 +125,14 @@ type = "article"                                                           # art
 - 무엇: 콘서트
   - <span lang="en-PH">1st.One</span>
   - <span lang="en-PH">4th Impact</span>
-  - <span lang="fil">Alamat</span>
-  - <span lang="fil">BGYO</span>
-  - <span lang="fil">BINI</span>
-  - <span lang="en-PH">MNL</span>48
-  - <span lang="en-PH">Press Hit Play</span>
-  - <span lang="en-PH">SB</span>19
+  - <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
+  - <span lang="en-PH">BGYO</span>
+  - <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
+  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋᜈᜒᜎ48</span>)
+  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span>)
+  - <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
 - 보너스: 개막 공연
-  - <span lang="fil">KAIA</span>
+  - <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
   - <span lang="en-PH">Vxon</span>
 - 추가: 팬 활동
 
