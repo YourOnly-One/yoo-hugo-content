@@ -3,7 +3,7 @@ title = "Privacy Policy"
 description = "YourOnly.One™ Privacy Policy"
 
 date = "2020-03-25T06:00:00"
-lastmod = "2021-01-28T07:00:00"
+#lastmod = "2021-01-28T07:00:00"
 
 #aliases = ["", ""]
 #slug = ""
@@ -62,6 +62,9 @@ As Site is hosted on third-party services (Keybase and Blogger/Blogspot) we do n
 ## Cookies and Web Beacons
 Our Site may use "cookies" to store information about Users preferences, to record user-specific information on which pages the Users accesses or visits, and to personalize or customize our web page content based upon Users' browser type or other information that the visitor sends via their browser. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of Site may not function properly.
 
+### YouTube videos
+__YourOnly.One__ is using the `youtube-nocookie.com` domain to serve embedded YouTube videos.
+
 ## How we use collected information
 Site may collect and use Users personal information for the following purposes:
 * _To run and operate our Site_
@@ -80,7 +83,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 ## Electronic newsletters
 If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. We may use third party service providers to help us operate our business and Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-## Third party websites
+## Third-party websites
 Users may find advertising or other content on Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to Site, is subject to that website's own terms and policies.
 
 ## Advertising
@@ -88,27 +91,39 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 __YourOnly.One__ has no access to or control over these cookies used by third-party advertisers.
 
+### Google Adsense
+Site is using Google Adsense as its advertising network.
+
+* Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to Site.
+* Google's use of advertising cookies enabled it and its partners to serve ads to User based on their visit to Site.
+* Users may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). Alternatively, User can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](http://www.aboutads.info/choices/).
+
+__YourOnly.One__ has set its Google Adsense settings to only serve non-personalized ads.
+
+<!--
 ### DoubleClick DART Cookie
 * Google, as a third party vendor, uses cookies to serve ads on __YourOnly.One__.
 * Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to __YourOnly.One__ and other sites on the Internet.
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <a href="http://www.google.com/privacy_ads.html" title="Opt out of the Dart Cookie" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">http://www.google.com/privacy_ads.html</a>
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <a href="https://www.google.com/privacy_ads.html" title="Opt out of the Dart Cookie" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">https://www.google.com/privacy_ads.html</a>
+-->
 
-### Our Advertising Partners
+<!-- ### Our Advertising Partners
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include…
-* <a href="http://www.google.com/privacy/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Google</a>
-* <a href="http://www.amazon.com/privacy/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Amazon</a>
-* <a href="http://www.play-asia.com/SOap-23-28-change_language-83-czah-3-privacy-49-en.html" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Play-Asia.com</a>
-* <a href="http://www.webgains.com/public/privacy/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Webgains</a>
-* <a href="http://www.yesasia.com/global/customer-support/0-0-0-hti.1046-en/question-answer.html" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">YesAsia.com</a>
+* <a href="https://www.google.com/privacy/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Google</a>
+* <a href="https://www.amazon.com/privacy/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Amazon</a>
+* <a href="https://www.play-asia.com/SOap-23-28-change_language-83-czah-3-privacy-49-en.html" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Play-Asia.com</a>
+* <a href="https://www.webgains.com/public/privacy/" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Webgains</a>
+* <a href="https://www.yesasia.com/global/customer-support/0-0-0-hti.1046-en/question-answer.html" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">YesAsia.com</a>
 
-_While each of these advertising partners has their own privacy policy for their site, an updated and hyperlinked resource is maintained here: <a href="http://www.privacypolicyonline.com/privacy-policies" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Privacy Policies</a>._
+_While each of these advertising partners has their own privacy policy for their site, an updated and hyperlinked resource is maintained here: <a href="https://www.privacypolicyonline.com/privacy-policies" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Privacy Policies</a>._
 
 _You may consult this listing to find the privacy policy for each of the advertising partners of __YourOnly.One__._
+-->
 
-### Third Party Privacy Policies
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. __YourOnly.One__'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: <a href="http://www.privacypolicyonline.com/privacy-policy-links" title="Privacy Policy Links" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Privacy Policy Links</a>.
+### Third-party Privacy Policies
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. __YourOnly.One__'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: <a href="https://www.privacypolicyonline.com/privacy-policy-links" title="Privacy Policy Links" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Privacy Policy Links</a>.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. See: <a href="http://www.privacypolicyonline.com/what-are-cookies" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">What Are Cookies?</a> for more information.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. See: <a href="https://www.privacypolicyonline.com/what-are-cookies" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">What Are Cookies?</a> for more information.
 
 ## California Online Privacy Protection Act (CalOPPA)
 According to CalOPPA, we agree to the following:
@@ -141,10 +156,15 @@ __YourOnly.One__ has the discretion to update this privacy policy at any time. W
 By using Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use Site. Your continued use of Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ## Update
-This Privacy Policy was last updated on: 2021-01-28.
+This Privacy Policy was last updated on: 2022-03-14.
+
+### Changes
+- Changed all links to `https`
+- DoubleClick DART Cookie and Advertising Partners section replaced with Google Adsense section.
+- Added YouTube videos section
 
 <hr/>
 
 This policy was based on:
-* <a href="http://privacypolicies.com" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">PrivacyPolicies.Com</a>
-* <a href="http://www.privacypolicyonline.com" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">PrivacyPolicyOnline.com</a>
+* <a href="https://privacypolicies.com" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">PrivacyPolicies.Com</a>
+* <a href="https://www.privacypolicyonline.com" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">PrivacyPolicyOnline.com</a>
