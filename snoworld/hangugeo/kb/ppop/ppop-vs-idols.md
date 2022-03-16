@@ -15,7 +15,7 @@ relCanonical = "https://im.youronly.one/snoworld/ko/kb/ppop/ppop-versus-idols-20
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
 keywords = ["ppop", "p-pop", "idols", "idol industry", "pinoy idol", "pilipino idol", "philippine idol", "idol culture", "idol music", "idol acts", "solo idol", "idol groups", "opm", "philippine music", "pinoy pop", "pinoy popular music", "philippine pop", "philippine popular music", "pilipino pop", "pilipino popular music", "music"]                                                     # meta keywords
-series = ["asianpopandidols", "ppopandidols"]                                                       # subset of series taxonomy
+series = ["ppopandidols"]                                                       # subset of series taxonomy
 tags = ["ppop"]                                                         # taxonomy
 
 comments = true
@@ -147,19 +147,6 @@ type = "article"                                                           # art
 
 -------
 
-This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpopandidols" >}} "Asian Pop and Idols")"
-* "[P-pop and Idols]({{< ref path="ppopandidols" >}} "P-pop and Idols")"
-  * [What is the difference between P-pop and OPM?]({{< ref path="ppop-vs-opm.md" >}} "What is the difference between P-pop and OPM?")
-  * All P-pop are idols, Not 👈🏽 You are here
-* "[K-pop and Idols]({{< ref path="kpopandidols" >}} "K-pop and Idols")"
-  * [Most Coherent List of K-pop Generations]({{< ref path="kpop-generations.md" >}} "Most Coherent List of K-pop Generations")
-    * [1st Generation: 1992–2001]({{< ref path="kpop-1st-gen.md" lang="en-ph" >}} "1st Generation K-pop")
-    * [2nd Generation: 2002–2011]({{< ref path="kpop-2nd-gen.md" lang="en-ph" >}} "2nd Generation K-pop")
-    * [3rd Generation: 2012–2021]({{< ref path="kpop-3rd-gen.md" lang="en-ph" >}} "3rd Generation K-pop")
-    * [4th Generation: 2022–2031]({{< ref path="kpop-4th-gen.md" lang="en-ph" >}} "4th Generation K-pop")
-
--------
-
 {{< image
   type="imagecoverattrib"
 
@@ -184,10 +171,26 @@ This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpop
   cc0countrycode="PH"
   cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
-<div class="obj_center"><div class="header_attribution"><footer class="attribution_copyright"><p>
+{{< image
+  type="imagecoverattrib"
 
-<small>・ Cover image background by [PxHere](https://pxhere.com/en/photo/601505) is [free of known copyright restrictions](https://creativecommons.org/publicdomain/mark/1.0/).</small>
-</p></footer></div></div>
+  isrepresentativeofpage=true
+
+  link="https://pxhere.com/en/photo/601505"
+  linkrel="noopener external"
+
+  title="animal singing musical performance"
+  embeddedtextcaption=""
+  inlanguage="en"
+
+  licensecode="publicdomain"
+  licenseurl=""
+  licensename=""
+
+  attribto="PxHere"
+  attriburl="https://pxhere.com"
+  attribrel="noopener external"
+>}}
 
 -------
 
