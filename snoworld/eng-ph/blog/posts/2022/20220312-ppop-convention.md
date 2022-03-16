@@ -107,7 +107,8 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
   - Games
   - and more surprises
 
-*Special note: Artist performances will be held on the first day only, April 9th.*
+*Artist performances will be held on the first day only, April 9th.*
+{.notecounter}
 
 [^ver5us-ppopcon-conflict]: [Ver5us] [Schedule conflict](https://www.facebook.com/ver5usofficial/posts/271692321780481)
 [^yara-ppopcon-conflict]: [Yara] [Schedule conflict](https://twitter.com/official__yara/status/1501035777236795394)
@@ -168,7 +169,8 @@ Here are the details for the convention tickets:
 
 The organizers have yet to announce where to buy tickets for the convention (as of 2022-03-12).
 
-*Note: ₱1.00 = U$0.019 based on 2022-03-11 22:01 UTC exchange rate, and used only for International context.*
+*₱1.00 = U$0.019 based on 2022-03-11 22:01 UTC exchange rate, and used only for International context.*
+{.notecounter}
 
 ### Concert ticket price and benefits
 Tickets for the 2022 PPOPCON is available at Ticketnet outlets (SM Malls, Fisher Mall, Eastwood Mall, and Robinson's Galleria Department Store), Ticketnet Box Office at the Araneta Coliseum yellow gate, and at UGF, Gateway Mall activity area.
@@ -214,13 +216,15 @@ Tickets can also be bought online via Ticketnet Online: [2022 PPOPCON Ticket Sal
   - Live soundcheck access
   - VIP ID pass / VIP fast lane
 
-*Please note that prices are exclusive of ticketing service charge.*
+*Prices are exclusive of ticketing service charge.*
+{.notecounter}
 
 Yes, there is an online viewing option. The online regular ticket, which is available for only ₱900.00 (U$17.18), will grant access for the concert proper from 15:00 PHT to 19:00 PHT. The online special or online VIP ticket for ₱1,500.00 (U$28.63) will give access to the live soundcheck which will start by 13:00 PHT.
 
 VIP ticket holders are also entitled to watch the live soundcheck at 13:00 PHT. They will be allowed to enter the venue by 12:00 PHT. As this is an exclusive access for both VIP and online VIP ticket holders, videos will not be allowed during the live soundcheck.
 
-*Note: ₱1.00 = U$0.019 based on 2022-03-11 22:01 UTC exchange rate, and used only for International context.*
+*₱1.00 = U$0.019 based on 2022-03-11 22:01 UTC exchange rate, and used only for International context.*
+{.notecounter}
 
 ## Additional information
 Before storming the venue, especially the concert, make sure to read the health and safety guidelines put forth by the organizers and management of the venues. The virus known as SARS-CoV-2 and the disease it produces known as COVID-19 is still a health issue.
