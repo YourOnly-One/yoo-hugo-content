@@ -82,8 +82,6 @@ Test here.[^a]
 ## Other markdown codes
 [SOME_LINK](https://example.com)
 
-[POST_TITLE]({{< ref "/FILENAME.md" >}} "TITLE_ATTRIBUTE")
-
 ## Official trailer / 公式予告編 / 공식 예고편
 {{< youtube id="CHANGE_THIS" title="「CHANGE_THIS」 trailer/予告編/예고편" >}}
 
