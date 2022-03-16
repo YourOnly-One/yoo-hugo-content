@@ -1187,16 +1187,6 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
 -------
 
-Go back to [**YourOnly.One**'s P-pop Generations]({{< ref "/ppop-generations.md" >}} "Pinoy Popular Music Generations");
-
-Or check the other generations!
-* [1st Generation: 1990–1999]({{< ref "/ppop-1st-gen.md" >}} "1st Generation P-pop")
-* [2nd Generation: 2000–2009]({{< ref "/ppop-2nd-gen.md" >}} "2nd Generation P-pop")
-* 3rd Generation: 2010–2019 👈🏽 You are here
-* [4th Generation: 2020–2029]({{< ref "/ppop-4th-gen.md" >}} "4th Generation P-pop")
-
--------
-
 {{< image
   type="imagecoverattrib"
 

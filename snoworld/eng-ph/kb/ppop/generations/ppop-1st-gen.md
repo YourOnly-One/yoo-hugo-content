@@ -1435,16 +1435,6 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
 -------
 
-Go back to [**YourOnly.One**'s P-pop Generations]({{< ref "/ppop-generations.md" >}} "Pinoy Popular Music Generations");
-
-Or check the other generations!
-* 1st Generation: 1990–1999 👈🏽 You are here
-* [2nd Generation: 2000–2009]({{< ref "/ppop-2nd-gen.md" >}} "2nd Generation P-pop")
-* [3rd Generation: 2010–2019]({{< ref "/ppop-3rd-gen.md" >}} "3rd Generation P-pop")
-* [4th Generation: 2020–2029]({{< ref "/ppop-4th-gen.md" >}} "4th Generation P-pop")
-
--------
-
 {{< image
   type="imagecoverattrib"
 

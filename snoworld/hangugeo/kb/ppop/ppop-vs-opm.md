@@ -207,19 +207,6 @@ type = "article"                                                           # art
 
 -------
 
-This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpopandidols" >}} "Asian Pop and Idols")"
-* "[P-pop and Idols]({{< ref path="ppopandidols" >}} "P-pop and Idols")"
-  * What is the difference between P-pop and OPM? 👈🏽 You are here
-  * [All P-pop are idols, Not]({{< ref path="ppop-vs-idols.md" >}} "All P-pop are idols, Not")
-* "[K-pop and Idols]({{< ref path="kpopandidols" >}} "K-pop and Idols")"
-  * [Most Coherent List of K-pop Generations]({{< ref path="kpop-generations.md" >}} "Most Coherent List of K-pop Generations")
-    * [1st Generation: 1992–2001]({{< ref path="kpop-1st-gen.md" lang="en-ph" >}} "1st Generation K-pop")
-    * [2nd Generation: 2002–2011]({{< ref path="kpop-2nd-gen.md" lang="en-ph" >}} "2nd Generation K-pop")
-    * [3rd Generation: 2012–2021]({{< ref path="kpop-3rd-gen.md" lang="en-ph" >}} "3rd Generation K-pop")
-    * [4th Generation: 2022–2031]({{< ref path="kpop-4th-gen.md" lang="en-ph" >}} "4th Generation K-pop")
-
--------
-
 {{< image
   type="imagecoverattrib"
 

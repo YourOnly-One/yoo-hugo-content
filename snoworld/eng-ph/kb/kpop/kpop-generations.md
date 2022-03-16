@@ -142,19 +142,6 @@ We know it is your *Sweet Dream* that you are our *Only One*, and ladies, in *Ev
 
 -------
 
-This article is part of the series "[Asian Pop and Idols]({{< ref path="asianpopandidols" >}} "Asian Pop and Idols")"
-* "[P-pop and Idols]({{< ref path="ppopandidols" >}} "P-pop and Idols")"
-  * [What is the difference between P-pop and OPM?]({{< ref path="ppop-vs-opm.md" >}} "What is the difference between P-pop and OPM?")
-  * All P-pop are idols, Not 👈🏽 You are here
-* "[K-pop and Idols]({{< ref path="kpopandidols" >}} "K-pop and Idols")"
-  * Most Coherent List of K-pop Generations 👈🏽 You are here
-    * [1st Generation: 1992–2001]({{< ref path="kpop-1st-gen.md" lang="en-ph" >}} "1st Generation K-pop")
-    * [2nd Generation: 2002–2011]({{< ref path="kpop-2nd-gen.md" lang="en-ph" >}} "2nd Generation K-pop")
-    * [3rd Generation: 2012–2021]({{< ref path="kpop-3rd-gen.md" lang="en-ph" >}} "3rd Generation K-pop")
-    * [4th Generation: 2022–2031]({{< ref path="kpop-4th-gen.md" lang="en-ph" >}} "4th Generation K-pop")
-
--------
-
 {{< image
   type="imagecoverattrib"
 
