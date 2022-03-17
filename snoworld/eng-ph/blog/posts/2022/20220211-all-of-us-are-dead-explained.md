@@ -62,6 +62,7 @@ If you can not honestly answer those questions, then you better watch *All Of Us
 {{% /sembox %}}
 
 ## What is a hambie?
+
 {{< image
   isrepresentativeofpage=false
 
@@ -92,9 +93,11 @@ You know how students are not children but not yet adults either? I'm like that.
 As explained by Choi Nam Ra, a hambie herself, a hambie is <q>neither a human nor a monster</q> just as how students of their age are no longer children yet are not adults either. The show's director also explained what a hambie is but we will get to that later because he also revealed something most of us missed.
 
 ## FAQ
+
 For the most part of the show, everything was explained. It was the ending where audiences have the most questions. Let's go through each question and see if we can give a satisfactory explanation.
 
 ### Why did they cut phone lines, mobile signals, and the Internet?
+
 When the zombie outbreak started, the first people who called emergency hotlines were the students. As zombies are considered fiction, the calls were treated as pranks. However, when another outbreak started in a hospital, adults started calling as well, this finally prompted the call center and emergency response to take it seriously. Still, no one believed about the zombie part.
 
 There were also those who posted a call for help and uploaded videos in social media. To make matters worse, vloggers who want more views created fake content like the scene in the train car. There were also the likes of vlogger *Orangibberish* (played by Lee Si Hoon) who entered the city and live streamed his *adventures* (in fairness, he came prepared). As expected, most of his viewers thought he hired actors.
@@ -118,11 +121,12 @@ There were also those who posted a call for help and uploaded videos in social m
   attribrel="external nofollow"
 >}}
 
-These did not sit well with the National Government of the Republic of Korea. They treated the videos as fake news, and the calls an exaggeration of the situation. Zombies? Seriously? To curb the spread of _unconfirmed_ news and to stop people from Hyosan calling their family and relatives elsewhere and panic about being chased by zombies, the national government decided to declare martial law in the city. They used mit to immediately cut phone lines, mobile signals, and Internet connection.
+These did not sit well with the National Government of the Republic of Korea. They treated the videos as fake news, and the calls an exaggeration of the situation. Zombies? Seriously? To curb the spread of *unconfirmed* news and to stop people from Hyosan calling their family and relatives elsewhere and panic about being chased by zombies, the national government decided to declare martial law in the city. They used mit to immediately cut phone lines, mobile signals, and Internet connection.
 
 Was it a good decision or a bad one? 👇🏽 Share your opinions below. 👇🏽
 
 ### Why did they bomb the city of Hyosan?
+
 According to the "men-in-black" report to Jin Seon Mu, the Commander of martial law, all it takes for the virus to overwhelm Korea is for one infected to infect another outside of the quarantined zone. Just one. The commander knew there will be more than one, they can not possibly contain it.
 
 As if hades was listening, Hyosan zombies were already in another city and the spread was only slowed down because the city was evacuated early. To make matters worse, they learned that there are asymptomatic cases and there is no way it can be detected other than to wait for it to manifest … or to get hungry.
@@ -153,6 +157,7 @@ Did the commander make the right decision? 👇🏽 Share your thoughts below! �
 >}}
 
 ### Was martial law necessary?
+
 South Korea was under multiple martial law regimes and it was bloody. [^korea-martial-law-01] [^korea-martial-law-02] [^korea-martial-law-03] [^korea-martial-law-04] [^korea-martial-law-05] But martial law by itself is not bad or evil, what makes it such is the person granted with absolute authority or power, and the people he or she surrounds themselves with (or control to submission in this case).
 
 While they did not believe it was a zombie virus outbreak they showed how any government would treat any new virus in a post-COVID19 pandemic world—swift and stringent action because no one wants another pandemic if it can be avoided. A limited martial law, in this case, demonstrated that it can be used for good.
@@ -172,15 +177,17 @@ What do you think? Was martial law necessary? 👇🏽 Share those opinions in t
 [^korea-martial-law-05]: Wikipedia: [Coup d'état of May Seventeenth](https://en.wikipedia.org/wiki/Coup_d%27%C3%A9tat_of_May_Seventeenth)
 
 ### Why did Commander Jin Seon Mu committed suicide?
+
 These are the reasons why he ended his own life:
 
-1. **Guilt.** He had to make a call for the benefit of the majority and kill thousands of unaccounted survivors.
-1. **Remorse.** He had to use the authority granted to him under martial law, the very power he refused to use when his officers reminded him of it.
-1. **Dignity and honour.** When the dust settles, the government and the public—not just in Korea but all over the world—will condemn him for his actions. For him, it is better to die on his own terms, with his dignity and honour intact, and knowing he made the right decision to save billions of people.
+01. **Guilt.** He had to make a call for the benefit of the majority and kill thousands of unaccounted survivors.
+02. **Remorse.** He had to use the authority granted to him under martial law, the very power he refused to use when his officers reminded him of it.
+03. **Dignity and honour.** When the dust settles, the government and the public—not just in Korea but all over the world—will condemn him for his actions. For him, it is better to die on his own terms, with his dignity and honour intact, and knowing he made the right decision to save billions of people.
 
 If you were the Commander of martial law, how would you handle the situation? And if all it takes is just one infected to escape the quarantined area to decimate the world population, would you bomb ground zero? 👇🏽 Share your views in the comments below! 👇🏽
 
 ### Why are they still in quarantine after four months?
+
 This is because the scientists thought asymptomatic infections can not be detected. Unfortunately, the anger the Hyosan students feels against the adults stopped them from sharing this critical information: the virus in an aysmptomatic manifests when its existence is threatened—anger, being attacked, fear for their life and their friends, and hunger.
 
 It was also reported in the news that the even after four months, the national health agency of Korea can not identify the virus which made it impossible to know the incubation period. This led to the agency's stance on opposing the lifting of the quarantine for Hyosan survivors.
@@ -209,6 +216,7 @@ It was a good decision. If hambies are like Nam Ra who was able to push down the
 Not ending their quarantine is, unfortunately, the only way to ensure not a single asymptomatic is elsewhere in the country.
 
 ### Why did Choi Nam Ra jump from the rooftop?
+
 When On Jo told Nam Ra she can come with them, Nam Ra said she still has things to do in Hyosan. She explained that there are a few more like her, a hambie—some fled outside of the school but there are still a few left. Then she said, <q>they're back</q> and jumped from the rooftop.
 
 The next scene, Nam Ra's human friends stared from the rooftop. It wasn't so much because they were surprised with Nam Ra jumping, they were, but it was because of what they saw in the distance. Our best guess? The other hambies of Hyosan High School returned … probably from scouting the area for other survivors … or fighting the evil hambies (more on this below).
@@ -218,6 +226,7 @@ Noticed how Nam Ra said "they're back"? She was expecting them. Four months sinc
 Then the camera panned and settled on On Jo, who was without any emotions, but I think we can assume a delayed shock. She can not believe what she's seeing?
 
 ### Are Chung San and Gwi Nam dead?
+
 {{< image
   isrepresentativeofpage=false
 
@@ -240,6 +249,7 @@ Then the camera panned and settled on On Jo, who was without any emotions, but I
 Yes. As far the scenes at the end of episode 11 and the beginning of episode 12 are concerned, both Chung San and Gwi Nam died due to the bombing of Hyosan High School.
 
 ### Where is Lee Byung Chan?
+
 Doctor Lee Byung Chan, the creator of the Jonas virus, himself turned into a zombie but a different one. Remember the scene wherein he was walking like any other zombie? A few seconds later he straightened his back, turned, and walked what we can assume was towards the exit. His eyes also showed an intelligence belonging to a scientist.
 
 Also consider this: when the bomb was about to land, they showed the faces of each important character who turned into a zombie. They were On Jo's father Nam So Ju, Soo Hyeok's mother (not named) and his best friend Han Gyeong Su, On Jo's best friend Kim Ji Min, their teacher Jung Yong Nam, archer Jung Min Jae, and their other classmates. Not one of them was their teacher Byung Chan.
@@ -266,14 +276,17 @@ Also consider this: when the bomb was about to land, they showed the faces of ea
 The question we should ask, is Byung Chan plotting his vengeance against humanity? He did change his mind when he saved the detective and told him to get his laptop as it may help with the development of a cure. But he also had a strong resentment against the society. If he is back, then what he said earlier, <q>if this virus manages to learn the human mind, a new breed of human will be born</q>, could lead him to ensure the new breed is the next evolution of mankind.
 
 ## BONUS: Two types of hambies
+
 In a **Netflix** interview, director Lee Jae Gyoo (이재규) and screenwriter Chun Sung Il (천성일) revealed that there are two types of hambies. The first are the immunes and the second are the immortals.
 
 ### The immunes
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_green " attribalign="txt_right" srctitle="이재규 (Lee Jae Gyoo)" srclink="https://www.youtube.com/watch?v=G99V9Kl9JhQ&start=1078&end=1131" srcrel="noopener external" attribto="Netflix Korea 넷플릭스 코리아" attriblink="https://www.youtube.com/channel/UCiEEF51uRAeZeCo8CJFhGWw" attribrel="noopener external" %}}
 Some people don't get infected completely because they are immune to the virus. They do not die and they do not turn into zombies but they have seizures.
 {{% /quotebox %}}
 
 ### The immortals
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_green " attribalign="txt_right" srctitle="이재규 (Lee Jae Gyoo)" srclink="https://www.youtube.com/watch?v=G99V9Kl9JhQ&start=1078&end=1131" srcrel="noopener external" attribto="Netflix Korea 넷플릭스 코리아" attriblink="https://www.youtube.com/channel/UCiEEF51uRAeZeCo8CJFhGWw" attribrel="noopener external" %}}
 Some people turn into zombies whose hearts still beat. They are zombies but they are able to think. Simply put they turn into "immortals".
 {{% /quotebox %}}
@@ -300,6 +313,7 @@ On the other hand, Yoon Gwi Nam, Min Eun Ji, and their teacher Lee Byung Chan, a
 >}}
 
 ## Season 2?
+
 The ending of *All Of Us Are Dead*, and the other clues in the other episodes, points to the possibility of a second season. There is a story they can pick up and continue, and the theories I presented above can be starting points. In season 2, the hambies will eventually be discovered, and no doubt the immortals too. Lee Byung Chan's status is unknown, he could very well be plotting. Then there is Nam Ra and her army of hambies, the national government and the rest of the world will surely not be comfortable with hambies around but at the same time, they can not just send another bomb or a cleaning brigade.
 
 {{< image
@@ -323,7 +337,7 @@ The ending of *All Of Us Are Dead*, and the other clues in the other episodes, p
 
 The title of the next season could be *The Rise of Hambies* or *The Army of Hambies* with Nam Ra the "class" President, for real this time. It could also be *The <del>Walking Dead</del> Running Hambies* or *The Planet of the Hambies*, okay, maybe that last one is season 6.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

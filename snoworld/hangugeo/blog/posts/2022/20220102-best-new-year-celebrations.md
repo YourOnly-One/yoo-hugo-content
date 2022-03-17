@@ -61,7 +61,9 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 나는 동의한다. <q>새로운 10년이 지금 시작됩니다.</q> 온라인에서 찾은 최고의 2022년 새해 축하 행사 7가지를 소개합니다.
 
 ## 2022년 최고의 신년 축하 행사
+
 ### 대한민국 서울 강남구
+
 2022년 최고의 신년 축하 행사는 대한민국 서울 강남구 영동대로에서 열리는 **현대**의 새해 전야 카운트다운입니다. 모두에게 시기적절한 희망의 메시지를 담은 매우 아름다운 드론 쇼였습니다.
 
 {{< video
@@ -84,6 +86,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 런던, 그레이트브리튼 및 북아일랜드 연합왕국
+
 다음은 그레이트브리튼 연합왕국과 북아일랜드 연합왕국의 수도인 런던 전역의 BBC 제작이다. 2021년 작별 인사를 하고 2022년 새해를 맞이하는 축하 행사에서 영국의 가장 위대한 업적으로 돌아가 런던의 다양한 장소로 안내합니다.
 {{< video
   id="VurcwV-3zNc"
@@ -106,6 +109,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 두바이, 아랍 에미레이트 연방
+
 "세계에서 가장 높은 빌딩인 부르즈 칼리파의 일반적인 불꽃놀이"로 쉽게 치부되지만 두바이는 스스로를 능가하는 방법을 확실히 알고 있습니다.
 {{< video
   id="VHHDw3EUJGA"
@@ -127,6 +131,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 브라질 리우데자네이루
+
 가장 크고 가장 긴(15분 20초) [순수] 불꽃놀이, 2022년 최대 관중이 울리는 브라질 리우데자네이루 코파카바나 해변! 그들은 또한 가장 하트 모양의 불꽃 놀이를 얻었습니다!
 {{< video
   id="sB2fT6V83WY"
@@ -148,6 +153,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 캐나다
+
 음악 파티가 없는 새해 축하 행사는 무엇입니까? 캐나다 코미디 아이콘인 Rick Mercer가 캐나다의 새해 전야 카운트다운을 진정한 캐나다 방식으로 진행했으며 전국에서 1시간 동안의 음악 공연을 선보였습니다.
 {{< video
   id="Vig8Kk7gW8Y"
@@ -172,6 +178,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 매직 킹덤, 플로리다, 미국
+
 디즈니의 마법 같은 세계가 새해를 맞이하는 방법이 궁금하다면 2022년 새해를 기념하여 업그레이드된 *Fantasy In Sky* 불꽃놀이 쇼를 시청하세요!
 {{< video
   id="KNaqD3gS4cw"
@@ -193,6 +200,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 나사렛, 이스라엘
+
 ***이스라엘의 Sergio & Rhoda***는 새해 동안 나사렛에 머물면서 나사렛의 기독교인, 아랍인, 유대인들이 어떻게 새해를 축하하는지 기록했습니다.
 {{< video
   id="h12m2Gf0mEw"
@@ -213,7 +221,9 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ## 특별 언급
+
 ### 레이캬비크, 아이슬란드 - 최고의 드론 영상
+
 최고의 드론 영상은 아이슬란드 레이캬비크에서 열리는 신년 축하 행사를 위한 느리고 부드러운 드론 조종을 위해 ***Traveller In The Whole World***에게 돌아갑니다!
 {{< video
   id="oHL3nAOX3qw"
@@ -235,6 +245,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 뉴질랜드 오클랜드
+
 뉴질랜드 오클랜드에서 열리는 연례 불꽃놀이는 COVID-19로 인해 취소되었지만 놀라운 조명 쇼를 조직하는 것을 막지는 못했고 운전자들도 경적을 울렸습니다.
 {{< video
   id="Dwl-o5EFOpI"
@@ -256,6 +267,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### Bund, 상하이, 중국
+
 뉴질랜드 오클랜드와 마찬가지로 중국 상하이 와이탄에서도 불꽃놀이가 없었다. 그러나 그것은 사람들이 다른 축하 행사를 보기 위해 *와이탄*을 방문하는 것을 막지 못했고, 행사가 없는 경우에는 그냥 서로 축하하기만 했습니다.
 {{< video
   id="I8IcsHuZOIM"
@@ -277,9 +289,10 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ## 2022년 새해 복 많이 받으세요
+
 **YourOnly.One**의 2022년 새해 복 많이 받으세요!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -304,6 +317,6 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
   attribrel=""
 >}}
 
--------
+---
 
 고시 : Google 번역

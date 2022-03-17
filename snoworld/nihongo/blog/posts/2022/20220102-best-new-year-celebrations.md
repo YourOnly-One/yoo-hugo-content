@@ -61,7 +61,9 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 同意します。 <q>新しい10年は今始まります。</q>これが私がオンラインで見つけた最高の2022年の新年のお祝いの7つです。
 
 ## 最高の2022年の新年のお祝い
+
 ### 江南区、ソウル、韓国
+
 2022年の最高の新年のお祝いは、韓国ソウル江南区永東大路での**現代**の大晦日のカウントダウンです。 タイムリーな希望のメッセージが込められたとても美しいドローンショーでしたe.
 
 {{< video
@@ -84,6 +86,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### ロンドン、イギリス、北アイルランド
+
 次は、イギリスと北アイルランドの首都であるロンドン中のBBCの作品です。 それは私たちを英国の最大の業績に戻し、2021年に別れを告げ、2022年の新年を迎える祝賀花火として、ロンドンのさまざまな場所に連れて行ってくれます。
 {{< video
   id="VurcwV-3zNc"
@@ -106,6 +109,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### ドバイ、アラブ首長国連邦
+
 「世界で最も高いビル、ブルジュハリファからの通常の花火ショー」として簡単に却下されますが、ドバイは確かに自分たちをしのぐ方法を知っています。
 {{< video
   id="VHHDw3EUJGA"
@@ -127,6 +131,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### リオデジャネイロ、ブラジル
+
 最大かつ最長（15分20秒）[純粋な]花火大会、そして2022年に鳴る最大の出席者は、ブラジルのリオデジャネイロのコパカバーナビーチに行きます！ 彼らはまた、最もハート型の花火大会を獲得しました！
 {{< video
   id="sB2fT6V83WY"
@@ -148,6 +153,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### カナダ
+
 音楽パーティーのない新年のお祝いとは何ですか？ カナダのコメディアイコンであるリックマーサーは、カナダの大晦日のカウントダウンを真のカナダの方法で主催し、全国から1時間の音楽パフォーマンスを披露しました。
 {{< video
   id="Vig8Kk7gW8Y"
@@ -172,6 +178,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### マジックキングダム、フロリダ、アメリカ合衆国
+
 ディズニーの魔法の世界がどのように新年を祝うのか知りたい場合は、2022年の新年を祝うアップグレードされた*ファンタジーインザスカイ*花火ショーをご覧ください！
 {{< video
   id="KNaqD3gS4cw"
@@ -193,6 +200,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### イスラエル、ナザレ
+
 ***Sergio & Rhoda in Israel***は新年の間ナザレに滞在し、ナザレのキリスト教徒、アラブ人、ユダヤ人が新年を祝う方法を記録しました。
 {{< video
   id="h12m2Gf0mEw"
@@ -213,7 +221,9 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ## 特記事項
+
 ### アイスランド、レイキャビク-最高のドローン映像
+
 最高のドローン映像は、アイスランドのレイキャビクでの新年のお祝いをカバーするゆっくりとしたスムーズなドローン制御のために***Traveller In The Whole World***に行きます！
 {{< video
   id="oHL3nAOX3qw"
@@ -235,6 +245,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### ニュージーランド、オークランド
+
 ニュージーランドのオークランドで毎年開催される花火ショーは、COVID-19のためにキャンセルされましたが、それでも彼らは素晴らしいライトショーを開催することができ、ドライバーも大騒ぎしていました。
 {{< video
   id="Dwl-o5EFOpI"
@@ -256,6 +267,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ### 外灘、上海、中国
+
 ニュージーランドのオークランドと同様に、中国の上海の外灘には花火はありませんでした。 しかし、それは人々が代替のお祝いを見ることを期待して*外灘*を訪れるのを止めませんでした、そしてそれがない場合、彼らはただ彼ら自身の間で祝いました。
 {{< video
   id="I8IcsHuZOIM"
@@ -277,9 +289,10 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 >}}
 
 ## 明けましておめでとうございます2022
+
 **YourOnly.One**から2022年明けましておめでとうございます！
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -304,6 +317,6 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
   attribrel=""
 >}}
 
--------
+---
 
 注意：Google翻訳

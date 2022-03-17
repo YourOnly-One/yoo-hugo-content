@@ -52,6 +52,7 @@ type = "article"                                                           # art
 <!--more-->
 
 ## 超電子バイオマン
+
 ### エレクトロバイオマン
 
 {{< video
@@ -87,6 +88,7 @@ type = "article"                                                           # art
 >}}
 
 ## 光戦隊マスクマン
+
 ### に対して、マスクマン
 
 {{< video
@@ -122,6 +124,7 @@ type = "article"                                                           # art
 >}}
 
 ## 宇宙刑事シャイダー
+
 ### シェイダー警察
 
 {{< video
@@ -156,7 +159,7 @@ type = "article"                                                           # art
   attriburl="https://www.youtube.com/channel/UCbGMoqc2XKsxagX_jiQHP7Q"
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -172,6 +175,6 @@ type = "article"                                                           # art
   attriburl="https://www.youtube.com/channel/UCbGMoqc2XKsxagX_jiQHP7Q"
 >}}
 
--------
+---
 
 注意：Google翻訳

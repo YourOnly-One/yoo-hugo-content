@@ -54,7 +54,8 @@ type = "article"                                                           # art
 [^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705)
 
 ## 피팝이란?
-피이팝 또는 <span lang="en-PH">_**P**inoy **Pop**ular music_</span> 은 필리핀 사람이 작곡하거나 연주하는 모든 음악을 포함합니다. <span lang="fil">OPM</span>("<span lang="en-PH">Original Pilipino Music</span>")의 후계자가 아니며 하위 장르도 아닙니다. 피이팝은 주류, 인디, 언더그라운드, 해외 필리핀인, 또는 외국인에 의해 연주되었는지 여부에 관계없이 <span lang="fil">Pinoy</span> 음악 전체를 가리키는 또 다른 용어입니다.
+
+피이팝 또는 <span lang="en-PH">***P**inoy **Pop**ular music*</span> 은 필리핀 사람이 작곡하거나 연주하는 모든 음악을 포함합니다. <span lang="fil">OPM</span>("<span lang="en-PH">Original Pilipino Music</span>")의 후계자가 아니며 하위 장르도 아닙니다. 피이팝은 주류, 인디, 언더그라운드, 해외 필리핀인, 또는 외국인에 의해 연주되었는지 여부에 관계없이 <span lang="fil">Pinoy</span> 음악 전체를 가리키는 또 다른 용어입니다.
 
 *장르*로서의 대중음악과 *대중음악*으로서의 대중음악 사이에는 큰 겹침이 있다. 1950년대 중반 이후의 *팝 음악*은 <q>일반적으로 가장 광범위한 청중이 접근할 수 있는 음악 ***및*** 음악 스타일</q>로 식별되었습니다(강조) [^liveaboutdotcom-popular-music].
 
@@ -81,9 +82,11 @@ type = "article"                                                           # art
 {{% /quotebox %}}
 
 ## 아이돌, 피돌이란?
-*아이돌*의 팬인 대부분은 그것이 <span lang="en-PH">K-pop</span> 또는 <span lang="en-PH">_**K**orean **Pop**ular music_</span> 에서 유래했다고 가정하고 대부분의 가정과 마찬가지로 그것은 틀렸습니다. *아이돌 문화*는 1930년대 초반 일본에서 시작되었지만, 아이돌이라는 단어가 이러한 특정 유형의 연예인에 대한 레이블로 처음 사용된 것은 1960년대 중반에 불과했습니다.
+
+*아이돌*의 팬인 대부분은 그것이 <span lang="en-PH">K-pop</span> 또는 <span lang="en-PH">***K**orean **Pop**ular music*</span> 에서 유래했다고 가정하고 대부분의 가정과 마찬가지로 그것은 틀렸습니다. *아이돌 문화*는 1930년대 초반 일본에서 시작되었지만, 아이돌이라는 단어가 이러한 특정 유형의 연예인에 대한 레이블로 처음 사용된 것은 1960년대 중반에 불과했습니다.
 
 ### 아이돌 문화의 역사
+
 1933년, 배우 아리마 시마 (<span lang="ja">有馬 是馬</span>)가 부석시 (<span lang="ja">釜石市</span>)가 13세의 내일 마츠코를 스카우트했을 때(<span lang="ja">あした まつこ</span> / <span lang="ja">明日 待子</span>) 레드밀 (<span lang="fr">Moulin Rouge</span>) 신주쿠구 (<span lang="ja">新宿区</span>) 극장 도쿄도 (<span lang="ja">レッドミル東京都</span>)의. 매혹적인 미소와 타의 추종을 불허하는 미모와 귀여움, 예능인으로서의 타고난 재능으로 그녀는 단숨에 스타덤에 올랐다. 사람들은 레드밀 (<span lang="fr">Moulin Rouge</span>) 신주쿠구 (<span lang="ja">レッドミル新宿区</span>) 극장을 방문했습니다. 그녀를보고 상호 작용하십시오.
 
 그녀는 또한 주요 회사의 관심을 끌었고 광고, 포스터, 간판에 등장하고 영화에 출연하라는 제안을 받았습니다. 1946년까지 그녀는 King의 지휘 아래 그녀의 노래 즐거운 내일 (<cite lang="ja">楽しき明日</cite>)로 가수 데뷔를 했습니다. 킹 레코드 주식회사 (<span lang="ja">キングレコード株式会社</span>). 그녀가 오늘날의 기준에서 그녀는 의심할 여지 없이 최초의 아이돌이었고, 그녀는 이런 엔터테이너가 되어야 한다고 규정했다.
@@ -113,6 +116,7 @@ type = "article"                                                           # art
 [^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology)
 
 ### 아이돌을 정의하다
+
 다츠오 (<span lang="ja">いなます たつお</span> / <span lang="ja">稲増 龍夫</span>)에 따르면 , 일본 사회 심리학자이자 사회 심리학 및 미디어 문화 이론을 전문으로 하는 심리학자인 아이돌은 <q>성장 과정을 팬들과 공유하고 존재 자체의 매력으로 활약하는 인물</q>입니다 (<q lang="ja">成長過程をファンと共有し、存在そのものの魅力で活躍する人物</q>의 기계 번역). [^wikipedia-idols]
 
 <span class="en-PH">*Japan Info*</span>는 아이돌을 젊게 시작하고 항상 귀엽고 노래, 춤, MC, 성우, 엔터테인먼트, 모델 및 악기 연주 훈련을 받는 연예인으로 설명합니다. 그들은 단순히 연예인으로만 여겨지는 것이 아니라 젊은이들의 롤모델로 여겨지기도 한다. 아이돌은 사회에 대한 반성이자 이상적인 일본 청년의 모습이므로 그들의 이미지는 흠잡을 데가 없어야 한다. [^japan-info-japanese-idols]
@@ -137,6 +141,7 @@ type = "article"                                                           # art
 >}}
 
 ## 결론
+
 이것이 업계와 팬들이 기억해야 할 중요한 구분입니까? 네. 일본과 한국의 음악 산업에서 <span class="en-PH">J-pop</span>과 <span class="en-PH">J-idols</span>, <span class="en-PH">K-pop</span>과 <span class="en-PH">K-idols</span>는 종종 외국 팬들에 의해 혼용되어 사용되지만 각각의 국가 내에서는 구별됩니다. 아이돌과 아이돌이 아닌 행위.
 
 유사하게, 피이팝과 <span class="en-PH">P-idols</span>는 종종 같은 의미로 사용되지만 필리핀과 필리핀 디아스포라에서는 그렇지 않습니다. 모든 필리핀인은 지구상의 어떤 국가보다 음악을 사랑하며 이 게시물을 기준으로 대부분의 P-팝 행위는 정의된 대로 아이돌이 아닌 밴드 또는 솔로 행위입니다.
@@ -145,7 +150,7 @@ type = "article"                                                           # art
 
 다음 질문은 P팝 아이돌 산업은 언제부터 시작됐나. 다음 기사에서 답을 얻을 것입니다.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -192,6 +197,6 @@ type = "article"                                                           # art
   attribrel="noopener external"
 >}}
 
--------
+---
 
 고시 : Google 번역

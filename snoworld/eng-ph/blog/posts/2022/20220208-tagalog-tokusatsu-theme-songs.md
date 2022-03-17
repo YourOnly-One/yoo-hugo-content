@@ -52,6 +52,7 @@ Let's have a trip back and listen to six of these theme songs in Tagalog, full v
 <!--more-->
 
 ## Choudenshi Bioman
+
 ### Elektro Bioman
 
 {{< video
@@ -87,6 +88,7 @@ Let's have a trip back and listen to six of these theme songs in Tagalog, full v
 >}}
 
 ## Hikari Sentai Maskman
+
 ### Laban, Maskman
 
 {{< video
@@ -122,6 +124,7 @@ Let's have a trip back and listen to six of these theme songs in Tagalog, full v
 >}}
 
 ## Space Sheriff Shaider
+
 ### Shaider Pulis
 
 {{< video
@@ -156,7 +159,7 @@ Let's have a trip back and listen to six of these theme songs in Tagalog, full v
   attriburl="https://www.youtube.com/channel/UCbGMoqc2XKsxagX_jiQHP7Q"
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

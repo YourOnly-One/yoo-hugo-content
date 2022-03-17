@@ -56,7 +56,7 @@ An Internet search for P-pop will give different definitions of it, what it cove
 Simple answer?
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  P-pop, or _**P**inoy **Pop**ular music_, is all music composed or performed by a Filipino.
+  P-pop, or ***P**inoy **Pop**ular music*, is all music composed or performed by a Filipino.
 {{% /quotebox %}}
 
 How about OPM?
@@ -70,7 +70,8 @@ It can not get any simpler than that.
 But wait! There is more to it than meets the eye.
 
 ## P-pop
-P-pop, or _**P**inoy **Pop**ular music_, encompasses all music composed or performed by a Filipino. It is not the successor to OPM. It is not a subgenre of OPM. P-pop is simply another term for the entirety of Pinoy music regardless if the music is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
+
+P-pop, or ***P**inoy **Pop**ular music*, encompasses all music composed or performed by a Filipino. It is not the successor to OPM. It is not a subgenre of OPM. P-pop is simply another term for the entirety of Pinoy music regardless if the music is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
 
 It also should not be confused with the genre known as pop music. While pop music as a genre and pop music as popular music are similar these are not interchangeable. Pop music as *popular music* is defined as music which is <q>most in line with the tastes and interests of the urban middle class</q> [^liveaboutdotcom-popular-music] or <q>music with a wide appeal typically distributed to large audiences through the music industry</q> [^wikipedia-popular-music] and <q>typically have easily singable melodies</q> [^wikipedia-popular-music]. While pop music as a genre <q>has primarily come into usage to describe the music that evolved out of the rock and roll revolution of the mid-1950s</q> [^liveaboutdotcom-popular-music].
 
@@ -80,6 +81,7 @@ Still confusing? It is. There is a big overlap between pop music as a genre and 
 [^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music)
 
 ### 1960s and 1970s
+
 Philippine music, or P-pop, started in the 1960s, acts and artists like Jose Mari Chan (1966), Nora Aunor (1967), the Juan de la Cruz Band (1968), and APO Hiking Society (1969), to mention a few, were the early acts in the growing Philippine music industry.
 
 {{< video
@@ -99,6 +101,7 @@ Philippine music, or P-pop, started in the 1960s, acts and artists like Jose Mar
 They were then followed by popular songwriters, singers, and bands like Ryan Cayabyab (1970), Boyfriends (1970), Hotdog (1972), Freddie Aguilar (1973), Rico J. Puno (1975), Asin (1976), Sampaguita (1977), VST & Company (1977), Lea Salonga (1978), Sharon Cuneta (1978), and Hagibis (1979).
 
 ### 1980s: the rise of dance-pop and the beginnings of Pinoy hip hop
+
 In the 1980s, the legendary Gary V. brought dance-pop to the mainstream.
 
 {{< video
@@ -120,6 +123,7 @@ This was also when Pinoy hip hop or rap started, since then the Philippines have
 [^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop)
 
 ### 1990s: a music revolution and the 1st Generation of Modern P-pop
+
 Finally, the 1990s saw the biggest revolution in Philippine music history.
 
 Pinoy hip hop / rap broke into mainstream led by Francis M. (1990 mainstream), Andrew E. (1990 mainstream), and Michael V. (1991).
@@ -147,14 +151,17 @@ These major changes in mainstream Philippine music marked the *1st Generation of
 [^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock)
 
 ## OPM
-If P-pop is all music composed or performed by a Filipino, OPM is an _**Original** Pilipino Music_ composed by a Filipino. We can say that all OPM are P-pop but not all P-pop are OPM. A music composition or performance by a Filipino is P-pop but for a music to be considered OPM it must be composed by a Filipino.
+
+If P-pop is all music composed or performed by a Filipino, OPM is an ***Original** Pilipino Music* composed by a Filipino. We can say that all OPM are P-pop but not all P-pop are OPM. A music composition or performance by a Filipino is P-pop but for a music to be considered OPM it must be composed by a Filipino.
 
 ### Is OPM an era?
+
 It is true that OPM as a classification appeared after the end of the Manila Sound era. In the late 1970s, there was a strong call for more original Pilipino music. The country's first songwriting competition, the Metro Manila Popular Music Festival (1977), or Metropop for short, became the platform to encourage and produce more original Pilipino music. It was then that OPM became the nation's national pride.
 
 If OPM is an era, then how about original music composed by Filipinos before the "OPM era"? Are those not *original Pilipino music*?
 
 ### Is OPM for Tagalog songs only?
+
 This is still a common misconception today: "a song is OPM if it was written in Tagalog". However, there were already songs in Taglish (Tagalog and English) as well as in full English during the early days of OPM.
 
 To mention a few notable English OPM songs, in the 5th Metro Manila Popular Music Festival (1982) <cite>Give Me A Chance</cite> won second place in the amateur division, with <cite>Memories</cite> and <cite>Coming Back</cite> as finalists. In the professional category, songs <cite>Don't Deceive Yourself</cite>, <cite>What Are You Doing On A Rainy Sunday Morning</cite>, and <cite>You Made Me Live Again</cite>, were finalists. [^wikipedia-metropop]
@@ -182,17 +189,20 @@ Language is not a qualification for what an OPM is. From these annual competitio
 [^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival)
 
 ### Is OPM about using native instruments?
+
 Another misconception about an OPM, though rarely talked about today, are the instruments used. In this line of thinking, an OPM can only be an OPM if they used native instruments. But consider this: if the use of native musical instruments is what makes a music OPM then those without it are not? Or, if a music composed and performed by a foreigner used a Philippine music instrument, does it make their music OPM?
 
 ### Is OPM truly original?
+
 It is also of importance to remember that Philippine music was highly influenced by foreign music during the colonial era—333 years from Spain which was followed by 48 years under the USA. Popular music genres in the Philippine music scene are pop, rock, hip hop, reggae, blues, R&B, jazz, ska, and soul, however, all of these were only brought in the country. Strictly speaking, the only *original* Pilipino music genres are those which developed or were composed in pre-colonial times—folk and kundiman music.
 
 If this is the case …
 
 ### What makes an OPM original?
+
 What makes an OPM an *original* Pilipino music? It was composed by a Filipino because only a Filipino can capture and express the Filipino sentiment and music style. It is why there are genres like Pinoy rock, Pinoy hip hop, Pinoy R&B, Pinoy jazz, and Pinoy reggae. The Filipinos took these genres, experimented with it, and added the Pinoy touch and made it their own.
 
-OPM is not about the language it was written in, not about the instruments used, not about the genres, not about when the music was composed. OPM is _**Original** Pilipino Music_ because it was composed by a Filipino to express his/her Filipino heart as well as to showcase the Filipino style.
+OPM is not about the language it was written in, not about the instruments used, not about the genres, not about when the music was composed. OPM is ***Original** Pilipino Music* because it was composed by a Filipino to express his/her Filipino heart as well as to showcase the Filipino style.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   All OPM are P-pop but not all P-pop are OPM.
@@ -201,11 +211,12 @@ OPM is not about the language it was written in, not about the instruments used,
 [^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population)
 
 ## Closing
+
 Is this an attempt to redefine P-pop and OPM? Far from it. This is an attempt to shed light about these two misunderstood labels. This is important because of the growing Philippine idol industry which many Filipinos are confusing as the entirety of P-pop, and supposedly not a single one is OPM.
 
 In <cite>[All P-pop are idols, Not]({{< ref path="ppop-vs-idols.md" >}} "All P-pop are idols, Not")</cite>, the confusion between P-pop and idols is disentangled.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -234,7 +245,26 @@ In <cite>[All P-pop are idols, Not]({{< ref path="ppop-vs-idols.md" >}} "All P-p
   cc0countrycode="PH"
   cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
-<div class="obj_center"><div class="header_attribution"><footer class="attribution_copyright"><p>
+{{< image
+  type="imagecoverattrib"
 
-<small>・ Cover image background by [Adrian Korte](https://unsplash.com/@adkorte) is licensed under [Unsplash License](https://unsplash.com/license).</small>
-</p></footer></div></div>
+  isrepresentativeofpage=false
+
+  link="https://unsplash.com/photos/5gn2soeAc40"
+  linkrel="noopener external"
+  thumbnailurl=""
+
+  title="round black vinyl disc on vinyl player"
+  caption=""
+  alt=""
+  embeddedtextcaption=""
+  inlanguage=""
+
+  licensecode="unsplash"
+  licenseurl="https://unsplash.com/license"
+  licensename="Unsplash License"
+
+  attribto="Adrian Korte"
+  attriburl="https://unsplash.com/@adkorte"
+  attribrel="noopener external"
+>}}

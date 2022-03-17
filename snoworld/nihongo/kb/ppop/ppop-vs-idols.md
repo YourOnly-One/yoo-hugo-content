@@ -54,7 +54,8 @@ type = "article"                                                           # art
 [^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705)
 
 ## P-POPとは何ですか？
-<span lang="fil">P-POP</span>、または <span lang="en-PH">_**P**inoy **Pop**ular music_</span> は、フィリピン人によって作曲または演奏されたすべての音楽を含みます。 <span lang="fil">OPM</span>（"<span lang="en-PH">Original Pilipino Music</span>"）の後継ではなく、そのサブジャンルでもありません。 <span lang="fil">P-POP</span>は、それが主流、インディー、アンダーグラウンド、海外のフィリピン人からのものであるか、外国人によって演奏されたかに関係なく、ピノイ音楽全体の単なる別の用語です。
+
+<span lang="fil">P-POP</span>、または <span lang="en-PH">***P**inoy **Pop**ular music*</span> は、フィリピン人によって作曲または演奏されたすべての音楽を含みます。 <span lang="fil">OPM</span>（"<span lang="en-PH">Original Pilipino Music</span>"）の後継ではなく、そのサブジャンルでもありません。 <span lang="fil">P-POP</span>は、それが主流、インディー、アンダーグラウンド、海外のフィリピン人からのものであるか、外国人によって演奏されたかに関係なく、ピノイ音楽全体の単なる別の用語です。
 
 *ジャンル*としてのポップミュージックと*ポピュラー音楽*としてのポップミュージックの間には大きな重複があります。 1950年代半ば以降の*ポップミュージック*は、<q>通常、音楽***および***最も幅広い聴衆がアクセスできる音楽スタイル</q>として識別されてきたことを覚えておいてください [^liveaboutdotcom-popular-music] （私の強調）。
 
@@ -81,9 +82,11 @@ type = "article"                                                           # art
 {{% /quotebox %}}
 
 ## アイドルまたはPアイドルとは何ですか？
-*アイドル*のファンであるほとんどの人は、それが<span lang="en-PH">K-POP</span>または <span lang="en-PH">_**K**orean **Pop**ular music_ に由来すると想定しており、ほとんどの想定と同様に正しくありません。 *アイドル文化*は1930年代初頭に日本で始まりましたが、アイドルという言葉がこの特定のタイプのエンターテイナーのラベルとして最初に使用されたのは1960年代半ばになってからでした。
+
+*アイドル*のファンであるほとんどの人は、それが<span lang="en-PH">K-POP</span>または <span lang="en-PH">***K**orean **Pop**ular music* に由来すると想定しており、ほとんどの想定と同様に正しくありません。 *アイドル文化*は1930年代初頭に日本で始まりましたが、アイドルという言葉がこの特定のタイプのエンターテイナーのラベルとして最初に使用されたのは1960年代半ばになってからでした。
 
 ### アイドル文化の歴史
+
 俳優の有馬是馬は1933年、13歳のあされまつこ/明日待子をスカウトしてレッドミル（<span lang="fr">Moulin Rouge</span>）新宿の女優になりました。 東京都の区劇場。 彼女の魅惑的な笑顔、比類のない美しさとかわいらしさ、そしてエンターテイナーとしての自然な才能で、彼女はすぐにスターの座に上がりました。 人々はレッドミル（<span lang="fr">Moulin Rouge</span>）新宿区の劇場を訪れ、彼女を見たり交流したりしました。
 
 彼女はまた、大手企業の注目を集め、広告、ポスター、看板に掲載され、映画に出演するというオファーを受けました。 1946年までに、彼女はキングレコードの下で彼女の歌楽しき明日で歌手としてデビューしました。 今日の規範では、彼女は間違いなく最初のアイドルであり、このタイプのエンターテイナーがどうあるべきかを定めました。
@@ -113,6 +116,7 @@ type = "article"                                                           # art
 [^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology)
 
 ### アイドルの定義
+
 社会心理学とメディア文化理論を専門とする日本の社会学者で心理学者であるいなますたつお/稲増龍夫によると、アイドルは<q>成長過程をファンと共有し、存在そのものの魅力で活躍する人物</q>。 [^wikipedia-idols]
 
 <span lang="en-PH">*Japan Info*</span>は、アイドルを若くして始まり、常にかわいい、そして歌ったり、踊ったり、MCしたり、声を出したり、楽しませたり、モデル化したり、楽器を演奏したりする訓練を受けていると説明しています。 彼らは単にエンターテイナーとして見られているだけでなく、若者のロールモデルとしても見なされています。 アイドルは社会への反省であり、理想的な日本の若者の写真であり、そのため彼らのイメージは完璧でなければなりません。 [^japan-info-japanese-idols]
@@ -137,6 +141,7 @@ type = "article"                                                           # art
 >}}
 
 ## 結論
+
 これは業界とファンが覚えておくべき重要な違いですか？ はい。 日本と韓国の音楽業界では、<span lang="en-PH">J-POP</span>と<span lang="en-PH">J-IDOLS</span>、および<span lang="en-PH">K-POP</span>と<span lang="en-PH">K-IDOLS</span>は外国のファンによって同じ意味で使用されることがよくありますが、それぞれの国では区別されています。 アイドルと非アイドルの行為。
 
 同様に、<span lang="fil">P-POP</span>と<span lang="fil">P-IDOLS</span>は同じ意味で使用されることがよくありますが、フィリピンとフィリピン人のディアスポラではそうではありません。 すべてのフィリピン人は地球上のどの国よりも音楽を愛しており、この投稿の時点で、<span lang="fil">P-POP</span>のアクトの大部分は、定義されているようにアイドルではないバンドまたはソロのアクトです。
@@ -145,7 +150,7 @@ type = "article"                                                           # art
 
 次の質問は、<span lang="fil">P-POP</span>アイドル業界はいつ始まったのかということです。 次の記事で答えます。
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -192,6 +197,6 @@ type = "article"                                                           # art
   attribrel="noopener external"
 >}}
 
--------
+---
 
 注意：Google翻訳

@@ -54,7 +54,8 @@ P-pop is an umbrella terminology for all music composed or performed by a Filipi
 [^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705)
 
 ## What is P-pop?
-P-pop, or _**P**inoy **Pop**ular music_, encompasses all music composed or performed by a Filipino. It is not the successor to OPM ("Original Pilipino Music") and neither is it a subgenre of it. P-pop is simply another term for the entirety of Pinoy music regardless if it is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
+
+P-pop, or ***P**inoy **Pop**ular music*, encompasses all music composed or performed by a Filipino. It is not the successor to OPM ("Original Pilipino Music") and neither is it a subgenre of it. P-pop is simply another term for the entirety of Pinoy music regardless if it is mainstream, indie, underground, from Filipinos abroad, or was performed by a foreigner.
 
 There is a big overlap between pop music as a *genre* and pop music as *popular music*. Just remember that *pop music* since the mid-1950s <q>has usually been identified as the music ***and*** the musical styles that are accessible to the broadest audience</q> [^liveaboutdotcom-popular-music] (emphasis mine).
 
@@ -81,9 +82,11 @@ An in-depth look about P-pop was discussed in <cite>[What is the difference betw
 {{% /quotebox %}}
 
 ## What is an idol or P-idol?
-Most who are fans of idols assume it originated from K-pop, or _**K**orean **Pop**ular music_, and like most assumptions it is incorrect. The *idol culture* started in early 1930s Japan, although it was only in mid 1960s that the word idol was first used as a label for this particular type of entertainers.
+
+Most who are fans of idols assume it originated from K-pop, or ***K**orean **Pop**ular music*, and like most assumptions it is incorrect. The *idol culture* started in early 1930s Japan, although it was only in mid 1960s that the word idol was first used as a label for this particular type of entertainers.
 
 ### History of idol culture
+
 The year was 1933, actor <span lang="ja-Latn">Korema Arima</span> (<span lang="ja">有馬 是馬</span>) was on a tour in <span lang="ja-Latn">Kamaishi City</span> (<span lang="ja">釜石市</span>) when he scouted 13-year old <span lang="ja-Latn">Matsuko Ashita</span> (<span lang="ja">あした まつこ</span> / <span lang="ja">明日 待子</span>) to be an actress in the <span lang="fr">Moulin Rouge</span> <span lang="ja-Latn">Shinjuku</span> (<span lang="ja">レッドミル新宿区</span>) theater in <span lang="ja-Latn">Tokyo</span> (<span lang="ja">東京都</span>). With her captivating smile, unmatched beauty and cuteness, and natural talent as an entertainer, she immediately rose to stardom. People visited the <span lang="fr">Moulin Rouge</span> <span lang="ja-Latn">Shinjuku</span> (<span lang="ja">レッドミル新宿区</span>) theater to watch and interact with her.
 
 She also caught the attention of major companies and received offers to be featured in advertisements, posters, signboards, and to star in films. By 1946, she made her debut as a singer with her song <cite lang="ja-Latn">Tanoshiki Ashita</cite> (<cite lang="ja">楽しき明日</cite>; Happy Tomorrow) under King Records (<span lang="ja">キングレコード株式会社</span>). In today's norm she was undoubtedly the very first idol and she laid down what this type of entertainer should be.
@@ -113,6 +116,7 @@ By 1996, the founder of SM Entertainment (<span lang="ko">SM 엔터테인먼트<
 [^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology)
 
 ### Defining idols
+
 According to <span lang="ja-Latn">Tatsuo Inamasu</span> (<span lang="ja">いなます たつお</span> / <span lang="ja">稲増 龍夫</span>), a Japanese sociologist and psychologist specializing in social psychology and media culture theory, idols are <q>people who share their growth process with their fans and play an active role in the charm of their very existence</q> (machine translation of <q lang="ja">成長過程をファンと共有し、存在そのものの魅力で活躍する人物</q>). [^wikipedia-idols]
 
 *Japan Info* described idols as entertainers who start young, are always cute, and are often trained to sing, dance, MC, voice act, entertain, model, and play musical instruments. They are not just seen as entertainers, they are also regarded as role models for young people. An idol is a reflection on society, a picture of the ideal Japanese young citizen, and as such their image must be flawless. [^japan-info-japanese-idols]
@@ -137,6 +141,7 @@ Music idols are entertainers—generally from 12 to 25 years old—whose visual 
 >}}
 
 ## Conclusion
+
 Is this an important distinction the industry and fans should remember? Yes. In the Japanese and Korean music industries, J-pop and J-idols, and K-pop and K-idols, are often used interchangeably by foreign fans yet within their respective nations they make a distinction between idols and non-idol acts.
 
 Similarly, P-pop and P-idols are often used interchangeably but should not be the case within the Philippines and the Filipino diaspora. All Filipinos love music more than any nation on Earth and, as of this post, majority of P-pop acts are either bands or solo acts who are not idols as defined.
@@ -145,7 +150,7 @@ Idol or not, a music composed or performed by a Filipino is P-pop but not all P-
 
 The next question is: when did the P-pop idol industry begin? It will be answered in the next article.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

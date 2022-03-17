@@ -61,7 +61,9 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 I agree. <q>The new decade starts right now.</q> Here are seven (7) of the best 2022 New Year Celebrations I found online.
 
 ## Best 2022 New Year Celebration
+
 ### Gangnam-gu, Seoul, South Korea
+
 The best 2022 New Year celebration is **Hyundai**'s New Year's Eve countdown in Yeongdong-daero, Gangnam-gu, Seoul, South Korea. It was a very beautiful drone show with timely message of hope for everyone.
 
 {{< video
@@ -84,6 +86,7 @@ The best 2022 New Year celebration is **Hyundai**'s New Year's Eve countdown in 
 >}}
 
 ### London, United Kingdom of Great Britain and Northern Ireland
+
 Next is the BBC's production all over London, the capital of the United Kingdom of Great Britain and Northern Ireland. It takes us back to the UK's greatest achievements and takes us to various locations in London as fireworks all over fires in celebration bidding 2021 a farewell and welcoming the new year 2022.
 {{< video
   id="VurcwV-3zNc"
@@ -106,6 +109,7 @@ Next is the BBC's production all over London, the capital of the United Kingdom 
 >}}
 
 ### Dubai, United Arab Emirates
+
 Easily dismissed as "the usual fireworks show from the world's tallest building, Burj Khalifa" but Dubai sure knows how to outdo themselves.
 {{< video
   id="VHHDw3EUJGA"
@@ -127,6 +131,7 @@ Easily dismissed as "the usual fireworks show from the world's tallest building,
 >}}
 
 ### Rio de Janeiro, Brazil
+
 The biggest and longest (15 minutes and 20 seconds) [pure] fireworks display, and the largest attendance to ring in 2022 goes to Copacabana beach in Rio de Janeiro, Brazil! They also earned the most heart-shaped firework display!
 {{< video
   id="sB2fT6V83WY"
@@ -148,6 +153,7 @@ The biggest and longest (15 minutes and 20 seconds) [pure] fireworks display, an
 >}}
 
 ### Canada
+
 What is a new year celebration without a music party? Canadian comedy icon, Rick Mercer, hosted Canada's New Year's Eve countdown in true Canadian way, featuring an hour long of musical performances from across the country.
 {{< video
   id="Vig8Kk7gW8Y"
@@ -172,6 +178,7 @@ What is a new year celebration without a music party? Canadian comedy icon, Rick
 >}}
 
 ### The Magic Kingdom, Florida, United States of America
+
 If you are curious how the magical world of Disney celebrates New Year, watch the upgraded *Fantasy In The Sky* fireworks show in celebration of the 2022 New Year!
 {{< video
   id="KNaqD3gS4cw"
@@ -193,6 +200,7 @@ If you are curious how the magical world of Disney celebrates New Year, watch th
 >}}
 
 ### Nazareth, Israel
+
 ***Sergio & Rhoda in Israel*** stayed in Nazareth during the New Year and recorded how the Christians, Arabs, and Jews of Nazareth celebrate the New Year.
 {{< video
   id="h12m2Gf0mEw"
@@ -213,7 +221,9 @@ If you are curious how the magical world of Disney celebrates New Year, watch th
 >}}
 
 ## Special mentions
+
 ### Reykjavik, Iceland - Best Drone Footage
+
 The best drone footage goes to ***Traveller In The Whole World*** for the slow and smooth drone control covering the New Year celebration in Reykjavik, Iceland!
 {{< video
   id="oHL3nAOX3qw"
@@ -235,6 +245,7 @@ The best drone footage goes to ***Traveller In The Whole World*** for the slow a
 >}}
 
 ### Auckland, New Zealand
+
 The annual fireworks show in Auckland, New Zealand was cancelled due to COVID-19 but that did not stop them from organising an amazing light show, and drivers were honking too.
 {{< video
   id="Dwl-o5EFOpI"
@@ -256,6 +267,7 @@ The annual fireworks show in Auckland, New Zealand was cancelled due to COVID-19
 >}}
 
 ### The Bund, Shanghai, China
+
 Like in Auckland, New Zealand, there were no fireworks in The Bund, Shanghai, China. However, it did not stop people from visiting *The Bund* in the hopes of seeing any alternative celebration and in the absence of it, they just celebrated amongst themselves.
 {{< video
   id="I8IcsHuZOIM"
@@ -277,9 +289,10 @@ Like in Auckland, New Zealand, there were no fireworks in The Bund, Shanghai, Ch
 >}}
 
 ## Happy New Year 2022
+
 Happy New Year 2022 from **YourOnly.One**!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

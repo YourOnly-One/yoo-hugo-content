@@ -56,7 +56,7 @@ type = "article"                                                           # art
 간단한 대답?
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
-  피이팝 또는 <span lang="en-PH">_**P**inoy **Pop**ular music_</span> 은 필리핀 사람이 작곡하거나 연주하는 모든 음악입니다.
+  피이팝 또는 <span lang="en-PH">***P**inoy **Pop**ular music*</span> 은 필리핀 사람이 작곡하거나 연주하는 모든 음악입니다.
 {{% /quotebox %}}
 
 <span lang="fil">OPM</span>은 어떻습니까?
@@ -70,7 +70,8 @@ type = "article"                                                           # art
 하지만 기다려! 눈에 보이는 것보다 더 많은 것이 있습니다.
 
 ## 피이팝
-피이팝 또는 <span lang="en-PH">_**P**inoy **Pop**ular music_</span> 은 필리핀 사람이 작곡하거나 연주하는 모든 음악을 포함합니다. <span lang="fil">OPM</span>의 후속 제품이 아닙니다. <span lang="fil">OPM</span>의 하위 장르가 아닙니다. 피이팝은 음악이 주류, 인디, 언더그라운드, 해외 필리핀인, 또는 외국인에 의해 연주되었는지 여부에 관계없이 단순히 <span lang="fil">Pinoy</span> 음악 전체에 대한 또 다른 용어입니다.
+
+피이팝 또는 <span lang="en-PH">***P**inoy **Pop**ular music*</span> 은 필리핀 사람이 작곡하거나 연주하는 모든 음악을 포함합니다. <span lang="fil">OPM</span>의 후속 제품이 아닙니다. <span lang="fil">OPM</span>의 하위 장르가 아닙니다. 피이팝은 음악이 주류, 인디, 언더그라운드, 해외 필리핀인, 또는 외국인에 의해 연주되었는지 여부에 관계없이 단순히 <span lang="fil">Pinoy</span> 음악 전체에 대한 또 다른 용어입니다.
 
 또한 팝 음악으로 알려진 장르와 혼동되어서도 안 됩니다. 장르로서의 대중 음악과 대중 음악으로서의 대중 음악은 유사하지만 상호 교환할 수 없습니다. 대중 음악으로서의 대중 음악은 <q>도시 중산층의 취향과 관심에 가장 부합하는 음악</q> [^liveaboutdotcom-popular-music] 또는 <q>일반적으로 음악을 통해 많은 청중에게 배포되는 폭넓은 호소력을 지닌 음악으로 정의됩니다. 산업</q> [^wikipedia-popular-music] 및 <q>일반적으로 쉽게 부를 수 있는 멜로디</q>를 가지고 있습니다 [^wikipedia-popular-music]. 장르로서의 팝 음악은 <q>1950년대 중반의 로큰롤 혁명에서 발전한 음악을 설명하는 데 주로 사용되었습니다</q> [^liveaboutdotcom-popular-music].
 
@@ -80,6 +81,7 @@ type = "article"                                                           # art
 [^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music)
 
 ### 1960년대와 1970년대
+
 1960년대에 시작된 필리핀 음악 또는 피이팝, 예를 들면 <span lang="fil">Jose Mari Chan</span>(1966), <span lang="fil">Nora Aunor</span>(1967), <span lang="fil">Juan de la Cruz Band</span>(1968), <span lang="en-PH">APO Hiking Society</span>(1969)와 같은 행위자와 아티스트 일부는 성장하는 필리핀 음악 산업의 초기 활동이었습니다.
 
 {{< video
@@ -99,6 +101,7 @@ type = "article"                                                           # art
 그 뒤를 같은 인기 있는 작곡가, 가수 및 밴드가 뒤따랐습니다 <span lang="fil">Ryan Cayabyab</span>(1970), 보이프렌드(1970), 핫도그(1972), 프레디 아길라(1973), 리코 J. 푸노(1975), 아신(1976), 삼파귀타(1977), <span lang="en-PH">VST & Company</span>(1977), 살롱가(1978), 샤론 쿠네타(1978), 하기비스(1979)와.
 
 ### 1980년대: 댄스 팝의 부상과 피노이 힙합의 시작
+
 1980년대에 전설적인 <span lang="en-PH">Gary V.</span>는 댄스 팝을 주류로 끌어들였습니다.
 
 {{< video
@@ -120,6 +123,7 @@ type = "article"                                                           # art
 [^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop)
 
 ### 1990년대: 음악 혁명과 1세대 모던 피이팝
+
 마침내 1990년대는 필리핀 음악 역사상 가장 큰 혁명을 일으켰습니다.
 
 피노이 힙합/랩은 <span lang="en-PH">Francis M.</span>(1990년 주류), <span lang="en-PH">Andrew E.</span>(1990년 주류), <span lang="en-PH">Michael V.</span>(1991년)를 중심으로 주류에 진입했습니다.
@@ -147,14 +151,17 @@ type = "article"                                                           # art
 [^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock)
 
 ## OPM
-피이팝이 필리핀인이 작곡하거나 연주하는 모든 음악이라면 <span lang="fil">OPM</span>은 필리핀인이 작곡한 _**오리지널** 필리핀 음악_ 입니다. 모든 <span lang="fil">OPM</span>은 피이팝이지만 모든 피이팝이 <span lang="fil">OPM</span>은 아니라고 말할 수 있습니다. 필리핀 사람의 음악 작곡이나 공연은 피이팝이지만 음악이 <span lang="fil">OPM</span>으로 간주되려면 필리핀 사람이 작곡해야 합니다.
+
+피이팝이 필리핀인이 작곡하거나 연주하는 모든 음악이라면 <span lang="fil">OPM</span>은 필리핀인이 작곡한 ***오리지널** 필리핀 음악* 입니다. 모든 <span lang="fil">OPM</span>은 피이팝이지만 모든 피이팝이 <span lang="fil">OPM</span>은 아니라고 말할 수 있습니다. 필리핀 사람의 음악 작곡이나 공연은 피이팝이지만 음악이 <span lang="fil">OPM</span>으로 간주되려면 필리핀 사람이 작곡해야 합니다.
 
 ### OPM은 시대인가?
+
 분류로서의 <span lang="fil">OPM</span>은 마닐라 사운드 시대가 끝난 후 등장한 것이 사실이다. 1970년대 후반, 보다 독창적인 필리핀 음악에 대한 강한 요구가 있었습니다. 필리핀 최초의 작곡 대회인 메트로 마닐라 대중 음악 페스티벌(<span lang="en-PH">Metro Manila Popular Music Festival</span>, 1977), 줄여서 메트로팝(<span lang="en-PH">Metropop</span>)은 보다 독창적인 필리핀 음악을 장려하고 생산하는 플랫폼이 되었습니다. 그제야 <span lang="fil">OPM</span>은 국가의 자부심이 되었습니다.
 
 <span lang="fil">OPM</span>이 시대라면 '<span lang="fil">OPM</span> 시대' 이전에 필리핀 사람들이 작곡한 오리지널 음악은? 이것은 *오리지날 필리핀 음악*이 아닙니까?
 
 ### OPM은 타갈로그어 노래 전용인가요?
+
 이것은 오늘날에도 여전히 흔한 오해입니다. "타갈로그어로 쓰여진 노래는 <span lang="fil">OPM</span>입니다." 그러나 <span lang="fil">OPM</span> 초기에는 이미 완전한 영어뿐만 아니라 <span lang="en-PH">Taglish</span>(타갈로그어 및 영어)로 된 노래가 있었습니다.
 
 몇 가지 주목할만한 영어 <span lang="fil">OPM</span> 노래를 언급하자면, 제5회 메트로 마닐라 대중 음악 축제(1982) <cite lang="en-PH">Give Me A Chance</cite>가 아마추어 부문 2위를, <cite lang="en-PH">Memories</cite>와 <cite lang="en-PH">Coming Back</cite>이 결선 진출자입니다. 전문 부문에서는 <cite lang="en-PH">Don't Deceive Yourself</cite>, <cite lang="en-PH">What Are You Doing On A Rainy Sunday Morning</cite>, <cite lang="en-PH">You Made Me Live Again</cite>, 결선 진출자였다. [^wikipedia-metropop]
@@ -182,17 +189,20 @@ type = "article"                                                           # art
 [^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival)
 
 ### OPM은 네이티브 악기 사용에 관한 것입니까?
+
 <span lang="fil">OPM</span>에 대한 또 다른 오해는 오늘날 거의 언급되지 않지만 사용되는 도구입니다. 이러한 생각에서 <span lang="fil">OPM</span>은 기본 도구를 사용한 경우에만 <span lang="fil">OPM</span>이 될 수 있습니다. 그러나 이것을 고려하십시오. 네이티브 악기를 사용하는 것이 음악 <span lang="fil">OPM</span>을 만드는 것이라면 그렇지 않은 악기도 그렇지 않습니까? 아니면 외국인이 작곡하고 연주한 음악이 필리핀 악기를 사용한다면 그들의 음악을 <span lang="fil">OPM</span>으로 만드는 걸까요?
 
 ### OPM은 정말 독창적입니까?
+
 필리핀 음악은 식민지 시대에 외국 음악의 영향을 많이 받았다는 것을 기억하는 것도 중요합니다. 스페인에서 333년, 미국에서 48년이 이어졌습니다. 필리핀 가요계의 대중음악 장르는 팝, 록, 힙합, 레게, 블루스, 알앤비, 재즈, 스카, 소울인데 모두 국내에서 들여온 것들이다. 엄밀히 말하면, 유일한 *원래* 필리핀 음악 장르는 식민지 이전 시대에 발전했거나 작곡된 민속 음악과 쿤디만 음악입니다.
 
 만일이 경우라면 …
 
 ### OPM을 독창적으로 만드는 것은 무엇입니까?
+
 <span lang="fil">OPM</span>이 *오리지널* 필리핀 음악을 만드는 이유는 무엇입니까? 필리핀 사람만이 필리핀 감성과 음악 스타일을 포착하고 표현할 수 있기 때문에 필리핀 사람이 작곡했습니다. 피노이 락, 피노이 힙합, 피노이 알앤비, 피노이 재즈, 피노이 레게 같은 장르가 존재하는 이유다. 필리핀 사람들은 이러한 장르를 가지고 실험하고 <span lang="fil">Pinoy</span> 터치를 추가하여 자신의 것으로 만들었습니다.
 
-<span lang="fil">OPM</span>은 사용된 악기나 장르, 음악이 언제 작곡되었는지에 관한 것이 아니라 작성된 언어에 관한 것이 아닙니다. <span lang="fil">OPM</span>은 _**오리지널** 필리핀 음악_ 입니다. 왜냐하면 필리핀 사람이 자신의 필리핀 마음을 표현하고 필리핀 스타일을 선보이기 위해 작곡했기 때문입니다.
+<span lang="fil">OPM</span>은 사용된 악기나 장르, 음악이 언제 작곡되었는지에 관한 것이 아니라 작성된 언어에 관한 것이 아닙니다. <span lang="fil">OPM</span>은 ***오리지널** 필리핀 음악* 입니다. 왜냐하면 필리핀 사람이 자신의 필리핀 마음을 표현하고 필리핀 스타일을 선보이기 위해 작곡했기 때문입니다.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
   모든 <span lang="fil">OPM</span>이 피이팝이지만 모든 피이팝이 <span lang="fil">OPM</span>인 것은 아닙니다.
@@ -201,11 +211,12 @@ type = "article"                                                           # art
 [^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population)
 
 ## 맺음말
+
 피이팝과 <span lang="fil">OPM</span>을 재정의하려는 시도입니까? 그것과는 거리가 멀다. 이것은 이 두 가지 잘못 이해된 레이블에 대해 밝히려는 시도입니다. 이것은 많은 필리핀 사람들이 피이팝 전체로 혼동하고 있으며, OPM은 단 한 개도 없을 것으로 예상되는 *필리핀 아이돌 산업*이 성장하고 있기 때문에 중요합니다.
 
 <cite>[모든 피이팝은 아이돌, 아니다]({{< ref path="ppop-vs-idols.md" >}} "모든 피이팝은 아이돌, 아니다")</cite>에서 피이팝과 *아이돌*의 혼동이 풀립니다.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -234,11 +245,30 @@ type = "article"                                                           # art
   cc0countrycode="PH"
   cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
-<div class="obj_center"><div class="header_attribution"><footer class="attribution_copyright"><p>
+{{< image
+  type="imagecoverattrib"
 
-<small>・ [Adrian Korte](https://unsplash.com/@adkorte)의 표지 이미지 배경은 [Unsplash License](https://unsplash.com/license)에 따라 라이선스가 부여됩니다.</small>
-</p></footer></div></div>
+  isrepresentativeofpage=false
 
--------
+  link="https://unsplash.com/photos/5gn2soeAc40"
+  linkrel="noopener external"
+  thumbnailurl=""
+
+  title="round black vinyl disc on vinyl player"
+  caption=""
+  alt=""
+  embeddedtextcaption=""
+  inlanguage=""
+
+  licensecode="unsplash"
+  licenseurl="https://unsplash.com/license"
+  licensename="Unsplash License"
+
+  attribto="Adrian Korte"
+  attriburl="https://unsplash.com/@adkorte"
+  attribrel="noopener external"
+>}}
+
+---
 
 고시 : Google 번역

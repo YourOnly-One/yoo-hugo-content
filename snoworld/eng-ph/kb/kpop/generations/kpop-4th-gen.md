@@ -54,17 +54,21 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 > For an explanation on how we defined each generation, see: [**YourOnly.One**'s K-pop Generations]({{< ref "/kpop-generations.md" >}} "Korean Popular Music Generations")
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
+
 * This list is in no way complete.
 * Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
 {{% /sembox %}}
 
 ## 2022
+
 ### Girls On Top
+
 #### GOT the beat
+
 * Hangul: 갓더비트
 * a subgroup of supergroup ***[Girls On Top]({{< ref "/kpop-4th-gen.md#girls-on-top" >}} "Girls On Top")***
 * Debut: 2022-01-01
-  * Song: Step Back
+  - Song: Step Back
 
 {{< video
   id="uBY1AoiF5Vo"
@@ -81,10 +85,11 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 * Wikipedia: [Got the Beat](https://en.wikipedia.org/wiki/Got_the_Beat "Got the Beat")
 
 ### Kep1er
+
 * Hangul: 케플러
 * Fandom name: Kep1ian
 * Debut: 2022-01-03
-  * Song: Wa Da Da
+  - Song: Wa Da Da
 
 {{< video
   id="Zzl9eAcI1lk"
@@ -101,11 +106,12 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 * Wikipedia: [Kep1er](https://en.wikipedia.org/wiki/Kep1er "Kep1er")
 
 ### TEMPEST
+
 * Hangul: 템페스트
 * Also known as: TPST
 * Fandom name: TBA (maybe STORM or W1ND)
 * Debut: 2022-01-05 (1st dance video)
-  * Song: Kick It by ***[NCT 127]({{< ref "/kpop-3rd-gen.md#nct-127" >}} "NCT 127")***
+  - Song: Kick It by ***[NCT 127]({{< ref "/kpop-3rd-gen.md#nct-127" >}} "NCT 127")***
 
 {{< video
   id="yhCb3nEqxrQ"
@@ -120,13 +126,13 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 >}}
 
 * Debut: 2022-03-02
-  * Song: TBA
+  - Song: TBA
 * Sample covers:
-  * *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN]({{< ref "/kpop-3rd-gen.md#seventeen" >}} "SEVENTEEN")***
+  - *HIT* [^tempest-cover-hit-seventeen] by ***[SEVENTEEN]({{< ref "/kpop-3rd-gen.md#seventeen" >}} "SEVENTEEN")***
 * Did you know?
-  * ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
+  - ***TEMPEST*** (***템페스트***) from **Yuehua Entertainment** shares the same name as the *Tempest* (*템페스트*) from **Pledis Entertainment**.
     * *Tempest* from **Pledis Entertainment** disbanded before their debut due to the popularity of their other half ***[NU'EST]({{< ref "/kpop-3rd-gen.md#nu-est" >}} "NU'EST")***. [^soompi-8-things-you-need-to-know-about-nuest] [^kprofiles-tempest-profile-and-facts]
-  * **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08. [^naver-news-tempest-tpst-trademarked]
+  - **Yuehua Entertainment** trademarked the names *TEMPEST*, *TPST*, and *템페스트* on 2021-06-08. [^naver-news-tempest-tpst-trademarked]
 * YouTube: [TEMPEST](https://www.youtube.com/channel/UCCViKQ1A1tXhIVKAVEazcaA "TEMPEST")
 
 [^tempest-cover-hit-seventeen]: [TEMPEST] YouTube: [Covered by TPST｜SEVENTEEN - HIT](https://www.youtube.com/watch?v=G7VsjectIzo "Covered by TPST｜SEVENTEEN - HIT")
@@ -135,11 +141,12 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 [^naver-news-tempest-tpst-trademarked]: NAVER News: [위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]](https://n.news.naver.com/entertain/now/article/311/0001308929 "위에화, '템페스트' 상표권 출원…형섭X의웅 속한 보이그룹 론칭? [엑's 이슈]")
 
 ### VIVIZ
+
 * Hangul: 비비지
 * Also known as: VIVId dayZ
 * Fandom name: NAV
 * Debut: 2022-02-09
-  * Song: BOP BOP!
+  - Song: BOP BOP!
 
 {{< video
   id="KLF85_qHujQ"
@@ -154,14 +161,15 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 >}}
 
 * Did you know?
-  * The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/kpop-3rd-gen.md#gfriend" >}} "GFRIEND")***.
+  - The members of *VIVIZ*—Eunha, SinB, and Umji—are former members of ***[GFRIEND]({{< ref "/kpop-3rd-gen.md#gfriend" >}} "GFRIEND")***.
 * Instagram: [viviz_official](https://www.instagram.com/viviz_official/ "viviz_official")
 * Twitter: [@VIVIZ](https://twitter.com/viviz_official "@VIVIZ")
 * YouTube: [VIVIZ](https://www.youtube.com/c/VIVIZofficial/ "VIVIZ")
 
 ### NMIXX
+
 * Debut: 2022-02-22
-  * Song: O.O
+  - Song: O.O
 
 {{< video
   id="3GWscde8rM8"
@@ -179,7 +187,7 @@ In February, ***VIVIZ*** and ***NMIXX*** strenghtened the girl power theme with 
 * Twitter: [@NMIXX_official](https://twitter.com/NMIXX_official "@NMIXX_official")
 * YouTube: [NMIXX](https://www.youtube.com/c/NMIXXOfficial "NMIXX")
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

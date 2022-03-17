@@ -52,6 +52,7 @@ type = "article"                                                           # art
 <!--more-->
 
 ## 초전자 바이오맨
+
 ### 일렉트로 바이오맨
 
 {{< video
@@ -87,6 +88,7 @@ type = "article"                                                           # art
 >}}
 
 ## 광전대 마스크맨
+
 ### 마스크맨 상대로
 
 {{< video
@@ -122,6 +124,7 @@ type = "article"                                                           # art
 >}}
 
 ## 우주 형사 샤이더
+
 ### 샤이더 경찰
 
 {{< video
@@ -156,7 +159,7 @@ type = "article"                                                           # art
   attriburl="https://www.youtube.com/channel/UCbGMoqc2XKsxagX_jiQHP7Q"
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -172,6 +175,6 @@ type = "article"                                                           # art
   attriburl="https://www.youtube.com/channel/UCbGMoqc2XKsxagX_jiQHP7Q"
 >}}
 
--------
+---
 
 고시 : Google 번역
