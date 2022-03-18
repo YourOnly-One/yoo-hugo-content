@@ -71,16 +71,7 @@ There are two venues for this year's PPOPCON:
 
 The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo Avenue, Araneta Center, Cubao, Quezon City, Philippines. It is connected to Gateway Mall which will make it easy for attendees coming from the Blue Line (f. LRT-2) Araneta Cubao Station. While those coming from the Yellow Line (f. MRT-3) Araneta Cubao Station can use the bridgeway via Farmers Plaza then to Gateway Mall to reach New Frontier Theater.
 
-<!-- markdownlint-disable MD000 -->
-<div class="obj_center">
-  <figure class="figure_box txt_center" style="width: auto;">
-    <div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=121.0520973801613%2C14.621419059942497%2C121.05588465929033%2C14.623326630475416&amp;layer=mapnik&amp;marker=14.62237415171801%2C121.05399102498018"></iframe></div>
-    <figcaption class="attribution_caption">
-      <p><a href="https://www.openstreetmap.org/?mlat=14.62237&amp;mlon=121.05399#map=19/14.62237/121.05399">View Larger Map</a></p>
-    </figcaption>
-  </figure>
-</div>
-<!-- markdownlint-enable MD000 -->
+{{< map src="https://www.openstreetmap.org/export/embed.html?bbox=121.0520973801613%2C14.621419059942497%2C121.05588465929033%2C14.623326630475416&layer=mapnik&marker=14.62237415171801%2C121.05399102498018" link="https://www.openstreetmap.org/?mlat=14.62237&amp;mlon=121.05399#map=19/14.62237/121.05399" >}}
 
 - When: April 9, 2022 from 10:00 PHT to 20:00 PHT; and April 10, 2022 from 10:00 PHT to 21:00 PHT
 - What:
@@ -121,16 +112,7 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
 
 The second venue is Araneta Coliseum for the concert on the second day. It is located at Araneta City, Cubao, Quezon City, Philippines. Attendees coming from the Blue Line (f. LRT-2) and Yellow Line (f. MRT-3) Araneta Cubao Stations can use the bridgeway via Gateway Mall and Farmers Plaza respectively.
 
-<!-- markdownlint-disable MD000 -->
-<div class="obj_center">
-  <figure class="figure_box txt_center" style="width: auto;">
-    <div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=121.05146169662477%2C14.619768414110018%2C121.0552489757538%2C14.621675998979862&amp;layer=mapnik&amp;marker=14.620723614626852%2C121.05335535252209"></iframe></div>
-    <figcaption class="attribution_caption">
-      <p><a href="https://www.openstreetmap.org/?mlat=14.62072&amp;mlon=121.05336#map=19/14.62072/121.05336">View Larger Map</a></p>
-    </figcaption>
-  </figure>
-</div>
-<!-- markdownlint-enable MD000 -->
+{{< map src="https://www.openstreetmap.org/export/embed.html?bbox=121.05146169662477%2C14.619768414110018%2C121.0552489757538%2C14.621675998979862&layer=mapnik&marker=14.620723614626852%2C121.05335535252209" link="https://www.openstreetmap.org/?mlat=14.62072&amp;mlon=121.05336#map=19/14.62072/121.05336" >}}
 
 - When: April 10, 2022 from 15:00 PHT to 19:00 PHT
 - What: Concerts

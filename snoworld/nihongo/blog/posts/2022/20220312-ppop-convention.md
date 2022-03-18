@@ -71,16 +71,7 @@ type = "article"                                                           # art
 
 最初の会場は、フィリピン、ケソンシティ、キューバオ、アラネータセンターのエミリオアギナルドアベニュー将軍にあるニューフロンティアシアターです。 ブルーライン（以前は<span lang="en-PH">LRT</span>-2）アラネタキューバオ駅からの参加者が簡単に利用できるゲートウェイモールに接続されています。 イエローライン（以前は<span lang="en-PH">MRT</span>-3）アラネタキューバオ駅からお越しの場合は、ファーマーズプラザ経由の橋を渡ってゲートウェイモールに行き、ニューフロンティアシアターに行くことができます。
 
-<!-- markdownlint-disable MD000 -->
-<div class="obj_center">
-  <figure class="figure_box txt_center" style="width: auto;">
-    <div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=121.0520973801613%2C14.621419059942497%2C121.05588465929033%2C14.623326630475416&amp;layer=mapnik&amp;marker=14.62237415171801%2C121.05399102498018"></iframe></div>
-    <figcaption class="attribution_caption">
-      <p><a href="https://www.openstreetmap.org/?mlat=14.62237&amp;mlon=121.05399#map=19/14.62237/121.05399">大きな地図を見る</a></p>
-    </figcaption>
-  </figure>
-</div>
-<!-- markdownlint-enable MD000 -->
+{{< map src="https://www.openstreetmap.org/export/embed.html?bbox=121.0520973801613%2C14.621419059942497%2C121.05588465929033%2C14.623326630475416&layer=mapnik&marker=14.62237415171801%2C121.05399102498018" link="https://www.openstreetmap.org/?mlat=14.62237&amp;mlon=121.05399#map=19/14.62237/121.05399" >}}
 
 - いつ：2022年4月9日11:00PHTから21:00JST; および2022年4月10日11:00PHTから22:00JST
 - 何：
@@ -121,16 +112,7 @@ type = "article"                                                           # art
 
 2日目のコンサートはアラネータコロシアム。 フィリピン、ケソンシティ、キューバオのアラネータシティにあります。 ブルーライン（以前は<span lang="en-PH">LRT</span>-2）とイエローライン（以前は<span lang="en-PH">MRT</span>-3）のアラネタキューバオ駅からの参加者は、それぞれゲートウェイモールとファーマーズプラザを経由して橋を利用できます。
 
-<!-- markdownlint-disable MD000 -->
-<div class="obj_center">
-  <figure class="figure_box txt_center" style="width: auto;">
-    <div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=121.05146169662477%2C14.619768414110018%2C121.0552489757538%2C14.621675998979862&amp;layer=mapnik&amp;marker=14.620723614626852%2C121.05335535252209"></iframe></div>
-    <figcaption class="attribution_caption">
-      <p><a href="https://www.openstreetmap.org/?mlat=14.62072&amp;mlon=121.05336#map=19/14.62072/121.05336">大きな地図を見る</a></p>
-    </figcaption>
-  </figure>
-</div>
-<!-- markdownlint-enable MD000 -->
+{{< map src="https://www.openstreetmap.org/export/embed.html?bbox=121.05146169662477%2C14.619768414110018%2C121.0552489757538%2C14.621675998979862&layer=mapnik&marker=14.620723614626852%2C121.05335535252209" link="https://www.openstreetmap.org/?mlat=14.62072&amp;mlon=121.05336#map=19/14.62072/121.05336" >}}
 
 - いつ：2022年4月10日16:00JSTから20:00JST
 - 内容：コンサート

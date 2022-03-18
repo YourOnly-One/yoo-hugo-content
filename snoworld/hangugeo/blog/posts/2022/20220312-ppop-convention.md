@@ -71,16 +71,7 @@ type = "article"                                                           # art
 
 첫 번째 장소는 필리핀 케손시티 쿠바오 아라네타 센터 에밀리오 아귀날도 애비뉴에 위치한 뉴 프론티어 극장입니다. <span lang="en-PH">Blue Line</span>(전에 <span lang="en-PH">LRT</span>-2) <span lang="en-PH">Araneta Cubao</span> 역에서 오시는 분들을 위해 <span lang="en-PH">Gateway Mall</span>과 연결되어 있습니다. 옐로우 라인(전에 <span lang="en-PH">MRT</span>-3) <span lang="en-PH">Araneta Cubao</span> 역에서 오는 사람들은 파머스 플라자(<span lang="en-PH">Farmers Plaza</span>)를 거쳐 게이트웨이 몰(<span lang="en-PH">Gateway Mall</span>)을 거쳐 뉴 프론티어 극장(<span lang="en-PH">New Frontier Theatre</span>)에 도달하기 위해 브리지웨이를 이용할 수 있습니다.
 
-<!-- markdownlint-disable MD000 -->
-<div class="obj_center">
-  <figure class="figure_box txt_center" style="width: auto;">
-    <div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=121.0520973801613%2C14.621419059942497%2C121.05588465929033%2C14.623326630475416&amp;layer=mapnik&amp;marker=14.62237415171801%2C121.05399102498018"></iframe></div>
-    <figcaption class="attribution_caption">
-      <p><a href="https://www.openstreetmap.org/?mlat=14.62237&amp;mlon=121.05399#map=19/14.62237/121.05399">큰 지도 보기</a></p>
-    </figcaption>
-  </figure>
-</div>
-<!-- markdownlint-enable MD000 -->
+{{< map src="https://www.openstreetmap.org/export/embed.html?bbox=121.0520973801613%2C14.621419059942497%2C121.05588465929033%2C14.623326630475416&layer=mapnik&marker=14.62237415171801%2C121.05399102498018" link="https://www.openstreetmap.org/?mlat=14.62237&amp;mlon=121.05399#map=19/14.62237/121.05399" >}}
 
 - 일시: 2022년 4월 9일 11:00 PHT - 21:00 KST; 및 2022년 4월 10일 11:00 PHT - 22:00 KST
 - 뭐:
@@ -121,16 +112,7 @@ type = "article"                                                           # art
 
 두 번째 장소는 둘째 날 콘서트를 위한 아라네타 콜로세움(<span lang="en-PH">Araneta Coliseum</span>)입니다. 필리핀 케손시티 쿠바오 아라네타시에 위치하고 있습니다. <span lang="en-PH">Blue Line</span>(전에 <span lang="en-PH">LRT</span>-2) 및 <span lang="en-PH">Yellow Line</span>(전에 <span lang="en-PH">MRT</span>-3) <span lang="en-PH">Araneta Cubao</span> 역에서 오는 참석자는 각각 <span lang="en-PH">Gateway Mall</span> 및 <span lang="en-PH">Farmers Plaza</span>를 통해 브리지웨이를 사용할 수 있습니다.
 
-<!-- markdownlint-disable MD000 -->
-<div class="obj_center">
-  <figure class="figure_box txt_center" style="width: auto;">
-    <div class="responsive_embedframe"><iframe src="https://www.openstreetmap.org/export/embed.html?bbox=121.05146169662477%2C14.619768414110018%2C121.0552489757538%2C14.621675998979862&amp;layer=mapnik&amp;marker=14.620723614626852%2C121.05335535252209"></iframe></div>
-    <figcaption class="attribution_caption">
-      <p><a href="https://www.openstreetmap.org/?mlat=14.62072&amp;mlon=121.05336#map=19/14.62072/121.05336">큰 지도 보기</a></p>
-    </figcaption>
-  </figure>
-</div>
-<!-- markdownlint-enable MD000 -->
+{{< map src="https://www.openstreetmap.org/export/embed.html?bbox=121.05146169662477%2C14.619768414110018%2C121.0552489757538%2C14.621675998979862&layer=mapnik&marker=14.620723614626852%2C121.05335535252209" link="https://www.openstreetmap.org/?mlat=14.62072&amp;mlon=121.05336#map=19/14.62072/121.05336" >}}
 
 - 일시: 2022년 4월 10일 16:00 KST - 20:00 KST
 - 무엇: 콘서트
