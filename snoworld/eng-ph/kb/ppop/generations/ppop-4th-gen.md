@@ -25,9 +25,9 @@ comments = true
 #math = true
 toc = true
 
-#audio = [""]                                                        # used by og:audio, etc.
-images = ["https://img.youronly.one/p/p-pop_4th_Generation-01.webp"]                                                       # used by og:images, etc.; first image is cover image
-videos = [""]                                                       # used by og:video, etc.
+#audio = [""]                                                          # used for og:audio, etc.
+#images = ["https://img.youronly.one/p/p-pop_4th_Generation-01.webp"]                 # used for og:images, etc.; first image is cover image
+#videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = "sitepage"                                                           # article, sitepage, review
 
