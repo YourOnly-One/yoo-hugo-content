@@ -1,8 +1,8 @@
 +++
-title = ""
+title = "P-pop Generations (DRAFT)"
 description = ""                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "{{ .Date }}"                                        # manually adjust to local timezone
+date = "2022-03-15T17:22:21"                                        # manually adjust to local timezone
 #lastmod = "2022-04-07T17:53:01"                                     # manually adjust to local timezone
 
 #aliases = [""]
@@ -12,11 +12,11 @@ relCanonical = ""                                                   # the actual
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
 #disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
-channels = [""]
-#categories = [""]                                                   # taxonomy
+channels = ["snoworld"]
+categories = ["literature"]                                                   # taxonomy
 #keywords = [""]                                                     # meta keywords
-#series = [""]                                                       # subset of series taxonomy
-#tags = [""]                                                         # taxonomy
+series = ["ppopandidols"]                                                       # subset of series taxonomy
+tags = ["ppop"]                                                         # taxonomy
 
 comments = true
 #weight = ""                                                        # post weight, if we want granular control of post order
@@ -25,9 +25,9 @@ comments = true
 #math = true
 toc = true
 
-#audio = [""]                                                        # used by og:audio, etc.
-images = [""]                                                       # used by og:images, etc.; first image is cover image
-#videos = [""]                                                       # used by og:video, etc.
+#audio = [""]                                                          # used for og:audio, etc.
+#images = ["https://img.youronly.one/{FILENAME}.webp"]                 # used for og:images, etc.; first image is cover image
+#videos = ["https://www.youtube.com/watch?v="]                         # used for og:video, etc.
 
 type = ""                                                           # article, sitepage, review
 
@@ -140,129 +140,12 @@ SUMMARY
 > ***TAGLINE***
 
 ## Header
+
 Test here.[^a]
 
 [^a]: Florabase: [Allamanda L.](https://florabase.dpaw.wa.gov.au/browse/profile/21926); [Fair Use](https://florabase.dpaw.wa.gov.au/help/copyright)
 
-## Image code
-{{< image
-  height=""
-  width=""
-  class=""
-  style=""
-  type=""
-
-  isrepresentativeofpage=false
-
-  src=""
-  link=""
-  linkrel=""
-  thumbnailurl=""
-
-  title=""
-  caption=""
-  alt=""
-  embeddedtextcaption=""
-  inlanguage=""
-
-  datecreated=""
-  datepublished=""
-
-  objheight=""
-  objwidth=""
-
-  infoalign=""
-
-  licensecode=""
-  licenseurl=""
-  licensename=""
-
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
-
-  attribto=""
-  attriburl=""
-  attribrel=""
-
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
-
-  contentloc=""
-  contentlocurl=""
-  contentlocrel=""
-  contentreferencetime=""
->}}
-
-## Other markdown codes
-[SOME_LINK](https://example.com)
-
-[POST_TITLE]({{< ref "/FILENAME.md" >}} "TITLE_ATTRIBUTE")
-
-[POST_TITLE]({{< relref path="document.md" lang="ja" >}} "TITLE_ATTRIBUTE")
-
-## Official trailer / 公式予告編 / 공식 예고편
-{{< video
-  height=""
-  width=""
-  class=""
-  style=""
-  platform=""
-
-  id=""
-  linkrel=""
-  isplaylist=false
-  isloop=false
-  starttime=""
-  endtime=""
-
-  title=""
-  caption=""
-  inlanguage=""
-
-  datecreated=""
-  datepublished=""
-
-  director=""
-  musicby=""
-
-  objframesize=""
-  objquality=""
-  objheight=""
-  objwidth=""
-
-  infoalign=""
-
-  licensecode=""
-  licenseurl=""
-  licensename=""
-
-  acquirelicensepage=""
-  copyrightnotice=""
-  credittext=""
-
-  attribto=""
-  attriburl=""
-  attribrel=""
-
-  cc0country=""
-  cc0countrycode=""
-  cc0countryurl=""
-
-  contentloc=""
-  contentlocurl=""
-  contentlocrel=""
-  contentreferencetime=""
->}}
-
-## OST
-{{< music src="https://open.spotify.com/embed/playlist/CHANGE_THIS" >}}
-
-## Attribution, Usage, &amp; Leave your links
-Simply follow the attribution shown underneath each photo, or whichever is acceptable within the bounds of CC-BY-SA 4.0 International license. In addition to that, I would also appreciate if you leave your links below or in Instagram, who knows, I might mention your site (and usage) one day.
-
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -296,7 +179,7 @@ Simply follow the attribution shown underneath each photo, or whichever is accep
   cc0countryurl=""
 >}}
 
--------
+---
 
 注意：Google翻訳
 고시 : Google 번역
