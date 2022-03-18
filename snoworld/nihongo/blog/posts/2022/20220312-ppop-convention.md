@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  最新の更新：2022-03-13 23:35:44 JST
+  最新の更新：2022-03-18 11:04:22 JST
 {{% /sembox %}}
 
 <span lang="en-PH">P-POP</span>、または[<span lang="en-PH">***P**inoy **Pop**ular music*</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")が大きな復活を遂げていることに疑いの余地はありません。 国内外のフィリピン人は、ファンダム、商品、データファンダム、そして今では慣習など、P-POPの数十年にわたる歴史ではかつて見られなかった方法で<span lang="en-PH">P-POP</span>の行為の背後に集結しています。
@@ -185,7 +185,7 @@ type = "article"                                                           # art
 
 2022 <span lang="en-PH">PPOPCON</span>のチケットは、チケットネットアウトレット（<span lang="en-PH">SM</span>モール、フィッシャーモール、イーストウッドモール、ロビンソンガレリアデパート）、アラネタコロシアムイエローゲートのチケットネットボックスオフィス、および<span lang="en-PH">UGF</span>のゲートウェイモールアクティビティエリアで購入できます。
 
-チケットは、<span lang="en-PH">TicketnetOnline</span>からオンラインで購入することもできます。 [2022 PPOPCON Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON).
+チケットは、<span lang="en-PH">Ticketnet Online</span>からオンラインで購入することもできます：[2022PPOPCONコンサートチケット販売お](https://ticketnet.com.ph/events/detail/2022-PPOPCON)よび[2022PPOPCONコンサートストリーミングチケット販売](https://streaming.ticketnet.com.ph/product/2022-ppop-con-smart-araneta-coliseum/)。 州および国際チケットの予約については、[2022 PPOPCON（2022年4月10日）州および国際チケットの予約](https://docs.google.com/forms/d/e/1FAIpQLSd_su5c1LQK0WG4s-jb8QyejjMGuQA5vLE0-SAvF5P_xv_RBQ/viewform)。
 
 {{< image
   src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"

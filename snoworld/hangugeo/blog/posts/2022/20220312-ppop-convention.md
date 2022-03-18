@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  최신 업데이트: 2022-03-13 23:35:44 KST
+  최신 업데이트: 2022-03-18 11:04:22 KST
 {{% /sembox %}}
 
 더 이상 피이팝 또는 [<span lang="en-PH">***P**inoy **Pop**ular music*</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")이 크게 부활하고 있다는 데 의심의 여지가 없습니다. 국내외에서 필리핀인들은 피이팝의 수십 년 역사에서 볼 수 없었던 방식(팬덤, 상품, 데이터 팬덤, 현재의 관습)으로 피이팝 행위를 지지하고 있습니다.
@@ -130,7 +130,7 @@ type = "article"                                                           # art
     </figcaption>
   </figure>
 </div>
-<!-- markdownlint-eable MD000 -->
+<!-- markdownlint-enable MD000 -->
 
 - 일시: 2022년 4월 10일 16:00 KST - 20:00 KST
 - 무엇: 콘서트
@@ -185,7 +185,7 @@ type = "article"                                                           # art
 
 2022 <span lang="en-PH">PPOPCON</span> 티켓은 티켓넷 매장(SM몰, 피셔몰, 이스트우드몰, 로빈슨갤러리아백화점), 아라네타 콜로세움 옐로게이트 티켓넷 매표소, 게이트웨이몰 활동지역 UGF에서 예매할 수 있다.
 
-티켓은 또한 <span lang="en-PH">Ticketnet Online</span>을 통해 온라인으로 구매할 수 있습니다: [2022 PPOPCON Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON).
+티켓은 또한 <span lang="en-PH">Ticketnet Online</span>: [2022 PPOPCON 콘서트 티켓 판매](https://ticketnet.com.ph/events/detail/2022-PPOPCON) 및 [2022 PPOPCON 콘서트 스트리밍 티켓 판매를](https://streaming.ticketnet.com.ph/product/2022-ppop-con-smart-araneta-coliseum/) 통해 온라인으로 구매할 수 있습니다. 지방 및 국제 티켓 예약은 [2022 PPOP 컨벤션(2022년 4월 10일) 지방 및 국제 티켓 예약을](https://docs.google.com/forms/d/e/1FAIpQLSd_su5c1LQK0WG4s-jb8QyejjMGuQA5vLE0-SAvF5P_xv_RBQ/viewform) 참조하십시오.
 
 {{< image
   src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"

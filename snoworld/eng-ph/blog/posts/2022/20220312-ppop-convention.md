@@ -50,7 +50,7 @@ Do you love attending conventions? Do you collect merchandise of products you li
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  Latest update: 2022-03-13 22:35:44 PHT
+  Latest update: 2022-03-18 10:04:22 PHT
 {{% /sembox %}}
 
 There is no longer any doubt that P-pop, or [***P**inoy **Pop**ular music*]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music"), is having a major resurgence. Filipinos both locally and abroad are rallying behind P-pop acts in a way never before seen in P-pop's decades-long history—fandoms, merchandise, data fandom, and now conventions.
@@ -80,7 +80,7 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
     </figcaption>
   </figure>
 </div>
-<!-- markdownlint-eable MD000 -->
+<!-- markdownlint-enable MD000 -->
 
 - When: April 9, 2022 from 10:00 PHT to 20:00 PHT; and April 10, 2022 from 10:00 PHT to 21:00 PHT
 - What:
@@ -130,7 +130,7 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
     </figcaption>
   </figure>
 </div>
-<!-- markdownlint-eable MD000 -->
+<!-- markdownlint-enable MD000 -->
 
 - When: April 10, 2022 from 15:00 PHT to 19:00 PHT
 - What: Concerts
@@ -185,7 +185,7 @@ The organizers have yet to announce where to buy tickets for the convention (as 
 
 Tickets for the 2022 PPOPCON is available at Ticketnet outlets (SM Malls, Fisher Mall, Eastwood Mall, and Robinson's Galleria Department Store), Ticketnet Box Office at the Araneta Coliseum yellow gate, and at UGF, Gateway Mall activity area.
 
-Tickets can also be bought online via Ticketnet Online: [2022 PPOPCON Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON).
+Tickets can also be bought online via Ticketnet Online: [2022 PPOPCON Concert Ticket Sales](https://ticketnet.com.ph/events/detail/2022-PPOPCON) and [2022 PPOPCON Concert Streaming Ticket Sales](https://streaming.ticketnet.com.ph/product/2022-ppop-con-smart-araneta-coliseum/). For provincial and International ticket reservation see: [2022 PPOPCON (APRIL 10,2022) Provincial and International Ticket Reservation](https://docs.google.com/forms/d/e/1FAIpQLSd_su5c1LQK0WG4s-jb8QyejjMGuQA5vLE0-SAvF5P_xv_RBQ/viewform).
 
 {{< image
   src="https://img.youronly.one/p/ppopcon-2022-ticket-benefits.jpg"
