@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  최신 업데이트: 2022-03-18 11:04:22 KST
+  최신 업데이트: 2022-03-19 13:47:25 KST
 {{% /sembox %}}
 
 더 이상 피이팝 또는 [<span lang="en-PH">***P**inoy **Pop**ular music*</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")이 크게 부활하고 있다는 데 의심의 여지가 없습니다. 국내외에서 필리핀인들은 피이팝의 수십 년 역사에서 볼 수 없었던 방식(팬덤, 상품, 데이터 팬덤, 현재의 관습)으로 피이팝 행위를 지지하고 있습니다.
@@ -158,7 +158,7 @@ type = "article"                                                           # art
 - ₱650.00 (₩15,349.73)
   + 2일권
 
-주최측은 아직 대회 티켓 구매처를 발표하지 않았습니다(2022-03-12 기준).
+컨벤션 티켓은 현재 티켓넷 온라인: [2022 PPOPCON 컨벤션 티켓 판매](https://ticketnet.com.ph/Events/detail/2022-PPOPCON "2022 PPOPCON 컨벤션 티켓 판매")를 통해 구매 가능합니다.
 
 *₱1.00 = ₩23.61은 2022-03-011 23:58 <span lang="en-PH">UTC</span> 환율을 기준으로 하며 한국어 컨텍스트에서만 사용됩니다.*
 {.notecounter}

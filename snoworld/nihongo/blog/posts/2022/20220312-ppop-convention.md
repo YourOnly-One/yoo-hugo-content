@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  最新の更新：2022-03-18 11:04:22 JST
+  最新の更新：2022-03-19 13:47:25 JST
 {{% /sembox %}}
 
 <span lang="en-PH">P-POP</span>、または[<span lang="en-PH">***P**inoy **Pop**ular music*</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")が大きな復活を遂げていることに疑いの余地はありません。 国内外のフィリピン人は、ファンダム、商品、データファンダム、そして今では慣習など、P-POPの数十年にわたる歴史ではかつて見られなかった方法で<span lang="en-PH">P-POP</span>の行為の背後に集結しています。
@@ -158,7 +158,7 @@ type = "article"                                                           # art
 - ₱650.00（¥1,455.71）
   + 2日パス
 
-主催者はまだ大会のチケットを購入する場所を発表していません（2022-03-12現在）。
+コンベンションのチケットは、Ticketnet Online：[2022PPOPCONコンベンションチケット販売](https://ticketnet.com.ph/Events/detail/2022-PPOPCON "2022PPOPCONコンベンションチケット販売")で入手できます。
 
 *₱1.00=¥2.24（2022-03-12 04:36 <span lang="en-PH">UTC</span>為替レートに基づく）、日本のコンテキストでのみ使用されます。*
 {.notecounter}
