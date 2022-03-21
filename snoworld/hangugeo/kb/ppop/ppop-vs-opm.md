@@ -77,8 +77,8 @@ type = "article"                                                           # art
 
 여전히 혼란스럽습니까? 그것은. 장르로서의 대중음악과 대중음악으로서의 대중음악 사이에는 큰 겹침이 있다. 1950년대 중반 이후의 팝 음악은 <q>일반적으로 가장 광범위한 청중이 접근할 수 있는 음악 **및** 음악 스타일</q>로 식별되었음을 기억하십시오(강조). [^liveaboutdotcom-popular-music]
 
-[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
-[^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music)
+[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
+[^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music "Popular music")
 
 ### 1960년대와 1970년대
 
@@ -120,7 +120,7 @@ type = "article"                                                           # art
 
 피노이의 힙합이나 랩이 시작된 것도 이때였는데, 그 이후로 필리핀은 아시아에서 힙합씬이 가장 먼저 생긴 나라로 알려져 왔다. [^wikipedia-pinoy-hip-hop]
 
-[^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop)
+[^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop "Pinoy hip hop")
 
 ### 1990년대: 음악 혁명과 1세대 모던 피이팝
 
@@ -148,7 +148,7 @@ type = "article"                                                           # art
 
 주류 필리핀 음악의 이러한 주요 변화는 *현대 피이팝의 1세대*를 표시했습니다.
 
-[^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock)
+[^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock "Pinoy rock")
 
 ## OPM
 
@@ -186,7 +186,7 @@ type = "article"                                                           # art
 
 언어는 <span lang="fil">OPM</span>이 무엇인지에 대한 자격이 아닙니다. 이 연례 대회에서 <span lang="fil">OPM</span>이 필리핀 사람이 작곡한 *오리지널* 음악이라는 데는 의심의 여지가 없습니다.
 
-[^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival)
+[^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival "Metro Manila Popular Music Festival")
 
 ### OPM은 네이티브 악기 사용에 관한 것입니까?
 
@@ -208,7 +208,7 @@ type = "article"                                                           # art
   모든 <span lang="fil">OPM</span>이 피이팝이지만 모든 피이팝이 <span lang="fil">OPM</span>인 것은 아닙니다.
 {{% /quotebox %}}
 
-[^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population)
+[^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population "List of countries by English-speaking populatio")
 
 ## 맺음말
 

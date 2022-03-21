@@ -77,8 +77,8 @@ It also should not be confused with the genre known as pop music. While pop musi
 
 Still confusing? It is. There is a big overlap between pop music as a genre and pop music as popular music. Just remember that pop music since the mid-1950s <q>has usually been identified as the music **and** the musical styles that are accessible to the broadest audience</q> (emphasis mine). [^liveaboutdotcom-popular-music]
 
-[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
-[^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music)
+[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
+[^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music "Popular music")
 
 ### 1960s and 1970s
 
@@ -120,7 +120,7 @@ In the 1980s, the legendary Gary V. brought dance-pop to the mainstream.
 
 This was also when Pinoy hip hop or rap started, since then the Philippines have been known to be the first in Asia to have a hip hop music scene. [^wikipedia-pinoy-hip-hop]
 
-[^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop)
+[^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop "Pinoy hip hop")
 
 ### 1990s: a music revolution and the 1st Generation of Modern P-pop
 
@@ -148,7 +148,7 @@ Pinoy reggae and Pinoy ska also became mainstream with acts like Tropical Depres
 
 These major changes in mainstream Philippine music marked the *1st Generation of Modern P-pop*.
 
-[^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock)
+[^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock "Pinoy rock")
 
 ## OPM
 
@@ -186,7 +186,7 @@ The 7th Metropop in 1984 produced <cite>A Smile In Your Heart</cite> as the gran
 
 Language is not a qualification for what an OPM is. From these annual competitions, there is no doubt that an OPM is an *original* music composed by a Filipino.
 
-[^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival)
+[^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival "Metro Manila Popular Music Festival")
 
 ### Is OPM about using native instruments?
 
@@ -208,7 +208,7 @@ OPM is not about the language it was written in, not about the instruments used,
   All OPM are P-pop but not all P-pop are OPM.
 {{% /quotebox %}}
 
-[^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population)
+[^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population "List of countries by English-speaking population")
 
 ## Closing
 

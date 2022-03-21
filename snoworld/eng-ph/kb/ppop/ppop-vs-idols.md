@@ -51,7 +51,7 @@ P-pop is commonly used to refer to Pilipino idols, or P-idols, but did you know 
 
 P-pop is an umbrella terminology for all music composed or performed by a Filipino. On the other hand, idols are acts commercialized and marketed for their attractiveness and personality; and to sell dreams [^idols-bbc-asia-pop-music].
 
-[^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705)
+[^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705 "BBC: The dark side of Asia's pop music industry")
 
 ## What is P-pop?
 
@@ -61,7 +61,7 @@ There is a big overlap between pop music as a *genre* and pop music as *popular 
 
 An in-depth look about P-pop was discussed in <cite>[What is the difference between P-pop and OPM?]({{< ref path="ppop-vs-opm.md" >}} "What is the difference between P-pop and OPM?")</cite>
 
-[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
+[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
 
 {{< video
   id="wmzTYhjQh3A"
@@ -112,8 +112,8 @@ Two years later, the 1964 French movie <cite lang="fr">Cherchez l'idole</cite>, 
 By 1996, the founder of SM Entertainment (<span lang="ko">SM 엔터테인먼트</span>) brought the Japanese idol trainee system to Korea and fine-tuned it for the Korean culture and entertainment industry. This is what is known as *cultural technology* which included detailed guidelines on how to bring the then new K-pop idol industry to the global market. [^wikipedia-korean-idol-history] [^wikipedia-korean-cultural-technology]
 
 [^wikipedia-history-japanese-idol-beginnings]: Wikipedia (en): [Japanese idol: 1960–1980: Post-war era and idol beginnings](https://en.wikipedia.org/wiki/Japanese_idol#1960%E2%80%931980:_Post-war_era_and_idol_beginnings "Japanese idol: 1960–1980: Post-war era and idol beginnings")
-[^wikipedia-korean-idol-history]: Wikipedia (en): [Korean idol](https://en.wikipedia.org/wiki/Korean_idol)
-[^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology)
+[^wikipedia-korean-idol-history]: Wikipedia (en): [Korean idol](https://en.wikipedia.org/wiki/Korean_idol "Korean idol")
+[^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology "Cultural technology")
 
 ### Defining idols
 
@@ -124,7 +124,7 @@ According to <span lang="ja-Latn">Tatsuo Inamasu</span> (<span lang="ja">いな�
 Music idols are entertainers—generally from 12 to 25 years old—whose visual aesthetics are commercialized and marketed to bring happiness to and keep a close relationship with their fans. They undergo intensive training in singing, dancing, and acting, as well as in developing their personality and social skills to be an approachable and ideal celebrity their fans dream [them] to be.
 
 [^wikipedia-idols]: Wikipedia (ja): [アイドル](https://ja.wikipedia.org/wiki/アイドル "アイドル")
-[^japan-info-japanese-idols]: Japan Info: [Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry](https://jpninfo.com/12837)
+[^japan-info-japanese-idols]: Japan Info: [Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry](https://jpninfo.com/12837 "Japan Info: Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry")
 
 {{< video
   id="QmAQQhDnhiI"

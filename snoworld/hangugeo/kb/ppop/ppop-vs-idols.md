@@ -51,7 +51,7 @@ type = "article"                                                           # art
 
 피이팝은 필리핀 사람이 작곡하거나 연주하는 모든 음악에 대한 포괄적인 용어입니다. 반면, *아이돌*은 매력과 개성을 위해 상품화되고 마케팅되는 행위입니다. 그리고 꿈을 파는 것 [^idols-bbc-asia-pop-music].
 
-[^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705)
+[^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705 "BBC: The dark side of Asia's pop music industry")
 
 ## 피팝이란?
 
@@ -61,7 +61,7 @@ type = "article"                                                           # art
 
 피이팝에 대한 자세한 내용은 <cite>[피이팝과 OPM의 차이점은 무엇입니까?]({{< ref path="ppop-vs-opm.md" >}} "P팝과 OPM의 차이점은 무엇인가요?")</cite>
 
-[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
+[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
 
 {{< video
   id="wmzTYhjQh3A"
@@ -112,8 +112,8 @@ type = "article"                                                           # art
 1996년, SM 엔터테인먼트의 설립자는 일본 아이돌 연습생 시스템을 한국으로 가져와 한국 문화 및 엔터테인먼트 산업에 맞게 미세 조정했습니다. 이것은 당시 새로운 K-pop 아이돌 산업을 세계 시장에 가져오는 방법에 대한 자세한 지침을 포함하는 *문화 기술*로 알려진 것입니다 [^wikipedia-korean-idol-history] [^wikipedia-korean-cultural-technology].
 
 [^wikipedia-history-japanese-idol-beginnings]: Wikipedia (en): [Japanese idol: 1960–1980: Post-war era and idol beginnings](https://en.wikipedia.org/wiki/Japanese_idol#1960%E2%80%931980:_Post-war_era_and_idol_beginnings "Japanese idol: 1960–1980: Post-war era and idol beginnings")
-[^wikipedia-korean-idol-history]: Wikipedia (en): [Korean idol](https://en.wikipedia.org/wiki/Korean_idol)
-[^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology)
+[^wikipedia-korean-idol-history]: Wikipedia (en): [Korean idol](https://en.wikipedia.org/wiki/Korean_idol "Korean idol")
+[^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology "Cultural technology")
 
 ### 아이돌을 정의하다
 
@@ -124,7 +124,7 @@ type = "article"                                                           # art
 음악 아이돌은 팬들에게 행복을 주고 친밀한 관계를 유지하기 위해 시각적 미학이 상품화되고 마케팅되는 연예인(일반적으로 12~25세)입니다. 그들은 노래, 춤, 연기에 대한 집중적인 훈련을 받고 성격과 사회적 기술을 개발하여 팬들이 꿈꾸는 친근하고 이상적인 연예인이 됩니다.
 
 [^wikipedia-idols]: Wikipedia (ja): [アイドル](https://ja.wikipedia.org/wiki/アイドル "アイドル")
-[^japan-info-japanese-idols]: Japan Info: [Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry](https://jpninfo.com/12837)
+[^japan-info-japanese-idols]: Japan Info: [Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry](https://jpninfo.com/12837 "Japan Info: Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry")
 
 {{< video
   id="QmAQQhDnhiI"

@@ -77,8 +77,8 @@ type = "article"                                                           # art
 
 まだ混乱していますか？ です。 ジャンルとしてのポップミュージックとポピュラー音楽としてのポップミュージックの間には大きな重複があります。 1950年代半ば以降のポップミュージックは、<q>通常、最も幅広い聴衆がアクセスできる音楽**および**音楽スタイルとして識別されています</q> （私の強調）きたことを覚えておいてください。 [^liveaboutdotcom-popular-music]
 
-[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
-[^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music)
+[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
+[^wikipedia-popular-music]: Wikipedia: [Popular music](https://en.wikipedia.org/wiki/Popular_music "Popular music")
 
 ### 1960年代と1970年代
 
@@ -120,7 +120,7 @@ type = "article"                                                           # art
 
 これはピノイヒップホップやラップが始まったときでもあり、それ以来、フィリピンはアジアで最初にヒップホップミュージックシーンを持っていることが知られています。 [^wikipedia-pinoy-hip-hop]
 
-[^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop)
+[^wikipedia-pinoy-hip-hop]: Wikipedia: [Pinoy hip hop](https://en.wikipedia.org/wiki/Pinoy_hip_hop "Pinoy hip hop")
 
 ### 1990年代：音楽革命と第1世代の現代P-POP
 
@@ -148,7 +148,7 @@ type = "article"                                                           # art
 
 主流のフィリピン音楽におけるこれらの大きな変化は、*第1世代の現代P-POP*をマークしました。
 
-[^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock)
+[^wikipedia-pinoy-rock]: Wikipedia: [Pinoy rock](https://en.wikipedia.org/wiki/Pinoy_rock "Pinoy rock")
 
 ## OPM
 
@@ -186,7 +186,7 @@ type = "article"                                                           # art
 
 言語は<span lang="fil">OPM</span>が何であるかについての資格ではありません。 これらの毎年恒例の大会から、OPMがフィリピン人によって作曲された*オリジナルの*音楽であることは間違いありません。
 
-[^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival)
+[^wikipedia-metropop]: Wikipedia: [Metro Manila Popular Music Festival](https://en.wikipedia.org/wiki/Metro_Manila_Popular_Music_Festival "Metro Manila Popular Music Festival")
 
 ### OPMはネイティブインストゥルメントの使用についてですか？
 
@@ -208,7 +208,7 @@ type = "article"                                                           # art
   すべての<span lang="fil">OPM</span>は<span lang="fil">P-POP</span>ですが、すべての<span lang="fil">P-POP</span>が<span lang="fil">OPM</span>であるとは限りません。
 {{% /quotebox %}}
 
-[^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population)
+[^wikipedia-english-speakers-country]: Wikipedia: [List of countries by English-speaking population](https://en.wikipedia.org/wiki/List_of_countries_by_English-speaking_population "List of countries by English-speaking population")
 
 ## 閉会の辞
 

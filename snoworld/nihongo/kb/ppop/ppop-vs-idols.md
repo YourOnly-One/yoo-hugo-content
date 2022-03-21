@@ -51,7 +51,7 @@ type = "article"                                                           # art
 
 <span lang="fil">P-POP</span>は、フィリピン人が作曲または演奏するすべての音楽の包括的な用語です。 一方、*アイドル*は、その魅力と個性のために商品化され、販売されている行為です。 そして夢を売る [^idols-bbc-asia-pop-music]。
 
-[^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705)
+[^idols-bbc-asia-pop-music]: BBC: [The dark side of Asia's pop music industry](https://www.bbc.com/news/world-asia-35368705 "BBC: The dark side of Asia's pop music industry")
 
 ## P-POPとは何ですか？
 
@@ -61,7 +61,7 @@ type = "article"                                                           # art
 
 <span lang="fil">P-POP</span>の詳細については、<cite>[P-POPとOPMの違いは何ですか？]({{< ref path="ppop-vs-opm.md" >}} "P-POPとOPMの違いは何ですか？")</cite>
 
-[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980)
+[^liveaboutdotcom-popular-music]: LiveAbout: [Pop Vs. Popular Music](https://www.liveabout.com/what-is-pop-music-3246980 "LiveAbout: Pop Vs. Popular Music")
 
 {{< video
   id="wmzTYhjQh3A"
@@ -112,8 +112,8 @@ type = "article"                                                           # art
 1996年までに、SMエンターテイメント（<span lang="ko">SM 엔터테인먼트</span>）の創設者は、日本のアイドル研修生システムを韓国に持ち込み、韓国の文化とエンターテインメント業界向けに微調整しました。 これは*文化技術*として知られているものであり、当時の新しい<span lang="en-PH">K-POP</span>アイドル業界を世界市場にもたらす方法に関する詳細なガイドラインが含まれていました。 [^wikipedia-korean-idol-history] [^wikipedia-korean-cultural-technology]
 
 [^wikipedia-history-japanese-idol-beginnings]: Wikipedia (en): [Japanese idol: 1960–1980: Post-war era and idol beginnings](https://en.wikipedia.org/wiki/Japanese_idol#1960%E2%80%931980:_Post-war_era_and_idol_beginnings "Japanese idol: 1960–1980: Post-war era and idol beginnings")
-[^wikipedia-korean-idol-history]: Wikipedia (en): [Korean idol](https://en.wikipedia.org/wiki/Korean_idol)
-[^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology)
+[^wikipedia-korean-idol-history]: Wikipedia (en): [Korean idol](https://en.wikipedia.org/wiki/Korean_idol "Korean idol")
+[^wikipedia-korean-cultural-technology]: Wikipedia (en): [Cultural technology](https://en.wikipedia.org/wiki/Cultural_technology "Cultural technology")
 
 ### アイドルの定義
 
@@ -124,7 +124,7 @@ type = "article"                                                           # art
 音楽アイドルはエンターテイナーであり、一般的に12〜25歳であり、その視覚的美学は、ファンに幸せをもたらし、ファンとの緊密な関係を維持するために商品化および販売されています。 彼らは、歌、踊り、演技のほか、ファンが夢見る親しみやすく理想的な有名人になるための性格や社会的スキルの開発について集中的なトレーニングを受けています。
 
 [^wikipedia-idols]: Wikipedia (ja): [アイドル](https://ja.wikipedia.org/wiki/アイドル "アイドル")
-[^japan-info-japanese-idols]: Japan Info: [Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry](https://jpninfo.com/12837)
+[^japan-info-japanese-idols]: Japan Info: [Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry](https://jpninfo.com/12837 "Japan Info: Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry")
 
 {{< video
   id="QmAQQhDnhiI"
