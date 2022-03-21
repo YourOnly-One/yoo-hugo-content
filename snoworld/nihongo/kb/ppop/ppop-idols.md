@@ -2,13 +2,13 @@
 title = "P-POPアイドル、それはいつ始まったのですか？"
 description = "P-POP IDOL業界が始まった日付を特定します。"
 
-date = "2022-03-21T16:07:245"                                          # manually adjust to local timezone
+date = "2022-03-21T16:07:24"                                          # manually adjust to local timezone
 #lastmod = "2022-04-07T17:53:01"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-idol-year"
 translationKey = "ppop-idol-year-202280"
-relCanonical = "https://im.youronly.one/snoworld/kb/ppop/ppop-idol-year-202280/"
+relCanonical = "https://im.youronly.one/snoworld/ja/kb/ppop/ppop-idol-year-202280/"
 #disqus_url = ""
 #disqus_identifier = ""
 

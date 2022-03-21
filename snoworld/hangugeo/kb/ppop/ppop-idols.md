@@ -8,7 +8,7 @@ date = "2022-03-21T16:07:24"                                          # manually
 #aliases = [""]
 slug = "ppop-idol-year"
 translationKey = "ppop-idol-year-202280"
-relCanonical = "https://im.youronly.one/snoworld/kb/ppop/ppop-idol-year-202280/"
+relCanonical = "https://im.youronly.one/snoworld/ko/kb/ppop/ppop-idol-year-202280/"
 #disqus_url = ""
 #disqus_identifier = ""
 
