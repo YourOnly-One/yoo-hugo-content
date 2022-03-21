@@ -1396,7 +1396,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 * Also known as: SexBomb NewGen; SBG
 * Fandom name:
 * Debut: 1999-11 (as ***Chicken Sandwich Dancers***)
-* First sales: 2002
+* First sales: 2002 (as ***SexBomb Girls***)
   - Song: 「Bakit Papa」
 
 {{< video
