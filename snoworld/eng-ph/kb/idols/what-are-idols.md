@@ -49,7 +49,24 @@ SUMMARY
 
 <!--more-->
 
-BODY
+A Japanese idol was described by *Japan Info*  as entertainers who start young, are always cute, and are often trained to sing, dance, MC, voice act, entertain, model, and play musical instruments. They are not just seen as entertainers, they are also regarded as role models for young people. They are a reflection on society, a picture of an ideal young Japanese citizen, and as such their image must be flawless. [^japan-info-japanese-idols]
+
+*90 Day Korean* described Korean idols as K-pop stars created to provide catchy K-pop music to younger audiences. They periodically come out with music singles and album filled with catchy tunes and appear in music shows. They also explained that although the song is important, special care and attention are always put into styling the idols, and their well-synched choreography, and producing a high-quality music video. [^90-day-korean-what-is-kpop]
+
+[^japan-info-japanese-idols]: Japan Info: [Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry](https://jpninfo.com/12837 "Japan Info: Exposing the Dark Side of Being a Japanese Idol and the Japanese Entertainment Industry")
+[^90-day-korean-what-is-kpop]: 90 Day Korean: [What is Kpop? Here is everything you need to know](https://www.90daykorean.com/what-is-kpop/ "90 Day Korean: What is Kpop? Here is everything you need to know")
+
+## An idol is an industry
+
+An idol is an industry. It is a job, a profession. It is a system of carefully planned production and marketing from the music, dance styles, and visuals, to music videos, public performances, and appearances in shows.
+
+An investment.
+
+Music videos.
+
+* concepts
+* lyric videos
+* VFX
 
 ---
 
