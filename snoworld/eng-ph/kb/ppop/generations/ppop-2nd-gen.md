@@ -948,6 +948,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 * Sample songs:
   - 「Prinsesa」 [^pop-girls-songs-prinsesa]
   - 「Sige Sige Sayaw」 [^pop-girls-songs-sige-sige-sayaw]
+  - 「Baby Boy」 [^pop-girls-songs-baby-boy]
 * Authority control:
   - [ISNI](https://isni.org/isni/0000000470612467)
   - [MusicBrainz](https://musicbrainz.org/artist/bdf5d2a6-0218-41ff-bc8f-6a0e99cb7803)
@@ -965,6 +966,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
 [^pop-girls-songs-prinsesa]: [Pop Girls] YouTube: 「[Prinsesa](https://www.youtube.com/watch?v=BRslms5WeBs "Pop Girls: Prinsesa")」
 [^pop-girls-songs-sige-sige-sayaw]: [Pop Girls] YouTube: 「[Sige Sige Sayaw](https://www.youtube.com/watch?v=2bpCtXuNkso "Pop Girls: Sige Sige Sayaw")」
+[^pop-girls-songs-baby-boy]: [Pop Girls] YouTube: 「[Baby Boy](https://www.youtube.com/watch?v=gigaWIEzMlM "Pop Girls: Baby Boy")」
 
 ---
 
