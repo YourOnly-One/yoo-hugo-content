@@ -1,5 +1,5 @@
 +++
-title = "Internal test"
+title = "HANGUGEO: Internal test"
 description = "Internal test only"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2022-03-17T14:45:30"                                        # manually adjust to local timezone
@@ -48,6 +48,8 @@ draft = true
 SUMMARY
 
 <!--more-->
+
+{{< reflang path="test-internal.md" lang="ja" >}}
 
 ## Complicated setup
 
