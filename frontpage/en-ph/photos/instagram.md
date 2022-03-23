@@ -10,4 +10,4 @@ weight = "61"
 #metarobots = "noindex"
 +++
 
-<a href="https://instagram.com/YourOnly.One" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Instagram</a>
+[Instagram](https://instagram.com/YourOnly.One "Instagram")

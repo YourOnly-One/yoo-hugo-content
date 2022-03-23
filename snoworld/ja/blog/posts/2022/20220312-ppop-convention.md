@@ -75,7 +75,7 @@ type = "article"                                                           # art
 
 - いつ：2022年4月9日11:00PHTから21:00JST; および2022年4月10日11:00PHTから22:00JST
 - 何：
-  + 2022-03-13 22:35:37 JSTの時点で確認されたパフォーマンス：
+  - 2022-03-13 22:35:37 JSTの時点で確認されたパフォーマンス：
     - <span lang="en-PH">Daydream</span>
     - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
     - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
@@ -84,8 +84,8 @@ type = "article"                                                           # art
     - <span lang="en-PH">Ver5us</span> — 更新：スケジュールの競合により参加できなくなります [^ver5us-ppopcon-conflict]
     - <span lang="en-PH">Vxon</span>
     - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>) — 更新：スケジュールの競合により参加できなくなります [^yara-ppopcon-conflict]
-  + 商品
-  + ファンブース
+  - 商品
+  - ファンブース
     - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</span>)
     - <span lang="en-PH">Aces</span>
     - <span lang="en-PH">Allies</span>
@@ -99,8 +99,8 @@ type = "article"                                                           # art
     - <span lang="en-PH">MNLoves</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔</span><span lang="en-PH">Loves</span>)
     - <span lang="en-PH">Pearls</span>
     - <span lang="en-PH">Vixies</span>
-  + ゲーム
-  + とより多くの驚き
+  - ゲーム
+  - とより多くの驚き
 
 *アーティスト公演は初日4月9日のみ開催されます。*
 {.notecounter}
@@ -116,17 +116,17 @@ type = "article"                                                           # art
 
 - いつ：2022年4月10日16:00JSTから20:00JST
 - 内容：コンサート
-  + <span lang="en-PH">1st.One</span>
-  + <span lang="en-PH">4th Impact</span>
-  + <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
-  + <span lang="en-PH">BGYO</span> (<span lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</span>)
-  + <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
-  + <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)
-  + <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span> / <span lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</span>)
-  + <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
+  - <span lang="en-PH">1st.One</span>
+  - <span lang="en-PH">4th Impact</span>
+  - <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
+  - <span lang="en-PH">BGYO</span> (<span lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</span>)
+  - <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
+  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)
+  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span> / <span lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</span>)
+  - <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
 - ボーナス：オープニングパフォーマンス
-  + <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
-  + <span lang="en-PH">Vxon</span>
+  - <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
+  - <span lang="en-PH">Vxon</span>
 - 追加：ファンの活動
 
 {{< video
@@ -152,11 +152,11 @@ type = "article"                                                           # art
 コンベンションチケットの詳細は次のとおりです。
 
 - ₱1,000.00（¥2,239.56）
-  + 2日パス
-  + 追い越し車線
-  + ラウンジへのアクセス
+  - 2日パス
+  - 追い越し車線
+  - ラウンジへのアクセス
 - ₱650.00（¥1,455.71）
-  + 2日パス
+  - 2日パス
 
 コンベンションのチケットは、Ticketnet Online：[2022PPOPCONコンベンションチケット販売](https://ticketnet.com.ph/Events/detail/2022-PPOPCON "2022PPOPCONコンベンションチケット販売")で入手できます。
 
@@ -188,25 +188,25 @@ type = "article"                                                           # art
 
 - オンライン（通常）：₱900.00（¥2,015.60）
 - オンライン（スペシャル/ VIP）：₱1,500.00（¥3,359.34）
-  + ライブサウンドチェックアクセス
+  - ライブサウンドチェックアクセス
 - 一般入場料：₱1,000.00（¥2,239.56）
-  + 無料席
+  - 無料席
 - アッパーボックス：₱2,000.00（¥4,479.11）
-  + 自動的に割り当てられた最適な座席
+  - 自動的に割り当てられた最適な座席
 - 下の箱：₱3,000.00（¥6,718.67）
-  + 自動的に割り当てられた最適な座席
+  - 自動的に割り当てられた最適な座席
 - パトロンB：₱4,000.00（¥8,958.23）
-  + 自動的に割り当てられた最適な座席
-  + PPOPグッズ：スポンジファンライト
+  - 自動的に割り当てられた最適な座席
+  - PPOPグッズ：スポンジファンライト
 - パトロンA：₱4,500.00（¥10,078.01）
-  + 自動的に割り当てられた最適な座席
-  + <span lang="en-PH">PPOP</span>グッズ：スポンジファンライト
-  + ラッフルチケット：コンサートのライブサウンドチェック部分の<span lang="en-PH">VIP</span>に参加するチャンス
+  - 自動的に割り当てられた最適な座席
+  - <span lang="en-PH">PPOP</span>グッズ：スポンジファンライト
+  - ラッフルチケット：コンサートのライブサウンドチェック部分の<span lang="en-PH">VIP</span>に参加するチャンス
 - <span lang="en-PH">VIP</span>：₱5,500.00（¥12,317.57）
-  + 自動的に割り当てられた最適な座席
-  + <span lang="en-PH">PPOP</span>グッズ：スポンジファンライト
-  + ライブサウンドチェックアクセス
-  + <span lang="en-PH">VIP ID</span>パス/<span lang="en-PH">VIP</span>ファストレーン
+  - 自動的に割り当てられた最適な座席
+  - <span lang="en-PH">PPOP</span>グッズ：スポンジファンライト
+  - ライブサウンドチェックアクセス
+  - <span lang="en-PH">VIP ID</span>パス/<span lang="en-PH">VIP</span>ファストレーン
 
 *料金には発券サービス料は含まれていません。*
 {.notecounter}

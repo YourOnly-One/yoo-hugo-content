@@ -9,4 +9,4 @@ image = "https://rsc.youronly.one/img/logos/Strava.svg"
 #metarobots = "noindex"
 +++
 
-<a href="https://strava.com/athletes/faithfulathlete" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Strava</a>
+[Strava](https://strava.com/athletes/faithfulathlete "Strava")

@@ -10,4 +10,4 @@ weight = "63"
 #metarobots = "noindex"
 +++
 
-<a href="https://www.last.fm/user/Laibcoms" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Last.FM</a>
+[Last.FM](https://www.last.fm/user/Laibcoms "Last.FM")

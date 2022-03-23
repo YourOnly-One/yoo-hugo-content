@@ -10,4 +10,4 @@ weight = "22"
 #metarobots = "noindex"
 +++
 
-<a href="https://iam.youronly.one" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">Profile</a>
+[Profile](https://iam.youronly.one "Profile")

@@ -10,4 +10,4 @@ weight = "21"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/techmagus/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">techmagus</a>™
+[techmagus™](https://im.youronly.one/techmagus/ "techmagus™")

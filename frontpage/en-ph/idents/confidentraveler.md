@@ -10,4 +10,4 @@ weight = "32"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/confidentraveler/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">The Confident Traveler</a>™
+[The Confident Traveler](https://im.youronly.one/confidentraveler/ "The Confident Traveler")

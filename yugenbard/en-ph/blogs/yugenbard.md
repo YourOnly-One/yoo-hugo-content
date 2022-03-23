@@ -10,4 +10,4 @@ weight = "1"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/yuki/channels/yūgen-bard/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">Blog</a>
+[Blog](https://im.youronly.one/yuki/channels/yūgen-bard/ "Blog")

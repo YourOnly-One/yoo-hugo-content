@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/flickr_wordmark.svg"
 draft = true
 +++
 
-<a href="https://www.flickr.com/people/laibcoms/" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Flickr</a>
+[Flickr](https://www.flickr.com/people/laibcoms/ "Flickr")

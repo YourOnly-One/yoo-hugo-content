@@ -12,4 +12,4 @@ weight = "1"
 #draft = "true"
 +++
 
-<a href="https://im.youronly.one/yuki/channels/confident-traveler/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">Blog</a>
+[Blog](https://im.youronly.one/yuki/channels/confident-traveler/ "Blog")

@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/YouTube.webp"
 draft = "true"
 +++
 
-<a href="https://youtube.com/channel/UCdOr3nZaEpkIrPP_vJt4bog/?sub_confirmation=1" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">YouTube</a>
+[YouTube](https://youtube.com/channel/UCdOr3nZaEpkIrPP_vJt4bog/?sub_confirmation=1 "YouTube")

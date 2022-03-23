@@ -9,4 +9,4 @@ image = "https://rsc.youronly.one/img/assets/Facebook-follow_me.webp"
 #metarobots = "noindex"
 +++
 
-<a href="https://facebook.com/faithful.athlete" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Facebook</a>
+[Facebook](https://facebook.com/faithful.athlete "Facebook")

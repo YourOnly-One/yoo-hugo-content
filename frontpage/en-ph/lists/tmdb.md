@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/TMDb.svg"
 draft = true
 +++
 
-<a href="https://www.themoviedb.org/u/YourOnlyOne" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">TMDb</a>
+[TMDb](https://www.themoviedb.org/u/YourOnlyOne "TMDb")

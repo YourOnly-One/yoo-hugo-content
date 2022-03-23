@@ -104,8 +104,8 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
 
 これらを念頭に置いて、アイドル（ソロまたはグループ）は次の特性を備えている必要があります。
 
-* 外観：美しくハンサム
-* キャラクター：
+- 外観：美しくハンサム
+- キャラクター：
   - 健康的な画像
   - 個人的な生活や意見を非公開に保つ
   - 無実で純粋
@@ -113,16 +113,16 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
   - 親しみやすい人 及び 人懐っこい
   - インスピレーション
   - ロールモデル
-* 多才なエンターテイナー兼パフォーマー
+- 多才なエンターテイナー兼パフォーマー
   - 歌手
   - ダンサー
   - 行動することができます
   - ホストできます
   - コメディ [^npr-smap-upped-ante]
-* ダンスルーチン
+- ダンスルーチン
   - 形成の変化
   - ポイント振り付け
-* 彼らの国と文化、そして彼らのターゲット市場について最高で前向きなことを表します
+- 彼らの国と文化、そして彼らのターゲット市場について最高で前向きなことを表します
 
 [^npr-smap-upped-ante]: NPR: [Why The Blueprint For K-Pop Actually Came From Japan](https://www.npr.org/2019/01/08/683339743/why-the-blueprint-for-k-pop-actually-came-from-japan "NPR: Why The Blueprint For K-Pop Actually Came From Japan")
 
@@ -151,8 +151,8 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
 
 グループがアイドルと見なされるための追加の特性があります。 これらは：
 
-* 各メンバーには独特の性格と個性があります
-* メンバーは通常、グループで果たす役割があります
+- 各メンバーには独特の性格と個性があります
+- メンバーは通常、グループで果たす役割があります
   - 盟主
   - 中心
   - 力強いビジュアルとかわいらしさ・かっこよさ
@@ -161,13 +161,13 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
   - サブボーカル
   - リードダンサー
   - メインダンサー
-* 専門分野のメンバーが才能を披露
+- 専門分野のメンバーが才能を披露
   - 発声
   - ヒップホップ / ラップ
   - ブレイクダンス
   - ホスティング
   - 演技
-* メンバーは通常、曲の中でソロまたはデュオのパートを持っています
+- メンバーは通常、曲の中でソロまたはデュオのパートを持っています
 
 このフォーマットは、モーニング娘 [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace]。やおニャン子クラブ [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] などの日本のアイドルグループで見られます。 トゥアニーワン（<span lang="ko">투애니원</span> / <span lang="en">2NE1</span>） [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] や少女時代（<span lang="ko">소녀시대</span> / <span lang="en">Girls' Generation</span> / <span lang="ko-Latn">So Nyeo Shi Dae</span>（<span lang="ko-Latn">SNSD</span>）） [^snsd-songs-gee] [^snsd-songs-genie] のような韓国のアイドルグループで。 伝説（<span lang="tl">Alamat</span>（<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>）） [^alamat-songs-kbye]、ビニ（<span lang="tl">Bini</span>（<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>）） [^bini-songs-born-to-win]、<span lang="en-PH">MNL48</span>（<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>） [^mnl48-songs-pag-ibig-fortune-cookie]、<span lang="en-PH">UGG</span>（<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls） [^ugg-songs-kalimot] などのフィリピンのアイドルグループで。
 
@@ -344,10 +344,10 @@ P-POPアイドル世代を現代のP-POP世代と混同しないでください�
 
 現代のP-POPの世代は次のとおりです。
 
-* 現代のP-POPの第1世代（1990–1999）
-* 現代のP-POPの第2世代（2000–2009）
-* 現代のP-POPの第3世代（2010–2019）
-* 現代のP-POPの第4世代（2020–2029）
+- 現代のP-POPの第1世代（1990–1999）
+- 現代のP-POPの第2世代（2000–2009）
+- 現代のP-POPの第3世代（2010–2019）
+- 現代のP-POPの第4世代（2020–2029）
 
 ---
 

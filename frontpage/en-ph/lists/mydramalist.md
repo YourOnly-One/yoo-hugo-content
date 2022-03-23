@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/MyDramaList.webp"
 draft = true
 +++
 
-<a href="https://mydramalist.com/profile/Shael" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">MyDramaList</a>
+[MyDramaList](https://mydramalist.com/profile/Shael "MyDramaList")

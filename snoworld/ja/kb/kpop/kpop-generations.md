@@ -89,10 +89,10 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 これまで私と一緒に？ 上記に基づいて、世代ごとのK-popミュージックアクトは次のとおりです。
 
-* [第1世代：1992–2001]({{< relref path="kpop-1st-gen.md" lang="en-ph" >}} "第1世代：1992–2001") (英語)
-* [第2世代：2002–2011]({{< relref path="kpop-2nd-gen.md" lang="en-ph" >}} "第2世代：2002–2011") (英語)
-* [第3世代：2012–2021]({{< relref path="kpop-3rd-gen.md" lang="en-ph" >}} "第3世代：2012–2021") (英語)
-* [第4世代：2022–2031]({{< relref path="kpop-4th-gen.md" lang="en-ph" >}} "第4世代：2022–2031") (英語)
+- [第1世代：1992–2001]({{< relref path="kpop-1st-gen.md" lang="en-ph" >}} "第1世代：1992–2001") (英語)
+- [第2世代：2002–2011]({{< relref path="kpop-2nd-gen.md" lang="en-ph" >}} "第2世代：2002–2011") (英語)
+- [第3世代：2012–2021]({{< relref path="kpop-3rd-gen.md" lang="en-ph" >}} "第3世代：2012–2021") (英語)
+- [第4世代：2022–2031]({{< relref path="kpop-4th-gen.md" lang="en-ph" >}} "第4世代：2022–2031") (英語)
 
 ### （追加）国境年：2001–2002
 
@@ -120,27 +120,27 @@ K-POP世代を10 *暦年*に設定するのは正しいことですか？ おそ
 
 すべての世代は、実質的にボーイグループによって率いられていました。
 
-* 第1世代：
+- 第1世代：
   - Seo Taiji & Boys (1992-04-11)
   - Deux (1993-04-23)
   - Solid (1993-12-15)
 
-* 第2世代：
+- 第2世代：
   - TVXQ! (2004-01-14)
   - SS501 (2005-06-22)
   - Super Junior (2005-09-11)
 
-* 第3世代：
+- 第3世代：
   - EXO (2012-04-08)
   - BTS (2013-06-12)
   - GOT7 (2014-01-16)
 
 しかし、2022年1月1日までに第4世代のK-pop音楽[行為]が始まったとき、大きな変化が起こりました。 それは*ビートを手に入れた*女性のスーパーグループによって開かれました：
 
-* **BoA** (2000-08-25) (第一世代)
-* **Taeyeon** and **Hyoyeon** of *Girls' Generation* (2007-08-05) (第二世代)
-* **Seulgi** and **Wendy** of *Red Velvet* (2014-08-01) (第3世代)
-* **Karina** and **Winter** of *æspa* (2020-11-17) (第3世代).
+- **BoA** (2000-08-25) (第一世代)
+- **Taeyeon** and **Hyoyeon** of *Girls' Generation* (2007-08-05) (第二世代)
+- **Seulgi** and **Wendy** of *Red Velvet* (2014-08-01) (第3世代)
+- **Karina** and **Winter** of *æspa* (2020-11-17) (第3世代).
 
 その後すぐに、2日後の2022年1月3日に*Kep1er*がデビューしました。
 

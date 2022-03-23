@@ -9,4 +9,4 @@ image = "https://rsc.youronly.one/img/logos/adidas_Runtastic.webp"
 #metarobots = "noindex"
 +++
 
-<a href="https://www.runtastic.com/user/RL2KA97Z6MK0BI5X" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">adidas Runtastic</a>
+[adidas Runtastic](https://www.runtastic.com/user/RL2KA97Z6MK0BI5X "adidas Runtastic")

@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/Socialhome.webp"
 draft = true
 +++
 
-<a href="https://socialhome.network/u/yuki/" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Fediverse: Socialhome.network</a>
+[Fediverse: Socialhome.network](https://socialhome.network/u/yuki/ "Fediverse: Socialhome.network")

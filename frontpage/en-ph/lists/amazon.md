@@ -10,4 +10,4 @@ image = "https://rsc.youronly.one/img/logos/Amazon_Wishlist.png"
 draft = true
 +++
 
-<a href="https://www.amazon.com/hz/wishlist/ls/1YHYZNMDYDDB6/ref=nav_wishlist_lists_1?_encoding=UTF8&type=wishlist" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Amazon Wishlist</a>
+[Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/1YHYZNMDYDDB6/ref=nav_wishlist_lists_1?_encoding=UTF8&type=wishlist "Amazon Wishlist")

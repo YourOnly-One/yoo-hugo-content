@@ -55,16 +55,16 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 
-* This list is in no way complete.
-* Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
+- This list is in no way complete.
+- Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
 {{% /sembox %}}
 
 ## 2010
 
 ### XLR8 {#xlr8-3LxdOhbHuXstgHn1f}
 
-* Fandom name: A.FM
-* Debut: 2010-03-17
+- Fandom name: A.FM
+- Debut: 2010-03-17
   - Song: 「You're So Hot」
 
 {{< video
@@ -79,27 +79,27 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「I Love You Girl」 [^xlr8-songs-i-love-you-girl]
-* Authority control:
+- Authority control:
   - [Wikidata](https://www.wikidata.org/wiki/Q6446374)
   - YourOnly.One MD: 3LxdOhbHuXstgHn1f
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/xlr8/1459342201)
   - [deezer](https://www.deezer.com/artist/1193730)
   - [LINE MUSIC](https://music.line.me/artist/mi00000000108777b6)
   - [Spotify](https://open.spotify.com/artist/5rp6bnPSRk9yurKBzv84Wq)
   - [YouTube Music](https://music.youtube.com/channel/UCZV2c_MXlP7Xh9Uq5G-SjjA)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/XLR8)
 
 [^xlr8-songs-i-love-you-girl]: [XLR8] YouTube: 「[I Love You Girl](https://www.youtube.com/watch?v=znDMjeY-kew "XLR8: I Love You Girl")」
 
 ### RPM {#rpm-Ri6V1Jy8hSDT6Y4Oh}
 
-* Also known as: Real Pinoy Music
-* Fandom name:
-* Debut: 2010-04-21
+- Also known as: Real Pinoy Music
+- Fandom name:
+- Debut: 2010-04-21
   - Song: 「Para Sa 'Yo」
 
 {{< video
@@ -114,17 +114,17 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
 >}}
 
-* Authority control:
+- Authority control:
   - YourOnly.One MD: Ri6V1Jy8hSDT6Y4Oh
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/rpm/1459169300)
   - [deezer](https://www.deezer.com/artist/76329112)
   - [Spotify](https://open.spotify.com/artist/6oTMZam7RSBm5Y50Rr4RWq)
 
 ### 1:43 {#1-43-XP8XWUZwi1xTwZVRf}
 
-* Fandom name:
-* Debut: 2010-11-07
+- Fandom name:
+- Debut: 2010-11-07
   - Song: 「Merry Christmas Na」
 
 {{< video
@@ -139,28 +139,28 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCbhFOrdH47yEe-aKE_8zWGg"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「PiNK (Pag-ibig Na Kaya?)」 [^1-43-songs-pink]
   - 「Sa Isang Sulyap Mo」 [^1-43-songs-sa-isang-sulyap-mo]
   - 「Ikaw at Ako」 [^1-43-songs-ikaw-at-ako]
   - 「Ang Saya-saya (Clap Your Hands)」 [^1-43-songs-ang-saya-saya]
-* Authority control:
+- Authority control:
   - [ISNI](https://isni.org/isni/0000000469498265)
   - [MusicBrainz](https://musicbrainz.org/artist/90431de0-cf42-4fec-a03e-aaf95d3db48a)
   - [Wikidata](https://www.wikidata.org/wiki/Q5651092)
   - YourOnly.One MD: XP8XWUZwi1xTwZVRf
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/1-43/251735305)
   - [deezer](https://www.deezer.com/artist/2569401)
   - [LINE MUSIC](https://music.line.me/artist/mi000000000ae6b1ba)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=673819)
   - [Spotify](https://open.spotify.com/artist/39EHxSQAIaWusRqSI9xoyF)
   - [YouTube Music](https://music.youtube.com/channel/UCtX9aQXA23mcOuR7Na3ctZg)
-* Social:
+- Social:
   - [Facebook](https://fb.com/143boybandofficial)
   - [Instagram](https://www.instagram.com/143boybandofficial)
   - [Twitter](https://twitter.com/onefortythree)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/1:43_(band))
 
 [^1-43-songs-pink]: [1:43] YouTube: 「[PiNK (Pag-ibig Na Kaya?)](https://www.youtube.com/watch?v=Raxih1bbtfU "1:43: PiNK (Pag-ibig Na Kaya?")」
@@ -172,10 +172,10 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Down to Mars {#down-to-mars-wuHm9XTWlGyYqdvRN}
 
-* Also known as: DTM
-* Fandom name:
-* Debut: 2011-02-14
-* First original: 2012-06-11
+- Also known as: DTM
+- Fandom name:
+- Debut: 2011-02-14
+- First original: 2012-06-11
   - Song: 「My Everything」
 
 {{< video
@@ -190,18 +190,18 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/user/downtomarsofficial"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「My Everything」 [^down-to-mars-songs-my-everything] (Korean version)
-* Authority control:
+- Authority control:
   - YourOnly.One MD: wuHm9XTWlGyYqdvRN
-* Audio streaming:
+- Audio streaming:
   - [YouTube Music](https://music.youtube.com/channel/UCE-EJbloV0YXEq-25cW-UrQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/user/downtomarsofficial)
-* Social:
+- Social:
   - [Facebook](https://fb.com/downtomars)
   - [Twitter](https://twitter.com/wearedowntomars)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Down_to_Mars)
 
 [^down-to-mars-songs-my-everything]: [Down to Mars] YouTube: 「[My Everything](https://www.youtube.com/watch?v=nkmyzJ3BCWk "Down to Mars: My Everything (Korean version)")」 (Korean version)
@@ -210,10 +210,10 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Ex Battalion {#ex-battalion-lbprLWtSgb9llEoux}
 
-* Also known as: ExB
-* Fandom name:
-* Debut: 2012
-* First original: 2015-10-12
+- Also known as: ExB
+- Fandom name:
+- Debut: 2012
+- First original: 2015-10-12
   - Song: 「Darating Din」
 
 {{< video
@@ -228,34 +228,34 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/ExBattalionMusicEnt"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Ikaw Kase」 [^ex-battalion-songs-ikaw-kase]
   - 「Follow My Lead」 [^ex-battalion-songs-follow-my-lead]
   - 「Kakaiba」 [^ex-battalion-songs-kakaiba]
   - 「Superhero Mo」 [^ex-battalion-songs-superhero-mo] OST for 「Victor Magtanggol」
-* Did you know?
+- Did you know?
   - 「No Games」 entered the Billboard Philippine Top 20 which peaked at number 10.
   - Their song entitled 「Hayaan Mo Sila」 entered the Billboard Philippine Top 20 at number after it was released and number 10 on the Billboard Philippine Hot 100 in just under one week.
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/10169623-Ex-Battalion)
   - [ISNI](https://isni.org/isni/0000000469360354)
   - [MusicBrainz](https://musicbrainz.org/artist/5e46c83b-1704-47aa-aed8-3044eb661d86)
   - [Wikidata](https://www.wikidata.org/wiki/Q48698562)
   - YourOnly.One MD: lbprLWtSgb9llEoux
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/ex-battalion/1048725297)
   - [deezer](https://www.deezer.com/artist/9784514)
   - [LINE MUSIC](https://music.line.me/artist/mi000000000f16983e)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2552954)
   - [Spotify](https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j)
   - [YouTube Music](https://music.youtube.com/channel/UC9BLmAJ9AXwrmssMRXE_7NQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/ExBattalionMusicEnt)
-* Social:
+- Social:
   - [Facebook](https://fb.com/ExBattalionMusic)
   - [Instagram](https://www.instagram.com/exbmusicofficial)
   - [Twitter](https://twitter.com/EXbattalion)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Ex_Battalion)
 
 [^ex-battalion-songs-ikaw-kase]: [Ex Battalion] YouTube: 「[Ikaw Kase](https://www.youtube.com/watch?v=4-Ovr7k2xzU "Ex Battalion: Ikaw Kase")」
@@ -267,8 +267,8 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Gimme 5 {#gimme-5-CAfogRNvtJDyr0wjf}
 
-* Fandom name:
-* Debut: 2013-12-14
+- Fandom name:
+- Debut: 2013-12-14
   - Song: 「Glad You Came」 (original by ***The Wanted*** in 2011)
 
 {{< video
@@ -283,7 +283,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw"
 >}}
 
-* First original: 2014-11-06
+- First original: 2014-11-06
   - Song: 「Pag Kasama Ka」
 
 {{< video
@@ -298,28 +298,28 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCIWZ1_W5BqsvW9fm1cYFPpQ"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Hatid Sundo」 [^gimme-5-songs-hatid-sundo]
   - 「Aking Prinsesa」 [^gimme-5-songs-aking-prinsesa]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/4709639-Gimme-5-3)
   - [MusicBrainz](https://musicbrainz.org/artist/4f783449-64e7-4bfc-9997-3849f21c1bf1)
   - [Wikidata](https://www.wikidata.org/wiki/Q20684126)
   - YourOnly.One MD: CAfogRNvtJDyr0wjf
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/gimme-5/1148012132)
   - [deezer](https://www.deezer.com/artist/75229)
   - [LINE MUSIC](https://music.line.me/artist/mi000000000ae560a7)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=928351)
   - [Spotify](https://open.spotify.com/artist/6hoGQXDWXmzPEC7z74t4kv)
   - [YouTube Music](https://music.youtube.com/channel/UCDoLv1-YQfSjHd9plxcftLg)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/Gimme5Music)
-* Social:
+- Social:
   - [Facebook](https://fb.com/gimme.five)
   - [Instagram](https://www.instagram.com/gimme5_)
   - [Twitter](https://twitter.com/Gimme5_)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Gimme_5_(group))
 
 [^gimme-5-songs-hatid-sundo]: [Gimme 5] YouTube: 「[Hatid Sundo](https://www.youtube.com/watch?v=q7-bueiYMOg "Gimme 5: Hatid Sundo")」
@@ -329,9 +329,9 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Ylona Garcia {#ylona-garcia-i4I7B7bR5c7JsD3iY}
 
-* Fandom name:
-* Debut: 2014
-* First original: 2016-07-29
+- Fandom name:
+- Debut: 2014
+- First original: 2016-07-29
   - Song: 「Dahan Dahan Dahan Lang」
 
 {{< video
@@ -346,29 +346,29 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCIWZ1_W5BqsvW9fm1cYFPpQ"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Fly Tonight」 [^ylona-garcia-songs-fly-tonight]
   - 「Entertain Me」 [^ylona-garcia-songs-entertain-me]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/5072205-Ylona-Garcia)
   - [ISNI](https://isni.org/isni/0000000465342968)
   - [MusicBrainz](https://musicbrainz.org/artist/4982faaa-b251-43a5-b99d-326d999bbd54)
   - [Wikidata](https://www.wikidata.org/wiki/Q22002900)
   - YourOnly.One MD: i4I7B7bR5c7JsD3iY
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/ylona-garcia/1091522715)
   - [deezer](https://www.deezer.com/artist/9990686)
   - [LINE MUSIC](https://music.line.me/artist/mi000000001596c110)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=1730274)
   - [Spotify](https://open.spotify.com/artist/2qnQOnL1oLKtH779qZ6iuR)
   - [YouTube Music](https://music.youtube.com/channel/UCFI2Ic7-zKjQuqrJDA3kG7Q)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/YlonaGarcia)
-* Social:
+- Social:
   - [Facebook](https://fb.com/YlonaGarcia)
   - [Instagram](https://www.instagram.com/ylonagarcia)
   - [Twitter](https://twitter.com/ylona_garcia)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Ylona_Garcia)
 
 [^ylona-garcia-songs-fly-tonight]: [Ylona Garcia] YouTube: 「[Fly Tonight](https://www.youtube.com/watch?v=6TGRlhbvtVU "Ylona Garcia: Fly Tonight")」
@@ -378,8 +378,8 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### the juans {#the-juans-63GikEa73R6fbIWrp}
 
-* Fandom name: Juanistas
-* Debut: 2015-07-23
+- Fandom name: Juanistas
+- Debut: 2015-07-23
   - Song: 「Atin Ang Mundo」
 
 {{< video
@@ -394,32 +394,32 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Nasayang Lang」 [^the-juans-songs-nasayang-lang]
   - 「Binibini Sa MRT」 [^the-juans-songs-binibini-sa-mrt]
   - 「Balisong」 [^the-juans-songs-balisong] OST for 「100 Tula Para Kay Stella」 (original by ***Rivermaya*** in 2003)
   - 「Anghel」 [^the-juans-songs-anghel]
-* Did you know?
+- Did you know?
   - They were intially called *D'Juans*.
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/7891759-The-Juans)
   - [ISNI](https://isni.org/isni/000000047075342X)
   - [MusicBrainz](https://musicbrainz.org/artist/c7ac47e7-c0dc-4f6f-a4ea-17bff4d84ebf)
   - [Wikidata](https://www.wikidata.org/wiki/Q65087771)
   - YourOnly.One MD: 63GikEa73R6fbIWrp
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/the-juans/1016978794)
   - [deezer](https://www.deezer.com/artist/8607142)
   - [LINE MUSIC](https://music.line.me/artist/mi0000000010843798)
   - [Spotify](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv)
   - [YouTube Music](https://music.youtube.com/channel/UC2r8qp3U95RZZsRFNOWr1Og)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UCCtXr8HiqtdeJQLfzn4rUVw)
-* Social:
+- Social:
   - [Facebook](https://fb.com/TheJuansOfficial)
   - [Instagram](https://www.instagram.com/thejuansofficial)
   - [Twitter](https://twitter.com/TheJuans_Band)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/The_Juans)
 
 [^the-juans-songs-nasayang-lang]: [the juans] YouTube: 「[Nasayang Lang](https://www.youtube.com/watch?v=EgEWV8Wpx9o "the juans: Nasayang Lang")」
@@ -429,8 +429,8 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### 3LOGY {#3logy-4wlmrlOHC3COqd4Wk}
 
-* Fandom name:
-* Debut: 2015-07-30
+- Fandom name:
+- Debut: 2015-07-30
   - Song: 「Maybe It's You」 (original by ***Jolina Magdangal*** in 2006)
 
 {{< video
@@ -445,23 +445,23 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCE_yY4vs15KKHe02TDS045A"
 >}}
 
-* Authority control:
+- Authority control:
   - [ISNI](https://isni.org/isni/0000000470594393)
   - [MusicBrainz](https://musicbrainz.org/artist/d61eaceb-fe5d-4751-b543-42bb0f759f77)
   - [Wikidata](https://www.wikidata.org/wiki/Q22079808)
   - YourOnly.One MD: 4wlmrlOHC3COqd4Wk
-* Audio streaming:
+- Audio streaming:
   - [LINE MUSIC](https://music.line.me/artist/mi0000000000997f31)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=775684)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/3LOGY)
 
 ### Hashtags {#hashtags-a9Ah9NBOlQ6XHv9cN}
 
-* Also known as: HT; #HT; HT Boys
-* Fandom name:
-* Debut: 2015-11-11
-* First original: 2016-05-20
+- Also known as: HT; #HT; HT Boys
+- Fandom name:
+- Debut: 2015-11-11
+- First original: 2016-05-20
   - Song: 「Road Trip」
 
 {{< video
@@ -476,14 +476,14 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCIWZ1_W5BqsvW9fm1cYFPpQ"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Ako Na Lang Sana」 [^hashtags-songs-ako-na-lang-sana]
-* Authority control:
+- Authority control:
   - [ISNI](https://isni.org/isni/0000000471064781)
   - [MusicBrainz](https://musicbrainz.org/artist/435dd7b4-459b-43d7-8a72-417e5facf5d6)
   - [Wikidata](https://www.wikidata.org/wiki/Q25302597)
   - YourOnly.One MD: a9Ah9NBOlQ6XHv9cN
-* Audio streaming:
+- Audio streaming:
   - [LINE MUSIC](https://music.line.me/artist/mi000000000af80bd6)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=1136697)
 
@@ -493,9 +493,9 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### GirlTrends {#girltrends-R3edZZZE607LdjEwg}
 
-* Fandom name: Violet
-* Debut: 2016-02-13
-* First original: 2019-05-11
+- Fandom name: Violet
+- Debut: 2016-02-13
+- First original: 2019-05-11
   - Song: 「Breakthrough」
 
 {{< video
@@ -510,25 +510,25 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://youtube.com/GTBreakthrough"
 >}}
 
-* Authority control:
+- Authority control:
   - YourOnly.One MD: R3edZZZE607LdjEwg
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/gt/1482413397)
   - [deezer](https://www.deezer.com/artist/997059)
   - [Spotify](https://open.spotify.com/artist/05UioGXmDYyqrkpP16jXvJ)
   - [YouTube Music](https://music.youtube.com/channel/UCENGwOu0EozKysoDjMBDY6w) (generic channel for all artists named GT, their song was incorrectly credited to it)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://youtube.com/GTBreakthrough)
-* Social:
+- Social:
   - [Facebook](https://fb.com/GTbreakthrough)
   - [Instagram](https://www.instagram.com/GTbreakthrough)
   - [Twitter](https://twitter.com/GTbreakthrough)
 
 ### Top One Project {#top-one-project-MjIk1JycNTvCOaxRi}
 
-* Also known as: T.O.P.
-* Fandom name:
-* Debut: 2016-04-28
+- Also known as: T.O.P.
+- Fandom name:
+- Debut: 2016-04-28
   - Song: 「Pag-gising」
 
 {{< video
@@ -544,21 +544,21 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UC7wAeylwxTjRKS6LbxE_SIw"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Sa'n Na」 [^top-one-project-songs-saan-na]
-* Authority control:
+- Authority control:
   - [ISNI](https://isni.org/isni/0000000469930855)
   - [MusicBrainz](https://musicbrainz.org/artist/a53c5ef5-5ec6-40f9-bd79-12473a1fba36)
   - [Wikidata](https://www.wikidata.org/wiki/Q25339649)
   - YourOnly.One MD: MjIk1JycNTvCOaxRi
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/top-one-project/1101101112)
   - [deezer](https://www.deezer.com/artist/10155212)
   - [LINE MUSIC](https://music.line.me/artist/mi000000000af709e4)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2029605)
   - [Spotify](https://open.spotify.com/artist/4acwuqffFzJc8QRm5k2GSO)
   - [YouTube Music](https://music.youtube.com/channel/UCIkv2kgKKzmsntqOgTMIeMQ)
-* Social:
+- Social:
   - [Facebook](https://fb.com/TopOneproject)
   - [Instagram](https://www.instagram.com/toponeproject)
 
@@ -566,9 +566,9 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Ben&Ben (f. The Benjamins) {#ben-and-ben-HIHM63JutWWLbQaur}
 
-* Baybayin: ᜊᜒᜈ᜔ᜀᜆ᜔ᜊᜒᜈ᜔
-* Fandom name: Liwanag
-* Debut: 2016-07-01 (as ***The Benjamins***)
+- Baybayin: ᜊᜒᜈ᜔ᜀᜆ᜔ᜊᜒᜈ᜔
+- Fandom name: Liwanag
+- Debut: 2016-07-01 (as ***The Benjamins***)
   - Song: 「Tinatangi」
 
 {{< video
@@ -584,7 +584,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
 >}}
 
-* Debut: 2016-12-17 (as ***Ben&Ben***)
+- Debut: 2016-12-17 (as ***Ben&Ben***)
   - Song: 「Susi」
 
 {{< video
@@ -600,35 +600,35 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/BenBenMusic"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Mag-ingat」 [^ben-and-ben-songs-mag-ingat]
   - 「Lunod」 [^ben-and-ben-songs-lunod]
   - 「Pasalubong」 [^ben-and-ben-songs-pasalubong]
   - 「Pagtingin」 [^ben-and-ben-songs-pagtingin]
   - 「Upuan」 [^ben-and-ben-songs-upuan]
-* Did you know?
+- Did you know?
   - In 2017 they expanded into 9 members.
   - In 2018 their 2016 song 「Susi」 was included as an OST for the 2018 film 「GOYO: Ang Batang Heneral」.
   - ***Ben&Ben*** is 2020's Most Streamed Philippine Artist in Spotify.
   - They also trended in Korea's largest music streaming service, **Melon**.
-* Authority control:
+- Authority control:
   - [MusicBrainz](https://musicbrainz.org/artist/c064274e-5d1e-4ac9-aee5-7b984856fd43)
   - [Wikidata](https://www.wikidata.org/wiki/Q48699173)
   - YourOnly.One MD: HIHM63JutWWLbQaur
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/ben-ben/1215052739)
   - [deezer](https://www.deezer.com/artist/11819305)
   - [LINE MUSIC](https://music.line.me/artist/mi000000001032b7d0)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=1384676)
   - [Spotify](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb)
   - [YouTube Music](https://music.youtube.com/channel/UCJP1ja0mfMvS5y_3V_PIaiw)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/BenBenMusic)
-* Social:
+- Social:
   - [Facebook](https://fb.com/BenAndBenMusic)
   - [Instagram](https://www.instagram.com/benandbenmusic)
   - [Twitter](https://twitter.com/benandbenmusic)
-* More:
+- More:
   - [Website](https://www.benandbenmusic.com)
   - [Wikipedia](https://en.wikipedia.org/wiki/Ben%26Ben)
 
@@ -640,8 +640,8 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Iñigo Pascual {#iñigo-pascual-BZN4uceyB3mYmbniy}
 
-* Fandom name:
-* Debut: 2016-10-07
+- Fandom name:
+- Debut: 2016-10-07
   - Song: 「Dahil Sa'Yo」
 
 {{< video
@@ -656,33 +656,33 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/InigoPascualMusic"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Remember Me」 [^iñigo-pascual-songs-remember-me] Philippine version OST for **Disney-Pixar**'s 「Coco」 (original by ***Benjamin Bratt*** in 2017)
   - 「Options」 [^iñigo-pascual-songs-options]
-* Did you know?
+- Did you know?
   - 「Dahil Sa'yo」 was the first number one song in the new Billboard Philippines Top 20 chart (now defunct).
   - His debut song was the most viewed P-pop and OPM video on YouTube at that time. [^iñigo-pascual-wikipedia-youtube-views]
   - ***[2NE1]({{< ref "/kpop-2nd-gen.md#2ne1" >}} "2NE1")***'s Sandara Park made a cover of 「Dahil Sa'yo」 together with ***[iKON]({{< ref "/kpop-3rd-gen.md#ikon" >}} "iKON")***'s Jay. [^iñigo-pascual-dara-tv-dahil-sa-iyo]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/6895621-I%C3%B1igo-Pascual)
   - [ISNI](https://isni.org/isni/0000000503481476)
   - [MusicBrainz](https://musicbrainz.org/artist/47f92b39-aeb0-4cbe-8777-3e0c99bf6975)
   - [Wikidata](https://www.wikidata.org/wiki/Q28674882)
   - YourOnly.One MD: BZN4uceyB3mYmbniy
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/i%C3%B1igo-pascual/899213930)
   - [deezer](https://www.deezer.com/artist/7623140)
   - [LINE MUSIC](https://music.line.me/artist/mi0000000013727bf4)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=1753888)
   - [Spotify](https://open.spotify.com/artist/0XOSmu9Qn1agQULUVe0dAK)
   - [YouTube Music](https://music.youtube.com/channel/UC2Y7JalXMDBngflWYg45j3A)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/InigoPascualMusic)
-* Social:
+- Social:
   - [Facebook](https://fb.com/iminigopascualofficial)
   - [Instagram](https://www.instagram.com/inigopascual)
   - [Twitter](https://twitter.com/impascualinigo)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/I%C3%B1igo_Pascual)
 
 [^iñigo-pascual-songs-remember-me]: [Iñigo Pascual] YouTube: 「[Remember Me](https://www.youtube.com/watch?v=Low8JG3yAXg "Iñigo Pascual: Remember Me OST")」 Philippine version OST for **Disney-Pixar**'s 「Coco」 (original by *Benjamin Bratt* in 2017)
@@ -692,9 +692,9 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### UGG {#ugg-pYa7oBipf0gH8OHsq}
 
-* Also known as: U Go Girls
-* Fandom name:
-* Debut: 2016-12-23
+- Also known as: U Go Girls
+- Fandom name:
+- Debut: 2016-12-23
   - Song: 「Ikaw Na」
 
 {{< video
@@ -709,23 +709,23 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Kalimot」 [^ugg-songs-kalimot]
   - 「Dati」 [^ugg-songs-dati]
-* Did you know?
+- Did you know?
   - They were dubbed as the "cheerleaders of P-pop".
-* Authority control:
+- Authority control:
   - YourOnly.One MD: pYa7oBipf0gH8OHsq
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/ugg-u-go-girls/1458331851)
   - [deezer](https://www.deezer.com/artist/12986427)
   - [LINE MUSIC](https://music.line.me/artist/mi00000000108436ba)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2252158)
   - [Spotify](https://open.spotify.com/artist/5TSTvHdhgM99rViBW2QTix)
   - [YouTube Music](https://music.youtube.com/channel/UCAOtDuBqSRkL7khz-OfeIdQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/UGoGirls)
-* Social:
+- Social:
   - [Facebook](https://fb.com/itsugogirls)
   - [Instagram](https://www.instagram.com/itsugogirls)
   - [Twitter](https://twitter.com/itsugogirls)
@@ -737,9 +737,9 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### BoybandPH {#boybandph-p6jmAJsig19MlQCB8}
 
-* Also known as: BPH
-* Fandom name: Super Fan
-* Debut: 2017-01-01
+- Also known as: BPH
+- Fandom name: Super Fan
+- Debut: 2017-01-01
   - Song: 「Unli」
 
 {{< video
@@ -755,30 +755,30 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCIWZ1_W5BqsvW9fm1cYFPpQ"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「We Made It」 [^boybandph-songs-we-made-it]
   - 「Nakaraang Pasko」 [^boybandph-songs-nakaraang-pasko]
   - 「Somebody」 [^boybandph-songs-somebody]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/6460514-BoybandPH)
   - [ISNI](https://isni.org/isni/0000000469358991)
   - [MusicBrainz](https://musicbrainz.org/artist/5e4255d4-7522-405f-8c30-2c3e19a225a5)
   - [Wikidata](https://www.wikidata.org/wiki/Q28006714)
   - YourOnly.One MD: p6jmAJsig19MlQCB8
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/boybandph/1192640288)
   - [deezer](https://www.deezer.com/artist/11655699)
   - [LINE MUSIC](https://music.line.me/artist/mi000000000ba8ef85)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=1732808)
   - [Spotify](https://open.spotify.com/artist/65NJtjyV3wU1O23KtXWSyw)
   - [YouTube Music](https://music.youtube.com/channel/UC4nxJ80EIf6Ad2Jkl35A-9A)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/BoybandPH)
-* Social:
+- Social:
   - [Facebook](https://fb.com/BoybandPH)
   - [Instagram](https://www.instagram.com/boybandph)
   - [Twitter](https://twitter.com/boybandph)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/BoybandPH)
 
 [^boybandph-songs-we-made-it]: [BoybandPH] YouTube: 「[We Made It](https://www.youtube.com/watch?v=p-0kH2vUD_c "BoybandPH: We Made It")」
@@ -787,8 +787,8 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### R Rules (f. Japh Dolls) {#r-rules-cBv8NxApsoHmtlmGi}
 
-* Fandom name:
-* Debut: 2017-11-26 (as ***Japh Dolls***)
+- Fandom name:
+- Debut: 2017-11-26 (as ***Japh Dolls***)
   - Song: 「Magdamagan」
 
 {{< video
@@ -803,7 +803,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCS09CkK8fjPJ_nHD6fcGMSw"
 >}}
 
-* Debut: 2021-11-24 (as ***R Rules***)
+- Debut: 2021-11-24 (as ***R Rules***)
   - Song: 「DNY」
 
 {{< video
@@ -818,11 +818,11 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UC9n0P0mEb_EhgUgJlDjHlcw"
 >}}
 
-* Authority control:
+- Authority control:
   - [ISNI (Japh Dolls)](https://isni.org/isni/0000000470565584)
   - [MusicBrainz (Japh Dolls)](https://musicbrainz.org/artist/1ccf873c-417f-46cc-adff-bca91240305d)
   - YourOnly.One MD: cBv8NxApsoHmtlmGi
-* Audio streaming:
+- Audio streaming:
   - [Apple Music (R Rules)](https://music.apple.com/artist/r-rules/1594474642)
   - [Apple Music (Japh Dolls)](https://music.apple.com/artist/japh-dolls/1281900156)
   - [deezer (R Rules)](https://www.deezer.com/artist/151599782)
@@ -834,9 +834,9 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   - [Spotify (Japh Dolls)](https://open.spotify.com/artist/0khV3S0ZrYrRg3HMzqQn3s)
   - [YouTube Music (R Rules)](https://music.youtube.com/channel/UChpBVWaNJ_fzvrGEol0DXAA)
   - [YouTube Music (Japh Dolls)](https://music.youtube.com/channel/UC3VR2ml6RGKJo_PvIasW1NQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UC9n0P0mEb_EhgUgJlDjHlcw)
-* Social:
+- Social:
   - [Discord](https://discord.com/invite/RA6j4Uurc3)
   - [Facebook](https://fb.com/rrulesofficial)
   - [Instagram](https://www.instagram.com/rrulesofficial)
@@ -844,10 +844,10 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### TNT Boys {#tnt-boys-P1F545oS0K1va9QZG}
 
-* Also known as: Tawag ng Tanghalan Boys; The Big Shot Trio
-* Fandom name:
-* Debut: 2017
-* First original: 2019-09-19
+- Also known as: Tawag ng Tanghalan Boys; The Big Shot Trio
+- Fandom name:
+- Debut: 2017
+- First original: 2019-09-19
   - Song: 「Together We Fly」
 
 {{< video
@@ -862,31 +862,31 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCBShlKe5s0Z04tDm4-gXDeg"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Show Me A Smile」 [^tnt-boys-songs-show-me-a-smile] OST for 「Three Words To Forever」
   - 「Ako Ang Iyong Bituin」 [^tnt-boys-songs-ako-any-iyong-bituin] OST for 「Starla」
-* Did you know?
+- Did you know?
   - ***TNT Boys*** was the first Filipino act to perform in all four *Little Big Shots* held in the Philippines, Australia, United States of America, and United Kingdom of Great Britain and Northern Ireland.
   - They held their first solo concert on November 30, 2018 entitled *Listen: The Big Shot Concert* at **Smart Araneta Coliseum** in the Philippines.
   - Their first solo concert outside of the Philippines was on April 25, 2019 at **Theater at Ace Hotel** in Los Angeles, California, United States of America.
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/9896419-TNT-Boys-2)
   - [Wikidata](https://www.wikidata.org/wiki/Q60748106)
   - YourOnly.One MD: P1F545oS0K1va9QZG
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/tnt-boys/1447810390)
   - [deezer](https://www.deezer.com/artist/1684027)
   - [LINE MUSIC](https://music.line.me/artist/mi000000000fab1c0b)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=237375)
   - [Spotify](https://open.spotify.com/artist/08JgwNI4e9gEhbb5dZotBj)
   - [YouTube Music](https://music.youtube.com/channel/UCuVKQA3KuqvKtUl7Ff9xZOw)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://youtube.com/TheTNTBoys)
-* Social:
+- Social:
   - [Facebook](https://fb.com/TheTNTBoys)
   - [Instagram](https://www.instagram.com/thetntboys)
   - [Twitter](https://twitter.com/thetntboys)
-* More:
+- More:
   - [Website](https://thetntboys.net)
   - [Wikipedia](https://en.wikipedia.org/wiki/TNT_Boys)
 
@@ -897,10 +897,10 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Press Hit Play {#press-hit-play-WpDVLlIoHRSHleO6f}
 
-* Also known as: PHP
-* Fandom name: Pearls
-* Debut: 2018
-* First original: 2021-07-16
+- Also known as: PHP
+- Fandom name: Pearls
+- Debut: 2018
+- First original: 2021-07-16
   - Song: 「Galakbay」
 
 {{< video
@@ -915,23 +915,23 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/PHPMusic"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「WIN (Want It Now)」 [^press-hit-play-songs-win]
   - 「Adlaw」 [^press-hit-play-songs-adlaw]
   - 「Yuno」 [^press-hit-play-songs-yuno]
   - 「Tell Me」 [^press-hit-play-songs-tell-me]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/10096045-Press-Hit-Play)
   - YourOnly.One MD: WpDVLlIoHRSHleO6f
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/press-hit-play/1573868428)
   - [deezer](https://www.deezer.com/artist/137323062)
   - [LINE MUSIC](https://music.line.me/artist/mi0000000016792e41)
   - [Spotify](https://open.spotify.com/artist/48buCDU15KgHzMIoY9urS9)
   - [YouTube Music](https://music.youtube.com/channel/UC-uN3x0j_d_tLq-NAElIuXQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/PHPMusic)
-* Social:
+- Social:
   - [Facebook](https://fb.com/PressHitPlay)
   - [Instagram](https://www.instagram.com/presshitplay)
   - [Twitter](https://twitter.com/PressHitPlay)
@@ -943,10 +943,10 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### MNL48 {#mnl48-bmq1rojidffVUMuLN}
 
-* Baybayin: ᜋᜈᜒᜎ48
-* Also known as: Manila48
-* Fandom name: MNLoves
-* Debut: 2018-06-03
+- Baybayin: ᜋᜈᜒᜎ48
+- Also known as: Manila48
+- Fandom name: MNLoves
+- Debut: 2018-06-03
   - Song: 「Aitakatta — Gustong Makita」 (Tagalog version of 「会いたかった」 (I Want to Meet You); original by ***AKB48*** in 2006)
 
 {{< video
@@ -961,7 +961,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/MNL48Official"
 >}}
 
-* First original: 2020-12-23
+- First original: 2020-12-23
   - Song: 「HASHLOVE」
 
 {{< video
@@ -976,35 +976,35 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/MNL48Official"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Ikaw Ang Melody」 [^mnl48-songs-ikaw-ang-melody] (Tagalog version of 「君はメロディー」 (Kimi wa Melody); original by ***AKB48*** in 2017)
   - 「Pag-ibig Fortune Cookie」 [^mnl48-songs-pag-ibig-fortune-cookie] (Tagalog version of 「恋するフォーチュンクッキー」 (Koi Suru Fortune Cookie); original by ***AKB48*** in 2014)
   - 「Gingham Check」 [^mnl48-songs-gingham-check] (Tagalog version of 「ギンガムチェック」 (Gingham Check); original by ***AKB48*** in 2012)
   - 「Palusot Ko'y Maybe」 [^mnl48-songs-palusot-ko-ay-maybe] (Tagalog version of 「言い訳Maybe」 (Iiwake Maybe); original by ***AKB48*** in 2009)
-* Did you know?
+- Did you know?
   - ***MNL48*** is the only ***AKB48*** sister group which debuted with exactly 48 members. [^mnl48-wikipedia-48-debut]
   - ***MNL48*** is ***AKB48***'s third International sister group.
   - The ***MNL48*** Theater is located on the ground floor of Eton Centris Mall along Quezon Avenue, Quezon City, Philippines.
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/6728824-MNL48)
   - [ISNI](https://isni.org/isni/0000000476292935)
   - [MusicBrainz](https://musicbrainz.org/artist/688f3daf-cf2c-4cdc-92b3-07d628694d5e)
   - [Wikidata](https://www.wikidata.org/wiki/Q23592670)
   - YourOnly.One MD: bmq1rojidffVUMuLN
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/mnl48/1435457843)
   - [deezer](https://www.deezer.com/artist/51960862)
   - [LINE MUSIC](https://music.line.me/artist/mi000000000f886391)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2398383)
   - [Spotify](https://open.spotify.com/artist/0vnvkzyrIHCyhTUdp3yjcu)
   - [YouTube Music](https://music.youtube.com/channel/UCclTDcmwRg47pASBQUdK5GQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/MNL48Official)
-* Social:
+- Social:
   - [Facebook](https://fb.com/mnl48official)
   - [Instagram](https://www.instagram.com/mnl48official)
   - [Twitter](https://twitter.com/mnl48official)
-* More:
+- More:
   - [Website](https://mnl48.ph)
   - [Wikipedia](https://en.wikipedia.org/wiki/MNL48)
 
@@ -1016,10 +1016,10 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 #### BABY BLUE {#baby-blue-v2CcBsBhIRE3d2cJr}
 
-* Kana: ベイビーブルー
-* A subgroup of ***[MNL48]({{< ref "/ppop-3rd-gen.md#mnl48" >}} "MNL48")***.
-* Fandom name: Baby Love
-* Debut: 2020-09-17
+- Kana: ベイビーブルー
+- A subgroup of ***[MNL48]({{< ref "/ppop-3rd-gen.md#mnl48" >}} "MNL48")***.
+- Fandom name: Baby Love
+- Debut: 2020-09-17
   - Song: 「Sweet Talking Sugar」
 
 {{< video
@@ -1034,33 +1034,33 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/MNL48Official"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「NEGASTAR」 [^mnl48-baby-blue-songs-negastar]
   - 「Stuck On You」 [^mnl48-baby-blue-songs-stuck-on-you]
   - 「HEAD UP」 [^mnl48-baby-blue-songs-head-up]
-* Did you know?
+- Did you know?
   - ***BABY BLUE*** is ***[MNL48]({{< ref "/ppop-3rd-gen.md#mnl48" >}} "MNL48")***'s first subgroup.
   - This trio group concentrates on hip hop and R&B.
   - The subgroup is actively promoted in Japan, with its own Japanese profile and official Japanese social media accounts.
-* Authority control:
+- Authority control:
   - [MusicBrainz](https://musicbrainz.org/artist/883b5b9c-aaf5-477f-ac05-b4e5af5e27f2)
   - [Wikidata](https://www.wikidata.org/wiki/Q106687463)
   - YourOnly.One MD: v2CcBsBhIRE3d2cJr
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/baby-blue/1530327377)
   - [deezer](https://www.deezer.com/artist/605424)
   - [LINE MUSIC](https://music.line.me/artist/mi00000000141a2635)
   - [Spotify](https://open.spotify.com/artist/5CiDS3y9tuRT9571feFTRT)
   - [YouTube Music](https://music.youtube.com/channel/UCkjCDPeNGdDLqxsQFJI46pA) (main YTM profile)
   - [YouTube Music](https://music.youtube.com/channel/UC6znLzb8tKIcu_b-8GOoX4g) (generic YTM profile for all artists named "Baby Blue"; other songs of *Baby Blue* were incorrectly credited under this)
-* Video streaming:
+- Video streaming:
   - [TikTok](https://www.tiktok.com/@babyblue_mnl48official)
   - [YouTube](https://www.youtube.com/channel/UCXtV71mXDHM3Kjo13i9xsug)
-* Social:
+- Social:
   - [FANNEL](https://fannel.app/performers/66/)
   - [Instagram](https://www.instagram.com/babyblueph_official)
   - [Twitter](https://twitter.com/BabyBlue_HHE)
-* More:
+- More:
   - [Website](https://www.babyblueofficial.com)
   - [Wikipedia](https://en.wikipedia.org/wiki/MNL48#BABY_BLUE_sub-unit_formation)
 
@@ -1070,9 +1070,9 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### SB19 {#sb19-mqzQERzDyPvlgNc8j}
 
-* Also known as: SoundBreak19
-* Fandom name: A'tin
-* Debut: 2018-10-26
+- Also known as: SoundBreak19
+- Fandom name: A'tin
+- Debut: 2018-10-26
   - Song: 「Tilaluha」
 
 {{< video
@@ -1087,34 +1087,34 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/channel/UCm4v7afBTnJKRm4SlfHJzyg"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Go Up」 [^sb19-songs-go-up]
   - 「Alab (Burning)」 [^sb19-songs-alab-burning]
-* Did you know?
+- Did you know?
   - ***SB19*** is the first Filipino boy group trained by a Korean entertainment company to debut in the Philippines.
   - They were the first Filipino and Southeast Asian act nominated in the Billboard Music Awards for the Top Social Artist category. [^sb19-billboard-2021-billboard-music-awards]
   - The first Southeast Asian act to enter the top 10 Billboard Social 50 weekly and year-end charts. [^sb19-abscbn-billboard]
   - 「Go Up」 was the group's "last shot" as they agreed they will disband if their careers will still not progress after its release. However, a fan shared their practice video in Twitter and Facebook which gained attention. [^sb19-abscbn-last-shot]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/7569514-SB19)
   - [ISNI](https://isni.org/isni/0000000483643158)
   - [MusicBrainz](https://musicbrainz.org/artist/9252ca18-015c-484c-ae59-5670784887d3)
   - [Wikidata](https://www.wikidata.org/wiki/Q75905366)
   - YourOnly.One MD: mqzQERzDyPvlgNc8j
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/sb19/1439702222)
   - [deezer](https://www.deezer.com/artist/52961842)
   - [LINE MUSIC](https://music.line.me/artist/mi00000000122520c6)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2764442)
   - [Spotify](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP)
   - [YouTube Music](https://music.youtube.com/channel/UC-YygbRRLygpuwCOOnOcn7g)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UCm4v7afBTnJKRm4SlfHJzyg)
-* Social:
+- Social:
   - [Facebook](https://fb.com/SB19Official)
   - [Instagram](https://www.instagram.com/officialsb19)
   - [Twitter](https://twitter.com/SB19Official)
-* More:
+- More:
   - [Website](https://sb19official.com)
   - [Wikipedia](https://en.wikipedia.org/wiki/SB19)
 
@@ -1126,8 +1126,8 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 
 ### Alex Bruce {#alex-bruce-rbe7Ike4weo8IviZk}
 
-* Fandom name: BLEXIE
-* Debut: 2018-11-09
+- Fandom name: BLEXIE
+- Debut: 2018-11-09
   - Song: 「Mind As A Weapon」
 
 {{< video
@@ -1143,33 +1143,31 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/AlexBruceOFFICIAL"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Yakap」 [^alex-bruce-songs-yakap]
-* Authority control:
+- Authority control:
   - YourOnly.One MD: rbe7Ike4weo8IviZk
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/alex-bruce/1464491463)
   - [deezer](https://www.deezer.com/artist/54276092)
   - [LINE MUSIC](https://music.line.me/artist/mi0000000010bcb2e4)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2855303)
   - [Spotify](https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX)
   - [YouTube Music](https://music.youtube.com/channel/UCpCxLgcWtveCmeLAH3io9Lw)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/AlexBruceOFFICIAL)
-* Social:
+- Social:
   - [Facebook](https://fb.com/alex.bruce.vison)
   - [Instagram](https://www.instagram.com/thurstenalexbruce)
   - [Twitter](https://twitter.com/AlexThurstenB)
 
 [^alex-bruce-songs-yakap]: [Alex Bruce] YouTube: 「[Yakap](https://www.youtube.com/watch?v=0qwemvQhfGw "Alex Bruce: Yakap")」
 
-## 2019
-
 ### PPOP Generation {#ppop-generation-67YhrH694Bg7xPdVW}
 
-* Also known as: PPop Gen; Boom Ganda!
-* Fandom name: Armies
-* Debut: 2018-12-03
+- Also known as: PPop Gen; Boom Ganda!
+- Fandom name: Armies
+- Debut: 2018-12-03
 
 {{< video
   id="0i6R9DpIZww"
@@ -1183,37 +1181,37 @@ This was also when the *Philippine idol industry* started with the debut of ***X
   attriburl="https://www.youtube.com/PPopGeneration"
 >}}
 
-* First original: 2019-02-20
+- First original: 2019-02-20
   - Song: 「Boom Ganda」
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_magenta" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 As of 2022-02-14, embed for the official music video is disabled. If this has been fixed, please leave a comment below and we will embed it.
 {{% /sembox %}}
 
-* Sample songs:
+- Sample songs:
   - 「Ikaw At Ako」 [^ppop-generation-songs-ikaw-at-ako]
   - 「Hanap-hanap」 [^ppop-generation-songs-hanap-hanap]
   - 「Ikaw Na」 [^ppop-generation-songs-ikaw-na]
-* Did you know?
+- Did you know?
   - ***PPOP Generation*** debuted with 45 members.
   - The ***PPOP Generation*** Theater is located at Teatrino, Greenhills, San Juan City, Philippines.
-* Authority control:
+- Authority control:
   - [ISNI](https://isni.org/isni/0000000491328887)
   - [MusicBrainz](https://musicbrainz.org/artist/e7e1f85e-c024-4c56-8180-4cd300086cd2)
   - YourOnly.One MD: 67YhrH694Bg7xPdVW
-* Audio streaming:
+- Audio streaming:
   - [Apple Musoc](https://music.apple.com/artist/ppop-generation/1459855855)
   - [deezer](https://www.deezer.com/artist/63625472)
   - [LINE MUSIC](https://music.line.me/artist/mi00000000109b30a8)
   - [Spotify](https://open.spotify.com/artist/4NHlnx82LiM2mfLvcevHnL)
   - [YouTube Music](https://music.youtube.com/channel/UCcW8hplFgM03y3jmiuZBMoA)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/PPopGeneration)
-* Social:
+- Social:
   - [Facebook](https://fb.com/PPopGeneration)
   - [Instagram](https://www.instagram.com/ppopgeneration)
   - [Twitter](https://twitter.com/PPopGen)
-* More:
+- More:
   - [Website](https://www.ppopgen.ph)
 
 [^ppop-generation-songs-ikaw-at-ako]: [PPOP Generation] YouTube: 「[Ikaw At Ako](https://www.youtube.com/watch?v=2bUCQos0_iA "PPOP Generation: Ikaw At Ako")」

@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/PeerTube.svg"
 draft = "true"
 +++
 
-<a href="https://peertube.social/video-channels/yugenbard" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">PeerTube</a>
+[PeerTube](https://peertube.social/video-channels/yugenbard "PeerTube")

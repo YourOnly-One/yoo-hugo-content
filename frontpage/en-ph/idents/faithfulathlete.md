@@ -10,4 +10,4 @@ weight = "31"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/faithfulathlete/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">The Faithful Athlete</a>™
+[The Faithful Athlete](https://im.youronly.one/faithfulathlete/ "The Faithful Athlete")

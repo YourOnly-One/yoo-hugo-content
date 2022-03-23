@@ -9,4 +9,4 @@ image = "https://rsc.youronly.one/img/logos/MyAnimeList.webp"
 #metarobots = "noindex"
 +++
 
-<a href="https://myanimelist.net/profile/YourOnlyOne" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">MyAnimeList</a>
+[MyAnimeList](https://myanimelist.net/profile/YourOnlyOne "MyAnimeList")

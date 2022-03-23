@@ -10,4 +10,4 @@ weight = "12"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/way/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">The Natsari Way</a>™
+[Way of Believers](https://im.youronly.one/way/ "Way of Believers")

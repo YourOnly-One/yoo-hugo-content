@@ -10,4 +10,4 @@ weight = "11"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/yuki/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">The YOOki (柳紀 ・ 유 기) Chronicles</a>™
+[The YOOki (柳紀 ・ 유 기) Chronicles™](https://im.youronly.one/yuki/ "The YOOki (柳紀 ・ 유 기) Chronicles™")

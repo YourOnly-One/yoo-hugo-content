@@ -9,4 +9,4 @@ image = "https://rsc.youronly.one/img/assets/Writing.webp"
 #metarobots = "noindex"
 +++
 
-<a href="https://www.fictionpress.com/~yugenbard" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">FictionPress</a>
+[FictionPress](https://www.fictionpress.com/~yugenbard "FictionPress")

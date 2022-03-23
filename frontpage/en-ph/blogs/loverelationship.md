@@ -10,4 +10,4 @@ weight = "23"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/love/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">YourOnly.One™ Love &amp; Relationship™</a>
+[YourOnly.One™ Love & Relationship](https://im.youronly.one/love/ "YourOnly.One™ Love & Relationship")

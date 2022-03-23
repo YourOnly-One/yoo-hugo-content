@@ -10,4 +10,4 @@ weight = "43"
 #metarobots = "noindex"
 +++
 
-<a href="https://facebook.com/YourOnly.ONE.ofcl" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Facebook</a>
+[Facebook](https://facebook.com/YourOnly.ONE.ofcl "Facebook")

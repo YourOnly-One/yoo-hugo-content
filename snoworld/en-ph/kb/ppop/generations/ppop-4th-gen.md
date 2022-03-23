@@ -55,17 +55,17 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_yellow" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 
-* This list is in no way complete.
-* Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
+- This list is in no way complete.
+- Arranged in chronological order of debut (first performance and/or song/video release, whichever is earliest)
 {{% /sembox %}}
 
 ## 2020
 
 ### Eight (f. Clover) {#eight-QlIO7X6zXXHdLE4R8}
 
-* Also known as: 8
-* Fandom name: Lucky Charm (as ***Clover***)
-* Debut: 2020-03-05 (as ***Clover***)
+- Also known as: 8
+- Fandom name: Lucky Charm (as ***Clover***)
+- Debut: 2020-03-05 (as ***Clover***)
   - Song: 「Mamma Mia」 (「맘마미아」) (original by ***[KARA]({{< ref "/kpop-2nd-gen.md#kara" >}} "KARA")***)
 
 {{< video
@@ -81,27 +81,27 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/WeAreClover"
 >}}
 
-* Debut: 2022 (as ***Eight***)
+- Debut: 2022 (as ***Eight***)
   - Song: tba
 
-* Sample songs:
+- Sample songs:
   - 「Kumakabog-kabog (Pounding Heart)」 [^clover-songs-kumakabog-kabog] (Tagalog remix of 「맘이맘이」 (「Mammy Mammy」); original by ***[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")***)
-* Did you know?
+- Did you know?
   - As ***Clover*** they were the first all-Filipino group under a Korean entertainment company to debut in the Philippines.
-* Authority control:
+- Authority control:
   - [ISNI (Clover)](https://isni.org/isni/0000000491337724)
   - [MusicBrainz (Clover)](https://musicbrainz.org/artist/ac24db40-300a-4db5-874f-df838273a894)
   - YourOnly.One MD: QlIO7X6zXXHdLE4R8
-* Audio streaming:
+- Audio streaming:
   - [Apple Music (Clover)](https://music.apple.com/artist/clover/1502388004)
   - [deezer (Clover)](https://www.deezer.com/artist/403124)
   - [LINE MUSIC (Clover)](https://music.line.me/artist/mi000000001281330a)
   - [Melon (Clover)](https://www.melon.com/artist/timeline.htm?artistId=2861226)
   - [Spotify (Clover)](https://open.spotify.com/artist/0JrLCZrykBBsryxSTpkrfK)
-* Video streaming:
+- Video streaming:
   - [YouTube (Eight)](https://www.youtube.com/channel/UC9Mc0PYz3Q1O6e4hz_A1nKA)
   - [YouTube (Clover)](https://www.youtube.com/WeAreClover)
-* Social:
+- Social:
   - [Facebook](https://fb.com/infinityeightofficial)
   - [Instagram](https://www.instagram.com/infinityeightofficial)
   - [Twitter](https://twitter.com/8EightOfficial)
@@ -110,9 +110,9 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 ### 1st.One {#1st-one-MNvUmzVR7AStxbtQp}
 
-* Baybayin: ᜂᜈ
-* Fandom name: FOR.ONE
-* Debut: 2020-04-03
+- Baybayin: ᜂᜈ
+- Fandom name: FOR.ONE
+- Debut: 2020-04-03
   - Song: 「One Dream」
 
 {{< video
@@ -127,25 +127,25 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/FirstOneOfficial"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Ttak Maja Nuh (You Are The One)」 [^1st-one-songs-ttak-maja-nuh]
   - 「OH!」 [^1st-one-songs-oh]
   - 「Shout Out」 [^1st-one-songs-shout-out]
-* Did you know?
+- Did you know?
   - ***1st.One*** is the first P-pop idol to perform in the 2020 Music Awards in Korea.
   - Grand winner of the Seoul Music Awards Philippines Dance To Our Seoul 2019.
-* Authority control:
+- Authority control:
   - [ISNI](https://isni.org/isni/0000000492545795)
   - [MusicBrainz](https://musicbrainz.org/artist/e9997930-5c45-4185-a1b0-cbf9a26e8a94)
   - YourOnly.One MD: MNvUmzVR7AStxbtQp
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/1st-one/1525295134)
   - [deezer](https://www.deezer.com/artist/102158142)
   - [Spotify](https://open.spotify.com/artist/5g5wJnaaHrEjCUHeN5Aiwk)
   - [YouTube Music](https://music.youtube.com/channel/UC2uLg6gyKRJ_ALWnYRDLugw)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/FirstOneOfficial)
-* Social:
+- Social:
   - [Facebook](https://fb.com/1st.oneofc)
   - [Instagram](https://www.instagram.com/1st.oneofficial)
   - [Twitter](https://twitter.com/1stoneOfficial)
@@ -156,10 +156,10 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 ### BINI {#bini-X4e7qCdOc1kH9wCeu}
 
-* Baybayin: ᜊᜒᜈᜒ
-* Also known as: SHA Girls; Star Hunt Academy Girls
-* Fandom name: BL∞M(S); BLOOM(S)
-* Debut: 2020-11-20
+- Baybayin: ᜊᜒᜈᜒ
+- Also known as: SHA Girls; Star Hunt Academy Girls
+- Fandom name: BL∞M(S); BLOOM(S)
+- Debut: 2020-11-20
   - Song: 「Da Coconut Nut」 (original by ***Smokey Mountain*** in 1991)
 
 {{< video
@@ -174,7 +174,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/BINIPH"
 >}}
 
-* First original: 2021-06-11
+- First original: 2021-06-11
   - Song: 「Born To Win」
 
 {{< video
@@ -189,32 +189,32 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/BINIPH"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Born To Win」
-    * Japanese [^bini-songs-born-to-win-japanese]
-    * Thai [^bini-songs-born-to-win-thai]
-    * Bahasa Indonesia [^bini-songs-born-to-win-bahasa-indonesia]
-    * Spanish [^bini-songs-born-to-win-spanish]
+    - Japanese [^bini-songs-born-to-win-japanese]
+    - Thai [^bini-songs-born-to-win-thai]
+    - Bahasa Indonesia [^bini-songs-born-to-win-bahasa-indonesia]
+    - Spanish [^bini-songs-born-to-win-spanish]
   - 「Na Na Na」 [^bini-songs-na-na-na]
   - 「8」 [^bini-songs-8]
   - 「Here With You」 [^bini-songs-here-with-you]
   - 「Kapit Lang」 [^bini-songs-kapit-lang]
-* Authority control:
+- Authority control:
   - [MusicBrainz](https://musicbrainz.org/artist/9e5e47a9-4fb0-4772-a11a-26a2e2e28671)
   - [Wikidata](https://www.wikidata.org/wiki/Q29966238)
   - YourOnly.One MD: X4e7qCdOc1kH9wCeu
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/bini/1542236646)
   - [deezer](https://www.deezer.com/artist/3813751)
   - [Spotify](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga)
   - [YouTube Music](https://music.youtube.com/channel/UC_hHN8w3v5AvhJ-krvylfiQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/BINIPH)
-* Social:
+- Social:
   - [Facebook](https://fb.com/BINIph.official)
   - [Instagram](https://www.instagram.com/bini_ph)
   - [Twitter](https://twitter.com/bini_ph)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Bini_(group))
 
 [^bini-songs-born-to-win-japanese]: [BINI] YouTube: 「[Born To Win](https://www.youtube.com/watch?v=Q-ylUq3-a50 "BINI: Born To Win (Japanese)")」 (Japanese)
@@ -228,8 +228,8 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 ### Morning After {#morning-after-1pIfcr93zP9LSVpWO}
 
-* Fandom name:
-* Debut: 2020-12-15
+- Fandom name:
+- Debut: 2020-12-15
   - Song: 「Chino」
 
 {{< video
@@ -244,20 +244,20 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/channel/UC7oGwmgGQI5Pt1hXBKkbf5g"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「HIRAYA」 [^morning-after-songs-hiraya]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/10266397-Morning-After-10)
   - YourOnly.One MD: 1pIfcr93zP9LSVpWO
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/morning-after/1542316732)
   - [deezer](https://www.deezer.com/artist/117265)
   - [LINE MUSIC](https://music.line.me/artist/mi00000000143384f9)
   - [Spotify](https://open.spotify.com/artist/0COdFByZShouhAnOk4hOBr)
   - [YouTube Music](https://music.youtube.com/channel/UCwLNKQOPQv7BXXM_5VhZLMQ)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UCrkCT4txBig8mK6Uisz8uLA)
-* Social:
+- Social:
   - [Facebook](https://fb.com/MorningAfterPH)
   - [Instagram](https://www.instagram.com/morningafterph)
   - [Twitter](https://twitter.com/morningafterph)
@@ -268,8 +268,8 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 ### Z1ON {#z1on-egS4IKtQtBagsfQeh}
 
-* Fandom name:
-* Debut: 2021-03-27
+- Fandom name:
+- Debut: 2021-03-27
   - Song: 「Baliktanaw」
 
 {{< video
@@ -284,25 +284,25 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/channel/UCRs21A_EEZjC09ljdSwrfhg"
 >}}
 
-* Authority control:
+- Authority control:
   - YourOnly.One MD: egS4IKtQtBagsfQeh
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/z1on/1548094683)
   - [deezer](https://www.deezer.com/artist/52952152)
   - [Spotify](https://open.spotify.com/artist/3wsaGk75UD4cjCHiIdLlvR)
   - [YouTube Music](https://music.youtube.com/channel/UCSUc8vk67dtjPsmKMxCJAsA)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UCQWkDMLR_DgB03ZkJbEd3vg)
-* Social:
+- Social:
   - [Facebook](https://fb.com/officialZ1ON)
   - [Instagram](https://www.instagram.com/officialz10n)
   - [Twitter](https://twitter.com/Official_Z10N)
 
 #### Z1ON 56 {#z1on-56-bxi9PQdgg0ETdTmIx}
 
-* A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
-* Fandom name:
-* Debut: 2020-12-31
+- A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
+- Fandom name:
+- Debut: 2020-12-31
   - Song: 「Home」
 
 {{< video
@@ -317,14 +317,14 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/channel/UCRs21A_EEZjC09ljdSwrfhg"
 >}}
 
-* Authority control:
+- Authority control:
   - YourOnly.One MD: bxi9PQdgg0ETdTmIx
 
 #### Z1ON M {#z1on-m-DsNaMmYv7DCv5P9D4}
 
-* A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
-* Fandom name:
-* Debut: 2021-05-26
+- A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
+- Fandom name:
+- Debut: 2021-05-26
   - Song: 「All Again」
 
 {{< video
@@ -339,15 +339,15 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/channel/UCRs21A_EEZjC09ljdSwrfhg"
 >}}
 
-* Authority control:
+- Authority control:
   - YourOnly.One MD: DsNaMmYv7DCv5P9D4
 
 ### BGYO {#bgyo-snBxdV61Q48vQBXpZ}
 
-* Baybayin: ᜊᜄ᜔ᜌᜓ
-* Also known as: SHA Boys; Star Hunt Academy Boys
-* Fandom name: Ace
-* Debut: 2021-01-29
+- Baybayin: ᜊᜄ᜔ᜌᜓ
+- Also known as: SHA Boys; Star Hunt Academy Boys
+- Fandom name: Ace
+- Debut: 2021-01-29
   - Song: 「The Light」
 
 {{< video
@@ -362,39 +362,39 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   attriburl="https://www.youtube.com/BGYOofficial"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「The Light」
-    * Japanese [^bgyo-songs-the-light-japanese]
-    * Thai [^bgyo-songs-the-light-thai]
-    * Bahasa Indonesia [^bgyo-songs-the-light-bahasa-indonesia]
-    * Spanish [^bgyo-songs-the-light-spanish]
+    - Japanese [^bgyo-songs-the-light-japanese]
+    - Thai [^bgyo-songs-the-light-thai]
+    - Bahasa Indonesia [^bgyo-songs-the-light-bahasa-indonesia]
+    - Spanish [^bgyo-songs-the-light-spanish]
   - 「Kundiman」 [^bgyo-songs-kundiman]
   - 「When I'm With You」 [^bgyo-songs-when-im-with-you]
   - 「He's Into Her」 [^bgyo-songs-he-is-into-her] OST for a Filipino movie of the same name
-* Did you know?
+- Did you know?
   - ***BGYO*** is the first Pinoy act to rank #1 in the weekly Billboard Next Big Sound chart. [^bgyo-wikipedia-billboard]
   - They are the fifth act to appear in the weekly Billboard Next Big Sound chart. [^bgyo-wikipedia-billboard]
-* Authority control:
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/9225403-BGYO)
   - [ISNI](https://isni.org/isni/0000000502532868)
   - [MusicBrainz](https://musicbrainz.org/artist/c4370b5a-3c04-4c4c-ac87-aa194c76f1d0)
   - [Wikidata](https://www.wikidata.org/wiki/Q104838739)
   - YourOnly.One MD: snBxdV61Q48vQBXpZ
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/bgyo/1549491522)
   - [deezer](https://www.deezer.com/artist/120338632)
   - [LINE MUSIC](https://music.line.me/artist/mi0000000014ca652a)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2923156)
   - [Spotify](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8)
   - [YouTube Music](https://music.youtube.com/watch?v=VluVKlzDkik)
-* Video streaming:
+- Video streaming:
   - [TikTok](https://www.tiktok.com/@officialbgyo)
   - [YouTube](https://www.youtube.com/BGYOofficial)
-* Social:
+- Social:
   - [Facebook](https://fb.com/BGYO.PH)
   - [Instagram](https://www.instagram.com/BGYO_PH)
   - [Twitter](https://twitter.com/BGYO_PH)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/BGYO)
 
 [^bgyo-songs-the-light-japanese]: [BGYO] YouTube: 「[The Light](https://www.youtube.com/watch?v=bGCfVunS20Y "BGYO: The Light (Japanese)")」 (Japanese)
@@ -408,28 +408,28 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 ### LUNA {#luna-jD7oka1R8mdJ32n0h}
 
-* Baybayin: ᜎᜓᜈ
-* Fandom name: ᜆᜎ (TALA)
-* Debut: 2021-01-30
+- Baybayin: ᜎᜓᜈ
+- Fandom name: ᜆᜎ (TALA)
+- Debut: 2021-01-30
   - Song: 「Ako Naman」 [^luna-songs-ako-naman]
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_magenta" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 As of 2022-02-14, embed for the official music video is disabled. If this has been fixed, please leave a comment below and we will embed it.
 {{% /sembox %}}
 
-* Sample songs:
+- Sample songs:
   - 「La Luna」 [^luna-songs-la-luna]
   - 「Paulit-ulit」 [^luna-songs-paulit-ulit]
-* Authority control:
+- Authority control:
   - YourOnly.One MD: jD7oka1R8mdJ32n0h
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/luna-ph/1551544224)
   - [deezer](https://www.deezer.com/artist/121932732)
   - [Spotify](https://open.spotify.com/artist/50E2JPdpIpS4IFMlgaG0Ht)
   - [YouTube Music](https://music.youtube.com/channel/UCOfeAbO1y6G74xuHyIVmEJA)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://youtube.com/LunaOfficialPH)
-* Social:
+- Social:
   - [Facebook](https://facebook.com/ofclunaph)
   - [Instagram](https://instagram.com/ofclunaph)
   - [Twitter](https://twitter.com/ofclunaph)
@@ -440,9 +440,9 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
 ### Alamat {#alamat-PnnIuDnxVzlaRbsLg}
 
-* Baybayin: ᜀᜎᜋᜆ᜔
-* Fandom name: ᜋᜄᜒᜎᜒᜏ᜔ (Magiliw)
-* Debut: 2021-02-14
+- Baybayin: ᜀᜎᜋᜆ᜔
+- Fandom name: ᜋᜄᜒᜎᜒᜏ᜔ (Magiliw)
+- Debut: 2021-02-14
   - Song: 「kbye」
 
 {{< video
@@ -457,35 +457,35 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   attriburl="https://www.youtube.com/ALAMAT"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Sandigan」 [^alamat-songs-sandigan] OST for 「Anitu」 comic book series
   - 「kasmala」 [^alamat-songs-kasmala]
-* Did you know?
+- Did you know?
   - ***Alamat*** is a multi-ethnic and multilingual group. They have members from and sings in Tagalog, Ilokano, Kapampangan, Cebuano, Hiligaynon, Bikolano, and Waray.
   - They are the second P-pop act to make it in the Billboard Next Big Sound chart.
   - Fastest rising Pinoy act on the Billboard Next Big Sound chart. [^alamat-inquirer-billboard]
   - Reached #2 in the Billboard Next Big Sound chart on their debut. [^alamat-manila-bulletin-billboard]
   - The music video for 「kasmala」 tells the story of colonialism, dehumanisation of, and racism against Filipinos.
-    * It makes use of a real event in April 1904 St. Louis World Fair where the organizers brought Filipino natives in America and displayed them as if they were animals in a zoo. [^alamat-nylon-manila-alamat-takes-on-colonialism]
-* Authority control:
+    - It makes use of a real event in April 1904 St. Louis World Fair where the organizers brought Filipino natives in America and displayed them as if they were animals in a zoo. [^alamat-nylon-manila-alamat-takes-on-colonialism]
+- Authority control:
   - [Discogs](https://www.discogs.com/artist/5961818-Alamat)
   - [ISNI](https://isni.org/isni/0000000502574742)
   - [MusicBrainz](https://musicbrainz.org/artist/7a2d2caa-a8aa-41d7-80c0-d650fec97735)
   - [Wikidata](https://www.wikidata.org/wiki/Q106179009)
   - YourOnly.One MD: PnnIuDnxVzlaRbsLg
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/alamat/1552893175)
   - [deezer](https://www.deezer.com/artist/122878032)
   - [LINE MUSIC](https://music.line.me/artist/mi000000001511292f)
   - [Spotify](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW)
   - [YouTube Music](https://music.youtube.com/channel/UCehu3G2f82Lec_mz4qGvHhg)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/ALAMAT)
-* Social:
+- Social:
   - [Facebook](https://fb.com/official.alamat)
   - [Instagram](https://www.instagram.com/alamat_official)
   - [Twitter](https://twitter.com/Official_ALAMAT)
-* More:
+- More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Alamat_(band))
 
 [^alamat-songs-sandigan]: [Alamat] YouTube: 「[Sandigan](https://www.youtube.com/watch?v=xA_xo_I8B64 "Alamat: Sandigan OST")」 OST for 「Anitu」
@@ -496,8 +496,8 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
 ### DAYDREAM {#daydream-hULs4UOwDswrZCY7A}
 
-* Fandom name: Dreamies
-* Debut: 2021-04-29
+- Fandom name: Dreamies
+- Debut: 2021-04-29
   - Song: 「Fallin' 4 U」
 
 {{< video
@@ -512,20 +512,20 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   attriburl="https://www.youtube.com/channel/UCvdR4DXnL-6lJlHiSMUDnFw"
 >}}
 
-* Sample songs:
+- Sample songs:
   - 「Lumayo」 [^daydream-songs-lumayo]
-* Authority control:
+- Authority control:
   - [ISNI](https://isni.org/isni/0000000503651121)
   - YourOnly.One MD: hULs4UOwDswrZCY7A
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/daydream/1500173421)
   - [deezer](https://www.deezer.com/artist/83041)
   - [Melon](https://www.melon.com/artist/timeline.htm?artistId=2936573)
   - [Spotify](https://open.spotify.com/artist/2faj7edIfsj1CYzYFeoaqp)
   - [YouTube Music](https://music.youtube.com/channel/UC6xK113NPXNKFzjx9c4KCRA)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UCv6_LQ95Ye1PPZV24isuwhA)
-* Social:
+- Social:
   - [Facebook](https://fb.com/wearedaydreamph)
   - [Instagram](https://www.instagram.com/wearedaydreamph)
   - [Twitter](https://twitter.com/wearedaydreamph)
@@ -534,10 +534,10 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
 ### LITZ {#litz-7Ygv3xz7yMGwNtP50}
 
-* Baybayin: ᜎᜒᜆ᜔ᜐ᜔
-* Also known as: Life In The Sunshine
-* Fandom name:
-* Debut: 2021-11-11
+- Baybayin: ᜎᜒᜆ᜔ᜐ᜔
+- Also known as: Life In The Sunshine
+- Fandom name:
+- Debut: 2021-11-11
   - Song: 「Natataranta」 OST for 「Kinsenas Katapusan」
 
 {{< video
@@ -552,26 +552,26 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   attriburl="https://www.youtube.com/channel/UC8t-kcVUNQhY6Nh5D8Q00WQ"
 >}}
 
-* Authority control:
+- Authority control:
   - YourOnly.One MD: 7Ygv3xz7yMGwNtP50
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/litz/1541184479)
   - [deezer](https://www.deezer.com/artist/1289368)
   - [LINE MUSIC](https://music.line.me/webapp/artist/mi000000001774f1fa)
   - [Spotify](https://open.spotify.com/artist/4puDjfTjBZclfWanEoyf8z)
   - [YouTube Music](https://music.youtube.com/channel/UC3gZItZ4NmHMQ11ip2NVM9g)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UC8t-kcVUNQhY6Nh5D8Q00WQ)
-* Social:
+- Social:
   - [Facebook](https://fb.com/officiallitz)
   - [Instagram](https://www.instagram.com/litz_official)
   - [Twitter](https://twitter.com/official_litz)
 
 ### KAIA {#kaia-Rl1E8LjUZWdhfvRvC}
 
-* Baybayin: ᜃᜌ
-* Fandom name:
-* Debut: 2021-12-10
+- Baybayin: ᜃᜌ
+- Fandom name:
+- Debut: 2021-12-10
   - Song: 「KAYA」
 
 {{< video
@@ -586,9 +586,9 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   attriburl="https://www.youtube.com/channel/UCdjyExLaRqAL7V684N8bayQ"
 >}}
 
-* Authority control:
+- Authority control:
   - YourOnly.One MD: Rl1E8LjUZWdhfvRvC
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/kaia/1598737749)
   - [deezer](https://www.deezer.com/artist/804898)
   - [LINE MUSIC](https://music.line.me/artist/mi0000000017a3ea42)
@@ -596,9 +596,9 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   - [napster](https://www.napster.com/artist/kaia)
   - [Spotify](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy)
   - [YouTube Music](https://music.youtube.com/channel/UCUV1UnWgpT9vD7utLB-UO5g)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/channel/UCdjyExLaRqAL7V684N8bayQ)
-* Social:
+- Social:
   - [Facebook](https://fb.com/OfficialKAIA)
   - [Instagram](https://www.instagram.com/kaia.officialph) (promotions and updates)
   - [Instagram](https://www.instagram.com/kaia.members) (members)
@@ -609,9 +609,9 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
 ### VXON {#vxon-TJjw9yR487nuvrWYj}
 
-* Also known as: Vision
-* Fandom name: VIXIES
-* Debut: 2022-01-07
+- Also known as: Vision
+- Fandom name: VIXIES
+- Debut: 2022-01-07
   - Song: 「The Beast」
 
 {{< video
@@ -627,18 +627,18 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   attriburl="https://www.youtube.com/VXONOfficial"
 >}}
 
-* Authority control:
+- Authority control:
   - [Wikidata](https://www.wikidata.org/wiki/Q110515018)
   - YourOnly.One MD: TJjw9yR487nuvrWYj
-* Audio streaming:
+- Audio streaming:
   - [Apple Music](https://music.apple.com/artist/vxon/1599296977)
   - [deezer](https://www.deezer.com/artist/153857062)
   - [LINE MUSIC](https://music.line.me/artist/mi0000000017e46d0a)
   - [Spotify](https://open.spotify.com/artist/03jMNKZ7bfBuHdZUqeJyv7)
   - [YouTube Music](https://music.youtube.com/channel/UCI_65KBdbxeFF1_nUBsBYBA)
-* Video streaming:
+- Video streaming:
   - [YouTube](https://www.youtube.com/VXONOfficial)
-* Social:
+- Social:
   - [Facebook](https://fb.com/vxonofficial)
   - [Instagram](https://www.instagram.com/vxonofficial)
   - [Twitter](https://twitter.com/vxonofficial)

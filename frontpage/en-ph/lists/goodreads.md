@@ -10,4 +10,4 @@ weight = "62"
 #metarobots = "noindex"
 +++
 
-<a href="https://www.goodreads.com/youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Goodreads</a>
+[Goodreads](https://www.goodreads.com/youronlyone "Goodreads")

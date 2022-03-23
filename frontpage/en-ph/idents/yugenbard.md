@@ -10,4 +10,4 @@ weight = "33"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/yugenbard/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">The Yūgen Bard</a>™
+[The Yūgen Bard](https://im.youronly.one/yugenbard/ "The Yūgen Bard")

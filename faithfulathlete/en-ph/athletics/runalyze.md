@@ -9,4 +9,4 @@ image = "https://rsc.youronly.one/img/logos/Runalyze.png"
 #metarobots = "noindex"
 +++
 
-<a href="https://runalyze.com/athlete/yukino" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Runalyze</a>
+[Runalyze](https://runalyze.com/athlete/yukino "Runzalyze")

@@ -89,10 +89,10 @@ If you prefer this approach, there is no harm in it. Think of it as "when did th
 
 With me so far? Based on the above, here are the K-pop music acts per generation:
 
-* [1st Generation: 1992–2001]({{< ref "/kpop-1st-gen.md" >}} "1st Generation K-pop")
-* [2nd Generation: 2002–2011]({{< ref "/kpop-2nd-gen.md" >}} "2nd Generation K-pop")
-* [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
-* [4th Generation: 2022–2031]({{< ref "/kpop-4th-gen.md" >}} "4th Generation K-pop")
+- [1st Generation: 1992–2001]({{< ref "/kpop-1st-gen.md" >}} "1st Generation K-pop")
+- [2nd Generation: 2002–2011]({{< ref "/kpop-2nd-gen.md" >}} "2nd Generation K-pop")
+- [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
+- [4th Generation: 2022–2031]({{< ref "/kpop-4th-gen.md" >}} "4th Generation K-pop")
 
 ### (EXTRA) Border Years: 2001–2002
 
@@ -120,27 +120,27 @@ Is setting the K-pop Generations on 10 *calendar years* the right thing to do? I
 
 Every generation was practically led by a boy group:
 
-* 1st Generation:
+- 1st Generation:
   - Seo Taiji & Boys (1992-04-11)
   - Deux (1993-04-23)
   - Solid (1993-12-15)
 
-* 2nd Generation:
+- 2nd Generation:
   - TVXQ! (2004-01-14)
   - SS501 (2005-06-22)
   - Super Junior (2005-09-11)
 
-* 3rd Generation:
+- 3rd Generation:
   - EXO (2012-04-08)
   - BTS (2013-06-12)
   - GOT7 (2014-01-16)
 
 But by January 1, 2022, when the 4th Generation of K-pop music [acts] started, a major change happened. It was opened by a supergroup of women who *GOT the beat*:
 
-* **BoA** (2000-08-25) (1st Generation)
-* **Taeyeon** and **Hyoyeon** of *Girls' Generation* (2007-08-05) (2nd Generation)
-* **Seulgi** and **Wendy** of *Red Velvet* (2014-08-01) (3rd Generation)
-* **Karina** and **Winter** of *æspa* (2020-11-17) (3rd Generation).
+- **BoA** (2000-08-25) (1st Generation)
+- **Taeyeon** and **Hyoyeon** of *Girls' Generation* (2007-08-05) (2nd Generation)
+- **Seulgi** and **Wendy** of *Red Velvet* (2014-08-01) (3rd Generation)
+- **Karina** and **Winter** of *æspa* (2020-11-17) (3rd Generation).
 
 Which was quickly followed with the debut of *Kep1er* two days later on January 3, 2022.
 

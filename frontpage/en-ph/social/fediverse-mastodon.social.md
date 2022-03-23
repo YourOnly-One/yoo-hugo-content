@@ -10,4 +10,4 @@ weight = "42"
 #metarobots = "noindex"
 +++
 
-<a href="https://mastodon.social/@youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Fediverse: mastodon.social</a>
+[Fediverse: mastodon.social](https://mastodon.social/@youronlyone "Fediverse: mastodon.social")

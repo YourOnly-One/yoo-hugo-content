@@ -104,8 +104,8 @@ type = "article"                                                           # art
 
 이를 염두에 두고 아이돌(솔로 또는 그룹)은 다음과 같은 특성을 가져야 합니다.
 
-* 외모: 아름답고 잘생김
-* 성격:
+- 외모: 아름답고 잘생김
+- 성격:
   - 건전한 이미지
   - 개인의 삶과 의견을 비공개로 유지
   - 순수하고 순수한
@@ -113,16 +113,16 @@ type = "article"                                                           # art
   - 다가가기 쉬운 사람 과 친한
   - 영감
   - 롤 모델
-* 다재다능한 예능인이자 연기자
+- 다재다능한 예능인이자 연기자
   - 가수
   - 댄서
   - 행동할 수 있다
   - 호스트 할 수 있습니다
   - 코미디 [^npr-smap-upped-ante]
-* 댄스 루틴
+- 댄스 루틴
   - 형성 변경
   - 포인트 안무
-* 국가와 문화, 목표 시장에 대해 최고로 긍정적인 사람을 나타냅니다.
+- 국가와 문화, 목표 시장에 대해 최고로 긍정적인 사람을 나타냅니다.
 
 [^npr-smap-upped-ante]: NPR: [Why The Blueprint For K-Pop Actually Came From Japan](https://www.npr.org/2019/01/08/683339743/why-the-blueprint-for-k-pop-actually-came-from-japan "NPR: Why The Blueprint For K-Pop Actually Came From Japan")
 
@@ -151,8 +151,8 @@ type = "article"                                                           # art
 
 그룹이 아이돌로 간주되는 추가 특성이 있습니다. 이것들은:
 
-* 멤버들 각자의 개성과 개성이
-* 구성원은 일반적으로 그룹에서 수행할 역할이 있습니다.
+- 멤버들 각자의 개성과 개성이
+- 구성원은 일반적으로 그룹에서 수행할 역할이 있습니다.
   - 지도자
   - 센터
   - 강렬한 비주얼과 귀여움/쿨
@@ -161,13 +161,13 @@ type = "article"                                                           # art
   - 서브보컬
   - 리드 댄서
   - 메인 댄서
-* 전문성을 갖춘 회원들이 자신의 재능을 뽐내고 있습니다.
+- 전문성을 갖춘 회원들이 자신의 재능을 뽐내고 있습니다.
   - 발성
   - 힙합 / 랩
   - 브레이크 댄스
   - 호스팅
   - 연기
-* 멤버들은 보통 한 곡에 솔로나 듀오 파트를 가지고 있다.
+- 멤버들은 보통 한 곡에 솔로나 듀오 파트를 가지고 있다.
 
 이 형식은 모닝구무스메 (<span lang="ja">モーニング娘</span> / <span lang="ja-Latn">Mōningu Musume</span> / <span lang="en">Morning</span> <span lang="ja-Latn">Musume</span>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] 및 오냥코 클럽 (<span lang="ja">おニャン子クラブ</span> / <span lang="ja-Latn">Onyanko Kurabu</span>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de] 과 같은 일본 아이돌 그룹에서 볼 수 있습니다. 2NE1과 [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] 소녀시대와 [^snsd-songs-gee] [^snsd-songs-genie] 같은 한국 아이돌 그룹에서; 전설 (<span lang="tl">Alamat</span> (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>)) [^alamat-songs-kbye], 비니 (<span lang="tl">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)) [^bini-songs-born-to-win], MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>) [^mnl48-songs-pag-ibig-fortune-cookie] 및 UGG (<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls) [^ugg-songs-kalimot] 와 같은 필리핀 아이돌 그룹에서.
 
@@ -344,10 +344,10 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 다음은 현대 P-팝의 세대입니다.
 
-* 1세대 모던 피이팝(1990-1999)
-* 2세대 모던 피이팝(2000–2009)
-* 3세대 모던 피이팝(2010–2019)
-* 4세대 모던 피이팝(2020–2029)
+- 1세대 모던 피이팝(1990-1999)
+- 2세대 모던 피이팝(2000–2009)
+- 3세대 모던 피이팝(2010–2019)
+- 4세대 모던 피이팝(2020–2029)
 
 ---
 

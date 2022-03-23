@@ -10,4 +10,4 @@ weight = "52"
 #metarobots = "noindex"
 +++
 
-<a href="https://www.eyeem.com/u/YourOnlyOne" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">EyeEm</a>
+[EyeEm](https://www.eyeem.com/u/YourOnlyOne "EyeEm")

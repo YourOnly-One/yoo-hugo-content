@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/DeviantArt.svg"
 draft = true
 +++
 
-<a href="https://www.deviantart.com/laibcoms" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Flickr</a>
+[deviantart](https://www.deviantart.com/laibcoms "deviantart")

@@ -75,7 +75,7 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
 
 - When: April 9, 2022 from 10:00 PHT to 20:00 PHT; and April 10, 2022 from 10:00 PHT to 21:00 PHT
 - What:
-  + Performances, confirmed as of 2022-03-13 21:35:37 PHT:
+  - Performances, confirmed as of 2022-03-13 21:35:37 PHT:
     - <span lang="en-PH">Daydream</span>
     - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
     - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
@@ -84,8 +84,8 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
     - <span lang="en-PH">Ver5us</span> — update: will no longer be able to join due to schedule conflict [^ver5us-ppopcon-conflict]
     - <span lang="en-PH">Vxon</span>
     - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>) — update: will no longer be able to participate due to conflict in schedule [^yara-ppopcon-conflict]
-  + Merchandise
-  + Fan booths
+  - Merchandise
+  - Fan booths
     - <span lang="fil">A'tin</span> (<span lang="tl-Tglg">ᜀ᜵ᜆᜒᜈ᜔</span>)
     - <span lang="en-PH">Aces</span>
     - <span lang="en-PH">Allies</span>
@@ -99,8 +99,8 @@ The first venue is at the New Frontier Theater located at Gen. Emilio Aguinaldo 
     - <span lang="en-PH">MNLoves</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔</span><span lang="en-PH">Loves</span>)
     - <span lang="en-PH">Pearls</span>
     - <span lang="en-PH">Vixies</span>
-  + Games
-  + and more surprises
+  - Games
+  - and more surprises
 
 *Artist performances will be held on the first day only, April 9th.*
 {.notecounter}
@@ -116,17 +116,17 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
 
 - When: April 10, 2022 from 15:00 PHT to 19:00 PHT
 - What: Concerts
-  + <span lang="en-PH">1st.One</span>
-  + <span lang="en-PH">4th Impact</span>
-  + <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
-  + <span lang="en-PH">BGYO</span> (<span lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</span>)
-  + <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
-  + <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)
-  + <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span> / <span lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</span>)
-  + <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
+  - <span lang="en-PH">1st.One</span>
+  - <span lang="en-PH">4th Impact</span>
+  - <span lang="fil">Alamat</span> / <span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>
+  - <span lang="en-PH">BGYO</span> (<span lang="tl-Tglg">ᜊ᜔ᜄ᜔ᜌ᜔ᜂ</span>)
+  - <span lang="fil">Bini</span> (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)
+  - <span lang="en-PH">MNL48</span> (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)
+  - <span lang="en-PH">Press Hit Play</span> (<span lang="en-PH">PHP</span> / <span lang="tl-Tglg">ᜉ᜔ᜑ᜔ᜉ᜔</span>)
+  - <span lang="en-PH">SB19</span> (<span lang="tl-Tglg">ᜐ᜔ᜊ᜔19</span>)
 - Bonus: Opening performances from
-  + <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
-  + <span lang="en-PH">Vxon</span>
+  - <span lang="en-PH">Kaia</span> (<span lang="til-Tglg">ᜃᜌ</span>)
+  - <span lang="en-PH">Vxon</span>
 - Extra: fan activities
 
 {{< video
@@ -152,11 +152,11 @@ The second venue is Araneta Coliseum for the concert on the second day. It is lo
 Here are the details for the convention tickets:
 
 - ₱1,000.00 (U$19.09)
-  + 2-day pass
-  + fast lane
-  + lounge access
+  - 2-day pass
+  - fast lane
+  - lounge access
 - ₱650.00 (U$12.41)
-  + 2-day pass
+  - 2-day pass
 
 Ticket for the convention is now available via Ticketnet Online: [2022 PPOPCON Convention Ticket Sales](https://ticketnet.com.ph/Events/detail/2022-PPOPCON "2022 PPOPCON Convention Ticket Sales").
 
@@ -188,25 +188,25 @@ Tickets can also be bought online via Ticketnet Online: [2022 PPOPCON Concert Ti
 
 - Online (regular): ₱900.00 (U$17.18)
 - Online (special/VIP): ₱1,500.00 (U$28.63)
-  + Live soundcheck access
+  - Live soundcheck access
 - General admission: ₱1,000.00 (U$19.09)
-  + Free seating
+  - Free seating
 - Upper box: ₱2,000.00 (U$38.18)
-  + Automatically assigned best available seat
+  - Automatically assigned best available seat
 - Lower box: ₱3,000.00 (U$57.27)
-  + Automatically assigned best available seat
+  - Automatically assigned best available seat
 - Patron B: ₱4,000.00 (U$76.36)
-  + Automatically assigned best available seat
-  + PPOP merch: Sponge fan light
+  - Automatically assigned best available seat
+  - PPOP merch: Sponge fan light
 - Patron A: ₱4,500.00 (U$85.90)
-  + Automatically assigned best available seat
-  + PPOP merch: Sponge fan light
-  + Raffle Ticket: for a chance to join the VIPs for the live soundcheck portion of the concert
+  - Automatically assigned best available seat
+  - PPOP merch: Sponge fan light
+  - Raffle Ticket: for a chance to join the VIPs for the live soundcheck portion of the concert
 - VIP: ₱5,500.00 (U$104.99)
-  + Automatically assigned best available seat
-  + PPOP merch: Sponge fan light
-  + Live soundcheck access
-  + VIP ID pass / VIP fast lane
+  - Automatically assigned best available seat
+  - PPOP merch: Sponge fan light
+  - Live soundcheck access
+  - VIP ID pass / VIP fast lane
 
 *Prices are exclusive of ticketing service charge.*
 {.notecounter}

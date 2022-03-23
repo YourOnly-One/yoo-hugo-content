@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/Fediverse-by_Tobias.webp"
 draft = "true"
 +++
 
-<a href="https://koyu.space/@faithfulathlete" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Fediverse</a>
+[Fediverse](https://koyu.space/@faithfulathlete "Fediverse")

@@ -104,8 +104,8 @@ Idols are not idols because of their clothing style, color choices, music genre,
 
 With these in mind, an idol—solo or group—should have these characteristics:
 
-* Appearance: beautiful and handsome
-* Character:
+- Appearance: beautiful and handsome
+- Character:
   - wholesome image
   - keeps their personal lives and opinions private
   - innocent and pure
@@ -113,16 +113,16 @@ With these in mind, an idol—solo or group—should have these characteristics:
   - approachable and friendly person
   - an inspiration
   - a role model
-* Multitalented entertainer and performer
+- Multitalented entertainer and performer
   - a singer
   - a dancer
   - can act
   - can host
   - comedic [^npr-smap-upped-ante]
-* Dance routines
+- Dance routines
   - formation changes
   - point choreography
-* Represents the best and positive about their nation and culture, and their target market
+- Represents the best and positive about their nation and culture, and their target market
 
 [^npr-smap-upped-ante]: NPR: [Why The Blueprint For K-Pop Actually Came From Japan](https://www.npr.org/2019/01/08/683339743/why-the-blueprint-for-k-pop-actually-came-from-japan "NPR: Why The Blueprint For K-Pop Actually Came From Japan")
 
@@ -151,8 +151,8 @@ With these in mind, an idol—solo or group—should have these characteristics:
 
 There are additional characteristics for groups to be considered an idol. These are:
 
-* Each member have a unique character and personality
-* Members usually have a role to play in the group
+- Each member have a unique character and personality
+- Members usually have a role to play in the group
   - leader
   - center
   - strong visuals and cuteness/coolness
@@ -161,13 +161,13 @@ There are additional characteristics for groups to be considered an idol. These 
   - sub-vocals
   - lead dancer
   - main dancer
-* Members with specializations showcase their talents
+- Members with specializations showcase their talents
   - vocalizations
   - hip hop / rapping
   - breakdancing
   - hosting
   - acting
-* Members usually have a solo or duo part in a song
+- Members usually have a solo or duo part in a song
 
 This format is seen in Japanese idol groups like Morning Musume (<span lang="ja">モーニング娘</span> / <span lang="ja-Latn">Mōningu Musume</span>) [^morning-musume-songs-i-wish] [^morning-musume-songs-the-peace] and Onyanko Club (<span lang="ja">おニャン子クラブ</span> / <span lang="ja-Latn">Onyanko Kurabu</span>) [^onyanko-club-songs-sailor-fuku-o-nugasanai-de]; in Korean idol groups like 2NE1 (<span lang="ko">투애니원</span>) [^2ne1-songs-fire] [^2ne1-songs-i-dont-care] and Girls' Generation (<span lang="ko">소녀시대</span> / <span lang="ko-Latn">So Nyeo Shi Dae</span> (<span lang="ko-Latn">SNSD</span>)) [^snsd-songs-gee] [^snsd-songs-genie]; and in Pinoy idol groups like Alamat (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>) [^alamat-songs-kbye], Bini (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>) [^bini-songs-born-to-win], MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>) [^mnl48-songs-pag-ibig-fortune-cookie], and UGG (<span lang="tl-Tglg">ᜂᜄ᜔ᜄ᜔</span> / U Go Girls) [^ugg-songs-kalimot].
 
@@ -344,10 +344,10 @@ The P-pop idol generations should not be confused with the modern P-pop generati
 
 Here are the generations of modern P-pop:
 
-* 1st Generation of Modern P-pop (1990–1999)
-* 2nd Generation of Modern P-pop (2000–2009)
-* 3rd Generation of Modern P-pop (2010–2019)
-* 4th Generation of Modern P-pop (2020–2029)
+- 1st Generation of Modern P-pop (1990–1999)
+- 2nd Generation of Modern P-pop (2000–2009)
+- 3rd Generation of Modern P-pop (2010–2019)
+- 4th Generation of Modern P-pop (2020–2029)
 
 ---
 

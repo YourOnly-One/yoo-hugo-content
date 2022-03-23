@@ -10,4 +10,4 @@ weight = "13"
 #metarobots = "noindex"
 +++
 
-<a href="https://im.youronly.one/snoworld/" rel="me noopener" referrerpolicy="strict-origin-when-cross-origin">Snoworld</a>™
+[Snoworld™](https://im.youronly.one/snoworld/ "Snoworld™")

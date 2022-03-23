@@ -10,4 +10,4 @@ weight = "72"
 #metarobots = "noindex"
 +++
 
-<a href="https://trakt.tv/users/youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">trakt</a>
+[trakt.tv](https://trakt.tv/users/youronlyone "trakt.tv")

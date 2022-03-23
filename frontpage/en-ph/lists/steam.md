@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/Steam_icon_logo.svg"
 draft = true
 +++
 
-<a href="https://store.steampowered.com/wishlist/profiles/76561197997196684/#sort=order&discount_any=1" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Spotify</a>
+[Steam](https://store.steampowered.com/wishlist/profiles/76561197997196684/#sort=order&discount_any=1 "Steam")

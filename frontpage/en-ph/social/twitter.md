@@ -10,4 +10,4 @@ weight = "41"
 #metarobots = "noindex"
 +++
 
-<a href="https://twitter.com/YourOnlyONEofcl" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Twitter</a>
+[Twitter](https://twitter.com/YourOnlyONEofcl "Twitter")

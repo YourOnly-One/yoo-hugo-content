@@ -10,4 +10,4 @@ weight = "53"
 #metarobots = "noindex"
 +++
 
-<a href="https://pixelfed.social/youronlyone" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Pixelfed.social</a>
+[Pixelfed.social](https://pixelfed.social/youronlyone "Pixelfed.social")

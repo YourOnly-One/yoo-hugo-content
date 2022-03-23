@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/Instagram.webp"
 draft = "true"
 +++
 
-<a href="https://instagram.com/yugenbard" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Instagram</a>
+[Instagram](https://instagram.com/yugenbard "Instagram")

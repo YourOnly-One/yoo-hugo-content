@@ -11,4 +11,4 @@ image = "https://rsc.youronly.one/img/logos/diaspora.png"
 draft = true
 +++
 
-<a href="https://diasp.org/u/jcsesecuneta" rel="me noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Fediverse: diasp.org</a>
+[Fediverse: diasp.org](https://diasp.org/u/jcsesecuneta "Fediverse: diasp.org")

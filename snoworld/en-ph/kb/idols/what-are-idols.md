@@ -103,9 +103,9 @@ An investment.
 
 Music videos.
 
-* concepts
-* lyric videos
-* VFX
+- concepts
+- lyric videos
+- VFX
 
 ---
 
