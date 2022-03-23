@@ -50,7 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_gold" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener" attribto="" attriblink="" attribrel="noopener" %}}
-  最新の更新：2022-03-19 13:47:25 JST
+  最新の更新：2022-03-23 21:20:20 JST
 {{% /sembox %}}
 
 <span lang="en-PH">P-POP</span>、または[<span lang="en-PH">***P**inoy **Pop**ular music*</span>]({{< ref path="ppop-vs-opm.md#p-pop" >}} "Pinoy POPular music")が大きな復活を遂げていることに疑いの余地はありません。 国内外のフィリピン人は、ファンダム、商品、データファンダム、そして今では慣習など、P-POPの数十年にわたる歴史ではかつて見られなかった方法で<span lang="en-PH">P-POP</span>の行為の背後に集結しています。
@@ -75,12 +75,14 @@ type = "article"                                                           # art
 
 - いつ：2022年4月9日11:00PHTから21:00JST; および2022年4月10日11:00PHTから22:00JST
 - 何：
-  - 2022-03-13 22:35:37 JSTの時点で確認されたパフォーマンス：
+  - 2022-03-23 21:20:20 JSTの時点で確認されたパフォーマンス：
+    - <span lang="en-PH">Calista</span>
     - <span lang="en-PH">Daydream</span>
+    - <span lang="en-PH">Dione</span>
     - <span lang="en-PH">G22</span> (<span lang="tl-Tglg">ᜄ᜔22</span>)
     - <span lang="fil">Kaia</span> (<span lang="tl-Tglg">ᜃᜌ</span>)
+    - <span lang="en-PH">Ppop Generation</span>
     - <span lang="en-PH">R Rules</span> (<span lang="tl-Tglg">ᜇ᜔</span> <span lang="en-PH">Rules</span>)
-    - <span lang="en-PH">Dione</span>
     - <span lang="en-PH">Ver5us</span> — 更新：スケジュールの競合により参加できなくなります [^ver5us-ppopcon-conflict]
     - <span lang="en-PH">Vxon</span>
     - <span lang="en-PH">Yara</span> (<span lang="tl-Tglg">ᜌᜇ</span>) — 更新：スケジュールの競合により参加できなくなります [^yara-ppopcon-conflict]
