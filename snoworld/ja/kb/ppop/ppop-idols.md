@@ -2,8 +2,8 @@
 title = "P-POPアイドル、それはいつ始まったのですか？"
 description = "P-POP IDOL業界が始まった日付を特定します。"
 
-date = "2022-03-21T16:07:24"                                          # manually adjust to local timezone
-#lastmod = "2022-04-07T17:53:01"                                       # manually adjust to local timezone
+date = "2022-03-21T16:07:24+09:00"                                          # manually adjust to local timezone
+#lastmod = "2022-04-07T17:53:01+09:00"                                       # manually adjust to local timezone
 
 #aliases = [""]
 slug = "ppop-idol-year"
@@ -176,8 +176,8 @@ P-POPアイドル業界がいつ始まったかを知るには、まずアイド
 [^onyanko-club-songs-sailor-fuku-o-nugasanai-de]: [Onyanko Club] YouTube: [<span lang="ja-Latn">Sailor Fuku o Nugasanai de</span> (<span lang="ja">セーラー服を脱がさないで</span> / <span lang="ja-Latn">Sērā Fuku o Nugasanai de</span>)](https://www.youtube.com/watch?v=83uFs-o1yBA "Onyanko Club: Sailor Fuku o Nugasanai de (セーラー服を脱がさないで / Sērā Fuku o Nugasanai de)")
 [^2ne1-songs-fire]: [2NE1] YouTube: [Fire](https://www.youtube.com/watch?v=5S1Z2sUFTGo "2NE1: Fire")
 [^2ne1-songs-i-dont-care]: [2NE1] YouTube: [I Don't Care](https://www.youtube.com/watch?v=FVIdyq_OlNc "2NE1: I Don't Care")
-[^snsd-songs-gee]: [Girls' Generation] YouTube: [Gee](https "Girls' Generation: Gee")
-[^snsd-songs-genie]: [Girls' Generation] YouTube: [Genie](https "Girls' Generation: Genie")
+[^snsd-songs-gee]: [Girls' Generation] YouTube: [Gee](https://www.youtube.com/watch?v=U7mPqycQ0tQ "Girls' Generation: Gee")
+[^snsd-songs-genie]: [Girls' Generation] YouTube: [Genie](https://www.youtube.com/watch?v=6SwiSpudKWI "Girls' Generation: Genie")
 [^alamat-songs-kbye]: [Alamat (<span lang="tl-Tglg">ᜀᜎᜋᜆ᜔</span>)] YouTube: [kbye](https://www.youtube.com/watch?v=I7vPP-yIhY0 "Alamat: kbye")
 [^bini-songs-born-to-win]: [Bini (<span lang="tl-Tglg">ᜊᜒᜈᜒ</span>)] YouTube: [Born To Win](https://www.youtube.com/watch?v=Lcel5TXVuRE "Bini: Born To Win")
 [^mnl48-songs-pag-ibig-fortune-cookie]: [MNL48 (<span lang="tl-Tglg">ᜋ᜔ᜈ᜔ᜎ᜔48</span>)] YouTube: [Pag-ibig Fortune Cookie](https://www.youtube.com/watch?v=52EeHPhSk5c "MNL48: Pag-ibig Fortune Cookie")
