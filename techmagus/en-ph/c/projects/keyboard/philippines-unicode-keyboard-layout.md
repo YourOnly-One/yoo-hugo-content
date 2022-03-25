@@ -79,7 +79,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -108,7 +108,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -137,7 +137,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -166,7 +166,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -195,7 +195,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -224,7 +224,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -240,7 +240,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
 
   src="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"
   link="https://1.bp.blogspot.com/_tG11xBRpOKo/TMUmsznBcHI/AAAAAAAAAI0/APWcSe3ke20/s1600/Philippines-Colemak%20(Baybayin).png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Colemak (Baybayin)"
   caption=""
@@ -253,7 +253,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -282,7 +282,7 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -308,7 +308,7 @@ The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines 
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"

@@ -834,7 +834,7 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   licensename="Creative Commons Attribution-ShareAlike 4.0 International License"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 

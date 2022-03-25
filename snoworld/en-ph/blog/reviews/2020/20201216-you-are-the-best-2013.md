@@ -287,7 +287,7 @@ Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

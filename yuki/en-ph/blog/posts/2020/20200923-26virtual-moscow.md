@@ -61,7 +61,7 @@ This was also for 26virtual:moscow race.
   endtime=""
 
   link="https://www.youtube.com/watch?v=cShMNxRJ27o"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="26virtual:moscow race My First Half-marathon (21.1 km), post-run"
   caption="My first half marathon. Run/walk. Originally planned for 17 km only but the remaining kilometers were enough to get back home. This was also for 26virtual:moscow race."
@@ -73,9 +73,9 @@ This was also for 26virtual:moscow race.
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://im.youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
   attribcountry="Philippines"
   attribcountrycode="PH"
 

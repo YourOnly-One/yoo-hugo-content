@@ -253,7 +253,7 @@ A perfect 10 out of 10!
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

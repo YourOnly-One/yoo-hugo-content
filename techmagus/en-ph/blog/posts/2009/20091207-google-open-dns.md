@@ -93,7 +93,7 @@ Further reading:
 - <a class="popper animate" href="https://blog.opendns.com/2009/12/03/opendns-google-dns/" rel="noopener external nofollow" data-popper="Some thoughts on Google DNS">Some thoughts on Google DNS</a>
 - <a class="popper animate" href="https://developers.google.com/speed/public-dns/?csw=1" rel="noopener external nofollow" data-popper="Google Public DNS">Google Public DNS</a>
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -109,6 +109,6 @@ Further reading:
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

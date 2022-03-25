@@ -96,7 +96,7 @@ Rendy의 낭만적인 청혼입니다.
   vidwidth=""
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

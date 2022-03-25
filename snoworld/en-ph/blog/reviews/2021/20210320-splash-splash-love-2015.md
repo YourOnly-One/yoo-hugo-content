@@ -244,7 +244,7 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
@@ -294,7 +294,7 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

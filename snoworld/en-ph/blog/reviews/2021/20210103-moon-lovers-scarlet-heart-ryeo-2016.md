@@ -242,7 +242,7 @@ I give this show 8 out of 10 stars.
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

@@ -96,7 +96,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   vidwidth=""
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

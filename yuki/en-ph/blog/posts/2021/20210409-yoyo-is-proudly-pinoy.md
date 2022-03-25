@@ -81,7 +81,7 @@ The principal distinction between the Filipino design popularized by Flores and 
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   isrepresentativeofpage=true
@@ -115,6 +115,6 @@ Whenever we use the word *yo-yo*, remember that it was originally a company name
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

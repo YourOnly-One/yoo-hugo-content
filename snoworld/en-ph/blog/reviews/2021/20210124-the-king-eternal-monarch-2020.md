@@ -261,7 +261,7 @@ Overall score of 9.5 out of 10 stars.
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

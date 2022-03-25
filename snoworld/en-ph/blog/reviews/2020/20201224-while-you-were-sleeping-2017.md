@@ -299,7 +299,7 @@ I give 「While You Were Sleeping」 an overall score of 9.0 out of 10 stars.
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

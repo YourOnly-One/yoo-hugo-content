@@ -105,7 +105,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -130,7 +130,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -155,7 +155,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -180,7 +180,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -205,7 +205,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -230,7 +230,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -255,7 +255,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -280,7 +280,7 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -300,6 +300,6 @@ Happy Pesach and Matstsah my brothers and sisters in <bdo dir="rtl" lang="hbo-He
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

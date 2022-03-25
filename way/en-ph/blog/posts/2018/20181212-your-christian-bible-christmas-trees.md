@@ -160,7 +160,7 @@ And he broke down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the houses
   vidwidth=""
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

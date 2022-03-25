@@ -88,7 +88,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Makati City, Philippines"
@@ -119,7 +119,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Makati City, Philippines"
@@ -150,7 +150,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Makati City, Philippines"
@@ -181,7 +181,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Makati City, Philippines"
@@ -213,6 +213,6 @@ Enjoy and Shalom!
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

@@ -88,7 +88,7 @@ Instagram에서 나를 팔로우하는 것을 잊지 마세요!
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="필리핀 마카티시"
@@ -119,7 +119,7 @@ Instagram에서 나를 팔로우하는 것을 잊지 마세요!
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="필리핀 마카티시"
@@ -150,7 +150,7 @@ Instagram에서 나를 팔로우하는 것을 잊지 마세요!
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="필리핀 마카티시"
@@ -181,7 +181,7 @@ Instagram에서 나를 팔로우하는 것을 잊지 마세요!
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="필리핀 마카티시"
@@ -213,7 +213,7 @@ Instagram에서 나를 팔로우하는 것을 잊지 마세요!
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 

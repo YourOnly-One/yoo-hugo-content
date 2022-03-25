@@ -96,6 +96,6 @@ What was the best marriage proposal of 2015? Proposing for 365 days!
   vidwidth=""
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}

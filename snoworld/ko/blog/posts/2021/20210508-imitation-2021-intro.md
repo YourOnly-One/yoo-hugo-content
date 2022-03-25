@@ -167,6 +167,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 > 수백만 K-Pop 아이돌 연습생 시대에 0.1 % 만 데뷔한다.
 
 ## 개요
+
 「이마 하」는 한때 유명 보이 그룹 「Shax」의 매니저였던 「지학」이 결성했지만 갑작스런 멤버 실종 후 사임 한 새로운 K 팝 걸 그룹 「Tea Party」의 멤버입니다. 콘서트 도중 「은조」. 「Tea Party」에 합류하기 전, 「Ma Ha」는 소속사 전 연습생과 관련된 비극적 인 사건으로 데뷔 당일 해산 한 그룹 「Omega III」의 멤버였다. 이로 인해 「마하」는 인기 솔로 가수 「라 리마」의 사칭을 맡아 자신을 뒷받침 해 대중의 명성을 얻었다.[^a]
 
 「Tea Party」로 새롭게 시작된 「Ma Ha」는 3 년 후에도 여전히 「은조」의 실종에 시달리고있는 「Shax」의 중심이자 가장 인기있는 멤버 「권력」과 반복적으로 길을 건너는 자신을 발견한다. 「Ryok」은 처음에는 「Li Ma」의 모방으로 「Ma Ha」를 싫어했지만, 결국 두 사람은 서로에게 관심을 가지기 시작하고 두 사람의 경력을 위험에 빠뜨릴 수있는 비밀 관계를 시작합니다.[^a]
@@ -176,6 +177,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 [^a]: Wikipedia: [「이미테이션」 개요](https://en.wikipedia.org/wiki/Imitation_(TV_series)#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 이야기
+
 2021 년 신작 「이미테이션」이라는 제목의이 새로운 드라마는 K-Pop이나 한국 음악의 모든 팬들에게 어필 할 것입니다. K-Pop 아이돌이 업계 데뷔를 꿈꿨을 때 겪은 이야기와 일반인은 거의 보지 못하는 아이돌로서 경험하는 삶을 담고있다. 야심 찬 아이돌 '이마 하'가 10 대 시절을 열심히 훈련하며 한국 음악의 어려운 무대에 선발되기 위해 뽑 히며 1 회에서 정한 톤이었다.
 
 {{< image
@@ -304,6 +306,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 ## K-Pop 아이돌을 꿈꾸는 것은 어떤가요?
+
 수백만 K-Pop 아이돌 연습생 시대에 0.1 % 만 데뷔한다. 강렬한 트레이닝 외에 K 팝 아이돌을 꿈꾸는 또 다른 도전은 무엇일까요? 「이미테이션」1 화에서 공개 된 내용입니다.
 
 {{< image
@@ -488,6 +491,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 ### 데뷔도 내부 과정입니다
+
 솔로 활동이든 그룹이든 관계없이 업계 내에서 자신을 마케팅하고 선배들에게 자신을 소개해야합니다. K-Pop 아이돌 세계와 같이 경쟁이 매우 치열한 산업에서 선배들이 당신의 음악, 당신의 연기를 좋아하게하고 그들이 당신이나 당신의 그룹에 대해 긍정적 인 말을하게하면 노출과 잠재적 인 성공에 도움이 될 것입니다. 1 회에서했던 「Omega III」처럼 선배들에게 싱글을 무료로 증정하기도했다.
 
 {{< image
@@ -591,11 +595,13 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 >}}
 
 ## 평결
+
 이 새로운 한국 드라마를 볼까요? 특히 K-Pop 팬이라면 더욱 그렇습니다. 이 짧은 TV 시리즈를 통해 더 많은 팬들이 그들의 아이돌이 매일 살아가는 삶의 모습을 깨닫기를 바랍니다. 예, 그들 중 많은 사람들이 오늘날 부유하지만 그들이 오늘날의 위치에 도달하기 위해서는 바늘의 눈과 땀을 흘려야합니다.
 
 그들을 존중하십시오. 그들을 괴롭히지 마십시오.
 
 ## 공식 예고편
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -639,11 +645,11 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -663,6 +669,6 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

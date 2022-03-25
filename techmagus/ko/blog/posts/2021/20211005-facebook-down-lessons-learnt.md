@@ -152,7 +152,7 @@ Facebook과 해당 서비스의 가장 긴 다운타임에 기여한 많은 요�
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -237,7 +237,7 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -286,7 +286,7 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -337,7 +337,7 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -380,7 +380,7 @@ example.com에 채널을 만든 다음 example.net에서 복제할 수 있습니
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -432,7 +432,7 @@ PeerTube는 fediverse의 일부이기 때문에 fediverse의 모든 사용자는
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -498,7 +498,7 @@ PeerTube는 fediverse의 일부이기 때문에 fediverse의 모든 사용자는
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -543,7 +543,7 @@ Matrix에는 언급된 것보다 훨씬 더 많은 기능이 있지만 이러한
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -588,7 +588,7 @@ Matrix에는 언급된 것보다 훨씬 더 많은 기능이 있지만 이러한
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 

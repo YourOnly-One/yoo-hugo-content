@@ -71,7 +71,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   licensename=""
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 

@@ -169,7 +169,7 @@ The literary device used for the plot was properly used and was not just a liter
 
   src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Please Don't Date Him (2020)"
   caption="「Song Ha Yoon」 (left); 「Gong Min Jung」 (right)"
@@ -241,7 +241,7 @@ It's sad that they only planned a total of ten (10) episodes, they could have ex
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
@@ -251,7 +251,7 @@ It's sad that they only planned a total of ten (10) episodes, they could have ex
   type="imagecoverattrib"
 
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Please Don't Date Him (2020)"
   caption=""

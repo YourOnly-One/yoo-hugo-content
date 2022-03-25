@@ -61,7 +61,7 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
   endtime=""
 
   link="https://www.youtube.com/watch?v=cShMNxRJ27o"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="26virtual:moscow race My First Half-marathon (21.1 km), post-run"
   caption="My first half marathon. Run/walk. Originally planned for 17 km only but the remaining kilometers were enough to get back home. This was also for 26virtual:moscow race."
@@ -74,7 +74,7 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
   attribcountry="Philippines"
   attribcountrycode="PH"

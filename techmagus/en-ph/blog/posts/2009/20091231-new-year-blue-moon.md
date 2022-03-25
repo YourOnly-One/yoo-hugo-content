@@ -97,6 +97,6 @@ Happy New Year to everyone!!
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

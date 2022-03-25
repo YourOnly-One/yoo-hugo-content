@@ -117,7 +117,7 @@ Firefox Quantum을 사용하세요. 하지만 어떤 이유로든 Firefox가 마
   licensename="CC0"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"

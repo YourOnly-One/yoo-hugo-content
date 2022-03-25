@@ -160,6 +160,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 > ***재미 있고, 공감하며, 교훈으로 가득합니다.***
 
 ## 개요
+
 시리즈의 스토리 라인은 인터뷰 형식으로 6 명이 데이트 생활에 대해 이야기합니다.[^a]
 
 건축가 인 최경준 (29 세)과 서린이는 꾸준한 커플로 보인다. 29 세의 소설가 강건은 데이트하는 여자와 사랑에 빠지는 경향이있다. 30 세 체육 교사 오선영은 자기 입장으로 '연속 데이트'다.[^a]
@@ -169,6 +170,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 [^a]: Wikipedia: [「도시남녀의 사랑법」 개요](https://en.wikipedia.org/wiki/Lovestruck_in_the_City#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 반응
+
 제목과 시놉시스에서 인상은 이것이 일부 코미디, 일부 치즈, 일부 로맨틱, 시리즈였습니다. 무시하기가 너무 쉬웠지만 내가하지 않았다는 것이 기쁩니다. 각 에피소드의 길이는 약 30 분이며 각 에피소드의 특정 주제 나 주제에 머물면서 등장 인물과 그들의 관계에 대한 이야기를 잘 전달했습니다.
 
 {{< image
@@ -197,9 +199,11 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 >}}
 
 ## 음악
+
 나는 적어도 처음 8 화에서 지금까지 사용했던 OST를 좋아한다. 연기도 잘하고 배우들끼리의 케미도 좋았다. 관련성있는 이야기, 낭만적이면서도 가벼움-치즈가 아닌 십대 드라마, 심각한 정치 및 가족 드라마가 아닙니다.
 
 ## 평결
+
 기존의 진지한 라인업을 깨뜨릴 TV 프로그램을 찾고 있다면 반드시 「도시 남녀의 사랑 법」를 선택하세요. 별점 10 점 만점에 9.5 점을줍니다.
 
 지금 N[Netflix](https://www.netflix.com/title/81340910)에서 시청하세요.
@@ -230,6 +234,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 >}}
 
 ## 공식 예고편
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -273,11 +278,12 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## OST
+
 {{< video
   platform="youtube"
   isplaylist=yes
@@ -321,11 +327,11 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -345,6 +351,6 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

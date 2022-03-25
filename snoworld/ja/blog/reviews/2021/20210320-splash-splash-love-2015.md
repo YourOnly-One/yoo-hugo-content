@@ -155,10 +155,11 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 >}}
 
 ## 演技
+
 主演俳優の「윤두준」（ユン・ドゥジュン）と「김슬기」（キム・スルギ）の相性は完璧だった。 最初は、一方が未来の高校生でもう一方が王だったときのように、2人の間に火花はありませんでした。 しかし、キャラクターがお互いに感情を育むと、彼らの演技は、お互いの存在下で簡単であり、お互いの会社でどれほど幸せであるかを示すというキャラクターの感情も示しました。
 
-
 ## 音楽
+
 このショーは、2人の異なる歌手が歌った「너에게퐁당」という1つのテーマソングしかありませんが、ストーリーに合った素晴らしい曲でした。 歌詞はこの短いドラマの物語を反映していますが、どの期間であっても簡単に関連付けることができます。 「퐁당퐁당 LOVE」/「スプラッシュスプラッシュLOVE」をよく引き立てるとても良い作曲とメロディー。
 
 {{< image
@@ -187,6 +188,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 >}}
 
 ## 評決
+
 最後になりましたが、間違いなく重要なことですが、映画にはより高く、はるかに異なる期待と要件があるため、これが元々映画として撮影された場合、成功を収めることはできませんでした。 制作チームの素晴らしい決断。 エピソード化されたため、映画のような大きなストレスや要求なしに、配信に集中することができました。 はい、これは映画ではありませんが、総上映時間と素晴らしいストーリーで、私にとっては素晴らしい映画です。
 
 今日は「퐁당퐁당 LOVE」/「スプラッシュスプラッシュLOVE」しか発見できなかったなんて信じられません。 私は一生この話を決して忘れません。
@@ -194,6 +196,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 私からの10つ星のうちの10！
 
 ## 公式予告編
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -241,11 +244,12 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## 公式ミュージックビデオ： 「君にフォンダン」 (恵みの雨の話)
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -290,14 +294,15 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/1w4WgoMLx0kMUYuZkXxBuU" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -317,6 +322,6 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

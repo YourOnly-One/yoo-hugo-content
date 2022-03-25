@@ -153,14 +153,17 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
 > **「花より男子」 (「Hana Yori Dango」) / 「Meteor Garden」 과 비슷하지만 정치적 형제 자매가 경쟁하는 쇼**
 
 ## 이야기
+
 중요한 캐릭터가 많은 이야기에서는 분명하게 말하는 것이 중요합니다. 형제들 사이의 정치적 전쟁은 흥미로 웠고, 그들은 또한 중국 소설의 한국판에 좋은시기를 선택했습니다.
 
 안타깝게도 이야기의 낭만적 인 측면이 제대로 전달되지 않았습니다. 감정적 인 반응을 일으키지 않았습니다. 구축이 없었습니다. 이것은 주로 정치적 수준으로 옮겨 간 형제 자매 경쟁에 대한 이야기입니다.
 
 ## 연기
+
 일부 지역에서는 부족하고 연습하는듯한 장면도있었습니다. 순수한 웃음에서부터 그들의 연기가 매우 자연스러운 진지한 장면까지 기억에 남는 장면도 있었다.
 
 ## 음악
+
 불행히도 음악은 영향을 미치지 않았습니다. 강렬한 음악이 어울리는 장면이 있었지만 그 대신 음악이 없거나 약한 음악이 사용되었습니다. 그들은 더 많이 사용 했어야했습니다.
 
 {{< image
@@ -189,6 +192,7 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
 >}}
 
 ## 생산
+
 생산은 매우 좋았습니다. 그들은 배우들의 옷장을위한 양질의 재료와 디자인을 위해 지출했습니다. 특히 그녀의 아우라에 맞는 모던 한 터치로 역사적인 의상을 입을 수 있었던 아이유에게는 특히 그렇다. 두 시대를 혼합하는 데있어 훌륭합니다.
 
 그러나 근접 촬영은 5 제곱으로 과용되었습니다. 많은 장면에서 필요하지 않았고 짜증스러워졌습니다. 보트 장면에서는 배우가 거의 볼 수없는 태양의 역광이 너무 많았습니다 (다시 근접 촬영).
@@ -238,14 +242,15 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/0gmw30zH5jLjwMv5KSJl86" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -265,6 +270,6 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

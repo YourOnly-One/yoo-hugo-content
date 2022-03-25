@@ -152,6 +152,7 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
 > ***가족, 우정, 용서 및 두 번째 기회에 대한 이야기.***
 
 ## 개요
+
 가상의 도시 정진에서 카운터라는 악마 사냥꾼 4 명은 내세에서 탈출 해 불멸을 얻기 위해 악령을 찾아 추방하는 고된 임무를 맡고 있습니다. 이 악령은 살인을 저질렀거나 살인에 대한 강한 욕구를 가지고 있으며, 살인하려는 호스트의 욕망을 조장하고, 희생자의 영혼을 소비하는 지역 인간 호스트를 소유하고 있습니다. 카운터는 한때 내세와 산 세계의 경계인 Yung의 파트너 정신이 그들을 소유하고 초인적 인 힘과 초자연적 능력과 함께 완벽하게 건강한 몸과 의식을 줄 때 혼수 상태였습니다. 가모 탁, 도하 나, 추 매옥 등 세 곳의 카운터가 은신처 역할을하는 국수 전문점 언니 스 누들스에서 일하는 모습을하고있다.[^a]
 
 어느 날, 네 번째 장철중 카운터가 강력한 "레벨 3"악령과의 전투에서 살 해당합니다. 그의 영혼이 살인자에게 마비되자 Yung의 파트너 Wi-gen은 새로운 혼수 상태에 빠진 인간을 찾기 위해 고군분투합니다. 놀랍게도 그녀는 장애에도 불구하고 완벽하게 건강하고 살아있는 고등학생 소문에게 빠르게 이끌린 다. 위젠이 그를 사로 잡자마자 알지 못하는 문은 몸의 기괴한 변화를 알아 차리고 꿈속에서 위젠을보기 시작한다. 머지 않아 문은 언니의 국수에서 답을 찾고, 고철 중의 후임자가되면서 피에 굶주린 악마와 싸우고, 과거와 다시 연결하고, 대대적 재개발 뒤에 숨겨진 추악한 진실을 밝혀내는 스릴 넘치는 여정에 빠져 든다. 정진 프로젝트.[^a]
@@ -159,6 +160,7 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
 [^a]: Wikipedia: [「경이로운 소문」 개요](https://en.wikipedia.org/wiki/The_Uncanny_Counter#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 스토리와 퍼포먼스
+
 여러 스토리 아크를 잘 생각해 냈고,이 서로 다른 스토리가 마지막에 완벽하게 어울리는 방식에 놀랐고,이 시리즈의 캐릭터와 도덕적 교훈에서 최고를 이끌어 냈습니다. 네 주인공의 캐스팅과 연기가 너무 좋았 기 때문에 관객들이 실화를 목격 할 정도였다.
 
 {{< image
@@ -187,14 +189,17 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
 >}}
 
 ## 음악
+
 음악, 전체 제작, 편집 및 연출은 모두 훌륭했습니다. 전투 장면의 안무는 부족하지도 않았고 과장되지도 않았고, 단순히 네 명의 평범한 개인이하기에 적합했습니다. 그렇지 않으면 비현실적이었을 것입니다.
 
 ## 평결
+
 마지막으로, 대부분의 아시아 드라마에서 이것을보기는 드물지만, 그들은 속편 또는 새 시즌에 대한 옵션을 남기고 시리즈를 제대로 끝냈습니다. 스토리는 봉인되어서는 안됩니다. 관객이 자신의 연속 작품을 만들 수있는 여지가 없어야하며, 이는 공식적인 속편을위한 여지도 남기지 않습니다. 별 10 개 중 9.5 개!
 
 시즌 2에 청신호가 주어 졌다는 소식이 이미 발표 되었기 때문에 미래를위한 여지가있는 시리즈를 끝내는 것의 중요성을 더욱 입증했습니다. 잘 했어. 시즌 2를 기다리고 있겠습니다.
 
 ## 공식 예고편
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -238,14 +243,15 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/4QoG3aDjR7arvGGTYGkWxI" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -265,6 +271,6 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

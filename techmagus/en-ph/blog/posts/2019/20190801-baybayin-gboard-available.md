@@ -74,7 +74,7 @@ For example, in **Baybayin-Tagalog**, the layout was split in two groups with a 
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -105,7 +105,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -130,7 +130,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -155,7 +155,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -180,7 +180,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -194,7 +194,7 @@ Check our How-To guide on [how to activate Baybayin in Gboard]({{< ref "/2019080
   type="imagecoverattrib"
 
   link="https://1.bp.blogspot.com/-y_Q6Werhn58/XuOQU0Tb4nI/AAAAAAAAivM/ro_fU8XNH00JijIgcz6GfeY6G16Sj_lBgCLcBGAsYHQ/s1600/GBoard-Baybayin_cover-01.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="GBoard-Baybayin_cover-01"
   caption=""
@@ -203,7 +203,7 @@ Check our How-To guide on [how to activate Baybayin in Gboard]({{< ref "/2019080
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 >}}

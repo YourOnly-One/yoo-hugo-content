@@ -102,7 +102,7 @@ Started by: Jesus Israel Jr.; [View Larger Map](https://www.google.com/maps/d/vi
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener external"
 
   cc0country=""

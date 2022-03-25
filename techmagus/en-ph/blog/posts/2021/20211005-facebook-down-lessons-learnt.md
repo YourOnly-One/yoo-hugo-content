@@ -153,7 +153,7 @@ If you want to give it a spin, choose one of the servers available [here](https:
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -238,7 +238,7 @@ If you are ready to jump in and create your online social web identity, choose a
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -287,7 +287,7 @@ You can find a Misskey community which perfectly fits you [here](https://join.mi
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -338,7 +338,7 @@ You can start uploading your photos into the fediverse today by joining any [Pix
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -381,7 +381,7 @@ If you are regularly use Twitter and you like its flow, Mastodon is the right pl
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -433,7 +433,7 @@ Ready to upload your videos and be seen by countless of fediverse citizens? Find
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -499,7 +499,7 @@ Keybase Teams which offers 100 GB of storage per team and if you choose to host 
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -544,7 +544,7 @@ Try Matrix [today](https://matrix.org/docs/projects/try-matrix-now/)!
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -589,6 +589,6 @@ Enjoy and Shalom!
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

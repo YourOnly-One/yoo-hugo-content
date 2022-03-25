@@ -278,7 +278,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
@@ -327,7 +327,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

@@ -50,9 +50,11 @@ type = "article"                                                           # art
 <!--more-->
 
 ## OpenStreetMapとは何ですか
+
 ***OpenStreetMap***（OSM）は、コミュニティ主導で更新された世界の地理データベースとして非常に成功しています。 誰でもOSMの改善に貢献でき、そのオープンデータベースの性質により、他のプロジェクトもその地理データを使用して特殊なマップを作成できます。 その1つが、サイクリング/サイクリング指向のマップである***CyclOSM***です。
 
 ### CyclOSMとは
+
 ***CyclOSM***は、***OpenStreetMap***データの上に構築された自転車指向の地図です。 サイクリングの習慣や能力に関係なく、サイクリストに美しく実用的な地図を提供することを目的としています。[^a]
 
 都市部では、自転車通勤者が自転車を通勤ルートに引き寄せるのを支援するために、道路の両側に主要なさまざまなタイプの自転車用トラックと車線をレンダリングします。 また、重要なPOIのほか、駐輪場やバイクと共有するスポット、特定のインフラストラクチャ（エレベーターやランプなど）、道路の速度、舗装、バンパー、バイクボックスなどのある道路を避けるための路面も備えています。[^a]
@@ -64,18 +66,21 @@ type = "article"                                                           # art
 [凡例](https://www.cyclosm.org/legend.html)または[CyclOSMでより大きな地図を表示](https://www.cyclosm.org/#map=14/14.5597/121.0365/cyclosm)を参照してください。
 
 #### 可用性
+
 CyclOSMは、次のスマートフォンアプリで利用できます。
-* OSMAnd: [Android](https://play.google.com/store/apps/details?id=net.osmand.plus); [Amazon](http://www.amazon.com/gp/product/B00D0SEGMC/ref=mas_pm_OsmAnd-Maps-Navigation); [iOS](https://itunes.apple.com/app/apple-store/id934850257?pt=2123532&ct=WebSite&mt=8); [Huawei](https://appgallery.huawei.com/app/C101486545)
-* オールインワンオフラインマップ: [Android](https://play.google.com/store/apps/details?id=net.psyberia.offlinemaps)
-* AlpineQuest Rando GPS: [Android](https://play.google.com/store/apps/details?id=psyberia.alpinequest.free) (Lite); [Android](https://play.google.com/store/apps/details?id=psyberia.alpinequest.full) (完全版)
-* OpenMultiMaps: [Android](https://f-droid.org/packages/app.fedilab.openmaps/)F-Droid経由
+
+- OSMAnd: [Android](https://play.google.com/store/apps/details?id=net.osmand.plus); [Amazon](http://www.amazon.com/gp/product/B00D0SEGMC/ref=mas_pm_OsmAnd-Maps-Navigation); [iOS](https://itunes.apple.com/app/apple-store/id934850257?pt=2123532&ct=WebSite&mt=8); [Huawei](https://appgallery.huawei.com/app/C101486545)
+- オールインワンオフラインマップ: [Android](https://play.google.com/store/apps/details?id=net.psyberia.offlinemaps)
+- AlpineQuest Rando GPS: [Android](https://play.google.com/store/apps/details?id=psyberia.alpinequest.free) (Lite); [Android](https://play.google.com/store/apps/details?id=psyberia.alpinequest.full) (完全版)
+- OpenMultiMaps: [Android](https://f-droid.org/packages/app.fedilab.openmaps/)F-Droid経由
 
 ## Googleマイマップ経由の自転車専用車
+
 <div class="responsive_embedframe"><iframe src="https://www.google.com/maps/d/embed?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 開始者：イエス・イスラエル・ジュニア; [拡大地図を表示](https://www.google.com/maps/d/viewer?mid=1MUEnacNSB60OpJQG0ViAnzJ6ECrA5z7p&ll=14.598237980859727%2C121.0651953487783&z=13)
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -96,8 +101,8 @@ CyclOSMは、次のスマートフォンアプリで利用できます。
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener external"
 
   cc0country=""
@@ -105,6 +110,6 @@ CyclOSMは、次のスマートフォンアプリで利用できます。
   cc0countryurl=""
 >}}
 
--------
+---
 
 注意：Google翻訳

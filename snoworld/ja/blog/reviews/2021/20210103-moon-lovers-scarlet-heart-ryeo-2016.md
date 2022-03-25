@@ -153,14 +153,17 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
 > **「花より男子」; 政治的な兄弟のライバルとの「流星花園」ショー**
 
 ## 物語
+
 多くの重要なキャラクターがいる物語では、それを明確に伝えることが重要です、彼らはそれをうまくやったのです。 兄弟間の政治戦争は興味深いものでした、彼らはまた、中国の小説の韓国語版のための良い時期を選びました。
 
 悲しいことに、物語のロマンチックな側面はうまく伝えられませんでした。 それは感情的な反応を誘発しませんでした。 蓄積はありませんでした。 これは主に、兄弟の競争が政治的レベルに達したという話です。
 
 ## 演技
+
 一部の地域で不足しており、練習しているように見えるシーンもありました。 純粋な笑い声から真面目な演技まで、とても自然なシーンもありました。
 
 ## 音楽
+
 残念ながら、音楽は影響を与えませんでした。 力強い音楽が収まるシーンもありましたが、その代わりに音楽がないか弱い音楽が使われていました。 彼らはもっと使うべきだった。
 
 {{< image
@@ -189,6 +192,7 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
 >}}
 
 ## 製造
+
 生産はとても良かった。 彼らは俳優のワードローブのための高品質の素材とデザインに費やしました。 これは、彼女が歴史的なワードローブを着ることができたが、彼女のオーラに合ったモダンなタッチを持っていたIUに特に当てはまります。 2つの時代をブレンドするのに素晴らしい仕事。
 
 しかし、クローズアップショットは5乗に酷使されました。 多くのシーンで必要とされなかったので、面倒になりました。 ボートのシーンでは、太陽からの逆光のまぶしさが多すぎて、俳優（ここでもクローズアップショット）はほとんど見えません。
@@ -238,14 +242,15 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/0gmw30zH5jLjwMv5KSJl86" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -265,6 +270,6 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

@@ -117,7 +117,7 @@ Firefoxの背後にあるブラウザエンジンであるGeckoは、上記の�
   licensename="CC0"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener external"
 
   cc0country="Philippines"

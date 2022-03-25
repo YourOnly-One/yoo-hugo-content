@@ -149,7 +149,7 @@ If we actually want these small websites to flourish as a healthy community, we 
   licensename=""
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"

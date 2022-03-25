@@ -156,9 +156,11 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 >}}
 
 ## 연기
+
 주인공 윤두준과 김슬기의 케미가 완벽했다. 처음에는 둘 사이에 불꽃이 없었습니다. 한 명은 미래의 고등학생이고 다른 한 명은 왕이었을 때였습니다. 하지만 일단 캐릭터들이 서로에 대한 감정을 키우면 그들의 연기는 캐릭터의 감정을 드러내고, 서로가있을 때 쉬움을 느끼며, 서로의 회사에서 얼마나 행복한 지 보여 주었다.
 
 ## 음악
+
 이번 쇼에는 두 명의 다른 가수가 부른 주제가 「너에게 퐁당」이 하나 밖에 없는데 스토리에 딱 맞는 곡이었다. 가사는이 짧은 드라마의 이야기를 반영하지만, 어느 시대에 관계없이 쉽게 공감할 수있다. 「퐁당퐁당 LOVE」를 잘 칭찬 한 아주 좋은 구성과 멜로디.
 
 {{< image
@@ -187,6 +189,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 >}}
 
 ## 평결
+
 마지막으로, 영화가 더 높고 훨씬 다른 기대와 요구 사항을 가지고 있기 때문에 이것이 원래 영화로 촬영 되었다면 성공하지 못했을 것입니다. 프로덕션 팀의 훌륭한 결정입니다. 에피소드로 제작 되었기 때문에 영화에 대한 엄청난 스트레스와 요구없이 전달에 집중할 수있었습니다. 네, 이건 영화는 아니지만 총 상영 시간과 멋진 스토리로 저에게 좋은 영화입니다.
 
 오늘은 「퐁당퐁당 LOVE」밖에 발견하지 못했다. 이 이야기는 평생 잊지 못할 것입니다.
@@ -194,6 +197,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 내 별 10 개 중 10 개!
 
 ## 공식 예고편
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -241,11 +245,12 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## 공식 음악 비디오: 「너에게 퐁당」 (단비 이야기)
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -290,14 +295,15 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/1w4WgoMLx0kMUYuZkXxBuU" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -317,6 +323,6 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

@@ -86,7 +86,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, Ilocos Norte, Philippines"
@@ -119,7 +119,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, Ilocos Norte, Philippines"
@@ -151,7 +151,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   url="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
@@ -216,7 +216,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, Ilocos Norte, Philippines"
@@ -247,6 +247,6 @@ Simply follow the attribution shown underneath each photo, or whichever is accep
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

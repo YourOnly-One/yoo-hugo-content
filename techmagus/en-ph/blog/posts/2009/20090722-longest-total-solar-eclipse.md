@@ -114,7 +114,7 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
 
 <div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/ThfGAObRHQs" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -130,6 +130,6 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

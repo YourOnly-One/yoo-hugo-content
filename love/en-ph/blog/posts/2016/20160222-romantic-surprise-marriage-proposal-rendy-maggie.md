@@ -96,6 +96,6 @@ What a romantic marriage proposal by Rendy.
   vidwidth=""
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}

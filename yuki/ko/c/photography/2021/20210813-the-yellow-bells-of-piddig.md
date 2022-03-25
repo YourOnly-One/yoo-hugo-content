@@ -86,7 +86,7 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, 일로코스 노르테, 필리핀"
@@ -117,7 +117,7 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, 일로코스 노르테, 필리핀"
@@ -148,7 +148,7 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, 일로코스 노르테, 필리핀"
@@ -179,7 +179,7 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, 일로코스 노르테, 필리핀"
@@ -210,7 +210,7 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   contentloc="Piddig, 일로코스 노르테, 필리핀"
@@ -240,7 +240,7 @@ avatar = "https://rsc.youronly.one/img/y/Confident_Traveler-logo-01-1500x.webp"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 

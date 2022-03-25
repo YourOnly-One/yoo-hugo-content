@@ -61,7 +61,7 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
   endtime=""
 
   link="https://www.youtube.com/watch?v=Zz8wlo-dHEY"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="26virtual:boston race, post-run"
   caption="A post-run vlog after I did the 26virtual:boston race event for 10K. This was also my first time in video blogging. (It's raw.)"
@@ -74,7 +74,7 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
   attribcountry="Philippines"
   attribcountrycode="PH"

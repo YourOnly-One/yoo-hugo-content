@@ -290,7 +290,7 @@ You're done! Sort of. You need to activate it to actually use it, follow the nex
     licensename="CC BY-SA 4.0 International"
 
     attribto="I'M YourOnly.One"
-    attriburl="https://im.youronly.one"
+    attriburl="https://im.youronly.one/"
     attribrel="noopener"
   >}}
 
@@ -320,7 +320,7 @@ The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines 
   licensename="CC Zero / Public Domain dedication"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"

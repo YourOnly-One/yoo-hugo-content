@@ -81,7 +81,7 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   isrepresentativeofpage=true
@@ -115,7 +115,7 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 

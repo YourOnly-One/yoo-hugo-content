@@ -243,7 +243,7 @@ Since it was already announced that season 2 was given a green light, it further
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

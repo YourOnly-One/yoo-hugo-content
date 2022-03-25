@@ -144,6 +144,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 > ***로맨틱 코미디가 제대로 끝났습니다.***
 
 ## 개요
+
 펠리칸 일렉트로닉스 (Pelican Electronics)의 서 지성 (Pelican Electronics, Seo Ji-seong)의 AI 제어 가전 개발자는 잘 개발 된 프로그램처럼 완벽한 삶을 꿈꾸고있다.[^a]
 
 음성 활성화 기능이있는 인공 지능 냉장고를 작업하면서 국정원에서 잃어버린 슈퍼 센서 칩을 냉장고에 넣고 야채의 신선함을 알려주는 대신 쓰레기를 뽑는 '조신'프로그램을 개발했다. 그래서 지성은 완벽한 약혼자 정한이 실제로 그녀의 챠밍 왕자가 아니라는 사실을 알게된다.[^a]
@@ -153,9 +154,11 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 [^a]: Wikipedia: [「제발 그 남자 만나지 마요」 개요](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 이야기
+
 줄거리에 사용 된 문학적 장치는 적절하게 사용되었으며 나중에 이야기를 설정 한 후 잊혀진 문학적 장치가 아닙니다. 이것이 공개되었을 때 나는이 쇼가 진지하게 변하고 롬콤에서 벗어나 진지한 드라마로 변할 것이라고 기대했지만 작가는 진실을 유지하고 그것을 부업에 두었지만 여전히 쇼의 중요한 부분이었습니다.
 
 ## 공연
+
 "서 지성"역을 맡은 「송하윤 송하윤」은 A.I. 프로그래머이지만 여전히 "소년 앞에 서서 그녀를 사랑해달라고 부탁하는 소녀"( 「Notting Hill」에서 빌림). 나는 또한 그들이이 쇼에서 여성을 프로그래머로 선택한 방식을 좋아한다. 프로그래밍은 남성을위한 것이다. 그리고 [2] 소녀 프로그래머는 연애 생활이 없습니다.
 
 {{< image
@@ -166,7 +169,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
   src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="제발 그 남자 만나지 마요 (2020)"
   caption="「송하윤」 (왼쪽); 「김민정」 (바른)"
@@ -184,13 +187,17 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 >}}
 
 ## 음악
+
 ### OST
+
 {{< music src="https://open.spotify.com/embed/playlist/5ssSW5RWfU8qm4ROOLglQE" >}}
 
 ## 평결
+
 그들이 총 10 개의 에피소드만을 계획 한 것이 슬프다. 그들은 그것을 13 개 또는 전체 시리즈 (16 개 에피소드)로 확장 할 수 있었다. 당신을 웃게 만들고, 다시 사랑에 빠지고, 주변 사람들, 심지어 용감한 소방관 같은 낯선 사람들에게도 감사 할 시리즈를 찾고 있다면이 쇼를 강력히 추천합니다. 전체 점수는 별 10 개 중 9.0입니다.
 
 ## 공식 예고편
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -234,17 +241,17 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="제발 그 남자 만나지 마요 (2020)"
   caption=""
@@ -258,6 +265,6 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

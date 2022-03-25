@@ -132,6 +132,6 @@ Thanks to Johann Tagle for sponsoring the event.&nbsp; And thanks to Mr. Chin Wo
   licensename=""
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

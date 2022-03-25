@@ -61,7 +61,7 @@ This was also my first time in video blogging. (It's raw.)
   endtime=""
 
   link="https://www.youtube.com/watch?v=Zz8wlo-dHEY"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="26virtual:boston race, post-run"
   caption="A post-run vlog after I did the 26virtual:boston race event for 10K. This was also my first time in video blogging. (It's raw.)"
@@ -73,9 +73,9 @@ This was also my first time in video blogging. (It's raw.)
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://im.youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
   attribcountry="Philippines"
   attribcountrycode="PH"
 

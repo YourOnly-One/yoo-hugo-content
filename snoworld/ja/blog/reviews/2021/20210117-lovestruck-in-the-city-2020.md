@@ -160,6 +160,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 > ***楽しく、親しみやすく、レッスンがいっぱい***
 
 ## 筋書き
+
 シリーズのストーリーはインタビュー形式で、6人がデートライフについて語っています。[^a]
 
 職業別の32歳の建築家、パク・ジェウォンは情熱的で正直な性格を持っている。 彼は「カメラ泥棒」と呼んでいる、心を奪って姿を消した女性を忘れることはできません。 29歳のフリーランスのマーケター、イ・ウンオは普通の生活を送っているが、ユン・ソンアと呼ばれる分身を持っている。 彼女は襄陽ビーチで偽のアイデンティティの下でパク・ジェウォンに会い、彼に恋をすることになります。[^a]
@@ -169,6 +170,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 [^a]: Wikipedia: [「都会の男女の恋愛法」 筋書き](https://en.wikipedia.org/wiki/Lovestruck_in_the_City#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 反応
+
 タイトルとあらすじから、これはコメディー、安っぽい、ロマンティックなシリーズの印象でした。 却下するのはとても簡単でしたが、却下しなかったのはうれしいです。 各エピソードの長さは約30分で、各エピソードの特定のトピックや主題にとどまりながら、キャラクターのストーリーとその関係をうまく伝えることができました。
 
 {{< image
@@ -197,9 +199,11 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 >}}
 
 ## 音楽
+
 私はOSTが好きです、少なくとも最初の8つのエピソードでこれまでに使用されたものです。 良い演技、俳優間の相性は素晴らしかった。 関連性のある物語、ロマンチックでありながら軽い-安っぽくなく、10代のドラマでも、深刻な政治的および家族的なドラマでもありません。
 
 ## 評決
+
 既存の本格的なラインナップを打ち破るテレビ番組をお探しの方は、ぜひ「都会の男女の恋愛法」をお選びください。 私はこれに10個の星のうち9.5個を与えます。
 
 今日[Netflix](https://www.netflix.com/title/81340910)でご覧ください。
@@ -230,6 +234,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 >}}
 
 ## 公式予告編
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -273,11 +278,12 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
 ## OST
+
 {{< video
   platform="youtube"
   isplaylist=yes
@@ -321,11 +327,11 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -345,6 +351,6 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

@@ -145,6 +145,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 > ***ロマンチックコメディは正しく行われました。***
 
 ## 筋書き
+
 ペリカンエレクトロニクスのソ・ジソンのAI制御の家電開発者は、よく発達したプログラムのように完璧な生活を送ることを夢見ています。[^a]
 
 彼女は音声起動機能を備えた人工知能冷蔵庫に取り組んでおり、ナショナルインテリジェンスサービスによって失われたスーパーセンサーチップを冷蔵庫に挿入し、野菜の鮮度を伝える代わりにスカムを拾う「AncestralSpirit」プログラムを開発しました。 それで、ジソンは彼女が完璧な婚約者ジョンハンと見なしたのは実際には彼女のチャーミング王子ではなかったことを知りました。[^a]
@@ -154,9 +155,11 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 [^a]: Wikipedia: [「なお、男会わないで」 筋書き](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 物語
+
 プロットに使用された文学的装置は適切に使用されており、物語を設定した後に忘れられた単なる文学的装置ではありませんでした。 これが明らかになったとき、私はこのショーが真剣になり、ロマンティックコメディから逸脱して真剣なドラマになることを期待していましたが、作家は真実を保ち、それを傍観し続けましたが、それでもショーの重要な部分です。
 
 ## 演技
+
 「ソ・チソン」を演じた「ソン・ハユン」は、A.I。 プログラマーはまだ「ただの女の子、男の子の前に立って、彼に彼女を愛するように頼む」（「ノッティングヒル」から借りる）。 私はまた、彼らがステレオタイプを暴くこのショーでプログラマーとして女性を選んだ方法が大好きです[1]プログラミングは男性向けです。 [2]女の子のプログラマーには恋愛生活がありません。
 
 {{< image
@@ -167,7 +170,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
   src="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-02.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="なお、男会わないで (2020)"
   caption="「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
@@ -185,13 +188,17 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 >}}
 
 ## 音楽
+
 ### OST
+
 {{< music src="https://open.spotify.com/embed/playlist/5ssSW5RWfU8qm4ROOLglQE" >}}
 
 ## 評決
+
 彼らが合計10話しか計画していなかったのは悲しいことですが、それを13話または全シリーズ（16話）に拡張することもできたでしょう。 私たちの勇敢な消防士のような見知らぬ人でさえ、あなたを笑わせ、再び恋に落ち、あなたの周りの人々に感謝するシリーズを探しているなら、このショーを強くお勧めします。 10つ星のうち9.0の総合スコア。
 
 ## 公式予告編
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -235,17 +242,17 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://img.youronly.one/p/Please_Dont_Date_Him-(2020)-01.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="なお、男会わないで (2020)"
   caption=""
@@ -259,6 +266,6 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

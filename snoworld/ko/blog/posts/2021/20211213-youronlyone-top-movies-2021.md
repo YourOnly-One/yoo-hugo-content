@@ -50,6 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 ## 10. 블랙 위도우 (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -57,7 +58,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)_poster.jpg#/media/File:Black_Widow_(2021_film)_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)*poster.jpg#/media/File:Black_Widow*(2021_film)_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="블랙 위도우 (2021)"
@@ -86,6 +87,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -110,6 +112,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 >}}
 
 ## 9. 인피니트 (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -117,7 +120,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/0/07/Infinite_%282021_film%29_release_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)_release_poster.jpeg#/media/File:Infinite_(2021_film)_release_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)*release_poster.jpeg#/media/File:Infinite*(2021_film)_release_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="인피니트 (2021)"
@@ -144,6 +147,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -170,6 +174,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 [^b]: Wikipedia: [Infinite (film)](https://en.wikipedia.org/wiki/Infinite_(film))
 
 ## 8. 톰 클랜시의 후회 없는 (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -204,6 +209,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -230,6 +236,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 [^c]: Wikipedia: [Without Remorse (film)](https://en.wikipedia.org/wiki/Without_Remorse_(film))
 
 ## 7. 소설가 암살 (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -237,7 +244,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/ec/Writer%27s_Odyssey_%282021_film%29_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)_poster.jpeg#/media/File:Writer's_Odyssey_(2021_film)_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)*poster.jpeg#/media/File:Writer's_Odyssey*(2021_film)_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="소설가 암살 (2021)"
@@ -264,6 +271,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -290,9 +298,11 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 [^d]: Wikipedia: [A Writer's Odyssey](https://en.wikipedia.org/wiki/A_Writer%27s_Odyssey)
 
 ### 시청할 곳
+
 *A Writer's Odyssey* 또는 *刺殺小說家*는 **iQiYi**에서 좋은 영어 자막과 함께 볼 수 있습니다. [지금 보기](https://www.iq.com/play/2ad4rowlurg?sh_pltf=4&lang=en_us).
 
 ## 6. 투모로우 워(2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -300,7 +310,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/6/60/The_Tomorrow_War_%282021_film%29_official_theatrical_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg#/media/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)*official_theatrical_poster.jpg#/media/File:The_Tomorrow_War*(2021_film)_official_theatrical_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="투모로우 워(2021)"
@@ -327,6 +337,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -353,6 +364,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 [^e]: Wikipedia: [The Tomorrow War](https://en.wikipedia.org/wiki/The_Tomorrow_War)
 
 ## 5. 샹치와 10개의 반지의 전설 (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -389,6 +401,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -413,6 +426,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 >}}
 
 ## 4. 미션 파서블 (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -451,6 +465,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -475,6 +490,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 >}}
 
 ## 3. 루로니 검심 최종장：The Final (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -509,6 +525,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -533,6 +550,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 >}}
 
 ## 2. 루로니 검심 최종장：The Beginning (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -567,6 +585,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -591,6 +610,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 >}}
 
 ## 1. 승리호 (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -627,6 +647,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 <div class="floatclear"></div>
 
 ### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -651,13 +672,17 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 >}}
 
 ### 시청할 곳
+
 ***Space Sweepers***는 **Netflix**에서만 사용할 수 있습니다. [지금 보기](https://www.netflix.com/ph/title/81094067).
 
 ### YourOnly.One 리뷰
+
 *Space Sweepers*에 대한 우리의 리뷰는 별도로 볼 수 있습니다: [Space Sweepers Review]({{< ref "/20210206-space-sweepers-2021.md" >}} "Space Sweepers Review").
 
 ## 특별 언급
+
 ### 1. 듄 (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -692,6 +717,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 <div class="floatclear"></div>
 
 #### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -716,6 +742,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 >}}
 
 ### 2. F9 (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -750,6 +777,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 <div class="floatclear"></div>
 
 #### 공식 예고편
+
 {{< video
   platform="youtube"
 
@@ -774,11 +802,12 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
 >}}
 
 ## 마지막 단어
+
 읽어 주셔서 감사합니다! 2021년 YourOnly.One 상위 10개 영화는 아마도 예상한 것과는 다를 수 있지만, 이 영화는 ***YourOnly.One***으로 평가될 가치가 있는 영화입니다. 올해 개봉한 영화가 정말 많았는데, 다 담지 못한다는 게 쉽지만은 않았어요. 그러나 우리는 *Top 10*을 선택해야 했고 이것이 결과였습니다.
 
 당신은 어떤가요? ***YourOnly.One 2021년 최고의 영화 10개***는 무엇입니까?
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -786,7 +815,7 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/snoworld/listicles/YourOnlyOne-Top10-movies.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="YourOnly.One Top 10 Movies"
   embeddedtextcaption="Top 10 YourOnly.One Movies"
@@ -796,9 +825,9 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International License"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -841,6 +870,6 @@ Google 검색에서 13,725개의 투표에서 별 5개 중 4.6개를 받았습�
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

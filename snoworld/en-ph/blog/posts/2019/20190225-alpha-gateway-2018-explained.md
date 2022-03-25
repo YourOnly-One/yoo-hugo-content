@@ -125,7 +125,7 @@ We can only hope there was another Jane that ended up in the Alpha World to send
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

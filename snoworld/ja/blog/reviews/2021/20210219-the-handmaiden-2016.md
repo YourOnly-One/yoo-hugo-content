@@ -253,11 +253,11 @@ sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -277,6 +277,6 @@ sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

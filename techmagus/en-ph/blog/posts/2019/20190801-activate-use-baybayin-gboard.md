@@ -122,7 +122,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -151,7 +151,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -176,7 +176,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -201,7 +201,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -213,7 +213,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
 
   src="https://4.bp.blogspot.com/-BxeUYDATzos/XuN_GvSzmFI/AAAAAAAAivA/84s4EAUFgq8pnNLDuevDijSpB_-mJmgVQCPcBGAYYCw/s1600/GBoard-05-Baybayin-Tagbanwa.jpg"
   link="https://4.bp.blogspot.com/-BxeUYDATzos/XuN_GvSzmFI/AAAAAAAAivA/84s4EAUFgq8pnNLDuevDijSpB_-mJmgVQCPcBGAYYCw/s1600/GBoard-05-Baybayin-Tagbanwa.jpg"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Tagbanwa layout"
@@ -226,7 +226,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -246,6 +246,6 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

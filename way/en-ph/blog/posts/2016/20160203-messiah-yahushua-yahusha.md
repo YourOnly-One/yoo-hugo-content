@@ -143,7 +143,7 @@ Both spellings (defective and full) are pronounced and understood as:
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}
 
@@ -208,6 +208,6 @@ I hope with the disclaimers above, there will be no attempts to spark debates. Y
   licensename="CC-BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

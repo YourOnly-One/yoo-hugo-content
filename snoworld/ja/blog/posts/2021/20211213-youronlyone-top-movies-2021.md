@@ -50,6 +50,7 @@ type = "article"                                                           # art
 <!--more-->
 
 ## 10. ブラックウィドウ（2021）
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -57,7 +58,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)_poster.jpg#/media/File:Black_Widow_(2021_film)_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)*poster.jpg#/media/File:Black_Widow*(2021_film)_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="ブラックウィドウ（2021）"
@@ -86,6 +87,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -110,6 +112,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 >}}
 
 ## 9. インフィニット（2021）
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -117,7 +120,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/0/07/Infinite_%282021_film%29_release_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)_release_poster.jpeg#/media/File:Infinite_(2021_film)_release_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)*release_poster.jpeg#/media/File:Infinite*(2021_film)_release_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="インフィニット（2021）"
@@ -144,6 +147,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -170,6 +174,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 [^b]: Wikipedia: [Infinite (film)](https://en.wikipedia.org/wiki/Infinite_(film))
 
 ## 8. トム・クランシーのウィズアウト・リモース（2021）
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -204,6 +209,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -230,6 +236,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 [^c]: Wikipedia: [Without Remorse (film)](https://en.wikipedia.org/wiki/Without_Remorse_(film))
 
 ## 7. 小説家の暗殺（2021年）
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -237,7 +244,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/ec/Writer%27s_Odyssey_%282021_film%29_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)_poster.jpeg#/media/File:Writer's_Odyssey_(2021_film)_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)*poster.jpeg#/media/File:Writer's_Odyssey*(2021_film)_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="小説家の暗殺（2021年）"
@@ -264,6 +271,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -290,9 +298,11 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 [^d]: Wikipedia: [A Writer's Odyssey](https://en.wikipedia.org/wiki/A_Writer%27s_Odyssey)
 
 ### 見る場所
+
 *作家のオデッセイ*または*刺殺小說家*は**iQiYi**で英語字幕付きで入手できます：[今すぐ見る](https://www.iq.com/play/2ad4rowlurg?sh_pltf=4&lang=en_us)。
 
 ## 6. トゥモローウォー（2021）
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -300,7 +310,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/6/60/The_Tomorrow_War_%282021_film%29_official_theatrical_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg#/media/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)*official_theatrical_poster.jpg#/media/File:The_Tomorrow_War*(2021_film)_official_theatrical_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="トゥモローウォー（2021）"
@@ -327,6 +337,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -353,6 +364,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 [^e]: Wikipedia: [The Tomorrow War](https://en.wikipedia.org/wiki/The_Tomorrow_War)
 
 ## 5. シャンチーとテンリングの伝説（2021年）
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -389,6 +401,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -413,6 +426,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 >}}
 
 ## 4. ミッションパーサブル（2021）
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -444,13 +458,14 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 これは、韓国に密輸された違法な銃器を追跡する任務に派遣された新人女性の中国人秘密捜査官の物語です。 彼女はたまたま解雇された韓国の秘密捜査官である韓国の私立探偵に会いました。 彼らの連絡先と目撃者が暗殺され、彼らが主な容疑者になるまで、すべてが順調に進んでいました。
 
-1,548人のユーザーが* MyDramaList *で高く評価し、10個の星のうち合計8.1個を集めました。 *IMDb*の875票から10点満点中6.5点を獲得しました。 グーグル検索の93票から5つ星のうち4.7。 あなたが良いアクションコメディーを探しているなら、*ミッション：ポッシブル*または*미션파서블*があなたのリストにあるはずです。
+1,548人のユーザーが*MyDramaList*で高く評価し、10個の星のうち合計8.1個を集めました。 *IMDb*の875票から10点満点中6.5点を獲得しました。 グーグル検索の93票から5つ星のうち4.7。 あなたが良いアクションコメディーを探しているなら、*ミッション：ポッシブル*または*미션파서블*があなたのリストにあるはずです。
 
 [^g]: Wikipedia: [Mission: Possible](https://en.wikipedia.org/wiki/Mission:_Possible)
 
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -475,6 +490,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 >}}
 
 ## 3. るろうに剣心 最終章：The Final (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -502,13 +518,14 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ***るろうに剣心：決勝***（日本語：***るろうに剣心最終章：決勝***）は、第4回目となる同名のマンガシリーズをベースにした2021年の日本の実写映画です。 2014年の*るろうに剣心伝説の終焉*に続く*るろうに剣心*映画シリーズの いくつかのストーリー要素は異なりますが、この映画はマンガシリーズの最終回を適応させています。 この映画は、映画シリーズの第5作目と最終回の「るろうに剣心最終編」と同時に制作されました。これは、「決勝戦」の直接の前編であり、フラッシュバックシーンは「始まり」から取られています。[^h]
 
-アニメやマンガのファンなら、*るろうに剣心*、または西洋で知られている*サムライX *は、実写版をすでに見ているはずです。 *るろうに剣心：決勝戦*は、雪代縁が緋村剣心に復讐した物語です。 年代順に言えば、彼らはこの映画で完全に一周し、実写の物語の真の終わりです。 5本すべての映画を再視聴する場合は、*ファイナル*が最後になるようにしてください。
+アニメやマンガのファンなら、*るろうに剣心*、または西洋で知られている*サムライX*は、実写版をすでに見ているはずです。 *るろうに剣心：決勝戦*は、雪代縁が緋村剣心に復讐した物語です。 年代順に言えば、彼らはこの映画で完全に一周し、実写の物語の真の終わりです。 5本すべての映画を再視聴する場合は、*ファイナル*が最後になるようにしてください。
 
 [^h]: Wikipedia: [Rurouni Kenshin: The Final](https://en.wikipedia.org/wiki/Rurouni_Kenshin:_The_Final)
 
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -533,6 +550,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 >}}
 
 ## 2. るろうに剣心 最終章：The Beginning (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -567,6 +585,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -591,6 +610,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 >}}
 
 ## 1. スンリホ（2021）
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -627,6 +647,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 <div class="floatclear"></div>
 
 ### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -651,13 +672,17 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 >}}
 
 ### 見る場所
+
 ***スペーススウィーパー***は**Netflix**でのみ利用できます：[今すぐ見る](https://www.netflix.com/ph/title/81094067)。
 
 ### YourOnly.Oneレビュー
+
 *スペーススウィーパー*のレビューは別売りです：[スペーススウィーパーレビュー]({{< ref "/20210206-space-sweepers-2021.md" >}} "スペーススウィーパーレビュー")。
 
 ## 特記
+
 ### 1. 砂丘（2021）
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -683,7 +708,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attribrel="noopener external nofollow"
 >}}
 
-***デューン***（画面上で***デューン：パート1 ***と題されています）は、デニスヴィルヌーヴが監督し、ヴィルヌーヴ、ジョンスペイツ、エリックロスが書いた2021年のアメリカの壮大なSF映画です。 これは、主に本の前半をカバーする、**フランクハーバート**による1965年の小説の計画された2部構成の最初のものです。 遠い未来を舞台に、彼の家族である高貴なアトレイデ家が、致命的で人を寄せ付けない砂漠の惑星アラキスとの戦争に突入したとき、それはポール・アトレイデスに続きます。 アンサンブルキャストには、ティモシーシャラメ、レベッカファーガソン、オスカーアイザック、ジョシュブローリン、ステランスカルスガルド、デイブバウティスタ、スティーブンマッキンリーヘンダーソン、ゼンデイヤ、デビッドダストマルシャン、チャンチェン、シャロンダンカンブリュースター、シャーロットランプリング、ジェイソンモモア、ハビエルバルデムが含まれます。[^k]
+***デューン***（画面上で***デューン：パート1***と題されています）は、デニスヴィルヌーヴが監督し、ヴィルヌーヴ、ジョンスペイツ、エリックロスが書いた2021年のアメリカの壮大なSF映画です。 これは、主に本の前半をカバーする、**フランクハーバート**による1965年の小説の計画された2部構成の最初のものです。 遠い未来を舞台に、彼の家族である高貴なアトレイデ家が、致命的で人を寄せ付けない砂漠の惑星アラキスとの戦争に突入したとき、それはポール・アトレイデスに続きます。 アンサンブルキャストには、ティモシーシャラメ、レベッカファーガソン、オスカーアイザック、ジョシュブローリン、ステランスカルスガルド、デイブバウティスタ、スティーブンマッキンリーヘンダーソン、ゼンデイヤ、デビッドダストマルシャン、チャンチェン、シャロンダンカンブリュースター、シャーロットランプリング、ジェイソンモモア、ハビエルバルデムが含まれます。[^k]
 
 *デューン*は私が再起動または再告知したいフランチャイズの1つであり、2020年代に適応させる価値があります。 ***デューン：パート1***は素晴らしい映画でしたが、タイトルが示すように、それは*パート1*だけであり、間違いなくそうです。 このフランチャイズに慣れていない場合は、**フランクハーバート**による1965年の小説*デューン*から始まりました。 1984年の映画、2000年のミニテレビシリーズ、5つの続編、そしてたくさんのゲームがありました。 彼の息子**ブライアンハーバート**と著者**ケビンJ.アンダーソン**による前日小説と2つの続編は言うまでもありません。 言い換えれば、これは誰もが無視してはならないフランチャイズです。
 
@@ -692,6 +717,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 <div class="floatclear"></div>
 
 #### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -716,6 +742,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 >}}
 
 ### 2. F9（2021）
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -743,13 +770,14 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 ***F9***（***F9：The Fast Saga***としても知られています。国際的には***Fast＆Furious 9***としても知られています）は、ジャスティン・リンが脚本から監督した2021年のアメリカのアクション映画です。 ダニエルケイシーとリン。 これは、*The Fate of the Furious*（2017）の続編であり、9番目のメインの記事であり、*Fast＆Furious*フランチャイズの10番目の長編映画です。 映画の主演は、ヴィンディーゼル、ミシェルロドリゲス、タイリースギブソン、クリス "リュダクリス"ブリッジ、ジョンセナ、ナタリーエマニュエル、ジョーダナブリュースター、サンカン、マイケルルーカー、ヘレンミレン、カートラッセル、シャーリーズセロンです。 F9では、ドミニク・トレットとチームが協力して、トレットの兄弟であるヤコブが率いる世界を破壊する陰謀を阻止します。[^l]
 
-あなたは彼らが言うことを知っています、*家族*、そしてそれは基本的に* F9 *と* Fast＆Furious *フランチャイズについてのすべてです。 *F* for ***Family！***
+あなたは彼らが言うことを知っています、*家族*、そしてそれは基本的に*F9*と*Fast＆Furious*フランチャイズについてのすべてです。 *F* for ***Family！***
 
 [^l]: Wikipedia: [F9 (film)](https://en.wikipedia.org/wiki/F9_(film))
 
 <div class="floatclear"></div>
 
 #### 公式予告編
+
 {{< video
   platform="youtube"
 
@@ -774,11 +802,12 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 >}}
 
 ## 最後の言葉
+
 読んでくれてありがとう！ YourOnly.Oneの2021年のトップ10の映画はおそらくあなたが期待したものではありませんが、これらは***YourOnly.One***としてランク付けされるに値すると私が信じる映画です。 今年はたくさんの映画が公開されており、すべてを含めるのは簡単ではありませんでした。 ただし、*トップ10*を選択する必要があり、これが結果でした。
 
 君はどうでしょう？ ***YourOnly.One Top 10 Movies of 2021***とは何ですか？
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -786,7 +815,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/snoworld/listicles/YourOnlyOne-Top10-movies.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="YourOnly.One Top 10 Movies"
   embeddedtextcaption="Top 10 YourOnly.One Movies"
@@ -796,9 +825,9 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International License"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one/"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -841,6 +870,6 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

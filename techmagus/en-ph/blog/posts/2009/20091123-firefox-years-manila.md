@@ -108,7 +108,7 @@ Give <i>Web2Mobile</i> a try: <a href="https://web.archive.org/web/2010031800431
 
 Visit the official community website at <a href="https://www.mozillaphilippines.org" target="_blank" rel="noopener">www.mozillaphilippines.org</a>.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -124,6 +124,6 @@ Visit the official community website at <a href="https://www.mozillaphilippines.
   licensename="CC BY-SA 4.0 International"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 >}}

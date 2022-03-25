@@ -408,7 +408,7 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
 
   contentloc=""
   contentlocurl=""
-  contentlocrel="me noopner external"
+  contentlocrel="noopener external"
   contentreferencetime=""
 >}}
 

@@ -112,7 +112,7 @@ Our Abba Himself said He will not give His glory, honour, praise, thanks that is
   licensename="CC0"
 
   attribto="I'M YourOnly.One"
-  attriburl="https://im.youronly.one"
+  attriburl="https://im.youronly.one/"
   attribrel="noopener"
 
   cc0country="Philippines"
