@@ -2,8 +2,8 @@
 title = "「Please Don't Date Him」 review"
 description = "Romantic comedy done right."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-11T23:38:36"
-lastmod = "2021-01-11T23:38:36"
+date = "2021-01-11T23:38:36+08:00"
+lastmod = "2021-01-11T23:38:36+08:00"
 
 #aliases = [""]
 slug = "제발 그 남자 만나지 마요 Please Don't Date Him (2020)"
@@ -144,6 +144,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 > ***Romantic comedy done right.***
 
 ## Synopsis
+
 An AI controlled, household appliances developer in Pelican Electronics, Seo Ji-seong, has dreams to live a perfect life like a well developed program.[^a]
 
 Working on an Artificial Intelligence refrigerator with voice activated features, she inserts a super sensor chip which was lost by National Intelligence Service into a refrigerator and an "Ancestral Spirit" program that picks scums instead of telling the freshness of vegetables is developed. So, Ji-seong finds out that her deemed perfect fiancé Jeong-han was actually not her Prince Charming.[^a]
@@ -153,9 +154,11 @@ One day, Jung Kook-hee, a firefighter, with no social media record, whom the pro
 [^a]: Wikipedia: [「Please Don't Date Him」 synopsis](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## Story
+
 The literary device used for the plot was properly used and was not just a literary device later forgotten after setting up the story. When this was revealed, I was expecting this show to turn serious and deviate from being a romcom and turn into a serious drama, but the writer(s) stayed true and kept it in the sidelines yet still an important part of the show.
 
 ## Performance
+
 「Song Ha Yoon」, who played "Seo Ji Sung" did very well in portraying an A.I. programmer yet still "just a girl, standing in front of a boy, asking him to love her" (to borrow from 「Notting Hill」). I also love how they chose a woman as a programmer in this show debunking the stereotypes [1] programming is for men; and [2] girl programmers does not have a love life.
 
 {{< image
@@ -184,13 +187,17 @@ The literary device used for the plot was properly used and was not just a liter
 >}}
 
 ## Music
+
 ### OST
+
 {{< music src="https://open.spotify.com/embed/playlist/5ssSW5RWfU8qm4ROOLglQE" >}}
 
 ## Verdict
+
 It's sad that they only planned a total of ten (10) episodes, they could have extended it to thirteen or a full series (sixteen episodes). I strongly recommend this show if you are looking for a series which will make you laugh, fall in love all over again, and appreciate the people around you, even strangers like our brave firefighters. An overall score of 9.0 out of 10 stars.
 
 ## Official trailer
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -238,7 +245,7 @@ It's sad that they only planned a total of ten (10) episodes, they could have ex
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

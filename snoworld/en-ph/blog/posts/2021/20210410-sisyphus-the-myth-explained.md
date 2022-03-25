@@ -2,8 +2,8 @@
 title = "(Updated) 「Sisyphus: The Myth」 Explained Logically"
 description = "Confused about the ending of 「Sisyphus: The Myth」?"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-10T21:12:21"
-#lastmod = "2021-04-10T21:12:21"
+date = "2021-04-10T21:12:21+08:00"
+#lastmod = "2021-04-10T21:12:21+08:00"
 
 #aliases = [""]
 slug = "시지프스 Sisyphus The Myth (2021) Explained Logically"
@@ -50,9 +50,11 @@ There is a lot of confusion about the recently concluded Korean TV series entitl
 > ***Before we begin, a fair reminder: everything in this post is a spoiler. I am also assuming that you, my dear reader, already finished the series (up to episode 16).***
 
 **Update**
-* 2021-05-06: Added Animetric's excellent theory in our list. See below for the link to her article!
+
+- 2021-05-06: Added Animetric's excellent theory in our list. See below for the link to her article!
 
 ## Guidelines
+
 If we are to understand 「Sisyphus: The Myth」, we need to be on the same page. Let's begin with the guidelines, terminologies, and basic information used in this explanation.
 
 1. **We approach this from the "in-universe" perspective.** We are not going to use "production error", "literary freedom", or "suspension of disbelief" as reasons, these are excuses commonly used when it is not easy to understand what the authors had in mind. Think as someone who lives in the universe of 「Sisyphus: The Myth」.
@@ -63,60 +65,64 @@ If we are to understand 「Sisyphus: The Myth」, we need to be on the same page
 
 4. Two important rules in creative writing / fiction writing:
 
-    * **Show, don't tell.**
+    - **Show, don't tell.**
 
-    * **If a scene won't move the story forward, delete it.** An experienced writer makes sure every scene is important to the story. This tells us that we can not assume that some scenes were insignificant.
+    - **If a scene won't move the story forward, delete it.** An experienced writer makes sure every scene is important to the story. This tells us that we can not assume that some scenes were insignificant.
 
 ### Terminologies
-* **Grandfather paradox.** It is a paradox of time travel in which inconsistencies emerge through changing the past. For example, a person travels to the past and kills their own grandfather before the conception of their father or mother, which prevents the time traveller's existence.[^a]
 
-* **Timestream.** Or more commonly called *timeline*, is a metaphorical conception of time as a stream, a flowing body of water.[^b]
+- **Grandfather paradox.** It is a paradox of time travel in which inconsistencies emerge through changing the past. For example, a person travels to the past and kills their own grandfather before the conception of their father or mother, which prevents the time traveller's existence.[^a]
 
-* **Timestream branch.** Also called *timeline split*, is the idea that a timestream branches off whenever a time traveler changes something in a time period they are not supposed to be in. If a timestream is a flowing river, the time traveler is the man who created a new branch of the river towards his town. This idea is commonly used as a solution to the *grandfather paradox*.
+- **Timestream.** Or more commonly called *timeline*, is a metaphorical conception of time as a stream, a flowing body of water.[^b]
 
-* **Time bubble.** It is another solution to the *grandfather paradox*, instead of the timestream branching to a new one after a time traveler changed something, a time bubble is created to isolate the cause-and-effect of the changes. The rules in a time bubble are the following:
+- **Timestream branch.** Also called *timeline split*, is the idea that a timestream branches off whenever a time traveler changes something in a time period they are not supposed to be in. If a timestream is a flowing river, the time traveler is the man who created a new branch of the river towards his town. This idea is commonly used as a solution to the *grandfather paradox*.
 
-    * A *time bubble* is created from the origin time ("Point A") of the time traveler and to the destination time ("Point B") the time traveler went to.
+- **Time bubble.** It is another solution to the *grandfather paradox*, instead of the timestream branching to a new one after a time traveler changed something, a time bubble is created to isolate the cause-and-effect of the changes. The rules in a time bubble are the following:
 
-    * Time inside a *time bubble* is not fixed, it constantly changes. The past, the present, and the future, are happening all at the same time, or to put it another way, all three are "the present".
+  - A *time bubble* is created from the origin time ("Point A") of the time traveler and to the destination time ("Point B") the time traveler went to.
+
+  - Time inside a *time bubble* is not fixed, it constantly changes. The past, the present, and the future, are happening all at the same time, or to put it another way, all three are "the present".
 
 ### Labels
-* **2020-Seo Hae** or simply **Seo Hae** refers to the Kang Seo Hae we followed in the series.
 
-* **2035-Seo Hae** refers to the Kang Seo Hae in the flashbacks (future).
-    
-    * The 2035-Seo Hae and 2020-Seo Hae are one and the same. We only need to distinguish them separately to avoid confusion whenever we have to mention both.
+- **2020-Seo Hae** or simply **Seo Hae** refers to the Kang Seo Hae we followed in the series.
 
-* **Dead-Seo Hae** refers to the corpse discovered by 2035-Seo Hae and whose diary and memories she acquired.
+- **2035-Seo Hae** refers to the Kang Seo Hae in the flashbacks (future).
 
-* **2020-Sigma** is the young Sigma.
+  - The 2035-Seo Hae and 2020-Seo Hae are one and the same. We only need to distinguish them separately to avoid confusion whenever we have to mention both.
 
-* **2035-Sigma** is the Sigma that Seo Hae and her father saw partying in 2035 (episode 15).
+- **Dead-Seo Hae** refers to the corpse discovered by 2035-Seo Hae and whose diary and memories she acquired.
 
-* **2001-Sigma** or simply **Sigma** is the Sigma that time traveled to 2001 and amassed wealth to fund 「Quantum &amp; Time」
+- **2020-Sigma** is the young Sigma.
 
-    * The 2035-Sigma and 2001-Sigma are one and the same. We need to distinguish them to understand the events and scenes.
+- **2035-Sigma** is the Sigma that Seo Hae and her father saw partying in 2035 (episode 15).
 
-* **2020-Tae Sul** or simply **Tae Sul** is the Han Tae Sul we watched in the series.
+- **2001-Sigma** or simply **Sigma** is the Sigma that time traveled to 2001 and amassed wealth to fund 「Quantum &amp; Time」
 
-* **Dead-Tae Sul** is the corpse besides the Dead-Seo Hae in 2035; and later the ash 2020-Tae Sul touched and acquired the memories of.
+  - The 2035-Sigma and 2001-Sigma are one and the same. We need to distinguish them to understand the events and scenes.
 
-    * The Dead-Tae Sul and 2020-Tae Sul are not the same person. The Dead-Tae Sul was from the previous time loop.
+- **2020-Tae Sul** or simply **Tae Sul** is the Han Tae Sul we watched in the series.
+
+- **Dead-Tae Sul** is the corpse besides the Dead-Seo Hae in 2035; and later the ash 2020-Tae Sul touched and acquired the memories of.
+
+  - The Dead-Tae Sul and 2020-Tae Sul are not the same person. The Dead-Tae Sul was from the previous time loop.
 
 ### Basic rules of the 「Sisyphus」 universe
-* **There is only one timestream** in the 「Sisyphus」 universe. Forget about multiple timelines or timestream branches. This will be explained later.
 
-* **The future is 2035.** From the time 2035-Seo Hae was almost caught in the department store, to finding the diary and corpse of Dead-Seo Hae, to using the Uploader, it all happened in 2035.
+- **There is only one timestream** in the 「Sisyphus」 universe. Forget about multiple timelines or timestream branches. This will be explained later.
 
-* **The story unfolded in 2020.** The main story (2020-Seo Hae, 2001-Sigma, and 2020-Han Tae Sul) happened in 2020. All other scenes not in 2020 were flashbacks.
+- **The future is 2035.** From the time 2035-Seo Hae was almost caught in the department store, to finding the diary and corpse of Dead-Seo Hae, to using the Uploader, it all happened in 2035.
 
-* **The past of a person must not see their future self** or their future self will disappear. This is because a paradox occurs and to fix this nature simply deletes the anomaly--the future self.
+- **The story unfolded in 2020.** The main story (2020-Seo Hae, 2001-Sigma, and 2020-Han Tae Sul) happened in 2020. All other scenes not in 2020 were flashbacks.
+
+- **The past of a person must not see their future self** or their future self will disappear. This is because a paradox occurs and to fix this nature simply deletes the anomaly--the future self.
 
 We barely started and it was already a lot to read. Do not worry, this is going to be easy to follow because we are now on the same page.
 
 Now let's begin.
 
 ## What is your choice of ending?
+
 Before we dive into the meat of this post, let's talk about the elephant in the room: what is your choice of ending? There are at least three that I can think of and I have seen these in various threads about 「Sisyphus」. These are:
 
 1. Han Tae Sul was hallucinating about Kang Seo Hae sitting besides him in the plane.
@@ -163,6 +169,7 @@ Anyone for *ending #1* will probably not like the rest of this post but are stil
 Sigma is smirking! Not a good sign.
 
 ## FAQ
+
 Yes, an FAQ. I think this is the best format to use this way it is easier to understand what particular "confused" scene I am trying to clarify.
 
 **Q: All of the characters from the future traveled from 2035?**
@@ -347,11 +354,13 @@ If you have additional questions or counter-arguments, the comment section is op
 Thank you for reading! Shalom!
 
 ## Bonus: The "Pocket Universe" theory
+>
 > 3. In episode 11, Tae Sul goes into Seo Hae’s past to try and save her. To do this, both Tae Sul and Seo Hae’s bodies are left in the present while their consciousness visits various pockets of time. In one such time pocket, Tae Sul finds his brother Tae San. Tae San tells Tae Sul that this is where he has been hiding all this time so Sigma and the Control Bureau can never find him. He also tells Tae Sul that when Tae Sul goes back to the present, physical world, they will most likely not see each other again. We see Tae San’s body in a vegetative state in the present. If their physical bodies die, their consciousness can never go back, having no vessel to return to. This is why after getting shot with the serum, Seo Hae goes back and wakes up but finds that Tae Sul is dead to the world.[^c]
 
 Animetric presented an excellent explanation on the show's ending, I highly recommend reading her theory over on [Animetric's World](https://j.mp/2RrPfeq).
 
 ## Official trailer
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -404,9 +413,10 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/36v88yXQKhvQFscLJuXFZd" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

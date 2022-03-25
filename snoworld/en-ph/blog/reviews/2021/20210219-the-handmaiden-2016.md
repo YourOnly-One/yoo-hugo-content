@@ -3,8 +3,8 @@ title = "The Handmaiden review"
 description = "A review of the Korean film, 아가씨 The Handmaiden."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "A review of the Korean film, 아가씨 The Handmaiden."																											# for summary text in list displays
 
-date = "2021-02-19T14:11:58"
-lastmod = "2021-02-19T14:11:58"
+date = "2021-02-19T14:11:58+08:00"
+lastmod = "2021-02-19T14:11:58+08:00"
 
 aliases = ["/the-handmaiden-2016-202150"] # Permanent (twt)
 slug = "아가씨 The Handmaiden (2016)"
@@ -257,7 +257,7 @@ A perfect 10 out of 10!
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

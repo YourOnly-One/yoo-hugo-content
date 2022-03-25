@@ -2,8 +2,8 @@
 title = "「Splash Splash LOVE」 review"
 description = "A story you will never forget for the rest of your life"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-03-20T11:10:37"
-lastmod = "2021-03-20T11:10:37"
+date = "2021-03-20T11:10:37+08:00"
+lastmod = "2021-03-20T11:10:37+08:00"
 
 #aliases = [""]
 slug = "퐁당퐁당 LOVE Splash Splash LOVE (2015)"
@@ -155,9 +155,11 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 >}}
 
 ## Acting
+
 The chemistry between the main actors, 윤두준 (Yoon Doo Joon) and 김슬기 (Kim Seul Gi), were perfect. At first there was no spark between the two, as it should be when one was a high school student from the future and the other a king. But once the characters developed feelings for each other, their acting also displayed the feelings of their characters, of being easy when in each other's presence, and showing how happy they were in each other's company.
 
 ## Music
+
 While this show only have one theme song, 「너에게 퐁당」, sang by two different singers, it was a great song that fits the story. Though the lyrics reflect the story of this short drama, one can easily relate to it regardless of which time period they are. A very good composition and melody which complimented 「퐁당퐁당 LOVE」 / 「Splash Splash LOVE」 well.
 
 {{< image
@@ -186,6 +188,7 @@ While this show only have one theme song, 「너에게 퐁당」, sang by two di
 >}}
 
 ## Verdict
+
 Last but definitely not the least, it would not have achieved its success if this was originally filmed as movie as movies have a higher and far different expectations and requirements. A great decision on the part of the production team. Because it was made episodic, they were able to concentrate on the delivery without the immense stress and demands of a movie. Yes, this is not a film but with its total running time and great story, it is a great movie for me.
 
 I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash LOVE」 today. I will never forget this story for the rest of my life.
@@ -193,6 +196,7 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
 10 out of 10 stars from me!
 
 ## Official trailer
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -245,6 +249,7 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
 >}}
 
 ## Official Music Video: 「너에게 퐁당」 (단비 이야기)
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -294,9 +299,10 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/1w4WgoMLx0kMUYuZkXxBuU" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

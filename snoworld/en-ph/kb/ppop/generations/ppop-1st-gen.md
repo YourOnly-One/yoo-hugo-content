@@ -2,8 +2,8 @@
 title = "1st Generation Modern P-pop (1990–1999)"
 description = "A list of First Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-15T08:00:01"                                        # manually adjust to local timezone
-#lastmod = "2022-01-22T02:08:24"                                     # manually adjust to local timezone
+date = "2022-02-15T08:00:01+08:00"                                        # manually adjust to local timezone
+#lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
 
 aliases = [""]
 slug = "ppop-1st-generation"
@@ -1114,7 +1114,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Sponge_Cola)
 
-[^sponge-cola-songs-nakapagtataka]: [Sponge Cola] YouTube: 「[](https "Sponge Cola: ")」 original by *APO Hiking Society*
+[^sponge-cola-songs-nakapagtataka]: [Sponge Cola] YouTube: 「[Nakapagtataka](https://www.youtube.com/watch?v=Q1gQ78-vSq8 "Sponge Cola: Nakapagtataka")」 original by *APO Hiking Society*
 
 ### Sandwich {#sandwich-4rjQ8AlDdTkqobCJY}
 
@@ -1159,7 +1159,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
   - [Instagram](https://www.instagram.com/sandwichmanila)
   - [Twitter](https://twitter.com/subsandwich)
 - More:
-  - [Wikipedia](<https://en.wikipedia.org/wiki/Sandwich_(band>)
+  - [Wikipedia](https://en.wikipedia.org/wiki/Sandwich_(band))
 
 [^sandwich-songs-humanda-ka]: [Sandwich] YouTube: 「[Humanda Ka](https://www.youtube.com/watch?v=5I8tVCQSzGU "Sandwich: Humanda Ka")」 OST for 「Tantra Online」 and 「Rounin」
 [^sandwich-songs-zaido]: [Sandwich] YouTube: 「[Zaido](https://www.youtube.com/watch?v=5G1VKmaHXp4 "Sandwich: Zaido")」 OST for 「Zaido」

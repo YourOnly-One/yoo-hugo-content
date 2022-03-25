@@ -2,8 +2,8 @@
 title = "「Lovestruck in the City」 review"
 description = "Fun, Relatable, Full of Lessons"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-17T08:17:39"
-lastmod = "2021-01-17T08:17:39"
+date = "2021-01-17T08:17:39+08:00"
+lastmod = "2021-01-17T08:17:39+08:00"
 
 #aliases = [""]
 slug = "도시남녀의 사랑법 Lovestruck in the City (2020)"
@@ -160,6 +160,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 > ***Fun, Relatable, Full of Lessons***
 
 ## Synopsis
+
 The storyline of the series is in interview format -- six people talking about their dating life.[^a]
 
 Park Jae-won, a 32-year-old architect by profession, has a passionate and honest personality. He is not able to forget the woman, whom he calls a "camera thief", who stole his heart and disappeared. Lee Eun-o, a 29-year-old freelance marketer, lives an ordinary life but has an alter ego called Yoon Seon-a. She meets Park Jae-won under her fake identity in Yangyang Beach and ends up falling in love with him.[^a]
@@ -169,6 +170,7 @@ Choi Kyeong-jun, 29 years old and also an architect, and Seo Rin-i appear to be 
 [^a]: Wikipedia: [「Lovestruck in the City」 synopsis](https://en.wikipedia.org/wiki/Lovestruck_in_the_City#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## Reaction
+
 From the title and synopsis, the impression was this is a part comedy, part cheesy, part romantic, series. It was so easy to dismiss but I am glad I did not. Each episode are around 30 minutes long and they did well in telling the stories of the characters and their relationships while staying to a particular topic or subject in each episode.
 
 {{< image
@@ -197,9 +199,11 @@ From the title and synopsis, the impression was this is a part comedy, part chee
 >}}
 
 ## Music
+
 I like the OST, at least what was used so far in the first 8 episodes. Good acting, the chemistry between the actors were great. Relatable story, romantic and yet light--not cheesy, not teenage drama, no serious political and family drama.
 
 ## Verdict
+
 If you're looking for a TV show to break your existing serious line-ups, definitely pickup 「Lovestruck in the City」. I give this 9.5 out of 10 stars.
 
 Watch in [Netflix](https://www.netflix.com/title/81340910) today.
@@ -230,6 +234,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
 >}}
 
 ## Official trailer
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -278,6 +283,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
 >}}
 
 ## OST
+
 {{< video
   platform="youtube"
   isplaylist=yes
@@ -325,7 +331,7 @@ Watch in [Netflix](https://www.netflix.com/title/81340910) today.
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

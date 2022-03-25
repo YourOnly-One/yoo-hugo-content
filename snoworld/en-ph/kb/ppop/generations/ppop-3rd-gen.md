@@ -2,8 +2,8 @@
 title = "3rd Generation Modern P-pop (2010–2019)"
 description = "A list of Third Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-15T08:00:03"                                        # manually adjust to local timezone
-#lastmod = "2022-01-22T02:08:24"                                     # manually adjust to local timezone
+date = "2022-02-15T08:00:03+08:00"                                        # manually adjust to local timezone
+#lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
 
 aliases = [""]
 slug = "ppop-3rd-generation"
@@ -166,7 +166,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 [^1-43-songs-pink]: [1:43] YouTube: 「[PiNK (Pag-ibig Na Kaya?)](https://www.youtube.com/watch?v=Raxih1bbtfU "1:43: PiNK (Pag-ibig Na Kaya?")」
 [^1-43-songs-sa-isang-sulyap-mo]: [1:43] YouTube: 「[Sa Isang Sulyap Mo](https://www.youtube.com/watch?v=IZjPj-AturA "1:43: Sa Isang Sulyap Mo")」
 [^1-43-songs-ikaw-at-ako]: [1:43] YouTube: 「[Ikaw at Ako](https://www.youtube.com/watch?v=EUyM-9upR84 "1:43: Ikaw at Ako")」
-[^1-43-songs-ang-saya-saya]: [1:43] YouTube: 「[Ang Saya-saya (Clap Your Hands)](https://www.youtube.com/watch?v= "1:43: Ang Saya-saya (Clap Your Hands)")」
+[^1-43-songs-ang-saya-saya]: [1:43] YouTube: 「[Ang Saya-saya (Clap Your Hands)](https://www.youtube.com/watch?v=0phLhLd4N8k "1:43: Ang Saya-saya (Clap Your Hands)")」
 
 ## 2011
 
@@ -261,7 +261,7 @@ This was also when the *Philippine idol industry* started with the debut of ***X
 [^ex-battalion-songs-ikaw-kase]: [Ex Battalion] YouTube: 「[Ikaw Kase](https://www.youtube.com/watch?v=4-Ovr7k2xzU "Ex Battalion: Ikaw Kase")」
 [^ex-battalion-songs-follow-my-lead]: [Ex Battalion] YouTube: 「[Follow My Lead](https://www.youtube.com/watch?v=XvYojMuy99w "Ex Battalion: Follow My Lead")」
 [^ex-battalion-songs-kakaiba]: [Ex Battalion] YouTube: 「[Kakaiba](https://www.youtube.com/watch?v=mdWLrIMBIVY "Ex Battalion: Kakaiba")」
-[^ex-battalion-songs-superhero-mo]: [Ex Battalion] YouTube: 「[Superhero Mo](https "Ex Battalion: ")」 OST for 「Victor Magtanggol」
+[^ex-battalion-songs-superhero-mo]: [Ex Battalion] YouTube: 「[Superhero Mo](https://www.youtube.com/watch?v=bXTwQc_dXUA "Ex Battalion: Superhero Mo")」 OST for 「Victor Magtanggol」
 
 ## 2013
 

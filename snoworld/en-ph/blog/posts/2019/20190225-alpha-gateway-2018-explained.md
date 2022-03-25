@@ -2,8 +2,8 @@
 title = "「Alpha Gateway」 Parallel Worlds Explained"
 description = "Confused on the parallel worlds of 「The Gateway」?"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2019-02-25T16:46:12"
-#lastmod = "2019-02-25T16:46:12"
+date = "2019-02-25T16:46:12+08:00"
+#lastmod = "2019-02-25T16:46:12+08:00"
 
 #aliases = [""]
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"
@@ -48,20 +48,22 @@ There are multiple parallel worlds shown in 「Alpha Gateway」 or 「The Gatewa
 <!--more-->
 
 ## How Many Worlds Were Featured?
+
 In total, there were six (6) worlds shown in the movie.
 
-* **Alpha World (Level 1; 350 PW; 36.9MHz)**: The origin world of Jane, our main character.
-* **Beta World (Level 3; 350 PW; unknown)**: Origin world of Matt "Beta"; the one Jane "Alpha" brought back home.
-* **Charlie World (Level 1; 350 PW; unknown)**: The world where Jane "Alpha" saw herself and her family complete.
-* **Delta World (Level 1; unknown; unknown)**: The world where Jane "Alpha" thought she's in her own world.
-* **Echo World (Level 3; unknown; unknown)**: Home world of Matt "Echo" who was in the Delta World.
-* **F World (Level 2; 400 PW; unknown)**: Where Matt "Echo" was sent to by Jane "Alpha".
+- **Alpha World (Level 1; 350 PW; 36.9MHz)**: The origin world of Jane, our main character.
+- **Beta World (Level 3; 350 PW; unknown)**: Origin world of Matt "Beta"; the one Jane "Alpha" brought back home.
+- **Charlie World (Level 1; 350 PW; unknown)**: The world where Jane "Alpha" saw herself and her family complete.
+- **Delta World (Level 1; unknown; unknown)**: The world where Jane "Alpha" thought she's in her own world.
+- **Echo World (Level 3; unknown; unknown)**: Home world of Matt "Echo" who was in the Delta World.
+- **F World (Level 2; 400 PW; unknown)**: Where Matt "Echo" was sent to by Jane "Alpha".
 
 In this film, there are two things that governs parallel world travel. The power and the frequency. We only know for certain that Jane's Alpha World is at 350 petawatts power and 36.9MHz frequency; and the Beta World and Charlie World are at 350 PW as well.
 
 The "Level" in the list above refers to the Max Tegmark's multiverse classification system. Level 1 is the infinite multiverse, Level 2 is the chaotic eternal inflation, and Level 3 is the Everettian Many-worlds theory or quantum branches. There is a Level 4 where everything is different. As what Regg "Alpha" said, we only want a Level 1 and Level 3 parallel world.
 
 ### Explanation
+
 When Jane "Alpha" got stuck in the Beta World and met Regg "Beta", they had their settings wrong when they used Regg's machine. They landed in the Charlie World where Jane saw herself and her family complete and happy. She ran back out and told Regg "Beta" they were in the wrong world.
 
 Then when Regg "Beta" sent Jane "Alpha" to another world again, in their rush, Regg "Beta" probably had a minor but deadly error when he set the frequency or the power. Thus, Jane "Alpha" landed n Delta World, a world where events transpired almost exactly as it did in her own world (the Alpha World).
@@ -73,11 +75,13 @@ In other words, the Myles she sent to the F World was Matt from the Echo World. 
 Two months she was living in a world that she thought was her world while Matt "Beta" did whatever he wants with her own actual children and relatives.
 
 ### Where is the other Jane?
+
 The location of Jane "Delta" is anybody's guess. She could still be stuck in the Echo World or lived for two months in another world similar to the Alpha World and Delta World, she thought was her own world. She probably received the same bad news from Regg "Echo".
 
 We can only hope there was another Jane that ended up in the Alpha World to send Matt "Beta" to the F World.
 
 ## Official trailer
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -125,7 +129,7 @@ We can only hope there was another Jane that ended up in the Alpha World to send
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

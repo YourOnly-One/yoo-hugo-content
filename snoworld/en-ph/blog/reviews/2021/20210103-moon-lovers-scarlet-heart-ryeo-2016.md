@@ -3,8 +3,8 @@ title = "Moon Lovers: Scarlet Heart Ryeo review"
 description = "A review of one of the most highly-rated Korean Drama since 2016, 달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "A review of one of the most highly-rated Korean Drama since 2016, 달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo."																											# for summary text in list displays
 
-date = "2021-01-03T09:34:40"
-lastmod = "2021-01-03T09:34:40"
+date = "2021-01-03T09:34:40+08:00"
+lastmod = "2021-01-03T09:34:40+08:00"
 
 #aliases = [""]
 slug = "달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo (2016)"
@@ -153,14 +153,17 @@ The series is a Korean TV adaptation of the Chinese novel 《步步惊心》 (B�
 > **A 花より男子 (Hana Yori Dango); Meteor Garden show with political sibling rivalry**
 
 ## Story
+
 In a story with many important characters, it is important to tell it clearly, they did well in doing that. The political war between the brothers were interesting, they also picked a good period for the Korean version of a Chinese novel.
 
 Sadly, the romantic aspect of the story was delivered poorly. It did not elicit any emotional reaction. There was no built-up. This is primarily a story about sibling rivalry gone to the political level.
 
 ## Acting
+
 It was lacking in some areas, there were also scenes which looked like they were practicing. There were also memorable scenes, from pure laughter to serious where their acting were very natural.
 
 ## Music
+
 The music, unfortunately, did not make an impact. There were scenes where a powerful music fits but instead it did not have any or a weaker music was used. They should've used more.
 
 {{< image
@@ -189,6 +192,7 @@ The music, unfortunately, did not make an impact. There were scenes where a powe
 >}}
 
 ## Production
+
 The production was very good. They spent for quality materials and designs for the wardrobe of the actors. This is specially true for IU where she was able to wear historical wardrobes yet with a modern touch which fits her aura. Great job in blending the two eras.
 
 However, close-up shots were overused to the 5th power. It wasn't needed in many of the scenes, it became annoying. In the boat scenes, there was too much backlight glare from the sun the actors (again close-up shots) can be barely seen.
@@ -243,9 +247,10 @@ I give this show 8 out of 10 stars.
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/0gmw30zH5jLjwMv5KSJl86" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

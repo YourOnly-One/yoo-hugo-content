@@ -49,45 +49,6 @@ SUMMARY
 
 <!--more-->
 
-{{- /*
-TODO:
-NOTE:
-FIXME:
-HACK:
-*/ -}}
-
-{{- /*TODO:*/ -}}
-{{/*FIXME*/}}
-{{- /*OPTIMIZE:*/ -}}
-{{/*CHANGED:*/}}
-
-{{/*Project Notes + TODO Highlighter
-  `File links`
-  somenote.md
-  Anothernote
-  !Highlight
-  @any
-  #word
-  $imaginable
-  [Highlighting in brackets]
-  {Curly Braces And}
-  (Parentheses as well)
-  TODO: Project Notes + TODO Highlighter
-  NOTE:
-  FIXME: Project Notes + TODO Highlighter
-  BUG: Project Notes + TODO Highlighter
-  DEBUG:
-  HACK: Project Notes + TODO Highlighter
-  TEMP:
-  IDEA:
-  REVIEW:
-  RESEARCH:
-  CHANGED:
-  OPTIMIZE:
-  "double quoted"
-  'single quoted'
-*/}}
-
 A Japanese idol was described by *Japan Info*  as entertainers who start young, are always cute, and are often trained to sing, dance, MC, voice act, entertain, model, and play musical instruments. They are not just seen as entertainers, they are also regarded as role models for young people. They are a reflection on society, a picture of an ideal young Japanese citizen, and as such their image must be flawless. [^japan-info-japanese-idols]
 
 *90 Day Korean* described Korean idols as K-pop stars created to provide catchy K-pop music to younger audiences. They periodically come out with music singles and album filled with catchy tunes and appear in music shows. They also explained that although the song is important, special care and attention are always put into styling the idols, and their well-synched choreography, and producing a high-quality music video. [^90-day-korean-what-is-kpop]

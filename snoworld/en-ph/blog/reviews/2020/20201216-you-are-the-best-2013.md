@@ -2,8 +2,8 @@
 title = "「You Are The Best!」 review"
 description = "A review of 「최고다 이순신」"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-12-16T19:04:36"
-lastmod = "2020-12-16T19:04:36"
+date = "2020-12-16T19:04:36+08:00"
+lastmod = "2020-12-16T19:04:36+08:00"
 
 #aliases = [""]
 slug = "최고다 이순신 You Are The Best (2013)"
@@ -192,6 +192,7 @@ A review of the family K-Drama entitled 「**최고다 이순신**」 (「**You 
 A Korean drama about family relationships, finding love, and aspiring to be an actor or an actress. While there were many comedy scenes these were not 2% of the 1-hour 50 episodes, though the show is generally classified as a "romantic comedy" or "comedy", I advise not to approach this drama with that expectation as it is not and is more than that.
 
 ## The story
+
 At first it appeared that this is a story about Lee Soon Shin (played by IU) and Shin Joon Ho (played by Jo Jung Suk), the poster, synopsis, and first few episodes were about them. However, as we enter deeper in the series, it became clear that the series was not about them but about the family relationships.
 
 Shin Joon Ho, and in particular Lee Soon Shin, were only used as an anchor to be able to tell the amazing stories of each of the "supporting characters". While this was good overall, without watching the last few episodes, the stories were all over the place. There were too many stories told it was no longer possible to identify which stories qualified as "main" and which were "side" stories.
@@ -228,16 +229,19 @@ I'm giving it an 8 out of 10 stars.
 >}}
 
 ## The acting/cast
+
 The cast were perfect. The acting they gave to the show were natural, it was as if watching the life of a neighbour or our own. There were no unrealistic acting common in other drama series which is a distraction when watching. Special mention is Kim Hwan Hee for her superb acting, it is rare to see a young kid with that kind of talent in acting. Another special mention is Lee Seul Bi, she should have been given a more active role and more dialogues as she is capable to give the proper emotions and expressions need for her line.
 
 All of them combined, it's 9.5 out of 10 stars.
 
 ## The Music
+
 It is not easy to grade this one because the emotion-filled drama is far more memorable and powerful. The music were mainly used to be the scene. Meaning, when the music is removed, the scene will not stand on its own. The impact wouldn't be there. The emotion reaction would have been lacking. It would have been better if the scenes with the music can stand on its own--without the music background--because this would've allowed the music to pull out a far more powerful emotional response.
 
 I'm giving this 7 out of 10 stars.
 
 ## Conclusion
+
 Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was very moving. The multiple main stories are relatable and memorable, especially its focus on family relationships instead of a romcom or romance between two love birds. While having multiple main stories was good, it diminished the focus and impact of the main story between the two main characters. It was also slow at first and took ten to twenty episodes to reach the meat of the main plot. Regardless, the acting given by all the actors and actresses were so good and natural that overall it is worth watching again.
 
 {{< video
@@ -287,7 +291,7 @@ Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

@@ -3,8 +3,8 @@ title = "The King: Eternal Monarch review"
 description = "A review 2020's number one Korean Drama, 더 킹: 영원의 군주 The King: Eternal Monarch."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "A review 2020's number one Korean Drama, 더 킹: 영원의 군주 The King: Eternal Monarch."																											# for summary text in list displays
 
-date = "2021-01-24T23:17:10"
-lastmod = "2021-01-24T23:17:10"
+date = "2021-01-24T23:17:10+08:00"
+lastmod = "2021-01-24T23:17:10+08:00"
 
 #aliases = [""]
 slug = "더 킹: 영원의 군주 The King: Eternal Monarch (2020)"
@@ -191,6 +191,7 @@ alternatenames = ["Yoo Je Won", "Yu Je Won"]
 > **The Greatest Science Fiction Romance in the last 40 years**
 
 ## Story
+
 The writer, Kim Eun Sook of the "Lovers in Paris" (2004); "Descendants of the Sun" (2016); "Goblin" (2016); and "Mr. Sunshine" (2018) fame, once again showed us her amazing talent in creating stories that truly captures the imagination and heart of the audience.
 
 In "The King: Eternal Monarch" (2020), Kim Eun Sook has woven beautifully the "parallel world" trope into her memorable romance plots. She did not leave it simply as a literary device then forgotten, she placed it in the center of the series, and the drama and romance unfolded through it.
@@ -198,11 +199,13 @@ In "The King: Eternal Monarch" (2020), Kim Eun Sook has woven beautifully the "p
 Each episode was more or less one hour and ten minutes, and no episode was boring, no episode was dragging, no episode was a repeat of previous ones. In every episode there is a fresh plot, a new story to tell which added to the development of the characters, the relationships between them, and the tension and clashes when worlds and ambitions collide.
 
 ## Acting/Cast
+
 What an amazing cast—Lee Min Ho, Kim Go Eun, Woo Do Hwan, Kim Kyung Nam, Jung Eun CHae, Lee Jung Jin, Kim Yong Ji, Kang Hong Suk—they picked the right people for the roles. Their unique acting styles made their characters fully alive and their interaction with each other natural.
 
 The show was not only about "Yi Gon" (Lee Min Ho) and "Jeong Tae Eul" (Kim Go Eun), everyone were key persons in creating the world of the "Kingdom of Corea". They all brought their best and created a masterpiece.
 
 ## Production
+
 While there were a few noticeable errors, the editing and sequence of the scenes covered it all. I especially like how they did not present the stories, in each episode, in a linear fashion; instead they kept scenes for the next episodes and did flashbacks at the right time.
 
 The mixing of historical with the modern in the fictional "Kingdom of Corea" were seamless. There were no out-of-place moments. Where there are modern things, the room was designed to fit these modern gadgets. Where there should be a historical look and feel, the room either did not have any modern materials or the few blended with the environment. Not an easy task to achieve.
@@ -210,6 +213,7 @@ The mixing of historical with the modern in the fictional "Kingdom of Corea" wer
 It was not only the interior designers but it was also the directors and cameramen who did great shots in creating a seamless mix of historical and the modern environments.
 
 ## Conclusion
+
 I highly recommend "더 킹: 영원의 군주" or "The King: Eternal Monarch" (2020) especially if one is a fan of "parallel world" type of science fiction. Think of this show as "Fringe" (2008) but with touchy romance and intense family rivalry.
 
 Overall score of 9.5 out of 10 stars.
@@ -262,9 +266,10 @@ Overall score of 9.5 out of 10 stars.
 >}}
 
 ## OST
+
 {{< music src="https://open.spotify.com/embed/playlist/7JfLLITRjdnUhcUBcKWjZo" >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

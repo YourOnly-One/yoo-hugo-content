@@ -2,8 +2,8 @@
 title = "「While You Were Sleeping」 review"
 description = "A review of the sweet and relatable drama 「While You Were Sleeping」."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-12-24T16:57:34"
-lastmod = "2020-12-24T16:57:34"
+date = "2020-12-24T16:57:34+08:00"
+lastmod = "2020-12-24T16:57:34+08:00"
 
 #aliases = [""]
 slug = "당신이 잠든 사이에 While You Were Sleeping (2017)"
@@ -200,13 +200,17 @@ sameas = ["https://www.imdb.com/name/nm8589259"]
 > ***Watching 「While You Were Sleeping」 made me feel again what it is to truly fall in love. It was lovely, touching, and memorable, a drama I would repeatedly watch and a relationship anyone would die for.***
 
 ## Story
+
 ### Episode stories
+
 Some of the episode stories were good but there were those which were great. Out of the total 16 episodes, there are 5 anyone would watch repeatedly. The "legal" aspect were good, the comedy were very funny, and the relationship between characters were what anyone can relate to.
 
 ### Series story
+
 The overall story of the show was neatly written and realistic. It isn't your typical boy-meets-girl-and-they-lived-happily-ever-after which are usually boring and only for the "giggles" factor. 「While You Were Sleeping」 have the dynamics and challenges usually experienced by two strangers, turned friends, and started falling for each other yet there were some things holding them back.
 
 ## Acting
+
 Overall, the acting were amazing. They easily portrayed the personality of the characters they were playing. However in the latter part of the series where there were more kissing scenes, the two lead actors weren't into it. I am assuming those scenes were filmed near the beginning of the project and they weren't at ease with each other yet, if so, it was not a good decision. In those particular kissing scenes both actors were lacking emotions, it was "platonic", they were just "acting".
 
 The supporting actors did well too and made their characters memorable especially when it comes to comedy, they delivered the scenes perfectly. Great job!
@@ -237,15 +241,19 @@ The supporting actors did well too and made their characters memorable especiall
 >}}
 
 ## Music
+
 For the whole series, there were only 5 songs which made an impact out of 14 included in the OST. These songs were played in the correct scenes and hopefully were used also in more scenes, or at least an instrumental instead of the other music they used.
 
 ## Rewatch value
+
 I've watched this twice already. The first time was the Filipino-dub version and recently the original Korean-dub. Anyone can watch 「While You Were Sleeping」 anytime and everytime they want, it is a light drama and very romantic.
 
 ## Suzy Bae
+
 Suzy Bae did well in portraying a lovable and pretty character who anyone would fall into at first sight. Keep it up, Suzy!
 
 ## Overall score
+
 I give 「While You Were Sleeping」 an overall score of 9.0 out of 10 stars.
 
 {{< video
@@ -295,7 +303,7 @@ I give 「While You Were Sleeping」 an overall score of 9.0 out of 10 stars.
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

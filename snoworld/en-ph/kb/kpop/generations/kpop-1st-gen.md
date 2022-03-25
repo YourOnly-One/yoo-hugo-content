@@ -2,8 +2,8 @@
 title = "1st Generation Modern K-pop (1992–2001)"
 description = "A list of First Generation Korean Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-12T08:00:01"                                        # manually adjust to local timezone
-#lastmod = "2022-01-22T02:08:24"                                     # manually adjust to local timezone
+date = "2022-01-12T08:00:01+08:00"                                        # manually adjust to local timezone
+#lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
 
 aliases = ["kpop-1st-geneneration-202212"]
 slug = "kpop-1st-generation"
@@ -679,7 +679,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 - Wikipedia: [BoA](https://en.wikipedia.org/wiki/BoA "BoA")
 
 [^boa-songs-no-1]: [BoA] YouTube: [BoA 보아 'No.1' MV](https://www.youtube.com/watch?v=ceZc-5p3g1w "BoA 보아 'No.1' MV")
-[^boa-songs-every-heart]: [BoA] YouTube: [Every Heart-ミンナノキモチ- / BoA]((<https://www.youtube.com/watch?v=D3IDK_R1LTg> "Every Heart-ミンナノキモチ- / BoA")
+[^boa-songs-every-heart]: [BoA] YouTube: [Every Heart-ミンナノキモチ- / BoA](https://www.youtube.com/watch?v=D3IDK_R1LTg "Every Heart-ミンナノキモチ- / BoA")
 [^boa-songs-milky-way]: [BoA] YouTube: [BoA 보아 'Milky Way' MV](https://www.youtube.com/watch?v=M48JMEkiu3Q "BoA 보아 'Milky Way' MV")
 [^boa-songs-atlantis-princess]: [BoA] YouTube: [BoA 보아 '아틀란티스 소녀 (Atlantis Princess)' MV](https://www.youtube.com/watch?v=skbnuIhVQUA "BoA 보아 '아틀란티스 소녀 (Atlantis Princess)' MV")
 [^boa-songs-only-one]: [BoA] YouTube: [BoA 보아 'Only One' MV (Dance ver.)](https://www.youtube.com/watch?v=PQjovLrnvVo "BoA 보아 'Only One' MV (Dance ver.)")
@@ -720,7 +720,7 @@ The ***1st Generation of K-Pop Music*** started in 1992 and ended in 2001. Here 
 - Wikipedia: [Psy](https://en.wikipedia.org/wiki/Psy "Psy")
 
 [^psy-songs-gangnam-style]: [PSY] YouTube: [PSY - GANGNAM STYLE(강남스타일) M/V](https://www.youtube.com/watch?v=9bZkp7q19f0 "PSY - GANGNAM STYLE(강남스타일) M/V")
-[^psy-guinness-world-records-gentleman]: [PSY] Guinness World Records: [PSY secures new YouTube world record with "Gentleman"](<https://www.guinnessworldrecords.com/news/2013/4/psy-secures-new-youtube-world-record-with-gentleman-48291> "PSY secures new YouTube world record with "Gentleman")
+[^psy-guinness-world-records-gentleman]: [PSY] Guinness World Records: [PSY secures new YouTube world record with "Gentleman"](https://www.guinnessworldrecords.com/news/2013/4/psy-secures-new-youtube-world-record-with-gentleman-48291 "PSY secures new YouTube world record with "Gentleman")
 
 ### Jewelry
 

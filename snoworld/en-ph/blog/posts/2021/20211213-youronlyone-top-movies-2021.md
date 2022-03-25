@@ -2,8 +2,8 @@
 title = "YourOnly.One Top Movies of 2021"
 description = "YourOnly.One Top 10 Movies of 2021"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-14T22:17:08"                                        # manually adjust to local timezone
-lastmod = "2021-12-14T22:17:08"                                        # manually adjust to local timezone
+date = "2021-12-14T22:17:08+08:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-14T22:17:08+08:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "youronlyone-top-movies-2021"
@@ -50,6 +50,8 @@ A fortnight from now we will all bid farewell to 2021. A lof of things happened 
 <!--more-->
 
 ## 10. Black Widow (2021)
+
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -74,6 +76,7 @@ A fortnight from now we will all bid farewell to 2021. A lof of things happened 
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Black Widow*** is a 2021 American superhero film based on **Marvel Comics** featuring the character of the same name. Produced by **Marvel Studios** and distributed by **Walt Disney Studios Motion Pictures**, it is the 24<sup>th</sup> film in the *Marvel Cinematic Universe* (MCU). The film was directed by Cate Shortland from a screenplay by Eric Pearson, and stars Scarlett Johansson as Natasha Romanoff / Black Widow alongside Florence Pugh, David Harbour, O-T Fagbenle, Olga Kurylenko, William Hurt, Ray Winstone, and Rachel Weisz. Set after the events of *Captain America: Civil War* (2016), the film sees Romanoff on the run and forced to confront her past.[^a]
 
@@ -86,6 +89,7 @@ Even though the time period of *Black Widow* in **Marvel Cinematic Universe** ti
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -110,6 +114,8 @@ Even though the time period of *Black Widow* in **Marvel Cinematic Universe** ti
 >}}
 
 ## 9. Infinite (2021)
+
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -134,6 +140,7 @@ Even though the time period of *Black Widow* in **Marvel Cinematic Universe** ti
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Infinite*** is a 2021 American science fiction action film directed by Antoine Fuqua. Ian Shorr wrote the screenplay based on a story by Todd Stein, who in turn adapted D. Eric Maikranz's 2009 novel *The Reincarnationist Papers*. The film stars Mark Wahlberg, Chiwetel Ejiofor, Sophie Cookson, Jason Mantzoukas, Rupert Friend, Toby Jones and Dylan O'Brien.[^b]
 
@@ -144,6 +151,7 @@ The action scenes and effects were great but unfortunately it lacks depth. It wo
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -170,6 +178,7 @@ The action scenes and effects were great but unfortunately it lacks depth. It wo
 [^b]: Wikipedia: [Infinite (film)](https://en.wikipedia.org/wiki/Infinite_(film))
 
 ## 8. Tom Clancy's Without Remorse (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -204,6 +213,7 @@ I say, ignore the ratings and watch this film. Do not forget the last scene.
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -230,6 +240,8 @@ I say, ignore the ratings and watch this film. Do not forget the last scene.
 [^c]: Wikipedia: [Without Remorse (film)](https://en.wikipedia.org/wiki/Without_Remorse_(film))
 
 ## 7. A Writer's Odyssey (2021)
+
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -254,6 +266,7 @@ I say, ignore the ratings and watch this film. Do not forget the last scene.
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***A Writer's Odyssey*** (Chinese: ***刺杀小说家***) is a 2021 Chinese action-adventure fantasy film directed and written by Lu Yang and produced by Ning Hao. The film was released February 12, 2021, on the Lunar New Year. The film is based on **Shuang Xuetao**'s novel of the same name, and its sequel *Godslayer*.[^d] Desperate to find his daughter, a father agreed to assassinate a fantasy author whose novel is affecting the real-world, in particular the life of a tech tycoon hangs in the balance. In exchange, the tech tycoon promised to tell him the location of his daughter. Later, he fount out that there is more about the novel than he was initially told.
 
@@ -264,6 +277,7 @@ If you are looking for a good Chinese drama, I recommend *A Writer's Odyssey*. I
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -290,9 +304,12 @@ If you are looking for a good Chinese drama, I recommend *A Writer's Odyssey*. I
 [^d]: Wikipedia: [A Writer's Odyssey](https://en.wikipedia.org/wiki/A_Writer%27s_Odyssey)
 
 ### Where to watch
+
 *A Writer's Odyssey* or *刺殺小說家* is available on **iQiYi** with good English subtitles: [watch it now](https://www.iq.com/play/2ad4rowlurg?sh_pltf=4&lang=en_us).
 
 ## 6. The Tomorrow War (2021)
+
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -317,6 +334,7 @@ If you are looking for a good Chinese drama, I recommend *A Writer's Odyssey*. I
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***The Tomorrow War*** is a 2021 American military science fiction action film directed by Chris McKay. The picture is produced by David Ellison, Dana Goldberg, Don Granger, David S. Goyer, Jules Daly, and Adam Kolbrenner, and written by Zach Dean. The ensemble cast features Chris Pratt, Yvonne Strahovski, J. K. Simmons, Betty Gilpin, Sam Richardson, Edwin Hodge, Jasmine Mathews, Ryan Kiera Armstrong, and Keith Powers. It follows a mix of present-day soldiers and civilians sent into the future to fight an alien army.[^e]
 
@@ -327,6 +345,7 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -353,6 +372,7 @@ A rating of 6.6 out of 10 from 180,330 votes is in from *IMDb*. It also gathered
 [^e]: Wikipedia: [The Tomorrow War](https://en.wikipedia.org/wiki/The_Tomorrow_War)
 
 ## 5. Shang-Chi and the Legend of the Ten Rings (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -389,6 +409,7 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -413,6 +434,7 @@ It received got 4.6 out of 5 stars from 13,725 votes in Google Search; and 7.5 o
 >}}
 
 ## 4. Mission: Possible (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -451,6 +473,7 @@ It is a story of a rookie female Chinese secret agent sent on a mission to track
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -475,6 +498,7 @@ It is a story of a rookie female Chinese secret agent sent on a mission to track
 >}}
 
 ## 3. Rurouni Kenshin: The Final (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -509,6 +533,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -533,6 +558,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 >}}
 
 ## 2. Rurouni Kenshin: The Beginning (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -567,6 +593,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -591,6 +618,7 @@ If you are a fan of anime and manga *Rurouni Kenshin*, or *Samurai X* as it is k
 >}}
 
 ## 1. Space Sweepers (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -627,6 +655,7 @@ Can you guess how many languages were spoken and nationalities represented in �
 <div class="floatclear"></div>
 
 ### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -651,13 +680,17 @@ Can you guess how many languages were spoken and nationalities represented in �
 >}}
 
 ### Where to watch
+
 ***Space Sweepers*** is available exclusively on **Netflix**: [watch it now](https://www.netflix.com/ph/title/81094067).
 
 ### YourOnly.One Review
+
 Our review of *Space Sweepers* is available separately: [Space Sweepers Review]({{< ref "/20210206-space-sweepers-2021.md" >}} "Space Sweepers Review").
 
 ## Special mention
+
 ### 1. Dune (2021)
+
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -692,6 +725,7 @@ Our review of *Space Sweepers* is available separately: [Space Sweepers Review](
 <div class="floatclear"></div>
 
 #### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -716,6 +750,7 @@ Our review of *Space Sweepers* is available separately: [Space Sweepers Review](
 >}}
 
 ### 2. F9 (2021)
+
 {{< image
   width="250px"
   class="obj_floatright"
@@ -750,6 +785,7 @@ You know what they say, *family*, and that's basically everything about *F9* and
 <div class="floatclear"></div>
 
 #### Official trailer
+
 {{< video
   platform="youtube"
 
@@ -774,11 +810,12 @@ You know what they say, *family*, and that's basically everything about *F9* and
 >}}
 
 ## Final words
+
 Thank you for reading! While YourOnly.One Top 10 Movies of 2021 is probably not what you expected, these are the films which I believe deserves to be ranked as ***YourOnly.One***. There were a lot of films released this year and it was not easy not to include everything. However, we have to pick the *Top 10* and this was the result.
 
 How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -786,7 +823,7 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/snoworld/listicles/YourOnlyOne-Top10-movies.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="YourOnly.One Top 10 Movies"
   embeddedtextcaption="Top 10 YourOnly.One Movies"
@@ -796,9 +833,9 @@ How about you? What is ***YourOnly.One Top 10 Movies of 2021***?
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International License"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{< image

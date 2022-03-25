@@ -2,8 +2,8 @@
 title = "4th Generation Modern P-pop (2020–2029)"
 description = "A list of Fourth Generation Pinoy Popular music acts with debut dates, fandom names, song samples, videos, and more!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-15T08:00:04"                                        # manually adjust to local timezone
-#lastmod = "2022-01-22T02:08:24"                                     # manually adjust to local timezone
+date = "2022-02-15T08:00:04+08:00"                                        # manually adjust to local timezone
+#lastmod = "2022-01-22T02:08:24+08:00"                                     # manually adjust to local timezone
 
 aliases = [""]
 slug = "ppop-4th-generation"
@@ -106,7 +106,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - [Instagram](https://www.instagram.com/infinityeightofficial)
   - [Twitter](https://twitter.com/8EightOfficial)
 
-[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 「[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v= "Clover: Kumakabog-kabog (Pounding Heart)")」 (Tagalog remix of 「맘이맘이」 (「Mammy Mammy」); original by *[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")*)
+[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 「[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v=_KFzox7Ng_k "Clover: Kumakabog-kabog (Pounding Heart)")」 (Tagalog remix of 「맘이맘이」 (「Mammy Mammy」); original by *[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")*)
 
 ### 1st.One {#1st-one-MNvUmzVR7AStxbtQp}
 

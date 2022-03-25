@@ -3,8 +3,8 @@ title = "Space Sweepers review"
 description = "A review of the first-ever Korean space show, 승리호 Space Sweepers."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "A review of the first-ever Korean space show, 승리호 Space Sweepers."																											# for summary text in list displays
 
-date = "2021-02-06T16:53:16"
-lastmod = "2021-02-06T16:53:16"
+date = "2021-02-06T16:53:16+08:00"
+lastmod = "2021-02-06T16:53:16+08:00"
 
 aliases = ["/review-space-sweepers-2021-202137"]  # Permanent (twt)
 slug = "승리호 Space Sweepers (2021)"
@@ -153,6 +153,7 @@ sameas = ["https://en.wikipedia.org/wiki/Jo_Sung-hee", "https://www.imdb.com/nam
 > **Space Sweepers** ***is lightyears better from recent Western space scifi shows.***
 
 ## Story
+
 The story started out as a typical Western space scifi. Humanity encountered a life threatening situation and the only way out was up, out there in outer space. Slowly and perfectly the Korean signature in storytelling and plots surfaced up and it started to get very interesting.
 
 There was a grand or overarching story guiding Space Sweepers but they instead zoomed-in and told the story from a human perspective. This approach allowed them to tackle the questions from the vantage point of ordinary humans, attaching the audiences to the characters in ways not possible from a "bigger picture" method. A story about a crew of "Space Sweepers" but at the same time it was not about them.
@@ -160,6 +161,7 @@ There was a grand or overarching story guiding Space Sweepers but they instead z
 It is rare to see this type of story and storytelling in live-action movies considering the limited time available and yet they were able to flesh out the characters, presented a family relationship plots, questioned human moralities and ethics, and explored the notion about "the needs of the many outweigh the needs of the few".
 
 ## Acting/Cast
+
 The casting was excellent. Song Joong Ki, playing as "Tae Ho", and Kim Tae Ri, playing as "Captain Jang", are two popular and veteran Korean actors. They were joined in by Jin Seon Kyu as "Tiger Park", Yoo Hae Jin as the Robot, and the child actress Park Ye Rin as "Dorothy". Five actors who complimented each others' acting style enabled them to bring the story closer to the audience.
 
 Kim Tae Ri is best known from her 2016 movie "The Handmaiden" and the Netflix TV series "Mr. Sunshine" in 2018. Despite the huge jump from historical romance genre to a space scifi action and adventure, Kim Tae Ri has proven once again her talent in acting. She showed her character's strength and fierceness and yet behind it all she was caring and loving.
@@ -194,6 +196,7 @@ Special mention is the child actress Park Ye Rin. She is technically a newbie in
 >}}
 
 ## Production
+
 They did not shy away from giving this a budget. The superb visual effects, cgi, and editing, definitely placed this movie equal in rank with Western shows like "Star Trek" and "Marvel's Guardians of the Galaxy" to name two.
 
 It was also a brilliant idea to bring in actors from different nationalities and to use their native languages. This is rarely done and is simply explained as some magic or technology like a "universal translator". But that's not where it ends … even though they have a "universal translator", they did not resorted to "English" or "Korean" as a "universal language". They showed all directors in the world how to properly portray different languages even if there is a "universal translator" available.
@@ -201,6 +204,7 @@ It was also a brilliant idea to bring in actors from different nationalities and
 That deserves a huge mention especially for a show which concerns multiple nationalities, languages, and cultures—the planet Earth. The flow of the story was not broken even though the characters were speaking different languages. Everything was flowing smoothly, this is how it actually will be like if "universal translators" become a reality. Well done!
 
 ## Conclusion
+
 While this is a space science fiction film, the story was about you and me, being a human, and the relationships we build in each of our adventures. This is what "Space Sweepers" was about. It is about you and me. Our humanity. Our frailties. The challenges we face every single day and how to ultimately triumph (or not).
 
 Can you guess how many languages were spoken and nationalities represented in "Space Sweepers"?
@@ -256,7 +260,7 @@ Score: 9 out of 10!
   contentreferencetime=""
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

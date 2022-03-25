@@ -2,8 +2,8 @@
 title = "What K-Pop Idols Go Through According to 「Imitation」"
 description = "The road to becoming a K-Pop idol is not as easy as most assume."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-05-08T13:54:00"
-lastmod = "2021-05-08T13:54:00"
+date = "2021-05-08T13:54:00+08:00"
+lastmod = "2021-05-08T13:54:00+08:00"
 
 #aliases = [""]
 slug = "이미테이션 Imitation (2021)"
@@ -167,6 +167,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 > In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut.
 
 ## Synopsis
+
 「Lee Ma Ha」 is a member of the new K-pop girl group 「Tea Party」, formed by 「Ji Hak」, who was once the manager of the famous boy group 「Shax」, but resigned after the sudden disappearance of member 「Eun Jo」 in the middle of a concert. Prior to joining 「Tea Party」, 「Ma Ha」 was a member of the group 「Omega III」, which disbanded on its debut day due to a tragic incident involving a former trainee at the group's company. This led 「Ma Ha」 to support herself by performing as an impersonator of the popular solo singer 「La Li Ma」, gaining her public notoriety.[^a]
 
 Starting anew with 「Tea Party」, 「Ma Ha」 finds herself repeatedly crossing paths with 「Kwon Ryok」, the center and most popular member of 「Shax」 who is still haunted by 「Eun Jo」's disappearance three years later. While 「Ryok」 initially dislikes 「Ma Ha」 due to her imitation of 「Li Ma」, the two eventually begin to grow interested in one another and start a secret relationship that could put both of their careers in jeopardy.[^a]
@@ -176,6 +177,7 @@ Meanwhile, 「Lee Yu Jin」, 「Ma Ha」's loyal friend who is the center of the
 [^a]: Wikipedia: [「Imitation」 synopsis](https://en.wikipedia.org/wiki/Imitation_(TV_series)#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## Story
+
 This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of K-Pop or Korean Music. It tells the story K-Pop idols went through when they dreamed of debuting in the industry and the life they experience as an idol that the public rarely sees. This was the tone they established in episode 1 as 「Lee Ma Ha」, an aspiring idol, spent her teenage years training hard and non-stop just to be selected to debut on the elusive stage of Korean Music.
 
 {{< image
@@ -301,6 +303,7 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
 >}}
 
 ## What is it like to aspire as a K-Pop idol?
+
 In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. Other than the instense training, what are the other challenges aspiring K-Pop idols go through? These are what were revealed in episode 1 of 「Imitation」.
 
 {{< image
@@ -485,6 +488,7 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
 <div class="floatclear"></div>
 
 ### Debuting is also an internal process
+
 Regardless if one is a solo act or a group, they have to market themselves within the industry and introduce themselves to their seniors. In a very competitive industry such as K-Pop idol world, getting your seniors to like your music, your act, and them saying something positive about you or your group, will help in exposure and potential success. Like what 「Omega III」 did in episode 1, they even gave a free copy of their single to their seniors.
 
 {{< image
@@ -588,11 +592,13 @@ Regardless if one is a solo act or a group, they have to market themselves withi
 <div class="floatclear"></div>
 
 ## Verdict
+
 Should you watch this new Korean drama? Definitely, especially if you are also a K-Pop fan. Hopefully through this short form TV series, more fans will be enlightened to the kind of life their idols are living every single day. Yes, many of them are wealthy today but for them to get where they are today they have to go through the eye of the needle and sweat blood.
 
 Respect them. Stop bullying them.
 
 ## Official trailer
+
 {{< video
   platform="youtube"
   id="m7WhnM4mU4w"
@@ -604,7 +610,7 @@ Respect them. Stop bullying them.
   attriburl="https://www.youtube.com/channel/UCUhpu5MJQ_bjPkXO00jyxsw"
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
