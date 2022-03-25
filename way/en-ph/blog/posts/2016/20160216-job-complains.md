@@ -2,8 +2,8 @@
 title = "Job Complains"
 description = "Even as Christians/Messianics/Natsarim, we still complain to our Creator Father like Job did. But should we? In this short post, I am going to show you what happened when Job complained, how our Creator Father answered him, and if we are in a position to complain like Job did."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-16T20:59:30"                          # manually adjust to local timezone
-lastmod = "2016-02-16T20:59:30"                          # manually adjust to local timezone
+date = "2016-02-16T20:59:30+08:00"                          # manually adjust to local timezone
+lastmod = "2016-02-16T20:59:30+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/02/job-complains.html"]
 slug = "Job Complains"
@@ -60,9 +60,10 @@ Job was also the only man who <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</b
 <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> said to the adversary, "Have you set your heart on My servant Iyyov? For there is no one like him in the earth, a blameless and an upright man, one who fears Elohim, and turns away from evil. He still maintains his integrity, although you incited Me against him, to ruin him without cause."
 {{% /quotebox %}}
 
-Job did remain faithful… <em>but</em> he started to complain. He cursed his day of birth for starters — which many of us no doubt did. He also argued that he found no fault in himself. That he was not sure what sin he did to deserve all that befell on him.
+Job did remain faithful… but he started to complain. He cursed his day of birth for starters — which many of us no doubt did. He also argued that he found no fault in himself. That he was not sure what sin he did to deserve all that befell on him.
 
 ## What happened to Job?
+
 He became the most sick and diseased person. He came from riches to worst-than-rags. All his children died. All his animals either killed or stolen. His servants were killed and those who survived left him. Even his own family, relatives, and friends stayed away from him.
 
 No one wanted to have anything to do with him. A righteous man, always blessed by <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) was suddenly the worst. The people probably assumed that he did something that gravely offended Elohim. Who would want to be anywhere near such a person, lest his "punishment" falls on you as well?
@@ -72,6 +73,7 @@ You and I, no doubt, will do what Job did. Complain endlessly. The difference is
 Job was right, there was no fault that can be found in him to deserve all the evil things that our Creator Father allowed to fell on him. Then there were his friends who twisted the words of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) to fit their own theology and be able to lay the blame on Job. (Which our Creator Father did not forget to address.)
 
 ## <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) answered back
+
 After he laid down all his arguments, <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) Himself answered Job. Directly and literally, our Creator Father talked to Job as any man being challenged would. Since Job was challenging <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) with all his logical arguments and knowledge, so did our Creator Father addressed him in a similar way.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Iyyov (Job) 38:2-4" srclink="" srcrel="noopener external nofollow" attribto="Shem Qadosh Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -105,13 +107,14 @@ This was the only time that <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo
 In a way, Job was blessed for <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) talked to Him like an equal even though they will never be. At the same time, it was the most painful experience a man can ever go through because <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) Himself humbled him down, with the whole truth and nothing but the truth. He did not use a preacher, an elder, a brother, a family member, or an experience.
 
 ## Conclusion
-I can not even begin to imagine what Job was feeling at that moment. I pride myself (for lack of a better term) that I can make myself feel as close as possible to what others are feeling (it's an <a href="https://en.wikipedia.org/wiki/INFP" target="_blank" rel="noopener wikipedia" class="zem_slink" title="INFP">INFP</a> and aspie/asperger syndrome trait), but this one, I can not even make myself to do it. I can not even bring down the wall that guards me from the onslaught of empathy.
+
+I can not even begin to imagine what Job was feeling at that moment. I pride myself (for lack of a better term) that I can make myself feel as close as possible to what others are feeling (it's an [INFP](https://en.wikipedia.org/wiki/INFP "INFP") and aspie/asperger syndrome trait), but this one, I can not even make myself to do it. I can not even bring down the wall that guards me from the onslaught of empathy.
 
 It is so hard because even with my wall up, I can feel Job. His whole "I am righteous and You yourself agree, so why let me go through these evil things" stance. Then there is when he was humbled by our Creator Father.
 
 Can any of us today stand in Job's shoes? I do not know. I probably will get crushed to dust. Imagine melting right there and then. I will want to bury myself alive just not to hear the words of <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH). I will want not only to curse my birth but be totally eliminated from existence.
 
-I believe that only Job can survive such an encounter, no one else. For the rest of us, who are not even 0.001% as righteous as Job was, we are blessed enough that <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) sent his Son <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: <a href="https://only.1way.faith/p/name-messiah-yahushua.html" target="_blank" rel="noopener">Why Yahushua?</a>) to die for us, buried, and resurrected from the dead, so that you and I can live.
+I believe that only Job can survive such an encounter, no one else. For the rest of us, who are not even 0.001% as righteous as Job was, we are blessed enough that <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH) sent his Son <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (pronunciation: yah-hu-shua; transliteration: Yahushua; also read: {{< reflangtitle path="20160203-messiah-yahushua-yahusha.md" lang="en-PH" >}}) to die for us, buried, and resurrected from the dead, so that you and I can live.
 
 If Job, the most righteous man on earth, was allowed to go through the lowest of lowest of lowest a man can ever be, how much more us? If you read Job's arguments, he argued why he should go through the worst a man can ever bear while people the likes of us did not.
 
@@ -125,7 +128,7 @@ But us? Let us be honest here, he had a point there. We should be thankful for w
 
 Shalom.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

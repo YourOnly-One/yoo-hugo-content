@@ -2,8 +2,8 @@
 title = "Today's Meditation: The Sabbath Commandment"
 description = "Sabbath Day. Did we truly rested on the Sabbath these past months? Or was it all just another ritual?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-03T12:38:24"                          # manually adjust to local timezone
-lastmod = "2016-09-03T12:38:24"                          # manually adjust to local timezone
+date = "2016-09-03T12:38:24+08:00"                          # manually adjust to local timezone
+lastmod = "2016-09-03T12:38:24+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/meditate-sabbath-commandment.html"]
 slug = "Today's Meditation: The Sabbath Commandment"
@@ -70,7 +70,7 @@ Shalom my brethren.
 
 Scriptural date today: 6003-07-02 S.C. (Since Creation / Scriptural Calendar)
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

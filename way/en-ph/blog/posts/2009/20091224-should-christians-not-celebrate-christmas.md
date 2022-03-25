@@ -2,8 +2,8 @@
 title = "Should Christians Not Celebrate Christmas?"
 description = "This is a question many Christians ask every time Christmas arrives. There are two camps: those who say that we should and those who say we should not."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2009-12-24T19:21:01"                 # manually adjust to local timezone
-lastmod = "2009-12-24T19:21:01"                 # manually adjust to local timezone
+date = "2009-12-24T19:21:01+08:00"                 # manually adjust to local timezone
+lastmod = "2009-12-24T19:21:01+08:00"                 # manually adjust to local timezone
 
 aliases = ["2009/12/should-christians-not-celebrate-christmas.html"]
 slug = "Should Christians Not Celebrate Christmas"
@@ -84,7 +84,7 @@ With that, I greet you a Happy Jesus Christ-centered Christmas. Share the true G
 
 Again I repeat, this is not an attack on anyone, not even the Roman Catholic church. This is a reminder to everyone, especially to people who are quick to judge others because they celebrate Christmas.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

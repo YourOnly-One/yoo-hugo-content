@@ -2,8 +2,8 @@
 title = "[ビデオ] 2015年のベストプロポーズ-365日プロポーズ"
 description = "2015年の最高のプロポーズは365日のプロポーズです"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-23T15:53:50"
-lastmod = "2016-02-23T15:53:50"
+date = "2016-02-23T15:53:50+09:00"
+lastmod = "2016-02-23T15:53:50+09:00"
 
 #aliases = [""]
 slug = "Best Marriage Proposal of 2015 - 365 Day Proposal"
@@ -100,6 +100,6 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   contentreferencetime=""
 >}}
 
--------
+---
 
 注意：Google翻訳

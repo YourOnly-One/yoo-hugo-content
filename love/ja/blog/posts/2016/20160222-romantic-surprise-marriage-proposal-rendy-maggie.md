@@ -2,8 +2,8 @@
 title = "[ビデオ]ロマンチック＆サプライズプロポーズレンディ＆マギー"
 description = "レンディからマギーへの非常にロマンチックで驚きのプロポーズ。"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-22T23:23:12"
-lastmod = "2016-02-22T23:23:12"
+date = "2016-02-22T23:23:12+09:00"
+lastmod = "2016-02-22T23:23:12+09:00"
 
 #aliases = [""]
 slug = "Romantic & Surprise Marriage Proposal Rendy & Maggie"
@@ -101,6 +101,6 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   contentreferencetime=""
 >}}
 
--------
+---
 
 注意：Google翻訳

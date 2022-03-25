@@ -2,8 +2,8 @@
 title = "[Event] Philippine Ubuntu 9.04 Release Party"
 description = "The official Philippine LoCo Ubuntu 9.04 Release Party was a fun and huge success. The highlight of the event was getting to know fellow Ubuntu Linux users"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-04-25T11:00:00"                                        # manually adjust to local timezone
-lastmod = "2009-04-25T11:00:00"                                        # manually adjust to local timezone
+date = "2009-04-25T11:00:00+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-04-25T11:00:00+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/04/philippine-ubuntu-9-04-release-party.html"]
 slug = "ubuntu-philippines-release-party"
@@ -98,7 +98,7 @@ Here are 16 photos I took.
   <figcaption class="attribution_copyright txt_center">
     <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
       <small>Above images by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukia Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
-    
+
   </figcaption>
 </figure>
 
@@ -109,18 +109,20 @@ I forgot to mention the two huge pizzas dubbed *64-bit* (64 slices) and "Laser D
 Thanks to Johann Tagle for sponsoring the event.&nbsp; And thanks to Mr. Chin Wong for the media coverage.&nbsp; A big thanks goes to Dax Solomon Umaming as well for taking the mantle to keep the Philippine LoCo going, of course to all who joined and I met today, thank you.
 
 ## Blog and Photo Coverage
-* Dax Solomon Umaming: <a href="https://blog.knightlust.com/?p=120" target="_blank"> Ubuntu Philippine Team Release Party </a>
-* Professor Manalastas: <a href="https://pmana.multiply.com/photos/album/6/Ubuntu-PH_Jaunty_Launch_Party" target="_blank"> Ubuntu-PH Jaunty Launch Party </a>
-* Mr. Chin Wong: <a href="https://www.chinwong.com/?/site/comments/linux_for_real_people/" target="_blank"> Linux for Real People </a>
-* Jay's Flickr: <a href="https://www.flickr.com/photos/kabotage/sets/72157617302946214/" target="_blank"> Philippine Team Jaunty Release Party </a>
 
--------
+- Dax Solomon Umaming: <a href="https://blog.knightlust.com/?p=120" target="_blank"> Ubuntu Philippine Team Release Party </a>
+
+- Professor Manalastas: <a href="https://pmana.multiply.com/photos/album/6/Ubuntu-PH_Jaunty_Launch_Party" target="_blank"> Ubuntu-PH Jaunty Launch Party </a>
+- Mr. Chin Wong: <a href="https://www.chinwong.com/?/site/comments/linux_for_real_people/" target="_blank"> Linux for Real People </a>
+- Jay's Flickr: <a href="https://www.flickr.com/photos/kabotage/sets/72157617302946214/" target="_blank"> Philippine Team Jaunty Release Party </a>
+
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://2.bp.blogspot.com/-lEJK3ee-o1Y/XqlV6Zp3r8I/AAAAAAAAhbM/L0GBa15te-E_NmMkM_Bw6jL8CU8rdd4OgCPcBGAsYHg/s1600/IMG_0001.JPG"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Ubuntu Philippines 9.04 Release Party"
   caption=""
@@ -129,7 +131,7 @@ Thanks to Johann Tagle for sponsoring the event.&nbsp; And thanks to Mr. Chin Wo
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

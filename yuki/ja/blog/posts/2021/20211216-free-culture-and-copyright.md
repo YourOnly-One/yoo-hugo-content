@@ -2,8 +2,8 @@
 title = "フリーカルチャーは反著作権です"
 description = "フリーカルチャー、クリエイティブ・コモンズ、オープンアクセス、オープンナレッジ、Libreコンテンツ、および関連するラベルは、反著作権を促進していますか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-16T10:21:27"                                        # manually adjust to local timezone
-lastmod = "2021-12-16T10:21:27"                                        # manually adjust to local timezone
+date = "2021-12-16T10:21:27+09:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-16T10:21:27+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "free-culture-anti-copyright"
@@ -52,16 +52,19 @@ type = "article"                                                           # art
 でもまず …
 
 ## 著作権とは何ですか？
+
 **著作権**は、所有者に創造的な作品をコピーして配布する独占的な権利を、通常は期間限定で与える一種の知的財産です。 創造的な作品は、文学的、芸術的、教育的、または音楽的な形式である可能性があります。 著作権は、アイデア自体ではなく、創造的な作品の形でアイデアの元の表現を保護することを目的としています。[^a]
 
 [^a]: Wikipedia: [Copyright](https://en.wikipedia.org/wiki/Copyright)
 
 ## 少数の著作権の乱用
+
 信じられないかもしれませんが、著作権法は今日まで、所有者によってめったに、そしてより頻繁にグループによって悪用されています。 良い例は、ジャーナルでの研究論文の発表です。 研究に資金を提供した機関によって与えられた資金を取り戻したいという願望のために、研究者は、それが誰にとってもどれほど有用であるかにかかわらず、ペイウォールの後ろに、または有料で論文を発表する義務があります。 同時に、評判の良いジャーナルは、それらを実行し続ける（そして評判が良い？）ために稼ぐ必要があるので、彼らは贅沢な料金を持っています。
 
 これらはすべてある程度問題ありませんが、実践自体は間違いではありません。 実際、著作権法は、*経済的権利*と*道徳的権利*の2つの権利を保護しており、これは前者に該当します。
 
 ### 経済的権利とは何ですか？
+
 どんな種類の財産でも、その所有者はそれをどのように使用するかを決めることができ、他の人は所有者の許可がある場合にのみ、多くの場合ライセンスを通じてそれを合法的に使用できます。 ただし、所有者による資産の使用は、法的に認められた社会の他のメンバーの権利と利益を尊重する必要があります。 そのため、著作権で保護された作品の所有者は、その作品の使用方法を決定し、他人が許可なく使用することを防ぐことができます。[^b]
 
 [^b]: Wikipedia: [Copyright: Economic rights](https://en.wikipedia.org/wiki/Copyright#Economic_rights)
@@ -77,6 +80,7 @@ Open access is a broad international movement that seeks to grant free and open 
 参照：[COVID-19はオープンアクセスの価値を示しています](https://crln.acrl.org/index.php/crlnews/article/view/24414/32251)。
 
 ## 多くの人のための著作権の使用
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 多くの人が自分の利益のために著作権を悪用していますが、フリーカルチャーの支持者はすべての人の利益のために著作権を悪用しています。
 {{% /quotebox %}}
@@ -90,6 +94,7 @@ Open access is a broad international movement that seeks to grant free and open 
 前の例では、著作権を使用して、研究論文にアクセスできるようにしています。 必ずしも研究論文が無料で利用できるようになったことを意味するわけではありません。*オープンアクセス*プログラムでは、通常、*生活・の下で研究論文を公開するための料金を支払うグループまたは個人が存在します。 コモンズ*ライセンス。 これにより、資金が提供されているかどうかに関係なく、裕福な人でも学生でも、誰もが研究データにアクセスできるようになります。
 
 ## 反著作権？
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 *無料でオープンな共有文化*は、作品が無料であることを意味するものではなく、誰も彼らの努力や出版の費用を支払ってはなりません。
 {{% /quotebox %}}
@@ -107,11 +112,12 @@ Open access is a broad international movement that seeks to grant free and open 
 すべてを考慮すると、私たちは反著作権である可能性がありますが、それは少数の人々の利益のために著作権法が乱用されているためです。 それに応えて、フリーカルチャーの支持者たちは、創造性、発展、そして私たちのグローバルな文化と社会を前進させるために、すべての人の利益のために著作権を使用しています。 著作権侵害も支持していますか？ 確かに違います！ 説明したように、著作権を使用して、*無料でオープンな共有コミュニティ*を推進できます。これは、すべての人にとって有益であり、社会のあらゆる側面で成長を促進します。 それが***フリーカルチャー***のすべてです。
 
 ## 最後の例
+
 この資料は***[クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)***の下にあります。 これは、[1]帰属（BY）が与えられている限り、二次的著作物を作成し、再発行し、商業目的であっても、誰にでも再配布する権利を私が付与したことを意味します。 [2]あなたの二次的著作物のライセンスも同じライセンス（継承）の下にあります。 [3]上記のライセンスに基づく他のすべての要件が満たされている。
 
 言い換えれば、誰でもこの記事を翻訳したり、自分のブログに再投稿したり、次の有料電子書籍に含めたり、この作品をペイウォールの後ろに置いたりすることができます。私の許可は必要ありません。 ***[CC-BY-SA 4.0国際ライセンス](https://creativecommons.org/licenses/by-sa/4.0/)***。
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -181,6 +187,6 @@ Open access is a broad international movement that seeks to grant free and open 
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

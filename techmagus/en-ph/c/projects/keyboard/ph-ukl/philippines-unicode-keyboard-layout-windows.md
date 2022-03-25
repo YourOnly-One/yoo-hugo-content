@@ -2,8 +2,8 @@
 title = "Philippines Unicode Keyboard Layout for Windows is Out!"
 description = "Philippines Unicode Keyboard Layout for Microsoft® Windows™ users is now available."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2010-10-25T21:10:37"                                        # manually adjust to local timezone
-lastmod = "2018-03-20T17:53:01"                                     # manually adjust to local timezone
+date = "2010-10-25T21:10:37+08:00"                                        # manually adjust to local timezone
+lastmod = "2018-03-20T17:53:01+08:00"                                     # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-keyboard-windows.html"]
 slug = "philippines-baybayin-windows"
@@ -90,15 +90,15 @@ See the [keyboard layout images here]({{< ref "philippines-unicode-keyboard-layo
   <li>If you have suggestions or bugs to report, please do not hesitate to <a href="https://bitbucket.org/paninap/ph-ukl/issues" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">file a ticket here</a>.</li>
 </ul>
 
-*** The <b>Philippines Unicode Keyboard Layout</b> is a project of <i>Ubuntu Philippines LoCo Team</i>.***
+The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines LoCo Team*.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://1.bp.blogspot.com/-CPWwSnkvJ5o/TncoS0gmAkI/AAAAAAAAAVQ/t_XosFtEEl4/s1600/Philippines-Colemak%252520%252528Latin%252529.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title=""
   caption=""
@@ -107,9 +107,9 @@ See the [keyboard layout images here]({{< ref "philippines-unicode-keyboard-layo
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC Zero / Public Domain dedication"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"

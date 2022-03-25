@@ -2,8 +2,8 @@
 title = "Philippine ISPs caught hijacking connections"
 description = "Philippine ISPs ordered to hijack connections to certain websites."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-07-25T11:37:38"                                        # manually adjust to local timezone
-lastmod = "2021-07-25T11:37:38"                                        # manually adjust to local timezone
+date = "2021-07-25T11:37:38+08:00"                                        # manually adjust to local timezone
+lastmod = "2021-07-25T11:37:38+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2021/07/philippine-isps-caught-hijacking.html"]
 slug = "philippines-isp-hijack-connection"
@@ -60,7 +60,7 @@ Let's take a look at an example.
 
   src="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
   link="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-01.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title=""
   caption="Hijacked connection"
@@ -72,9 +72,9 @@ Let's take a look at an example.
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 Based on the message shown in the screengrab above, **MediaFire** <q>is a suspected child sexual abuse or exploitation material (CSAEM)</q>. They then explained that they will <q>initiate decryption of traffic for possible CSAEM content and block access as mandated by Republic Act No. 9775 or the Anti-Child Pornography Act of 2009.</q> In other words, they admit that your connection to **MediaFire** was hijacked and their all-seeing eye is watching you closely.
@@ -95,7 +95,7 @@ We all know that we can never trust ISPs, government order or not, so let this b
 
   src="https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"
   link="https://img.youronly.one/p/MediaFire-SSL_cert-comparison-01.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title=""
   caption="Left: Hijacked connection SSL cert; Right: Encrypted connection and correct SSL certificate"
@@ -107,9 +107,9 @@ We all know that we can never trust ISPs, government order or not, so let this b
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_red" attribalign="txt_right" srctitle="Re: ISP can still hijack #1790" srclink="https://github.com/DNSCrypt/dnscrypt-proxy/discussions/1790#discussioncomment-1052610" srcrel="noopener external nofollow" attribto="dapphp" attriblink="https://github.com/dapphp" attribrel="noopener external nofollow" %}}
@@ -118,13 +118,13 @@ We all know that we can never trust ISPs, government order or not, so let this b
 
 **MediaFire** was also informed and they are looking into addressing this.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://img.youronly.one/p/MediaFire-no_VPN-PH_gov_ISP_SSL_hijack-03.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title=""
   caption="Warning: Potential Security Risk Ahead"
@@ -133,7 +133,7 @@ We all know that we can never trust ISPs, government order or not, so let this b
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

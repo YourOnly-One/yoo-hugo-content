@@ -2,8 +2,8 @@
 title = "[Image] On Unfailing Love and Men"
 description = "Mishlei (Proverbs) 20:6-7 [SQV]"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-03-16T01:22:39"
-lastmod = "2016-03-16T01:22:39"
+date = "2016-03-16T01:22:39+08:00"
+lastmod = "2016-03-16T01:22:39+08:00"
 
 #aliases = [""]
 slug = "On Unfailing Love and Men"
@@ -55,13 +55,13 @@ but who can find a trustworthy man?
 Blessed are his children after him.
 {{% /quotebox %}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"
-  linkrel="me noopener external"
+  linkrel="noopener"
 
   title="On Unfailing Love and Men"
   caption=""
@@ -70,7 +70,7 @@ Blessed are his children after him.
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener external"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

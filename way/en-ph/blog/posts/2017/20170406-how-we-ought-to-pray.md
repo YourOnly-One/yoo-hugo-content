@@ -2,8 +2,8 @@
 title = "How We Ought to Pray"
 description = "A study of the popularly known as The Lord's Prayer reveals how we ought to pray as, instructed by our Messiah himself. Simple yet effective."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2017-04-06T00:49:20"                          # manually adjust to local timezone
-lastmod = "2017-04-06T00:49:20"                          # manually adjust to local timezone
+date = "2017-04-06T00:49:20+08:00"                          # manually adjust to local timezone
+lastmod = "2017-04-06T00:49:20+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2017/04/how-we-ought-to-pray.html"]
 slug = "How We Ought to Pray"
@@ -51,6 +51,7 @@ In this post, we will analyse the popularly called "The Lord's Prayer".
 <!--more-->
 
 ## "The Lord's Prayer"
+
 Christianity has called this prayer as *The Lord's Prayer* but in truth, it is not. If we read the whole chapter, our Master and Messiah, <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) ([learn why "Yahushua"]({{< ref "/20160203-messiah-yahushua-yahusha.md" >}})), was teaching us by giving an example of a prayer. He was not praying; and it was not meant to be repeated endlessly.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:7" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -68,9 +69,11 @@ What was our Messiah <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bd
 {{% /quotebox %}}
 
 ## Parts of A Meaningful Prayer
+
 In the example prayer <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) gave, a lot of things were very clear. Let's analyse each and establish a common ground.
 
 ### Praise Our Father and His Name
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:9" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>9</sup> "Pray, then, in this way: 'Our Father who is in the heavens, *may* Your Name be set-apart.'"
 {{% /quotebox %}}
@@ -82,6 +85,7 @@ Now how can we exalt the Father's Name if we do not know His Name? If we believe
 To keep us within our subject today, the Father's Name is <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (modern Hebrew: <bdo dir="rtl" lang="he">יהוה</bdo>) pronounced in Hebrew as "yah-hu-ah" and is transliterated as "YAHUAH", "YaHuWaH", or "YHWH". (It will be discussed in-depth in another post.)
 
 ### Acknowledge and Submit to Our Father
+
 The next part of a meaningful prayer is acknowledging and submitting to His authority and power.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:10" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -99,6 +103,7 @@ Examples: "pray continue"; "Pray tell, why you have come all this way?"
 Prayer is asking. Requesting politely. Humbly. Thus, when praying, the second thing we must do is to humble ourselves and submit to our Father's will.
 
 ### Ask for Bread (Sustenance)
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:11" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>11</sup> "'Give us this day our daily **<bdo dir="rtl" lang="he">את</bdo>** ***eth***-bread.'"
 {{% /quotebox %}}
@@ -110,6 +115,7 @@ There is nothing wrong with this understanding of this verse. However, in the He
 The Hebrew letters are the Aleph and Tau. The First and the Last. With the "eth" left intact in the translation, the bread was not just a literal bread or money or blessing but rather the everlasting bread, which is the Word of our Father who is in heaven.
 
 #### Who is the Word of our Father <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)?
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 1:1-5; 14" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>1</sup> In *the* beginning was the word, and the word was with Elohim, and the word was Elohim. <sup>2</sup> The same was in the beginning with Elohim. <sup>3</sup> All things came into being through Him. Without Him nothing has come into being, that has come to be. <sup>4</sup> In Him was life, and the life was the light of men. <sup>5</sup> The light shines in the darkness, and the darkness has not overcome it.
 
@@ -117,6 +123,7 @@ The Hebrew letters are the Aleph and Tau. The First and the Last. With the "eth"
 {{% /quotebox %}}
 
 #### Who is the Bread of Life?
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 6:35" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>35</sup> <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> said to them, "I am the bread of life. He who comes to Me will not be hungry, and he who believes in Me will never thirst."
 {{% /quotebox %}}
@@ -128,6 +135,7 @@ The Hebrew letters are the Aleph and Tau. The First and the Last. With the "eth"
 We ask our Father in heaven to give us our daily bread. It means, we ask <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) to teach us daily, to give us His Word, that we may grow spiritually and have the power to trample on snakes and scorpions, and to overcome all the power of the enemy (Lukas (Luke) 10:19; Ephesious (Ephesians) 6:11).
 
 ### Confess our sins and forgive others
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:12" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>12</sup> "'And forgive us our transgressions, as we forgive those who transgress against us.'"
 {{% /quotebox %}}
@@ -137,6 +145,7 @@ It is by studying His Word (Bread) that we are faced with the truth of our sins.
 Part of a meaningful prayer is to ask for forgiveness as we forgive others who have wronged us.
 
 ### Ask for Protection and Deliverance
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>13</sup> "'And do not lead us into temptation, but deliver us from evil.'"
 {{% /quotebox %}}
@@ -146,6 +155,7 @@ Last but definitely not the least, we ask for protection from temptations. Yes, 
 We are also to ask for deliverance from evil. Evil comes in many forms, we ask deliverance from it all. Examples are being a victim of hold-up, robbery, or worst, murdered. Or getting sick, acquiring a disease, or accidents. These things are evil, these things are not natural and definitely not from above. We ask for deliverance from it all.
 
 ## 5 Parts of a Meaningful Prayer
+
 <ol class="custom_liststyle circles-list">
   <li>Praise Our Father and His Name</li>
   <li>Acknowledge and Submit to Our Father</li>
@@ -155,13 +165,14 @@ We are also to ask for deliverance from evil. Evil comes in many forms, we ask d
 </ol>
 
 ## Close by Praising
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 6:13" srclink="" srcrel="noopener external nofollow" attribto="Literal English Version" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>13</sup> [For Yours is the kingdom and the power and the glory to the ages. Amein.]
 {{% /quotebox %}}
 
 We close our prayer by giving back all the glory and thanks to our Father in heaven. For indeed, His is the kingdom, His is the power, and His is the glory, forever and ever. Amein.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

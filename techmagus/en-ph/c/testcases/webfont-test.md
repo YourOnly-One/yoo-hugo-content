@@ -2,8 +2,8 @@
 title = "@font-face Browser Support Test Page"
 description = "Does your browser support CSS2 @font-face rule? You can test it here!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2010-01-22T15:37:00"                                        # manually adjust to local timezone
-lastmod = "2010-01-22T15:37:00"                                        # manually adjust to local timezone
+date = "2010-01-22T15:37:00+08:00"                                        # manually adjust to local timezone
+lastmod = "2010-01-22T15:37:00+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/p/font-face-test-page.html"]
 slug = "font-face-browser-test"
@@ -52,24 +52,25 @@ If you can see the Filipino greeting *<span lang="fil">Mabuhay</span>* above in 
 <!--more-->
 
 ## The Creative Commons Webfont
+
 If you can see the following, then your browser supports the CSS Level 2 @font-face rule.
 
-* Creative Commons circle: <i class="cc">c</i>
-* Attribution logo: <i class="cc">b</i>
-* Creative Commons full logo: <i class="cc">C</i>
-* Share-Alike logo: <i class="cc">a</i>
-* No-Derivatives logo: <i class="cc">d</i>
-* Sampling: <i class="cc">m</i>
-* Non-Commercial logo: <i class="cc">n</i>
-* Public Domain logo: <i class="cc">p</i>
-* Remix: <i class="cc">r</i>
-* Share: <i class="cc">s</i>
+- Creative Commons circle: <i class="cc">c</i>
+- Attribution logo: <i class="cc">b</i>
+- Creative Commons full logo: <i class="cc">C</i>
+- Share-Alike logo: <i class="cc">a</i>
+- No-Derivatives logo: <i class="cc">d</i>
+- Sampling: <i class="cc">m</i>
+- Non-Commercial logo: <i class="cc">n</i>
+- Public Domain logo: <i class="cc">p</i>
+- Remix: <i class="cc">r</i>
+- Share: <i class="cc">s</i>
 
 For example, all my sites are licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. CC BY-SA is:
 
-* <i class="cc" style="color: red;" title="CC BY-SA">c</i><i class="cc" style="color: green;" title="CC BY-SA">b</i><i class="cc" style="color: blue;" title="CC BY-SA">a</i>
-* <i class="cc cc-by-sa" style="color: blue" title="CC BY-SA"></i>
-* <i class="cc cc-THREE" style="color: red" title="CC BY-SA"></i>
+- <i class="cc" style="color: red;" title="CC BY-SA">c</i><i class="cc" style="color: green;" title="CC BY-SA">b</i><i class="cc" style="color: blue;" title="CC BY-SA">a</i>
+- <i class="cc cc-by-sa" style="color: blue" title="CC BY-SA"></i>
+- <i class="cc cc-THREE" style="color: red" title="CC BY-SA"></i>
 
 If you can not see anything, then your browser does not support the CSS2 @font-face rule. Time to upgrade your browser or switch to a better one.
 
@@ -83,7 +84,7 @@ If you want to learn how you can implement cross-browser webfonts support on you
 
 <del datetime="2021-10-11T18:20:00+08:00">You can also check out the: Baybayin Typepad No.01 if you want to try typing the Filipino script.</del>
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

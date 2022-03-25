@@ -2,8 +2,8 @@
 title = "7th: You Shall Not Commit Adultery"
 description = "In our continuing preparation for the  coming Day of Atonement, today's meditation is the 7th commandment: You shall not commit adultery."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-06T12:47:55"                          # manually adjust to local timezone
-lastmod = "2016-09-06T12:47:55"                          # manually adjust to local timezone
+date = "2016-09-06T12:47:55+08:00"                          # manually adjust to local timezone
+lastmod = "2016-09-06T12:47:55+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/shall-not-commit-adultery.html"]
 slug = "7th: You Shall Not Commit Adultery"
@@ -53,13 +53,14 @@ The 7<sup>th</sup> commandment is our meditation for today.
 {{% /quotebox %}}
 
 ## What is "adultery"?
+
 According to *Google*, adultery is a voluntary sexual intercourse between a married person and a person who is not his or her spouse.
 
 As simple as that. However, there is more to it that warrants a separate study. For now, the simple yet powerful command to not commit adultery, in the way we understood it today, is enough for our meditation.
 
 Shalom!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

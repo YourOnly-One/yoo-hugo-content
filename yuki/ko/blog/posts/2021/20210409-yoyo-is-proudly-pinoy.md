@@ -2,8 +2,8 @@
 title = "요요는 자랑스럽게 Pinoy입니다"
 description = "'요요'라는 단어를 알고 계 셨나요? 현대적인 디자인은 필리핀 사람이 발명 한 것인가요?" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-09T14:57:34"
-lastmod = "2021-04-09T14:57:34"
+date = "2021-04-09T14:57:34+09:00"
+lastmod = "2021-04-09T14:57:34+09:00"
 
 #aliases = [""]
 slug = "Yoyo Is Proudly Pinoy"
@@ -48,6 +48,7 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 <!--more-->
 
 ## 어원과 역사
+
 장난감 자체는 고대이고 중국의 *diabolo* (약 기원전 1000 년), 17 세기의 *bandalore*, 현대 단어 "Yo-yo"및 현대적인 디자인의 요요와 같은 다양한 이름으로 알려져 있습니다. 아주 최근에요.
 
 "yo-yo"라는 단어는 아마도 Ilokano 단어 "yóyo"또는 필리핀 언어의 동족 어에서 유래했을 것입니다.[^b]
@@ -67,7 +68,7 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 
   src="https://img.youronly.one/works/Yo-yo-Trivia.webp"
   link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="요요 퀴즈"
   caption=""
@@ -79,9 +80,9 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   isrepresentativeofpage=true
   inlanguage="en-PH"
@@ -89,20 +90,22 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 >}}
 
 ## 등록 상표
+
 페드로 플로레스는 고대 장난감의이 현대적인 디자인에 "요요"라는 이름을 붙인 사람이 아니 었습니다. 캐나다 밴쿠버에서 Sam Dubiner가 1932 년에 상표로 등록했습니다.[^a]
 
 그러나 1965 년 연방 항소 법원이 Royal Tops Company에 찬성 판결을 내린 상표 사건에서 법원은 "*yo-yo*"가 일반 연설의 일부가되었고 Duncan (플로레스의 "Yo -yo "회사)는 더 이상 용어에 대한 독점적 권리를 갖지 않았습니다.[^a]
 
 ## 결론
+
 *yo-yo*라는 단어를 사용할 때마다 원래 "Yo-yo Manufacturing Company"라는 회사 이름이었으며 필리핀 언어에서 유래했습니다. 또한 우리가 *요요*를 보거나 플레이 할 때마다 오늘날 우리가 즐기고있는 현대적인 디자인은 1928 년에 600 명의 근로자에게 일자리를 제공 한 **Pedro Flores**가 만든 것임을 기억하십시오.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="요요 퀴즈"
   caption=""
@@ -111,11 +114,11 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
--------
+---
 
 고시 : Google 번역

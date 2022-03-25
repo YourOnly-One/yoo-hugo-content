@@ -2,8 +2,8 @@
 title = "Yo-yo Is Proudly Pinoy"
 description = "Did you know the word 'Yo-yo' and the modern design was invented by a Filipino?"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-09T13:57:34"
-lastmod = "2021-04-09T13:57:34"
+date = "2021-04-09T13:57:34+08:00"
+lastmod = "2021-04-09T13:57:34+08:00"
 
 #aliases = [""]
 slug = "Yoyo Is Proudly Pinoy"
@@ -48,6 +48,7 @@ Did you know? "Yo-yo" was invented by a Filipino. It was a design by ***Pedro Fl
 <!--more-->
 
 ## Etymology and history
+
 While the toy itself is ancient and is known by various names such as *diabolo* in China (approximately 1000 BCE) and *bandalore* in the 17<sup>th</sup> century, the modern word "Yo-yo" and the modern design of a yo-yo was pretty much recent.
 
 The word "yo-yo" probably came from the Ilokano word "yóyo", or a cognate word in a language in the Philippines.[^b]
@@ -67,7 +68,7 @@ The principal distinction between the Filipino design popularized by Flores and 
 
   src="https://img.youronly.one/works/Yo-yo-Trivia.webp"
   link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Yo-yo Trivia"
   caption=""
@@ -79,9 +80,9 @@ The principal distinction between the Filipino design popularized by Flores and 
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   isrepresentativeofpage=true
   inlanguage="en-PH"
@@ -89,20 +90,22 @@ The principal distinction between the Filipino design popularized by Flores and 
 >}}
 
 ## Trademark
+
 Pedro Flores was not the one who trademarked the name "Yo-yo" for this modern design of the ancient toy. It was registered as a trademark in 1932 by Sam Dubiner in Vancouver, Canada.[^a]
 
 However, in a trademark case in 1965, a federal court of appeal ruled in favor of the Royal Tops Company, the court explained that "*yo-yo*" had become a part of common speech and that Duncan (who bought Flores's "Yo-yo" company) no longer had exlusive rights to the term.[^a]
 
 ## Conclusion
+
 Whenever we use the word *yo-yo*, remember that it was originally a company name "Yo-yo Manufacturing Company" and originated from languages in the Philippines. In addition to that, whenever we see and/or play *yo-yo*, also remember that the modern design we are enjoying today was made by **Pedro Flores** in 1928 who provided jobs for 600 workers.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Yo-yo Trivia"
   caption=""
@@ -111,7 +114,7 @@ Whenever we use the word *yo-yo*, remember that it was originally a company name
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

@@ -2,8 +2,8 @@
 title = "Unicode 14 and Emoji 14 Test Page"
 description = "A Unicode and Emoji test page. You can use this to test if your browser can display Unicode and Emoji characters."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2015-08-12T10:23:28"                                        # manually adjust to local timezone
-lastmod = "2015-08-12T10:23:28"                                        # manually adjust to local timezone
+date = "2015-08-12T10:23:28+08:00"                                        # manually adjust to local timezone
+lastmod = "2015-08-12T10:23:28+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/p/unicode-emoji-test.html"]
 slug = "unicode-emoji-test"
@@ -53,12 +53,13 @@ This is a Unicode and Emoji test page. You can use this to test if your browser 
   The Emoji list below is displaying the Twitter Emoji embed automatically, thus it will appear that your computer have an updated font but in reality it only support a small set of Unicode Emoji.
 {{% /sembox %}}
 
-* [Current version of Unicode and Emoji: v14.0](https://home.unicode.org/announcing-the-unicode-standard-version-14-0/)
-* [Emoji Recently Added in the Latest Version](https://www.unicode.org/emoji/charts/emoji-released.html)
+- [Current version of Unicode and Emoji: v14.0](https://home.unicode.org/announcing-the-unicode-standard-version-14-0/)
+- [Emoji Recently Added in the Latest Version](https://www.unicode.org/emoji/charts/emoji-released.html)
 
 <!-- ***** If you are viewing this in mobile mode, you may not see the intended fonts as AMP pages are very limited in nature. Please switch to desktop mode when viewing this page. -->
 
 ## Important Unicode Additions
+
 <table style="width: 100%;">
   <thead>
     <tr>
@@ -79,6 +80,7 @@ This is a Unicode and Emoji test page. You can use this to test if your browser 
 </table>
 
 ## Tagalog Unicode
+
 Also see: [Philippines Unicode Keyboard Layout]({{< ref "philippines-unicode-keyboard-layout.md" >}} "Philippines Unicode Keyboard Layout")
 <table style="width: 100%;">
   <thead>
@@ -103,6 +105,7 @@ Also see: [Philippines Unicode Keyboard Layout]({{< ref "philippines-unicode-key
 </table>
 
 ## Paleo-Hebrew / Phoenician Unicode
+
 Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout]({{< ref "paleo-hebrew-phoenician-unicode-keyboard-layout.md" >}} "Paleo-Hebrew / Phoenician Unicode Keyboard Layout")
 <table style="width: 100%;">
   <thead>
@@ -132,6 +135,7 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout]({{< ref "paleo-heb
 </table>
 
 ## Unicode Emoji
+
 <table style="width: 100%;">
   <thead>
     <tr>
@@ -355,28 +359,32 @@ Also see: [Paleo-Hebrew / Phoenician Unicode Keyboard Layout]({{< ref "paleo-heb
 </table>
 
 ### World Emoji Day
+
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_magenta" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="" attribrel="noopener external nofollow" %}}
   Did you know? Most emoji sets display July 17<sup>th</sup> for the calendar and desk calendar emojis because it is the official **World Emoji Day**?
 {{% /sembox %}}
 <p class="txt_center" style="font-size: 2rem;"><span class="unicode_emoji" style="display: inline-block;">📅</span> <span class="unicode_emoji" style="display: inline-block;">📆</span></p>
 
 ## Recommendations
+
 To see a uniform Unicode-compliant Emoji, I highly recommend installing **Twemoji** (Twitter Emoji).
 
-* Desktop: [Twemoji Color Font](https://github.com/eosrei/twemoji-color-font)
+- Desktop: [Twemoji Color Font](https://github.com/eosrei/twemoji-color-font)
 
 ## Good reads about Emojis
-* [Full Emoji List](https://unicode.org/emoji/charts-beta/full-emoji-list.html) (beta chart)
-* [Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
-* [Adopt-a-Character](https://home.unicode.org/adopt-a-character/about-adopt-a-character/)
-* [Submitting Emoji Proposals](https://www.unicode.org/emoji/proposals.html)
-* [Emoji Recently Added in the Latest Version](https://www.unicode.org/emoji/charts/emoji-released.html)
-* [Emoji: v14.0](https://home.unicode.org/announcing-the-unicode-standard-version-14-0/)
-* [emoji/latest/emoji-test.txt](https://www.unicode.org/Public/emoji/latest/emoji-test.txt)
+
+- [Full Emoji List](https://unicode.org/emoji/charts-beta/full-emoji-list.html) (beta chart)
+
+- [Full Emoji List](https://unicode.org/emoji/charts/full-emoji-list.html)
+- [Adopt-a-Character](https://home.unicode.org/adopt-a-character/about-adopt-a-character/)
+- [Submitting Emoji Proposals](https://www.unicode.org/emoji/proposals.html)
+- [Emoji Recently Added in the Latest Version](https://www.unicode.org/emoji/charts/emoji-released.html)
+- [Emoji: v14.0](https://home.unicode.org/announcing-the-unicode-standard-version-14-0/)
+- [emoji/latest/emoji-test.txt](https://www.unicode.org/Public/emoji/latest/emoji-test.txt)
 
 **Twemoji** was used in the above examples. To know more about Twemoji, visit [https://github.com/twitter/twemoji](https://github.com/twitter/twemoji).
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

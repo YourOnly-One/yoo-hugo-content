@@ -2,8 +2,8 @@
 title = "The 10th Commandment"
 description = "The last but equally important commandment: You shall not covet your neighbor's house, wife, servants, or anything that belongs to your neighbor."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-10T11:40:20"                          # manually adjust to local timezone
-lastmod = "2016-09-10T11:40:20"                          # manually adjust to local timezone
+date = "2016-09-10T11:40:20+08:00"                          # manually adjust to local timezone
+lastmod = "2016-09-10T11:40:20+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/the-10th-commandment.html"]
 slug = "The 10th Commandment"
@@ -51,11 +51,13 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 <!--more-->
 
 ## What is "covet"?
+
 According to *Google*, covet is to <q>yearn to possess or have (something)</q>. The synonyms of this word are: yearn for, crave, have one's heart set on, long for, hanker after/for, hunger after/for, thirst for.
 
 To covet our neighbor's house, wife, male servant, female servant, ox, donkey, and anything that belongs to our neighbor is having our heart set on it. To long for what our neighbor have, to hunger after the things our neighbor has.
 
 ## Anything that belongs to your neighbor
+
 It is easy to think that the last but equally important 10<sup>th</sup> commandment was only about not coveting our neighbor's wife or his male servant or female servant. But as the Scripture said, <q>anything that belongs to your neighbor</q>.
 
 What does it mean? Simply that, we spend our daily lives with the taughts of having the same things as our neighbor. Or for example, our neighbor bought the latest laptop and we also want the same or better even though there is no need to buy a new one. Worst, we steal whatever we want from our neighbor, which is also a transgression of the 8<sup>th</sup> commandment, <q>You shall not steal</q>.
@@ -64,7 +66,7 @@ Tomorrow is the **Day of Atonement**. Thus, on this day, let us meditate on comm
 
 Shalom!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

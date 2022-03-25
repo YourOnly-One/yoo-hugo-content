@@ -2,8 +2,8 @@
 title = "When is the True New Year and Day"
 description = "New Year and new day. When does it really begin? Is it in the dead of winter? At 12:00 midnight? Sunset? Or maybe Spring at dawn? Let's find out!"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2018-01-01T18:26:00"                          # manually adjust to local timezone
-lastmod = "2018-01-01T18:26:00"                          # manually adjust to local timezone
+date = "2018-01-01T18:26:00+08:00"                          # manually adjust to local timezone
+lastmod = "2018-01-01T18:26:00+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2018/01/true-new-year-day.html"]
 slug = "When is the True New Year and Day"
@@ -49,6 +49,7 @@ Did you know the January 1st New Year is not the true new year? If people from t
 <!--more-->
 
 ## The Four Seasons
+
 {{% quotebox boxstyle="qbs_stanza" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_green" attribalign="txt_right" srctitle="Four Seasons of Loneliness" srclink="" srcrel="noopener external nofollow" attribto="Boyz II Men" attriblink="" attribrel="noopener external nofollow" %}}
 Here comes the winter breeze
 
@@ -99,7 +100,8 @@ But contrast Spring to Winter, it's total opposite. Animals disappears. Trees wi
 
 The seasons weren't there to simply tell us if it is going to be hot or cold, rainy or dry. The seasons actually tell us when a solar year begins and ends. Thus, a New Year in Winter, even more so in the dead of the Winter season, is definitely not New Year.
 
-## A Day Begins at, well… Day (light)!
+## A Day Begins at, well… Day (light)
+
 A New Year in the dead of the night is not New Year either. Spring is synonymous to dawn to sunrise. It marks a new beginning. A fresh start. The families go out to welcome the first light, the first heat, after a long cold winter. Snow and ice melts from the new heat that gives new life. No one goes out in the <i>night before</i> Spring!
 
 Even animals knew better than to go out and welcome "Spring" while it is dark! Spring begins at dawn! Trees show the same pattern, a day begins at dawn.
@@ -107,6 +109,7 @@ Even animals knew better than to go out and welcome "Spring" while it is dark! S
 It means that any "day" that begins in the night is simply out-of-sync with time (nature) itself. A "day" begins at dawn when the light begins to rise and shine. A night on the other hand is still dark. No life. When light begins to shine, that's when "new" is. Day and darkness can never be the same. They work in tandem but one can never call night a "day".
 
 ## Lesson from Reality
+
 <ul class="custom_liststyle checkmark-heavy list-green">
   <li>A "new day" begins at dawn, when the first light shines.</li>
   <li>A "New Year" begins on the first day of Spring.</li>
@@ -121,11 +124,12 @@ It is true that all roads lead to Rome, because even our incorrect reckoning of 
 But the rest of the world and nature itself disagrees with Rome and the modern world. <b>The true "New Year" begins on the first day<i>light</i> of Spring.</b> If we want a fixed time, then 06:00H local time has always been the best choice even from many ancient civilisations.
 
 ## Disclaimer
+
 This article was not meant to judge against any "New Year" and "new day" reckoning. Everyone is free use any method they prefer. This is only an information-type article about this subject of "New Year" and "new day".
 
 If you want to use this article to ridicule people who chose to practice the Gregorian New Year and the "a day is sunset to sunset", please do not include my name or this website "One Way Faith™"" in your adaptation/remix of this article.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

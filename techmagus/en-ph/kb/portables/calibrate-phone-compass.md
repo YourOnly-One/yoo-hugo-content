@@ -2,8 +2,8 @@
 title = "[Video] How To Calibrate the Phone Compass"
 description = "One of the first thing you should do after buying a mobile phone is to calibrate its compass. It is best practice to keep it accurate always."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2011-12-29T15:51:38"                                        # manually adjust to local timezone
-lastmod = "2011-12-29T15:51:38"                                        # manually adjust to local timezone
+date = "2011-12-29T15:51:38+08:00"                                        # manually adjust to local timezone
+lastmod = "2011-12-29T15:51:38+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2011/12/calibrate-your-samsung-galaxy-y-s5360.html"]
 slug = "calibrate-phone-compass"
@@ -104,10 +104,9 @@ Watch the video:
   contentreferencetime=""
 >}}
 
-
 It works for all other phones with compass features like iPhone and Symbian based phones.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

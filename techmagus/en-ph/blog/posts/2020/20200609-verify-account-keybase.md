@@ -2,8 +2,8 @@
 title = "Why You Should Verify Your Accounts through Keybase"
 description = "You should verify your official accounts through Keybase … here's how."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2020-06-09T00:11:48"                                        # manually adjust to local timezone
-lastmod = "2020-06-09T00:11:48"                                        # manually adjust to local timezone
+date = "2020-06-09T00:11:4+08:008"                                        # manually adjust to local timezone
+lastmod = "2020-06-09T00:11:48+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2020/06/verify-your-accounts-through-keybase.html"]
 slug = "verify-account-keybase"
@@ -51,6 +51,7 @@ Keybase offers a lot of features, there is end-to-end encrypted Chat, a free 250
 <!--more-->
 
 ## What is a Keybase Identity?
+
 A Keybase identity is a secure online representation of someone (a person) or some entity (an organisation). It lists all the verified online assets (social network accounts, domain names, microblog accounts) of the owner of the Keybase account.
 
 By design, it is near impossible to gain an unauthorised access to any Keybase account without an active "device" (see [our previous post]({{< ref "/20200608-create-keybase.md" >}} "Creating a Keybase account")). This generally give us the assurance that whoever is updating a particular Keybase account is the actual owner.
@@ -58,6 +59,7 @@ By design, it is near impossible to gain an unauthorised access to any Keybase a
 However, a bad element can simply create their own Keybase account to impersonate someone. This was solved in two ways by Keybase. The first is by adding third-party identities; and the second is by being followed by other verified Keybase users.
 
 ## What is a "third-party identity"?
+
 A third-party identity is an account well-known to be under the control of the Keybase account owner. This could be a Twitter account, a domain name, a Mastodon account, or any of the different services supported by Keybase.
 
 By adding multiple third-party identities, a Keybase account's trust factor—if we can call it that—increases. An impersonator will not be able to add the official Twitter account of their target under their fake Keybase account. They can add their own fake Twitter account or if they successfully gained unauthorised access to the official account. It becomes harder for an impersonator to establish trust to their fake Keybase account when the official one also added a well-known Mastodon account or the domain names he or she owns.
@@ -65,6 +67,7 @@ By adding multiple third-party identities, a Keybase account's trust factor—if
 It is impossible for a fake Keybase account to acquire the same level of trust the official account have by that point. Check <a href="https://keybase.io/yukino" rel="me noopener external">my Keybase account here</a> and count how many third-party identities are listed. An impersonator will need to have access to all of those social media accounts and domain names before they can add it to their fake Keybase account. Unless they put a gun on my head, they will not be able to do it (especially since I also use two-factor authentication in those accounts).
 
 ### How to add a third-party identity?
+
 It is quite simple, follow these steps.
 
 <ol class="custom_liststyle rectangle-list">
@@ -142,6 +145,7 @@ Let's say your Twitter account was hacked or you no longer have access to it. It
 It is true there could be a delay to the timestamp when you disavowed your third-party identity to when it was actually compromised, however, remember that by the time we discover our account was compromised it is always after the fact. There is nothing that can be done in that regard other than to revoke it in your Keybase account so you have an official timestamp for record purposes (especially if later you are accused of the content posted by your compromised third-party identity).
 
 ## Why is being followed important?
+
 When other Keybase users follows your Keybase account, they are automatically signing your profile or Keybase identity. A follower is virtually saying "I verify this account is who s/he claims to be and the third-party identities s/he added as of this date and time I also verified to be owned by this Keybase user".
 
 Whenever a Keybase user changed anything in their third-part identities, their followers can optionally verify those changes by visiting the account. If they do, they are signing it effectively saying "I have checked the changes in this account's third-party identities and have confirmed it as valid". The more Keybase users who follows and/or verify the changes, the higher the trust factor.
@@ -160,7 +164,7 @@ Again, what if a third-party identity was compromised? Revoke it. Your Keybase f
 
 There you go. Add all those third-party identities into your Keybase account as a "verified identity" and get your family, friends, and followers to verify those changes. The higher the trust factor of your Keybase account, the stronger and more secure your digital identity becomes.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

@@ -2,8 +2,8 @@
 title = "The Age of Accountability"
 description = "Is the Age of Accountability really 12 years old? Or is it person-by-person?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2013-09-05T13:09:00"                 # manually adjust to local timezone
-lastmod = "2013-09-05T13:09:00"                 # manually adjust to local timezone
+date = "2013-09-05T13:09:00+08:00"                 # manually adjust to local timezone
+lastmod = "2013-09-05T13:09:00+08:00"                 # manually adjust to local timezone
 
 aliases = ["/2013/09/age-of-accountability.html"]
 slug = "The Age of Accountability"
@@ -74,7 +74,7 @@ Age of Accountability is on a person-by-person basis. Setting it at twelve was a
 
 People who dies without reaching their age of accountability then becomes clear, they are not under the same rule. So worry not for them because they are with the <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (pronounced as "yah-hu-ah"; transliterated as "YAHUAH", "YaHuWaH", or "YHWH"), waiting for you. Worry for yourself instead, you still have to run the race, and it's not going to be easy. The road to heaven is narrow and full of painful things. The road elsewhere is wide and blissful, easy and comfortable.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

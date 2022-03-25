@@ -2,8 +2,8 @@
 title = "The LANG Attribute"
 description = "The LANG attribute is a powerful piece of code when designing websites. Let me show you how to correctly use the LANG attribute."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-06-21T00:20:37"                                        # manually adjust to local timezone
-lastmod = "2009-06-21T00:20:37"                                        # manually adjust to local timezone
+date = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-06-21T00:20:37+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/06/the-lang-attribute.html"]
 slug = "lang-attribute"
@@ -53,16 +53,19 @@ It is then only appropriate that we properly and correctly tag our content with 
 <!--more-->
 
 When creating websites, it is important to properly declare the language being used on the webpage. For example, I use the following for my sites:
+
 ```html
 <html lang="en-PH">
 ```
 
 It is also important to declare the character set especially when you are going to use any characters beyond the scope of ASCII. This is how it looks like:
+
 ```html
     <meta charset="UTF-8" />
 ```
 
 Putting it all together, our basic HTML should be.
+
 ```html
 <!DOCTYPE html>
 <html lang="en-PH">
@@ -81,6 +84,7 @@ Putting it all together, our basic HTML should be.
 Now let's dig-in…
 
 ## The *lang* attribute
+
 The HTML lang attribute defines the language of the content enclosed within the element it was declared. The codes are called *subtag*, and for my Filipino readers, there are only three subtag types you should worry about: language-Script-REGION. The full format: language-extended_language-Script-REGION-variant-extension-privateuse.
 
 See the table below:
@@ -141,138 +145,147 @@ If you want to find the subtags for a particular language, previously we have to
 According to the latest list (as of this writing), the subtags that are related to the Philippines are the following (if I missed anything, please leave a comment below):
 
 ### Languages
-* Tagalog
-  * Type: language
-  * Subtag: tl
-  * Description: Tagalog
-  * Added: 2005-10-16
-  * Suppress-Script: Latn
-* Bikol
-  * Type: language
-  * Subtag: bik
-  * Description: Bikol
-  * Added: 2005-10-16
-* Cebuano
-  * Type: language
-  * Subtag: ceb
-  * Description: Cebuano
-  * Added: 2005-10-16
-* Filipino/Pilipino
-  * Type: language
-  * Subtag: fil
-  * Description: Filipino
-  * Description: Pilipino
-  * Added: 2005-10-16
-* Hiligaynon
-  * Type: language
-  * Subtag: hil
-  * Description: Hiligaynon
-  * Added: 2005-10-16
-* Iloko
-  * Type: language
-  * Subtag: ilo
-  * Description: Iloko
-  * Added: 2005-10-16
-* Pangasinan
-  * Type: language
-  * Subtag: pag
-  * Description: Pangasinan
-  * Added: 2005-10-16
-* Pampanga/Kapampangan
-  * Type: language
-  * Subtag: pam
-  * Description: Pampanga
-  * Description: Kapampangan
-  * Added: 2005-10-16
-* Philippine languages
-  * Type: language
-  * Subtag: phi
-  * Description: Philippine languages
-  * Added: 2005-10-16
-* Waray
-  * Type: language
-  * Subtag: war
-  * Description: Waray
-  * Added: 2005-10-16
+
+- Tagalog
+  - Type: language
+  - Subtag: tl
+  - Description: Tagalog
+  - Added: 2005-10-16
+  - Suppress-Script: Latn
+
+- Bikol
+  - Type: language
+  - Subtag: bik
+  - Description: Bikol
+  - Added: 2005-10-16
+- Cebuano
+  - Type: language
+  - Subtag: ceb
+  - Description: Cebuano
+  - Added: 2005-10-16
+- Filipino/Pilipino
+  - Type: language
+  - Subtag: fil
+  - Description: Filipino
+  - Description: Pilipino
+  - Added: 2005-10-16
+- Hiligaynon
+  - Type: language
+  - Subtag: hil
+  - Description: Hiligaynon
+  - Added: 2005-10-16
+- Iloko
+  - Type: language
+  - Subtag: ilo
+  - Description: Iloko
+  - Added: 2005-10-16
+- Pangasinan
+  - Type: language
+  - Subtag: pag
+  - Description: Pangasinan
+  - Added: 2005-10-16
+- Pampanga/Kapampangan
+  - Type: language
+  - Subtag: pam
+  - Description: Pampanga
+  - Description: Kapampangan
+  - Added: 2005-10-16
+- Philippine languages
+  - Type: language
+  - Subtag: phi
+  - Description: Philippine languages
+  - Added: 2005-10-16
+- Waray
+  - Type: language
+  - Subtag: war
+  - Description: Waray
+  - Added: 2005-10-16
 
 ### Region
-* Philippines
-  * Type: region
-  * Subtag: PH
-  * Description: Philippines
-  * Added: 2005-10-16
+
+- Philippines
+  - Type: region
+  - Subtag: PH
+  - Description: Philippines
+  - Added: 2005-10-16
 
 ### Scripts
-* Buhid
-  * Type: script
-  * Subtag: Buhd
-  * Description: Buhid
-  * Added: 2005-10-16
-* Hanunoo (Hanunóo)
-  * Type: script
-  * Subtag: Hano
-  * Description: Hanunoo (Hanunóo)
-  * Added: 2005-10-16
-* Tagbanwa
-  * Type: script
-  * Subtag: Tagb
-  * Description: Tagbanwa
-  * Added: 2005-10-16
-* Tagalog
-  * Type: script
-  * Subtag: Tglg
-  * Description: Tagalog
-  * Description: Baybayin
-  * Description: Alibata
-  * Added: 2005-10-16
+
+- Buhid
+  - Type: script
+  - Subtag: Buhd
+  - Description: Buhid
+  - Added: 2005-10-16
+
+- Hanunoo (Hanunóo)
+  - Type: script
+  - Subtag: Hano
+  - Description: Hanunoo (Hanunóo)
+  - Added: 2005-10-16
+- Tagbanwa
+  - Type: script
+  - Subtag: Tagb
+  - Description: Tagbanwa
+  - Added: 2005-10-16
+- Tagalog
+  - Type: script
+  - Subtag: Tglg
+  - Description: Tagalog
+  - Description: Baybayin
+  - Description: Alibata
+  - Added: 2005-10-16
 
 Now that we have the subtags we need we can start coding the correct `lang` value for any Philippines language and script. See these examples:
 
-* If you grew and learned English in the Philippines, more likely than not, you are using English words that are exclusive to the Philippines, as well as, following strict language rules that are taught only in Philippine English. This is the correct `lang` value for your website: `lang="en-PH"`
-* If you are writing in Filipino, not Tagalog, use this: `lang="fil"`
-* If you are writing in Tagalog, not Filipino, use this: `lang="tl"`
-* For Bikolano, use this: `lang="bik"`
-* In Cebuano, use this: `lang="ceb"`
-* Hiligaynon, use this: `lang="hil"`
-* In Iloko, use this: `lang="ilo"`
-* In Pangasinense: `lang="pag"`
-* Kapampangan: `lang="pam"`
-* Waray: `lang="war"`
-* For Philippines languages with no corresponding [ISO-639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) code, you have to use the generic subtag: `lang="phi"`
+- If you grew and learned English in the Philippines, more likely than not, you are using English words that are exclusive to the Philippines, as well as, following strict language rules that are taught only in Philippine English. This is the correct `lang` value for your website: `lang="en-PH"`
+- If you are writing in Filipino, not Tagalog, use this: `lang="fil"`
+- If you are writing in Tagalog, not Filipino, use this: `lang="tl"`
+- For Bikolano, use this: `lang="bik"`
+- In Cebuano, use this: `lang="ceb"`
+- Hiligaynon, use this: `lang="hil"`
+- In Iloko, use this: `lang="ilo"`
+- In Pangasinense: `lang="pag"`
+- Kapampangan: `lang="pam"`
+- Waray: `lang="war"`
+- For Philippines languages with no corresponding [ISO-639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php) code, you have to use the generic subtag: `lang="phi"`
 
 Then if you want to write something in Baybayin script you have to enclose it correctly with the script subtag "Tglg". Remember, the format is: language-Script, like so:
 
-* If writing in Filipino and Tagalog using Baybayin script, use: `lang="fil-Tglg"`
-* In Bikolano but Baybayin script: `lang="bik-Tglg"`
-* Cebuano using Baybayin script: `lang="ceb-Tglg"`
-* All other Philippine languages without an ISO-639-2 subtag should use: `lang="phi-Tglg"`
+- If writing in Filipino and Tagalog using Baybayin script, use: `lang="fil-Tglg"`
+- In Bikolano but Baybayin script: `lang="bik-Tglg"`
+- Cebuano using Baybayin script: `lang="ceb-Tglg"`
+- All other Philippine languages without an ISO-639-2 subtag should use: `lang="phi-Tglg"`
 
 <del datetime="2021-09-24T18:32:17+08:00">Why do we have no `lang="tl-Tglg"` subtag code? Because of *Suppress-Script: Latn* , in the IANA Language Subtag Registry as was shown earlier. If I understood it correctly, it means that the Tagalog language as per the official standard should always be written in the Latin script. I assume then that lang="tl-Tglg" is wrong and applications have the option to ignore it or drop the "Tglg" script subtag. In this case, just use "fil-Tglg".</del>
 
 ## ISO-639-3 Languages
+
 There is another subtag that you should learn if you want to target [dialects and macrolanguages](https://web.archive.org/web/20130218160105///www.sil.org:80/iso639-3/macrolanguages.asp). You can find a list from the ISO standard [ISO-639-3](https://web.archive.org/web/20130217113439///www.sil.org:80/iso639-3/codes.asp?). Let's use Bikolano as an example. The format to use is: language-extended_language-Script.
 
-* If you are writing in Central Bikolano, use: `lang="bik-bcl"`
-* If writing in Albay Bikolano / Buhi-Daraga: `lang="bik-bhk"`
-* If in Iriga Bikolano using the Baybayin script: `lang="bik-bto-Tglg"`
-* If in Pandan (Northern Catanduanes) using the Baybayin script: `lang="bik-cts-Tglg"`
+- If you are writing in Central Bikolano, use: `lang="bik-bcl"`
+- If writing in Albay Bikolano / Buhi-Daraga: `lang="bik-bhk"`
+- If in Iriga Bikolano using the Baybayin script: `lang="bik-bto-Tglg"`
+- If in Pandan (Northern Catanduanes) using the Baybayin script: `lang="bik-cts-Tglg"`
 
 The language-***extended_language***-Script is, as of this article, still not yet implemented. The basis for the lang attribute is always the [IANA Language Subtag Registry](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry), once it has been updated to include *extended_language*s then we can start using it where needed.
 
 ### The *phi* language subtag
+
 Next is if your language have an ISO-639-3 code and is under or part of the language code "phi" in ISO-639-2, then the *phi* subtag is to be used. This subtag code is considered a **collective language**. Good examples are:
 
-* Kinaray-a language: `lang="phi-krj"`
-* Maguindanao language: `lang="phi-mdh"`
-* Maranao language written in Baybayin script: `lang="phi-Tglg-mrw"`
-* Tausug language written in Baybayin script: `lang="phi-Tglg-tsg"`
+- Kinaray-a language: `lang="phi-krj"`
+- Maguindanao language: `lang="phi-mdh"`
+- Maranao language written in Baybayin script: `lang="phi-Tglg-mrw"`
+- Tausug language written in Baybayin script: `lang="phi-Tglg-tsg"`
 
 As you probably have noticed the format I used was *language-Script-variant* and not *language-extended_language-Script*. My reasoning is simple - the *phi* language code is not really a language, it is accurately called a "collective" language entry in ISO-639-2 for all other Philippine languages **not found** in this version of the ISO language standard. Compare that to the *bik* language code, it was clearly marked as a "macrolanguage" both in ISO-639-2 and ISO-639-3.
 
 Additionally, according to the [World Wide Web Consortium](https://www.w3.org/International/articles/language-tags/) or W3C, **dialects** of macrolanguages are considered/should be written **immediately after** the language subtag. In other words, if your ISO-639-2 code is considered a macrolanguage then you should use the *extended_language* subtag position like `lang="bik-cts-Tglg"`. If it wasn't defined as a macrolanguage, then you should use the *variant* subtag position as is the case in `lang="phi-Tglg-tsg"`.
 
 ## Examples, examples, and more examples…
+
 If you website is mainly about Iriga and you write in your own language, then you should adjust your website's header files accordingly:
+
 ```html
 <!DOCTYPE html>
 <html lang="bik-bto">
@@ -289,11 +302,13 @@ If you website is mainly about Iriga and you write in your own language, then yo
 ```
 
 If you want to write "Happy Father's Day" in Baybayin, this is how you do it:
+
 ```html
   <span lang="fil-Tglg">ᜋᜎᜒᜄᜌᜅ᜔ ᜀᜍᜏ᜔ ᜈᜅ᜔ ᜋᜅ ᜀᜋ</span>
 ```
 
 Simple? Cool! Just remember that when writing language tags, keep it as simple and as short as possible. If you do not have a need to be very specific like say `lang="bik-bcl"` then don't be! Simply use `lang="bik"`. This is especially true for blogs. So if your blog is in Filipino language (!not Tagalog!) then you use:
+
 ```html
 <html lang="fil">
 ```
@@ -302,7 +317,7 @@ Only be specific when you need it or when your site caters mainly to that partic
 
 Easy? Yes it is. It takes time to get used to it, and yes, it is confusing at first. But you will get the hang of it eventually. Go on and update your websites now and start practising marking your content with the correct language and script.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

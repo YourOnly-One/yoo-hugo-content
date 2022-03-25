@@ -2,8 +2,8 @@
 title = "[How-To] Type the Philippine Peso Currency Sign"
 description = "In this post, I am going to show you how you can type the Philippine Peso sign - the real way. The Peso sign has been available for a long-time!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-05-12T14:36:38"                                        # manually adjust to local timezone
-lastmod = "2009-05-12T14:36:38"                                        # manually adjust to local timezone
+date = "2009-05-12T14:36:38+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-05-12T14:36:38+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/05/how-to-type-the-peso-sign.html"]
 slug = "type-philippines-peso-sign"
@@ -46,7 +46,7 @@ type = "article"                                                           # art
 
 Last night, I searched if there were fonts updated to include the Philippine Peso currency sign which has been added in Unicode since version 3.2 release. The Unicode position of the Peso sign is at point 20B1 if you want to check it out for yourself.
 
-I was planning on creating a Peso font if I can not find one, this was after the availability of the Peso sign was discussed during the <a class="tooltip animate" data-tooltip="[Event] Philippine Ubuntu 9.04 Release Party" href="https://techmagus.icu/philippine-ubuntu-9-04-release-party/">Philippine Ubuntu 9.04 Jaunty Jackalope Release Party</a>. My search turned-out positive, there's not just one but countless of fonts with the Peso sign already included.
+I was planning on creating a Peso font if I can not find one, this was after the availability of the Peso sign was discussed during the {{< reflangtitle path="20090425-ubuntu-philippines-release-party.md" >}}. My search turned-out positive, there's not just one but countless of fonts with the Peso sign already included.
 
 <!--more-->
 
@@ -69,7 +69,8 @@ This is the real Peso sign: ₱ -- it is not an uppercase strike-through <span s
 
 If you can not see the Peso sign above, then you do not have an updated font, or any font for that matter, with a Peso sign included. This also means that your fonts are possibly non-Unicode compliant. Time to update.
 
-## Let's Start Typing the Peso Sign!
+## Let's Start Typing the Peso Sign
+
 <ul class="custom_liststyle omark-black list-blue">
   <li>For Microsoft® Office (2002+) and WordPad, there are two ways to do this:
     <ol class="custom_liststyle circles-list">
@@ -81,13 +82,14 @@ If you can not see the Peso sign above, then you do not have an updated font, or
 </ul>
 
 ## Let's Put A Peso Sign In Your Computer
+
 Here are some of the free-of-charge fonts that you can freely download and install, which already have the Peso sign included (U+20B1).
 
-* <a href="https://www.code2000.net/code2000_page.htm" target="_blank">Code2000</a>
-* <a href="https://dejavu-fonts.org/wiki/Main_Page" target="_blank">DejaVu family</a>
-* <a href="https://www-01.sil.org/~gaultney/Gentium/" target="_blank">Gentium family</a>
-* <a href="https://linuxlibertine.sourceforge.net" target="_blank">Linux Libertine family</a>
-* <a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=UnicodeBMPFallbackFont&amp;_sc=1" target="_blank">Unicode BMP Fallback SIL</a>
+- <a href="https://www.code2000.net/code2000_page.htm" target="_blank">Code2000</a>
+- <a href="https://dejavu-fonts.org/wiki/Main_Page" target="_blank">DejaVu family</a>
+- <a href="https://www-01.sil.org/~gaultney/Gentium/" target="_blank">Gentium family</a>
+- <a href="https://linuxlibertine.sourceforge.net" target="_blank">Linux Libertine family</a>
+- <a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=UnicodeBMPFallbackFont&amp;_sc=1" target="_blank">Unicode BMP Fallback SIL</a>
 
 Start typing those Peso signs, the correct way!
 
@@ -95,7 +97,7 @@ Start typing those Peso signs, the correct way!
 
 **Update 2010-11-14**: You can now type the ₱eso sign directly from your keyboard simply by pressing RightAlt+P or AltGr+P.&nbsp; But before you can do that, you need to add the [Philippines Unicode Keyboard Layout]({{< ref "philippines-unicode-keyboard-layout.md" >}} "Philippines Unicode Keyboard Layout") which is now available in both [GNU/Linux]({{< ref "philippines-unicode-keyboard-layout-linux.md" >}} "GNU/Linux") and [Windows]({{< ref "philippines-unicode-keyboard-layout-linux.md" >}} "Windows®")®.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

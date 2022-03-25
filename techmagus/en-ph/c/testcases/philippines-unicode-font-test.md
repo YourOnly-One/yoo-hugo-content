@@ -2,8 +2,8 @@
 title = "The Philippines Unicode & Font Test with Barabara Font"
 description = "Unicode and font test page for Philippines related scripts. Test your browser and operating system today!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2018-03-03T00:17:36"                                        # manually adjust to local timezone
-lastmod = "2018-03-03T00:17:36"                                        # manually adjust to local timezone
+date = "2018-03-03T00:17:36+08:00"                                        # manually adjust to local timezone
+lastmod = "2018-03-03T00:17:36+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-font-test.html"]
 slug = "the-philippines-unicode-font-test-with-barabara-font"
@@ -54,26 +54,30 @@ Please note that I am using CSS @font-face to display these Unicode scripts. It 
 However, if you attempt to copy-and-paste these examples elsewhere, say in a social network service like Facebook or Twitter, it may display as boxes or circles if you do not have a proper/pure Unicode-compliant font installed.
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_blue" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external nofollow" attribto="" attriblink="" attribrel="noopener external nofollow" %}}
-  If you are viewing this via AMP, Instant Articles, or overriding this with your own mobile template, you will <em>not</em> see this page as it should be presented.
+  If you are viewing this via AMP, Instant Articles, or overriding this with your own mobile template, you will *not* see this page as it should be presented.
 
   It is advisable to open this page in the latest Firefox browser for desktop, Android (desktop mode), and iOS (desktop mode). Chromium/Chrome-based browsers may or may not work (sometimes there are bugs marked as "working-as-intended" or "won't fix"; other times it was left behind in the past).
 {{% /sembox %}}
 
 ## <span class="font-Barabara-Unicode-paninap" lang="phi">Barabara Webfont Test</span>
+
 The <span class="font-Barabara-Unicode-paninap" lang="phi">Barabara</span> font is a typography based on jeepney signboards and sari-sari store boards in the Philippines.
 
 ### <span class="font-Barabara-Unicode-paninap" lang="phi">More examples</span>
-* <span class="font-Barabara-Unicode-paninap" lang="fil">Nanay's Sari-sari Store</span>
-* <span class="font-Barabara-Unicode-paninap" lang="phi">Agila</span>
-* <span class="font-Barabara-Unicode-paninap" lang="phi">Baguio</span>
-* <span class="font-Barabara-Unicode-paninap" lang="phi">Iloilo</span>
-* <span class="font-Barabara-Unicode-paninap" lang="fil">Biyaheng Langit</span>
+
+- <span class="font-Barabara-Unicode-paninap" lang="fil">Nanay's Sari-sari Store</span>
+
+- <span class="font-Barabara-Unicode-paninap" lang="phi">Agila</span>
+- <span class="font-Barabara-Unicode-paninap" lang="phi">Baguio</span>
+- <span class="font-Barabara-Unicode-paninap" lang="phi">Iloilo</span>
+- <span class="font-Barabara-Unicode-paninap" lang="fil">Biyaheng Langit</span>
 
 ---
 
 ## <ruby><rbc><rb lang="tl-Tglg">ᜆ</rb></rbc><rp>(</rp><rt lang="tl">ta</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜄ</rb></rbc><rp>(</rp><rt lang="tl">ga</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜎᜓᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">log</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tl-Tglg">ᜊᜌ᜔</rb></rbc><rp>(</rp><rt lang="tl">bay</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜊᜌᜒᜈ᜔</rb></rbc><rp>(</rp><rt lang="tl">bayin</rt><rp>)</rp></ruby> (<span lang="tl">Tagalog</span> Script)
 
 ### <ruby><rbc><rb lang="tl-Tglg">ᜉ</rb></rbc><rp>(</rp><rt lang="tl">pa</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜆᜒ</rb></rbc><rp>(</rp><rt lang="tl">ti</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜈᜒᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">nig</rt><rp>)</rp></ruby> (Vowel)
+
 <ruby><rbc><rb lang="tl-Tglg">ᜀ</rb></rbc><rp>(</rp><rt lang="tl">A</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tl-Tglg">ᜁ</rb></rbc><rp>(</rp><rt lang="tl">E/I</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tl-Tglg">ᜂ</rb></rbc><rp>(</rp><rt lang="tl">O/U</rt><rp>)</rp></ruby>
@@ -81,6 +85,7 @@ The <span class="font-Barabara-Unicode-paninap" lang="phi">Barabara</span> font 
 <ruby><rbc><rb lang="tl-Tglg">◌ᜓ</rb></rbc><rp>(</rp><rt lang="tl">o/u</rt><rp>)</rp></ruby>
 
 ### <ruby><rbc><rb lang="tl-Tglg">ᜃ</rb></rbc><rp>(</rp><rt lang="tl">ka</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜆᜒ</rb></rbc><rp>(</rp><rt lang="tl">ti</rt><rp>)</rp><rbc><rb lang="tl-Tglg">ᜈᜒᜄ᜔</rb></rbc><rp>(</rp><rt lang="tl">nig</rt><rp>)</rp></ruby> (Consonant)
+
 <ruby><rbc><rb lang="tl-Tglg">ᜊ</rb></rbc><rp>(</rp><rt lang="tl">Ba</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tl-Tglg">ᜃ</rb></rbc><rp>(</rp><rt lang="tl">Ka</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tl-Tglg">ᜇ</rb></rbc><rp>(</rp><rt lang="tl">Da/Ra</rt><rp>)</rp></ruby>
@@ -123,6 +128,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 ## <ruby><rbc><rb lang="hnn-Hano">ᜱ</rb></rbc><rp>(</rp><rt lang="hnn">ha</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜨᜳ</rb></rbc><rp>(</rp><rt lang="hnn">nu</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜨᜳ</rb></rbc><rp>(</rp><rt lang="hnn">no</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜢ</rb></rbc><rp>(</rp><rt lang="hnn">o</rt><rp>)</rp></ruby> <ruby><rbc>&nbsp;<rb lang="hnn-Hano">ᜪᜬ᜴</rb></rbc><rp>(</rp><rt lang="hnn">bay</rt><rp>)</rp><rbc><rb lang="hnn-Hano">ᜪᜬᜲᜨ᜴</rb></rbc><rp>(</rp><rt lang="hnn">bayin</rt><rp>)</rp></ruby> (<span lang="hnn">Hanunóo</span> Script)
 
 ### Vowels
+
 <ruby><rbc><rb lang="hnn-Hano">ᜠ</rb></rbc><rp>(</rp><rt lang="hnn">A</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="hnn-Hano">ᜡ</rb></rbc><rp>(</rp><rt lang="hnn">E/I</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="hnn-Hano">ᜢ</rb></rbc><rp>(</rp><rt lang="hnn">O/U</rt><rp>)</rp></ruby>
@@ -130,6 +136,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 <ruby><rbc><rb lang="hnn-Hano">◌ᜳ</rb></rbc><rp>(</rp><rt lang="hnn">o/u</rt><rp>)</rp></ruby>
 
 #### Consonants
+
 <ruby><rbc><rb lang="hnn-Hano">ᜪ</rb></rbc><rp>(</rp><rt lang="hnn">Ba</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="hnn-Hano">ᜣ</rb></rbc><rp>(</rp><rt lang="hnn">Ka</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="hnn-Hano">ᜧ</rb></rbc><rp>(</rp><rt lang="hnn">Da</rt><rp>)</rp></ruby>
@@ -163,6 +170,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 ## <ruby><rbc><rb lang="bku-Buhd">ᝊᝓ</rb></rbc><rp>(</rp><rt lang="bku">bu</rt><rp>)</rp><rbc><rb lang="bku-Buhd">ᝑᝒᝇ᜴</rb></rbc><rp>(</rp><rt lang="bku">hid</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝊᝌ᜴</rb></rbc><rp>(</rp><rt lang="bku">bay</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="bku-Buhd">ᝊᝌᝒᝈ᜴</rb></rbc><rp>(</rp><rt lang="bku">bayin</rt><rp>)</rp></ruby> (<span lang="bku">Buhid</span> Script)
 
 ### Vowels
+
 <ruby><rbc><rb lang="bku-Buhd">ᝀ</rb></rbc><rp>(</rp><rt lang="bku">A</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="bku-Buhd">ᝁ</rb></rbc><rp>(</rp><rt lang="bku">E/I</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="bku-Buhd">ᝂ</rb></rbc><rp>(</rp><rt lang="bku">O/U</rt><rp>)</rp></ruby>
@@ -170,6 +178,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 <ruby><rbc><rb lang="bku-Buhd">◌ᝓ</rb></rbc><rp>(</rp><rt lang="bku">o/u</rt><rp>)</rp></ruby>
 
 ### Consonants
+
 <ruby><rbc><rb lang="bku-Buhd">ᝊ</rb></rbc><rp>(</rp><rt lang="bku">Ba</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="bku-Buhd">ᝃ</rb></rbc><rp>(</rp><rt lang="bku">Ka</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="bku-Buhd">ᝇ</rb></rbc><rp>(</rp><rt lang="bku">Da</rt><rp>)</rp></ruby>
@@ -203,6 +212,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 ## <ruby><rbc><rb lang="tbw-Tagb">ᝦᝤ᜴</rb></rbc><rp>(</rp><rt lang="tbw">tag</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝪᝨ᜴</rb></rbc><rp>(</rp><rt lang="tbw">ban</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝯ</rb></rbc><rp>(</rp><rt lang="tbw">wa</rt><rp>)</rp></ruby> <ruby><rbc><rb lang="tbw-Tagb">ᝪᝬ᜴</rb></rbc><rp>(</rp><rt lang="tbw">bay</rt><rp>)</rp><rbc><rb lang="tbw-Tagb">ᝪᝬᝲᝨ᜴</rb></rbc><rp>(</rp><rt lang="tbw">bayin</rt><rp>)</rp></ruby> (<span lang="tbw">Tagbanwa</span> Script)
 
 ### Vowels
+
 <ruby><rbc><rb lang="tbw-Tagb">ᝠ</rb></rbc><rp>(</rp><rt lang="tbw">A</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tbw-Tagb">ᝡ</rb></rbc><rp>(</rp><rt lang="tbw">E/I</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tbw-Tagb">ᝢ</rb></rbc><rp>(</rp><rt lang="tbw">O/U</rt><rp>)</rp></ruby>
@@ -210,6 +220,7 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 <ruby><rbc><rb lang="tbw-Tagb">◌ᝳ</rb></rbc><rp>(</rp><rt lang="tbw">o/u</rt><rp>)</rp></ruby>
 
 ### Consonants
+
 <ruby><rbc><rb lang="tbw-Tagb">ᝪ</rb></rbc><rp>(</rp><rt lang="tbw">Ba</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tbw-Tagb">ᝣ</rb></rbc><rp>(</rp><rt lang="tbw">Ka</rt><rp>)</rp></ruby>
 <ruby><rbc><rb lang="tbw-Tagb">ᝧ</rb></rbc><rp>(</rp><rt lang="tbw">Da</rt><rp>)</rp></ruby>
@@ -234,24 +245,29 @@ However, there are moves to introduce a separate <ruby><rbc><rb lang="tl-Tglg">�
 ---
 
 ## Modern Kulitan (Kulitan Script) and other scripts
+
 There are also other scripts in the Philippines but most, if not all, does not have a proposal to be included in Unicode. In other words, we can not use these scripts online. Yes, there is a workaround but this is highly <strong><strong>NOT</strong></strong> recommended (I can not stress that enough). One major reason, there is absolutely zero guarantee other people will see this script.
 
 ### What can be done?
+
 Submit a proposal to the Unicode Consortium to have these scripts added in a future release version of Unicode. Then and only then can we truly use these scripts. Until then, the official Philippines scripts are: Buhid Baybayin, Hanunóo Baybayin, Tagbanwa Baybayin, and Tagalog Baybayin only.
 
 ## Baybayin for Websites
+
 You can learn how to properly display Baybayin scripts by reading [The LANG Attribute]({{< ref "lang-attribute.md" >}} "The LANG Attribute").
 
 ## Baybayin for Desktop
+
 You can type Tagalog Baybayin, Hanunóo Baybayin, Buhid Baybayin, and Tagbanwa Baybayin, using your keyboard today! Simply download **[PH-UKL-v2.0.1-Baybayin_pack (Windows)](https://bitbucket.org/paninap/ph-ukl/downloads/)**. It does ***not*** include the needed fonts to display these writing scripts. Check the [wiki](https://bitbucket.org/paninap/ph-ukl/wiki/Fonts) for fonts you can download.
 
 ---
 
 ## Attributions
-* Barabara font by [It's More Fun in the Philippines](https://itsmorefuninthephilippines.com), can be freely used in any way for whatever purpose according to representatives of the Department of Tourism.
+
+- Barabara font by [It's More Fun in the Philippines](https://itsmorefuninthephilippines.com), can be freely used in any way for whatever purpose according to representatives of the Department of Tourism.
 <!-- * Baybayin Tagalog Modern Club font by <a href="https://nordenx.com">Nordenx</a>, used with permission. -->
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

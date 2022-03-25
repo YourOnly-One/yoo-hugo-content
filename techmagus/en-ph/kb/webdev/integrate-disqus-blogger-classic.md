@@ -2,8 +2,8 @@
 title = "[How-To] Integrate DISQUS on Blogger/BlogSpot Classic Template"
 description = "A short guide on how to integrate Disqus on Google Blogger / Blogspot websites. This tutorial is for those using the Classic Template."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2008-05-25T02:45:39"                                        # manually adjust to local timezone
-lastmod = "2008-05-25T02:45:39"                                        # manually adjust to local timezone
+date = "2008-05-25T02:45:39+08:00"                                        # manually adjust to local timezone
+lastmod = "2008-05-25T02:45:39+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2008/05/how-to-integrate-disqus-on-blogger-blogs.html"]
 slug = "integrate-disqus-blogger-blogspot-classic"
@@ -61,7 +61,9 @@ But first, thanks to <a href="https://disqus.com/by/nathos/" target="_blank" rel
 {{% /sembox %}}
 
 ## Step 1
-* 1.1: Add this to your CSS area or CSS file:
+
+- 1.1: Add this to your CSS area or CSS file:
+
   ```css
   /* Depending on your template, sometimes on some browsers, disqus doesn't auto-width 100% */
   #disqus_thread, #disqus_thread #dsq-content {
@@ -70,9 +72,11 @@ But first, thanks to <a href="https://disqus.com/by/nathos/" target="_blank" rel
   ```
 
 ## Step 2
+
 Step 2 is for the "0 Comment"; "1 Comment"; "10 Comments" link that shows on your main page.
 
-* 2.1: Look for:
+- 2.1: Look for:
+
   ```html
   <a class="comment-link" href="<$BlogItemCommentCreate$>"<$BlogItemCommentFormOnclick$>><span style="text-transform:lowercase"><$I18NNumComments$></span></a>
   ```
@@ -83,7 +87,8 @@ Step 2 is for the "0 Comment"; "1 Comment"; "10 Comments" link that shows on you
   <a class="comment-link" href="<$BlogItemCommentCreate$>"<$BlogItemCommentFormOnclick$>><$BlogItemCommentCount$> Comments</a>
   ```
 
-* 2.2: Change it to:
+- 2.2: Change it to:
+
   ```html
   <!-- <a class="comment-link" href="<$BlogItemCommentCreate$>"<$BlogItemCommentFormOnclick$>><span style="text-transform:lowercase"><$I18NNumComments$></span></a> -->
   <!-- +disqus -->
@@ -101,9 +106,11 @@ Step 2 is for the "0 Comment"; "1 Comment"; "10 Comments" link that shows on you
   ```
 
 ## Step 3
+
 This step is for "0 Comment"; "1 Comment"; "10 Comments" text that shows up when viewing a single post. Also note that this piece of code is not present in some templates by-design, so skip to Step 4.
 
-* 3.1: Look for:
+- 3.1: Look for:
+
   ```html
   <$I18NNumComments$>:
   ```
@@ -114,7 +121,8 @@ This step is for "0 Comment"; "1 Comment"; "10 Comments" text that shows up when
   <$BlogItemCommentCount$> Comments:
   ```
 
-* 3.2: Change it to:
+- 3.2: Change it to:
+
   ```html
   <!-- <$I18NNumComments$>: -->
   Comments:
@@ -127,34 +135,42 @@ This step is for "0 Comment"; "1 Comment"; "10 Comments" text that shows up when
   ```
 
 ## Step 4
-* 4.1: Look for:
+
+- 4.1: Look for:
+
   ```html
   <$BlogItemCreate$>
   ```
 
-* 4.2: Change it to:
+- 4.2: Change it to:
+
   ```
   <!-- <$BlogItemCreate$> -->
   ```
 
-* 4.3: Look for:
+- 4.3: Look for:
+
   ```
   <$BlogItemFeedLinks$>
   ```
 
-* 4.4: Change it to:
+- 4.4: Change it to:
+
   ```html
   <!-- <$BlogItemFeedLinks$> -->
   ```
 
 ## Step 5
-* 5.1: Look for:
+
+- 5.1: Look for:
+
   ```
   </BlogItemCommentsEnabled>
   <BlogItemBacklinksEnabled>
   ```
 
-* 5.2: Add above/before:
+- 5.2: Add above/before:
+
   ```html
   <!-- BGN: disqus -->
   <div id="disqus_thread"></div>
@@ -177,15 +193,18 @@ This step is for "0 Comment"; "1 Comment"; "10 Comments" text that shows up when
   <!-- END: disqus -->
   ```
 
-* 5.3: In Step 5.2, change the <b>DISQUS-SHORT-NAME</b> to your blog's DISQUS URL.<br />Example, if your DISQUS URL is <i>libresoftware.disqus.com</i> then change DISQUS-SHORT-NAME to <i>libresoftware</i>. There is <b>one</b> to change.
+- 5.3: In Step 5.2, change the <b>DISQUS-SHORT-NAME</b> to your blog's DISQUS URL.<br />Example, if your DISQUS URL is <i>libresoftware.disqus.com</i> then change DISQUS-SHORT-NAME to <i>libresoftware</i>. There is <b>one</b> to change.
 
 ## Step 6
-* 6.1: Look for:
+
+- 6.1: Look for:
+
   ```html
   </body>
   ```
 
-* 6.2: Add above:
+- 6.2: Add above:
+
   ```html
   <!-- BGN: disqus -->
   <script type="text/javascript">
@@ -203,13 +222,15 @@ This step is for "0 Comment"; "1 Comment"; "10 Comments" text that shows up when
   <!-- END: disqus -->
   ```
 
-* 6.3: In step 6.2, change the DISQUS-SHORT-NAME to your blog's DISQUS URL.<br />Again, if your DISQUS URL is <i>libresoftware.disqus.com</i> then change DISQUS-SHORT-NAME to <i>libresoftware</i>. Only <b>one</b> to change here.
+- 6.3: In step 6.2, change the DISQUS-SHORT-NAME to your blog's DISQUS URL.<br />Again, if your DISQUS URL is <i>libresoftware.disqus.com</i> then change DISQUS-SHORT-NAME to <i>libresoftware</i>. Only <b>one</b> to change here.
 
 ## Step 7
-* 7.1: Copy your updated code to your Blogger's Template editing section and save it.
+
+- 7.1: Copy your updated code to your Blogger's Template editing section and save it.
 
 ## Step 8
-* 8.1: Force refresh your blog and blog-post (usually CTRL+F5) to see the changes.
+
+- 8.1: Force refresh your blog and blog-post (usually CTRL+F5) to see the changes.
   Force refresh tells your browser to fetch a new copy of the site from the server.
 
 You're done! Congratulations!
@@ -221,19 +242,21 @@ For the adventurous, you can also find the <span class="popper animate removed_l
 ---
 
 ## Updates
-* Friday, 2013-08-02: Updated the JavaScript code to reflect the latest disqus script in steps 5 and 6
-* Saturday, 2008-06-14
-  * Updated the instructions to include the older Classic Template codes
-  * Updated Step 6. The reason the ## Comments was not showing up was because I missed to change one instance of DISQUS-SHORT-NAME, which was pulling data from "highstreet5". Please check your codes on Step 6
-  * Thanks to the classic blogger code provided by <a href="https://balazos.blogspot.com" target="_blank" rel="noopener">David Alvarez</a>. I was helping him integrate DISQUS and that's when I caught the error.
-* Saturday, 2008-08-02: The tutorial was added at <a href="https://web.archive.org/web/20100428045802/https://disqus.disqus.com:80/help_using_disqus_with_custom_blogger_templates/" target="_blank" rel="noopener">DISQUS help forums</a> by <a href="https://disqus.com/by/Badr/" target="_blank" rel="noopener">Andrew</a> (from Disqus). Thank you very much and I'm glad to be of help to the community!
-* Saturday, 2008-08-23: Changed /{YOUR-DISQUS-URL}/ to /DISQUS-SHORT-URL/ to avoid confusion. Thanks to hackcrack for the suggestion.
-* Tuesday, 2009-04-28: Corrected Steps 5.2 and 6.2. Hat tip to chrisdfeld for catching the errors.
-* Tuesday, 2011-07-06: Fixed typographical error in Step 5.2, thanks to <a href="https://the-randomizer.blogspot.com" target="_blank" rel="noopener">lil-bee</a> for bringing it to my attention
+
+- Friday, 2013-08-02: Updated the JavaScript code to reflect the latest disqus script in steps 5 and 6
+
+- Saturday, 2008-06-14
+  - Updated the instructions to include the older Classic Template codes
+  - Updated Step 6. The reason the ## Comments was not showing up was because I missed to change one instance of DISQUS-SHORT-NAME, which was pulling data from "highstreet5". Please check your codes on Step 6
+  - Thanks to the classic blogger code provided by <a href="https://balazos.blogspot.com" target="_blank" rel="noopener">David Alvarez</a>. I was helping him integrate DISQUS and that's when I caught the error.
+- Saturday, 2008-08-02: The tutorial was added at <a href="https://web.archive.org/web/20100428045802/https://disqus.disqus.com:80/help_using_disqus_with_custom_blogger_templates/" target="_blank" rel="noopener">DISQUS help forums</a> by <a href="https://disqus.com/by/Badr/" target="_blank" rel="noopener">Andrew</a> (from Disqus). Thank you very much and I'm glad to be of help to the community!
+- Saturday, 2008-08-23: Changed /{YOUR-DISQUS-URL}/ to /DISQUS-SHORT-URL/ to avoid confusion. Thanks to hackcrack for the suggestion.
+- Tuesday, 2009-04-28: Corrected Steps 5.2 and 6.2. Hat tip to chrisdfeld for catching the errors.
+- Tuesday, 2011-07-06: Fixed typographical error in Step 5.2, thanks to <a href="https://the-randomizer.blogspot.com" target="_blank" rel="noopener">lil-bee</a> for bringing it to my attention
 
 If you have other questions, don't hesitate to reply in our Disqus-powered comments or the <a href="https://web.archive.org/web/20100428045802/https://disqus.disqus.com:80/help_using_disqus_with_custom_blogger_templates/" target="_blank" rel="noopener">official Disqus forums</a>!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

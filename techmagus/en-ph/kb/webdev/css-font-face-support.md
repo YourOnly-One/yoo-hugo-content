@@ -2,8 +2,8 @@
 title = "[How-To] Implement Cross-Browser @font-face Support"
 description = "Do you want to make your site's font to show up the same across browsers and platforms? Use @font-face! Let me show you how."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2010-01-22T14:55:48"                                        # manually adjust to local timezone
-lastmod = "2010-01-22T14:55:48"                                        # manually adjust to local timezone
+date = "2010-01-22T14:55:48+08:00"                                        # manually adjust to local timezone
+lastmod = "2010-01-22T14:55:48+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2010/01/how-to-implement-cross-browser-font.html"]
 slug = "css-font-face-support"
@@ -58,23 +58,24 @@ So how can you start using WOFF? Just follow these simple steps:
 
 1. Search for your font of choice
 1. Check the license of your font if it is allowed to be used in a website (sometimes called website embedding). I strongly suggest to contact the font creator/foundry and clarify the matter to them.
-    * @font-face fonts or *webfont*s use "open"/"share"/"freedom" type licenses, examples are:
-      * [OpenFont License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=OFL&amp;_sc=1)
-      * [Creative Commons](https://creativecommons.org)
-      * [GNU/GPL](https://www.gnu.org/licenses/gpl-3.0.html)
-      * [Apache License](https://opensource.org/licenses/apache2.0.php)
-    * If you can not find any, check out [Fonts available for @font-face embedding](https://web.archive.org/web/20141128120836/https://webfonts.info/resources/fonts-available-for-@fontface-embedding).
+    - @font-face fonts or *webfont*s use "open"/"share"/"freedom" type licenses, examples are:
+      - [OpenFont License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;item_id=OFL&amp;_sc=1)
+      - [Creative Commons](https://creativecommons.org)
+      - [GNU/GPL](https://www.gnu.org/licenses/gpl-3.0.html)
+      - [Apache License](https://opensource.org/licenses/apache2.0.php)
+    - If you can not find any, check out [Fonts available for @font-face embedding](https://web.archive.org/web/20141128120836/https://webfonts.info/resources/fonts-available-for-@fontface-embedding).
 1. Go to FontSquirrel's [@font-face generator](https://www.fontsquirrel.com/tools/webfont-generator). The tool is self-explanatory.
 1. Then click the "Download Your Kit" button and open the zip file.
 1. You should have the following files (assuming you uploaded one font only)
-    * Your original font (ttf/otf)
-    * 1 eot file
-    * 1 svg file
-    * 1 woff file
-    * stylesheet css files
+    - Your original font (ttf/otf)
+    - 1 eot file
+    - 1 svg file
+    - 1 woff file
+    - stylesheet css files
 1. Edit the stylesheet for your own use (the URL location of the font, etc.)
 
 ## Sample @font-face stylesheet
+
 ```css
 @font-face {
   font-family: 'BaybayinLopezRegular';
@@ -107,6 +108,7 @@ The above technique prevents your visitor's browser in using any locally install
 -->
 
 ## @font-face CSS Rule Browser Compatibility Chart
+
 The table below presents which font format is supported by the four major browsers - Chromium/Chrome, Firefox, Internet Explorer, Opera, and Safari. As you will see, no font format is supported across all five browsers except for WOFF… in the near future.
 
 Microsoft's EOT is out of the race, even though many font creators and foundries support it, the other four browsers are likely never going to support it. Then OTF, SVG, and TTF are out too because Internet Explorer is surely never going to implement it, and font creators/foundries do not like these formats for @font-face use.
@@ -172,18 +174,23 @@ For now as with all new technologies, we have to wait until all major browsers a
   </tbody>
 </table>
 
-## Let's Test Your Browser!
+## Let's Test Your Browser
+
 If you see the Baybayin writing script below, then your browser supports one of the font formats - EOT, OTF, SVG, TTF, or WOFF. If not, then you should upgrade your browser because my font stylesheet captures all browsers. (At least from my testing, on two computers without any Baybayin fonts - it displays correctly on all the major browsers.)
 
-### Example #1:
-* Filipino-Baybayin: <span lang="fil-Tglg">ᜀᜅ᜔ ᜊᜓᜃᜓ ᜀᜌ᜔ ᜉᜍ ᜐ ᜆᜂ ᜇᜑᜒᜎ᜔ ᜏᜎ ᜈᜅ᜔ ᜉᜓᜏᜒᜇᜒᜅ᜔ ᜋᜁᜈᜓᜋ᜔ ᜈ ᜄᜆᜐ᜔᜶</span>
-* Filipino-Latin: <span lang="fil">Ang buko ay para sa tao dahil wala nang puwedeng mainom na gatas.</span>
-* English: The coconut is for people because there is not enough milk to drink.
+### Example #1
 
-### Example #2:
-* Filipino-Baybayin: <span lang="fil-Tglg">ᜉᜓᜏᜒᜇᜒ ᜃᜅ᜔ ᜌᜓᜋᜋᜈ᜔ ᜇᜑᜒᜎ᜔ ᜐ ᜊᜄᜓᜅ᜔ ᜍᜓᜎᜒᜆ᜶</span>
-* Filipino-Latin: <span lang="fil">Puwede kang yumaman dahil sa bagong roleta.</span>
-* English: You can be rich because of the new wheel.
+- Filipino-Baybayin: <span lang="fil-Tglg">ᜀᜅ᜔ ᜊᜓᜃᜓ ᜀᜌ᜔ ᜉᜍ ᜐ ᜆᜂ ᜇᜑᜒᜎ᜔ ᜏᜎ ᜈᜅ᜔ ᜉᜓᜏᜒᜇᜒᜅ᜔ ᜋᜁᜈᜓᜋ᜔ ᜈ ᜄᜆᜐ᜔᜶</span>
+
+- Filipino-Latin: <span lang="fil">Ang buko ay para sa tao dahil wala nang puwedeng mainom na gatas.</span>
+- English: The coconut is for people because there is not enough milk to drink.
+
+### Example #2
+
+- Filipino-Baybayin: <span lang="fil-Tglg">ᜉᜓᜏᜒᜇᜒ ᜃᜅ᜔ ᜌᜓᜋᜋᜈ᜔ ᜇᜑᜒᜎ᜔ ᜐ ᜊᜄᜓᜅ᜔ ᜍᜓᜎᜒᜆ᜶</span>
+
+- Filipino-Latin: <span lang="fil">Puwede kang yumaman dahil sa bagong roleta.</span>
+- English: You can be rich because of the new wheel.
 
 <!--
 What are these? These are called *pangrams*. A pangram is a sentence using every letter of the alphabet at least once. The most common pangram (in English) is: *The quick brown fox jumps over the lazy dog.* Which is written in:
@@ -196,15 +203,16 @@ Enjoy!
 ---
 
 Sources:
-* [Web Open Font Format for Firefox 3.6](https://hacks.mozilla.org/2009/10/woff/)
-* [Web typography](https://en.wikipedia.org/wiki/Web_typography)
-* [Mozilla Supports Web Open Font Format](https://blog.mozilla.org/blog/2009/10/20/mozilla-supports-web-open-font-format/) (includes a list of font creators and font foundries supporting WOFF)
+
+- [Web Open Font Format for Firefox 3.6](https://hacks.mozilla.org/2009/10/woff/)
+- [Web typography](https://en.wikipedia.org/wiki/Web_typography)
+- [Mozilla Supports Web Open Font Format](https://blog.mozilla.org/blog/2009/10/20/mozilla-supports-web-open-font-format/) (includes a list of font creators and font foundries supporting WOFF)
 <!--
 * <a class="popper animate" href="https://en.wikipedia.org/wiki/Pangram" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin" data-popper="Wikipedia: Pangram">Wikipedia: Pangram</a>
 * <a class="popper animate" href="https://web.archive.org/web/20141012231620/https://en.wikipedia.org/wiki/List_of_pangrams" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin" data-popper="Wikipedia: List of pangrams">Wikipedia: List of pangrams</a>
 -->
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

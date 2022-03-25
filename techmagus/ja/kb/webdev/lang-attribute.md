@@ -2,8 +2,8 @@
 title = "LANG属性"
 description = "LANG属性は、Webサイトを設計する際の強力なコードです。 LANG属性を正しく使用する方法を紹介します。"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-06-21T01:20:37"                                        # manually adjust to local timezone
-lastmod = "2009-06-21T01:20:37"                                        # manually adjust to local timezone
+date = "2009-06-21T01:20:37+09:00"                                        # manually adjust to local timezone
+lastmod = "2009-06-21T01:20:37+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "lang-attribute"
@@ -54,16 +54,19 @@ images = ["https://3.bp.blogspot.com/-OjERfiifRYA/Xqp2WZ_WrEI/AAAAAAAAhbo/TExJwO
 <!--more-->
 
 ウェブサイトを作成するときは、ウェブサイトで使用されている言語を適切に宣言することが重要です。 たとえば、私は自分のサイトに次のものを使用しています。
+
 ```html
 <html lang="en-PH">
 ```
 
 ASCIIの範囲を超える文字を使用する場合は特に、文字セットを宣言することも重要です。 これはどのように見えるかです：
+
 ```html
     <meta charset="UTF-8" />
 ```
 
 すべてをまとめると、基本的なHTMLは次のようになります。
+
 ```html
 <!DOCTYPE html>
 <html lang="en-PH">
@@ -82,6 +85,7 @@ ASCIIの範囲を超える文字を使用する場合は特に、文字セット
 では、掘り下げてみましょう…
 
 ## *lang*属性
+
 HTML lang属性は、宣言された要素内に含まれるコンテンツの言語を定義します。 コードは*subtag*と呼ばれ、私のフィリピン人の読者にとって、心配すべきサブタグの種類は、language-Script-REGIONの3つだけです。 完全な形式：language-extended_language-Script-REGION-variant-extension-privateuse。
 
 以下の表を参照してください。
@@ -142,138 +146,147 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
 最新のリスト（この記事の執筆時点）によると、フィリピンに関連するサブタグは次のとおりです（何か見落とした場合は、以下にコメントを残してください）。
 
 ### 言語
-* Tagalog
-  * Type: language
-  * Subtag: tl
-  * Description: Tagalog
-  * Added: 2005-10-16
-  * Suppress-Script: Latn
-* Bikol
-  * Type: language
-  * Subtag: bik
-  * Description: Bikol
-  * Added: 2005-10-16
-* Cebuano
-  * Type: language
-  * Subtag: ceb
-  * Description: Cebuano
-  * Added: 2005-10-16
-* Filipino/Pilipino
-  * Type: language
-  * Subtag: fil
-  * Description: Filipino
-  * Description: Pilipino
-  * Added: 2005-10-16
-* Hiligaynon
-  * Type: language
-  * Subtag: hil
-  * Description: Hiligaynon
-  * Added: 2005-10-16
-* Iloko
-  * Type: language
-  * Subtag: ilo
-  * Description: Iloko
-  * Added: 2005-10-16
-* Pangasinan
-  * Type: language
-  * Subtag: pag
-  * Description: Pangasinan
-  * Added: 2005-10-16
-* Pampanga/Kapampangan
-  * Type: language
-  * Subtag: pam
-  * Description: Pampanga
-  * Description: Kapampangan
-  * Added: 2005-10-16
-* Philippine languages
-  * Type: language
-  * Subtag: phi
-  * Description: Philippine languages
-  * Added: 2005-10-16
-* Waray
-  * Type: language
-  * Subtag: war
-  * Description: Waray
-  * Added: 2005-10-16
+
+- Tagalog
+  - Type: language
+  - Subtag: tl
+  - Description: Tagalog
+  - Added: 2005-10-16
+  - Suppress-Script: Latn
+
+- Bikol
+  - Type: language
+  - Subtag: bik
+  - Description: Bikol
+  - Added: 2005-10-16
+- Cebuano
+  - Type: language
+  - Subtag: ceb
+  - Description: Cebuano
+  - Added: 2005-10-16
+- Filipino/Pilipino
+  - Type: language
+  - Subtag: fil
+  - Description: Filipino
+  - Description: Pilipino
+  - Added: 2005-10-16
+- Hiligaynon
+  - Type: language
+  - Subtag: hil
+  - Description: Hiligaynon
+  - Added: 2005-10-16
+- Iloko
+  - Type: language
+  - Subtag: ilo
+  - Description: Iloko
+  - Added: 2005-10-16
+- Pangasinan
+  - Type: language
+  - Subtag: pag
+  - Description: Pangasinan
+  - Added: 2005-10-16
+- Pampanga/Kapampangan
+  - Type: language
+  - Subtag: pam
+  - Description: Pampanga
+  - Description: Kapampangan
+  - Added: 2005-10-16
+- Philippine languages
+  - Type: language
+  - Subtag: phi
+  - Description: Philippine languages
+  - Added: 2005-10-16
+- Waray
+  - Type: language
+  - Subtag: war
+  - Description: Waray
+  - Added: 2005-10-16
 
 ### 領域
-* Philippines
-  * Type: region
-  * Subtag: PH
-  * Description: Philippines
-  * Added: 2005-10-16
+
+- Philippines
+  - Type: region
+  - Subtag: PH
+  - Description: Philippines
+  - Added: 2005-10-16
 
 ### スクリプトを書く
-* Buhid
-  * Type: script
-  * Subtag: Buhd
-  * Description: Buhid
-  * Added: 2005-10-16
-* Hanunoo (Hanunóo)
-  * Type: script
-  * Subtag: Hano
-  * Description: Hanunoo (Hanunóo)
-  * Added: 2005-10-16
-* Tagbanwa
-  * Type: script
-  * Subtag: Tagb
-  * Description: Tagbanwa
-  * Added: 2005-10-16
-* Tagalog
-  * Type: script
-  * Subtag: Tglg
-  * Description: Tagalog
-  * Description: Baybayin
-  * Description: Alibata
-  * Added: 2005-10-16
+
+- Buhid
+  - Type: script
+  - Subtag: Buhd
+  - Description: Buhid
+  - Added: 2005-10-16
+
+- Hanunoo (Hanunóo)
+  - Type: script
+  - Subtag: Hano
+  - Description: Hanunoo (Hanunóo)
+  - Added: 2005-10-16
+- Tagbanwa
+  - Type: script
+  - Subtag: Tagb
+  - Description: Tagbanwa
+  - Added: 2005-10-16
+- Tagalog
+  - Type: script
+  - Subtag: Tglg
+  - Description: Tagalog
+  - Description: Baybayin
+  - Description: Alibata
+  - Added: 2005-10-16
 
 必要なサブタグができたので、フィリピンの言語とスクリプトの正しい `lang`値のコーディングを開始できます。 次の例を参照してください。
 
-* あなたがフィリピンで成長して英語を学んだ場合、おそらくフィリピン専用の英語の単語を使用しているだけでなく、フィリピン英語でのみ教えられている厳格な言語規則に従っています。 これはあなたのウェブサイトの正しい `lang`値です：` lang= "en-PH" `
-* タガログ語ではなくフィリピン語で書いている場合は、次のように使用します： `lang="fil"`
-* フィリピン語ではなくタガログ語で書いている場合は、次を使用します： `lang="tl"`
-* ビコラノの場合は、次を使用します： `lang="bik"`
-* セブアノ語では、次を使用します： `lang="ceb"`
-* ヒリガイノン語、これを使用してください： `lang="hil"`
-* イロカノ語では、これを使用します： `lang="ilo"`
-* パンガシナン語： `lang="pag"`
-* パンパンガ語： `lang="pam"`
-* ワライ語： `lang="war"`
-* 対応する[ISO-639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php)コードがないフィリピンの言語の場合、一般的なサブタグ `lang="を使用する必要があります。 ファイ "`
+- あなたがフィリピンで成長して英語を学んだ場合、おそらくフィリピン専用の英語の単語を使用しているだけでなく、フィリピン英語でのみ教えられている厳格な言語規則に従っています。 これはあなたのウェブサイトの正しい `lang`値です：` lang= "en-PH" `
+- タガログ語ではなくフィリピン語で書いている場合は、次のように使用します： `lang="fil"`
+- フィリピン語ではなくタガログ語で書いている場合は、次を使用します： `lang="tl"`
+- ビコラノの場合は、次を使用します： `lang="bik"`
+- セブアノ語では、次を使用します： `lang="ceb"`
+- ヒリガイノン語、これを使用してください： `lang="hil"`
+- イロカノ語では、これを使用します： `lang="ilo"`
+- パンガシナン語： `lang="pag"`
+- パンパンガ語： `lang="pam"`
+- ワライ語： `lang="war"`
+- 対応する[ISO-639-2](https://www.loc.gov/standards/iso639-2/php/code_list.php)コードがないフィリピンの言語の場合、一般的なサブタグ `lang="を使用する必要があります。 ファイ "`
 
 次に、Baybayinスクリプトで何かを書きたい場合は、スクリプトサブタグ「Tglg」で正しく囲む必要があります。 形式は次のとおりです。言語-スクリプト、次のようになります。
 
-* バイバインスクリプトを使用してフィリピン語とタガログ語で書く場合は、次を使用します： `lang="fil-Tglg"`
-* ビコラノ語だがバイバイン語のスクリプト： `lang="bik-Tglg"`
-* バイバインスクリプトを使用したセブアノ語： `lang="ceb-Tglg"`
-* ISO-639-2サブタグのない他のすべてのフィリピン語は、次を使用する必要があります： `lang="phi-Tglg"`
+- バイバインスクリプトを使用してフィリピン語とタガログ語で書く場合は、次を使用します： `lang="fil-Tglg"`
+- ビコラノ語だがバイバイン語のスクリプト： `lang="bik-Tglg"`
+- バイバインスクリプトを使用したセブアノ語： `lang="ceb-Tglg"`
+- ISO-639-2サブタグのない他のすべてのフィリピン語は、次を使用する必要があります： `lang="phi-Tglg"`
 
 <del datetime="2021-09-24T18:32:17+08:00">`lang="tl-Tglg"`サブタグコードがないのはなぜですか？ *Suppress-Script：Latn*のため、前に示したようにIANA言語サブタグレジストリにあります。 私がそれを正しく理解していれば、それは公式の基準によるタガログ語が常にラテン文字で書かれるべきであることを意味します。 その場合、lang="tl-Tglg"が間違っており、アプリケーションにはそれを無視するか、「Tglg」スクリプトサブタグを削除するオプションがあると思います。 この場合、「fil-Tglg」を使用するだけです。</del>
 
 ## ISO-639-3言語
+
 [方言とマクロランゲージ](https://web.archive.org/web/20130218160105///www.sil.org:80/iso639-3/macrolanguages.asp)をターゲットにする場合に学習する必要のある別のサブタグがあります。 ISO規格[ISO-639-3](https://web.archive.org/web/20130217113439///www.sil.org:80/iso639-3/codes.asp？)からリストを見つけることができます。 。 例としてビコラノを使用してみましょう。 使用する形式は、language-extended_language-Scriptです。
 
-* 中央ビコラノ語で書いている場合は、次を使用します： `lang="bik-bcl"`
-* アルバイビコール語/ブヒダラガ語で書く場合： `lang="bik-bhk"`
-* バイバインスクリプトを使用してイリガビコラノにいる場合： `lang="bik-bto-Tglg"`
-* バイバインスクリプトを使用してパンダン（北カタンドゥアネス）にいる場合： `lang="bik-cts-Tglg"`
+- 中央ビコラノ語で書いている場合は、次を使用します： `lang="bik-bcl"`
+- アルバイビコール語/ブヒダラガ語で書く場合： `lang="bik-bhk"`
+- バイバインスクリプトを使用してイリガビコラノにいる場合： `lang="bik-bto-Tglg"`
+- バイバインスクリプトを使用してパンダン（北カタンドゥアネス）にいる場合： `lang="bik-cts-Tglg"`
 
 言語-***extended_language***-スクリプトは、この記事の時点ではまだ実装されていません。 lang属性の基礎は、*extended_language*を含むように更新されると、常に[IANA言語サブタグレジストリ](https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)になります。 その後、必要に応じて使用を開始できます。
 
 ### *phi*言語サブタグ
+
 次に、言語にISO-639-3コードがあり、ISO-639-2の言語コード「phi」の下またはその一部である場合は、*phi*サブタグが使用されます。 このサブタグコードは**集合言語**と見なされます。 良い例は次のとおりです。
 
-* キナライア語-言語： `lang="phi-krj"`
-* マギンダナオ語： `lang="phi-mdh"`
-* バイバインスクリプトで書かれたマラナオ語： `lang="phi-Tglg-mrw"`
-* バイバインスクリプトで書かれたタウスグ語： `lang="phi-Tglg-tsg"`
+- キナライア語-言語： `lang="phi-krj"`
+- マギンダナオ語： `lang="phi-mdh"`
+- バイバインスクリプトで書かれたマラナオ語： `lang="phi-Tglg-mrw"`
+- バイバインスクリプトで書かれたタウスグ語： `lang="phi-Tglg-tsg"`
 
 お気づきかもしれませんが、私が使用した形式は*language-Script-variant*であり、*language-extended_language-Script*ではありませんでした。 私の推論は単純です-*phi*言語コードは実際には言語ではなく、このバージョンのISOでは**見つからない**他のすべてのフィリピン言語のISO-639-2では「集合」言語エントリと正確に呼ばれます 言語標準。 これを*bik*言語コードと比較すると、ISO-639-2とISO-639-3の両方で「マクロ言語」として明確にマークされています。
 
 さらに、[World Wide Web Consortium](https://www.w3.org/International/articles/language-tags/)またはW3Cによると、マクロ言語の**ダイアレクト**が検討されます/すぐに作成する必要があります**言語サブタグの後**。 つまり、ISO-639-2コードがマクロ言語と見なされる場合は、 `lang="bik-cts-Tglg"`のような*extended_language*サブタグの位置を使用する必要があります。 マクロランゲージとして定義されていない場合は、 `lang="phi-Tglg-tsg"`の場合と同様に、*バリアント*サブタグの位置を使用する必要があります。
 
 ## 例、例、その他の例…
+
 あなたのウェブサイトが主にイリガに関するものであり、あなたがあなた自身の言語で書いているなら、あなたはそれに応じてあなたのウェブサイトのヘッダーファイルを調整するべきです：
+
 ```html
 <!DOCTYPE html>
 <html lang="bik-bto">
@@ -290,11 +303,13 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
 ```
 
 バイバインで「ハッピー父の日」を書きたい場合は、次のようにします。
+
 ```html
   <span lang="fil-Tglg">ᜋᜎᜒᜄᜌᜅ᜔ ᜀᜍᜏ᜔ ᜈᜅ᜔ ᜋᜅ ᜀᜋ</span>
 ```
 
 単純？ いいね！ 言語タグを作成するときは、できるだけシンプルで短くすることを忘れないでください。 `lang="bik-bcl"`のように具体的にする必要がない場合は、そうしないでください。 単に `lang="bik"`を使用してください。 これは特にブログに当てはまります。 したがって、ブログがフィリピン語（タガログ語ではない！）である場合は、次を使用します。
+
 ```html
 <html lang="fil">
 ```
@@ -303,7 +318,7 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
 
 簡単？ はい、そうです。 慣れるまでには時間がかかりますが、最初は混乱します。 しかし、最終的にはコツをつかむでしょう。 続けて今すぐWebサイトを更新し、正しい言語とスクリプトでコンテンツをマークする練習を始めてください。
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -323,6 +338,6 @@ HTML lang属性は、宣言された要素内に含まれるコンテンツの�
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

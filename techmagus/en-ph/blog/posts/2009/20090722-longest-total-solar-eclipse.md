@@ -2,8 +2,8 @@
 title = "Longest Total Solar Eclipse Report"
 description = "The July 22, 2009 Total Solar Eclipse was an experience to treasure - yes, even though from where I am it was only partial, about 49.5% here in Megapolitan ..."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-07-22T13:22:18"                                        # manually adjust to local timezone
-lastmod = "2009-07-22T13:22:18"                                        # manually adjust to local timezone
+date = "2009-07-22T13:22:18+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-07-22T13:22:18+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/07/longest-total-solar-eclipse-report.html"]
 slug = "longest-total-solar-eclipse"
@@ -52,14 +52,14 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
 
 <!--more-->
 
-* **Camera:** Canon PowerShot A460 (5 Megapixels)
-* **Setting:** Manual; ISO400; Custom White Balance (directed at the sky); Vivid; 640x480
-* **Tripod:** None
-* **Filter:** 4 layers of used X-Ray film
+- **Camera:** Canon PowerShot A460 (5 Megapixels)
+- **Setting:** Manual; ISO400; Custom White Balance (directed at the sky); Vivid; 640x480
+- **Tripod:** None
+- **Filter:** 4 layers of used X-Ray film
 
-* **Vantage Point:** Makati City, Philippines
-* **Latitude:** N 14° 37' 12.00"
-* **Longitude:** E 120° 58' 12.00"
+- **Vantage Point:** Makati City, Philippines
+- **Latitude:** N 14° 37' 12.00"
+- **Longitude:** E 120° 58' 12.00"
 
 <figure class="figure_box">
   <div class="block_center blogspot_gallery" style="width: 90%;">
@@ -92,16 +92,18 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
 </figure>
 
 ## Coverage of my Friends
-* <a href="https://azraelsmerryland.blogspot.com/2009/07/partial-solar-eclipse-july-22-2009.html">Azrael</a>
-* Ronald Guanzon
-  * <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-1.html">Photo #1</a>
-  * <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-2.html">Photo #2</a>
-  * <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-3.html">Photo #3</a>
-  * <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-4.html">Photo #4</a>
-  * <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-5.html">Photo #5</a>
 
+- <a href="https://azraelsmerryland.blogspot.com/2009/07/partial-solar-eclipse-july-22-2009.html">Azrael</a>
+
+- Ronald Guanzon
+  - <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-1.html">Photo #1</a>
+  - <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-2.html">Photo #2</a>
+  - <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-3.html">Photo #3</a>
+  - <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-4.html">Photo #4</a>
+  - <a href="https://ronaldguanzon.blogspot.com/2009/07/myphotos-solar-eclipse-in-philippines-5.html">Photo #5</a>
 
 ## Video Coverage from India and China
+
 <div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/kKNNhbILWsY" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 
 <div class="responsive_embedframe"><iframe src="https://www.youtube-nocookie.com/embed/HgDoAQwT35s" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
@@ -118,7 +120,7 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
   type="imagecoverattrib"
 
   link="https://2.bp.blogspot.com/-OVgRpmlAU2w/XqrhrNp7fOI/AAAAAAAAhcA/ZR3RUwjFg0YQwN5JKkzBsN0E_agCm6aUwCPcBGAsYHg/s1600/IMG_0464.JPG"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Before the Eclipse"
   caption=""
@@ -127,7 +129,7 @@ Here are my select photos of today's record-breaking eclipse - longest Total Sol
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

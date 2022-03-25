@@ -2,8 +2,8 @@
 title = "パブリックドメインの派生物は作品、ファンフィクションですか？"
 description = "パブリックドメインの著作物に基づく二次的著作物は、ファンフィクションではありません。"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-07T18:53:01"
-lastmod = "2021-04-07T18:53:01"
+date = "2021-04-07T18:53:01+09:00"
+lastmod = "2021-04-07T18:53:01+09:00"
 
 #aliases = [""]
 slug = "derivative public domain fanfiction"
@@ -48,6 +48,7 @@ rel = "noopener external"
 <!--more-->
 
 ## 「パブリックドメイン」とは何ですか？
+
 彼らが私が見た中で最も短い説明を書いたので、これでウィキペディアを引用しましょう。
 
 > The public domain consists of all the creative works to which no exclusive intellectual property rights apply. Those rights may have expired, been forfeited, expressly waived, or may be inapplicable.[^a]
@@ -57,6 +58,7 @@ rel = "noopener external"
 [^a]: Wikipedia: [Public Domain](https://en.wikipedia.org/wiki/Public_domain); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 「ファンフィクション」とは何ですか？
+
 ファンフィクションは、他の人のオリジナルのフィクション作品に基づいて作成された派生フィクション作品です。 これらは、ファンが見たり、遊んだり、読んだりしたキャラクター、設定、ストーリーを楽しんだ後にファンがよく書くストーリーです。 ファンフィクションはほとんど無許可であり、一般的に元の作成者の著作権を侵害していると理解されています。
 
 別の言い方をすれば、作品の合法的な**著作権所有者**がいる限り、許可されていない二次的著作物はファンフィクション（またはファンアート;または[音楽]カバー）に該当します。 好むと好まざるとにかかわらず、それは著作権侵害です。 著作権所有者がファンフィクションに関する公式声明を発表した場合に限り、通常、侵害は窓の外に出ます。
@@ -66,6 +68,7 @@ rel = "noopener external"
 要するに、注意してください。 これについては別の投稿で詳しく説明できますが、とりあえず、メイントピックに戻りましょう。
 
 ## パブリックドメインの派生物は作品、ファンフィクションですか？
+
 **いいえ。**作品がパブリックドメイン（あなたの国/州）にある限り、それに基づく新しい作品はファンフィクションの対象にはなりません。 実際、新作の作成者は、自分の派生物の著作権を自動的に取得します。
 
 作成者は、異なるパブリックドメインの作品を一緒に混合することも、その単一のパブリックドメインの作品のストーリーを続けることもできます。 それはどうでもいい事です。 新作はファンフィクションではありません。 新作は合法的な二次的著作物であり、独自の著作権があります。
@@ -76,24 +79,25 @@ rel = "noopener external"
 
 とにかく、パブリックドメインの作品に基づく作品はファンフィクションではなく、新しい作品は、派生作品の作成者にちなんで名付けられた著作権によって保護された合法的な派生作品です。
 
-## あなた自身を書き始めてください！
+## あなた自身を書き始めてください
+
 ここでは、**パブリックドメイン**について詳しく読んだり、心ゆくまで使用できる作品を確認したりできる場所をいくつか紹介します。
 
-* [Public Domain Day: January 1, 2019](https://law.duke.edu/cspd/publicdomainday/2019/)
-* [Open Library](https://openlibrary.org)
-* Verses.Space: Compatible works
-* [Project Gutenberg](https://www.gutenberg.org)
-* [Gitenberg](https://www.gitenberg.org/)
-* [unglue.it Public Domain list](https://unglue.it/free/kw.fiction/cc0/)
-* [unglue.it US Public Domain list](https://unglue.it/free/kw.fiction/pd-us/)
-* [Center for the Study of the Public Domain](hhttps://law.duke.edu/cspd/)
-* [The Public Domain Review](https://publicdomainreview.org/)
-* [Internet Archive: eBooks and Texts](https://archive.org/details/texts)
-* [Feedbooks: Public Domain](http://www.feedbooks.com/publicdomain)
-* [LibriVox](https://librivox.org/)
-* [Legamus!](https://legamus.eu/blog/)
+- [Public Domain Day: January 1, 2019](https://law.duke.edu/cspd/publicdomainday/2019/)
+- [Open Library](https://openlibrary.org)
+- Verses.Space: Compatible works
+- [Project Gutenberg](https://www.gutenberg.org)
+- [Gitenberg](https://www.gitenberg.org/)
+- [unglue.it Public Domain list](https://unglue.it/free/kw.fiction/cc0/)
+- [unglue.it US Public Domain list](https://unglue.it/free/kw.fiction/pd-us/)
+- [Center for the Study of the Public Domain](https://law.duke.edu/cspd/)
+- [The Public Domain Review](https://publicdomainreview.org/)
+- [Internet Archive: eBooks and Texts](https://archive.org/details/texts)
+- [Feedbooks: Public Domain](http://www.feedbooks.com/publicdomain)
+- [LibriVox](https://librivox.org/)
+- [Legamus!](https://legamus.eu/blog/)
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -113,6 +117,6 @@ rel = "noopener external"
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

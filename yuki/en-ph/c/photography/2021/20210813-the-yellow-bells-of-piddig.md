@@ -2,8 +2,8 @@
 title = "The Yellow Bells of Piddig"
 description = "Beautiful Yellow Bell flowers in Piddig, Ilocos Norte."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-13T07:17:25"
-lastmod = "2021-08-13T07:17:25"
+date = "2021-08-13T07:17:25+08:00"
+lastmod = "2021-08-13T07:17:25+08:00"
 
 aliases = ["/c/photography/the-yellow-bells-of-piddig-2021225"]       # Permanent, old share links
 slug = "The Yellow Bells of Piddig"
@@ -52,16 +52,19 @@ Here are a few photos I took.
 As of today, 2021-08-13, all these photos are now under a Creative Commons Attribution-ShareAlike 4.0 International license. For attribution guideline and usage information, simply scroll down to the end of this post.
 
 ## Like in Instagram
+
 {{< instagram CSeOi6SBlGN hidecaption >}}
 
 Be sure to follow me also in Instagram!
 
 ## What is a Yellow Bell flower?
+
 A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, is a species of the genus *Allamanda*. *A. cathartica* is a yellow flower like most species of the genus *Allamanda*. It is also known as "golden trumpet" and "yellow allamanda". The genus name *Allamanda* was given in honour of the Swiss botanist and physician Frédéric-Louis Allamand (1736-1809).[^a]
 
 [^a]: Florabase: [Allamanda L.](https://florabase.dpaw.wa.gov.au/browse/profile/21926); [Fair Use](https://florabase.dpaw.wa.gov.au/help/copyright)
 
 ## Higher resolution
+
 {{< image
   type="image"
 
@@ -70,7 +73,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
 
   src="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
   link="https://img.youronly.one/works/Yellow_Bell-02-CC_By-SA_4.0-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Allamanda cathartica or Yellow Bell"
   caption=""
@@ -82,9 +85,9 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Piddig, Ilocos Norte, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Piddig"
@@ -103,7 +106,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
 
   src="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
   link="https://img.youronly.one/works/Yellow_Bell-05b-CC_By-SA_4.0-e-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Allamanda cathartica or Yellow Bell"
   caption=""
@@ -115,9 +118,9 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Piddig, Ilocos Norte, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Piddig"
@@ -135,7 +138,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
 
   src="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
   link="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Allamanda cathartica or Yellow Bell"
   caption=""
@@ -147,9 +150,9 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   url="https://img.youronly.one/works/Yellow_Bell-12b-CC_By-SA_4.0-e-s.webp"
   contentloc="Piddig, Ilocos Norte, Philippines"
@@ -168,7 +171,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
 
   src="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
   link="https://img.youronly.one/works/Yellow_Bell-12d-CC_By-SA_4.0-e-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Allamanda cathartica or Yellow Bell"
   caption=""
@@ -180,9 +183,9 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https:/im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Piddig, Ilocos Norte, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Piddig"
@@ -200,7 +203,7 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
 
   src="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
   link="https://img.youronly.one/works/Yellow_Bell-12e-CC_By-SA_4.0-e-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Allamanda cathartica or Yellow Bell"
   caption=""
@@ -212,9 +215,9 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Piddig, Ilocos Norte, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Piddig"
@@ -225,9 +228,10 @@ A Yellow Bell flower, or its Scientific classification *Allamanda cathartica*, i
 >}}
 
 ## Attribution, Usage, &amp; Leave your links
+
 Simply follow the attribution shown underneath each photo, or whichever is acceptable within the bounds of CC-BY-SA 4.0 International license. In addition to that, I would also appreciate if you leave your links below or in Instagram, who knows, I might mention your site (and usage) one day.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -242,7 +246,7 @@ Simply follow the attribution shown underneath each photo, or whichever is accep
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}

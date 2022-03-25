@@ -2,8 +2,8 @@
 title = "ヨーヨーは誇らしげにフィリピン人です"
 description = "「ヨーヨー」という言葉をご存知でしたか？モダンなデザインはフィリピン人によって発明されました。" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-09T14:57:34"
-lastmod = "2021-04-09T14:57:34"
+date = "2021-04-09T14:57:34+09:00"
+lastmod = "2021-04-09T14:57:34+09:00"
 
 #aliases = [""]
 slug = "Yoyo Is Proudly Pinoy"
@@ -48,6 +48,7 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 <!--more-->
 
 ## 語源と歴史
+
 おもちゃ自体は古く、中国の*ディアボロ*（紀元前1000年頃）や17世紀の*バンダロア*などのさまざまな名前で知られていますが、現代の「ヨーヨー」という言葉とヨーヨーのモダンなデザイン かなり最近でした。
 
 「ヨーヨー」という言葉は、おそらくイロカノ語の「ヨーヨー」、またはフィリピンの言語の同族語に由来します。[^b]
@@ -67,7 +68,7 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 
   src="https://img.youronly.one/works/Yo-yo-Trivia.webp"
   link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="ヨーヨートリビア"
   caption=""
@@ -79,9 +80,9 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   isrepresentativeofpage=true
   inlanguage="en-PH"
@@ -89,20 +90,22 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 >}}
 
 ## 商標
+
 ペドロフローレスは、この古代のおもちゃのモダンなデザインに「ヨーヨー」という名前を商標登録した人物ではありませんでした。 カナダのバンクーバーにあるSamDubinerによって1932年に商標として登録されました。[^a]
 
 しかし、1965年の商標訴訟では、連邦控訴裁判所がRoyal Tops Companyに有利な判決を下し、裁判所は「*yo-yo*」が一般的なスピーチの一部になり、Duncan（フローレスの「ヨーヨー」会社を買った人）はもはや 用語に対する独占的権利。
 
 ## 結論
+
 *yo-yo*という言葉を使用するときは常に、元々は「Yo-yo Manufacturing Company」という会社名であり、フィリピンの言語に由来することを忘れないでください。 それに加えて、*ヨーヨー*を見たり遊んだりするときはいつでも、今日私たちが楽しんでいるモダンなデザインは、1928年に600人の労働者に仕事を提供した**ペドロフローレス**によって作られたことを忘れないでください。
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://img.youronly.one/works/Yo-yo-Trivia.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="ヨーヨートリビア"
   caption=""
@@ -111,11 +114,11 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
--------
+---
 
 注意：Google翻訳

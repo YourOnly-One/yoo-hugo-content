@@ -2,8 +2,8 @@
 title = "A Reminder from the President?"
 description = "President Duterte made comments about the G-d of the Bible which earned the ire of the people. I think he revealed something else."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2018-06-30T10:23:33"                          # manually adjust to local timezone
-lastmod = "2018-06-30T10:23:33"                          # manually adjust to local timezone
+date = "2018-06-30T10:23:33+08:00"                          # manually adjust to local timezone
+lastmod = "2018-06-30T10:23:33+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2018/06/a-reminder-from-president.html"]
 slug = "A Reminder from the President?"
@@ -62,6 +62,7 @@ Before we begin in this sensitive topic, let me say a few things:
 With that out of the way, let's begin with the first elephant in the room.
 
 ## Do we worship the same G-d?
+
 Short answer, no.
 
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_red" attribalign="txt_right" srctitle="Duterte says ‘your God is not my God’ but sets talks" srclink="https://www.philstar.com/headlines/2018/06/27/1828366/duterte-says-your-god-not-my-god-sets-talks" srcrel="noopener external nofollow" attribto="" attriblink="" attribrel="noopener external nofollow" %}}
@@ -74,7 +75,8 @@ If in your church it is allowed to practice witchcraft, then your G-d is not my 
 
 There are also Bible-believing groups where their G-d is a she. Yes, we believe and use the same Bible but once again, it does not mean that we are worshipping the same G-d. Their female G-d is not my Aluah because my Aluah declared Himself to be a man, male, not a she, not a woman, not a lady, and definitely not an it. It is not about women, it is about who your G-d and mine is.
 
-### You are an intolerant #*)%)#*$ Bible thumper!
+### You are an intolerant #*)%)#*$ Bible thumper
+
 At this point, some of you are probably itching to type and shout "intolerant fool" and "Bible thumper". Ahh, but you see, there is absolutely **nothing** "intolerant" or "Bible thumper" with what I said above. Let me tell you what "intolerance" and "Bible thumper" are: meeting someone who has a different set of beliefs and judging them, dismissing them, degrading them, ex-communicating them, forcing your own beliefs down their throats, etc.
 
 The people who have met me and knew we have different beliefs can attest that I am not an intolerant fool nor a Bible thumper. I have friends and colleagues who are from different walks of life and varying beliefs. We get along well. Yes, we talk about our differences but we know how to respect each other.
@@ -82,6 +84,7 @@ The people who have met me and knew we have different beliefs can attest that I 
 This is one reason why people are reacting angrily because they can not accept the hard truth that <q>Your G-d is not my G-d</q>. We may be using the same Bible (Genesis to Revelation) but it does not and will never mean that we are worshipping the same G-d.
 
 ## Did the President referred to the G-d of the Bible?
+
 Short answer: yes.
 
 The President, by describing the events in the Book of Genesis, has clearly nailed the G-d of the Bible.
@@ -99,6 +102,7 @@ Some people were saying that PD30 was not referring to the G-d of the Bible but 
 This is the reason why there are non-RCC individuals and groups who were offended, as it was crystal clear which G-d the President was calling a "stupid G-d". By trying to attack or expose the RCC, PD30 inadvertedly mocked the G-d of the Bible. Or maybe that was his intention all along because there is something else behind his words.
 
 ## The President revealed something we all missed
+
 Believe it or not, the President revealed something to us and we all missed it. I only realised this yesterday morning and that was when I decided to write this commentary.
 
 In Biblical eschatology (the study of end-time prophecies), the Antichrist was described to be someone who will mock the G-d of the Bible. The Antichrist will continously hint about his own mysterious supreme being. Sound familiar? Didn't PD30 do that? Was he not hinting (sometimes) at a supreme being in a way to imply that this supreme being is different from the G-d of the Bible?
@@ -108,13 +112,15 @@ Was not the President's recent religious comments demonstrated exactly what the 
 Is the President the Antichrist? I have no idea. Personally? No, I don't think he is (for different reasons, not because of the "Pre-Tribulation Rapture" doctrine). If the President is not the Antichrist, then consider these two: (a) the President could be revealing something he learned as the President; (b) he is being used by the G-d of the Bible Himself!
 
 ### A. Was the President trying to send a message?
+
 Most of us, religious or atheist alike, are aware that there are powers-that-be up in the hierarchy and in the shadows. Various labels were attributed to these people: the elite, the 1%, the Illuminati, the shadow government/agency, the banks, you name it. Most of us agree there are people with evil agendas pushing for a New World Order and One World Government for their own benefit, with the rest of us branded as "useless eaters" that must be eliminated for human civilisation to survive.
 
 Rodrigo Duterte, as the elected President of the Republic of the Philippines, is of course more aware of these things than any of us. The President gets access to information no one else in the country can ever tap. I personally believe that the President himself also have his own network or networks.
 
 Could it be then that PD30 learned something grave but he can not reveal it directly? That he realised he can better protect this country, that we all love dearly, by staying alive? That he could become a corpse with no evidence of foul play? His best option is to reveal things in a way that he also puts himself in the hotseat to make it appear he was being "careless"?
 
-### B. The President is being used by the G-d of the Bible Himself!
+### B. The President is being used by the G-d of the Bible Himself
+
 But what if President Rodrigo Duterte is being used by the G-d of the Bible Himself? The G-d of the Bible is sending us a message because the Antichrist is about to reveal himself and only those who are paying attention, who are awake, who are sober, will be able to identify him.
 
 Through PD30, we had a demonstration of how the Antichrist will fool the world. By mocking and discrediting the G-d of the Bible while subtlely introducing about a supreme being who is not "stupid". What do I mean by "stupid"? Am I mocking the President?
@@ -136,7 +142,7 @@ world and how he (the Antichrist) will introduce his supreme being. It is all ri
 
 Thank you for reading.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

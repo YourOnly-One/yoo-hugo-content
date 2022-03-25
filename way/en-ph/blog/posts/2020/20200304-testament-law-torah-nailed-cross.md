@@ -2,8 +2,8 @@
 title = "The Old Testament Law, or Torah, was Nailed On The Cross"
 description = "We often hear from preachers that the Old Testament Law, or Torah, was nailed on the cross but is it Scriptural?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-03-04T17:39:27"                          # manually adjust to local timezone
-lastmod = "2020-03-04T17:39:27"                          # manually adjust to local timezone
+date = "2020-03-04T17:39:27+08:00"                          # manually adjust to local timezone
+lastmod = "2020-03-04T17:39:27+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2020/03/testament-law-torah-nailed-cross.html"]
 slug = "The Old Testament Law, or Torah, was Nailed On The Cross"
@@ -74,7 +74,7 @@ a law (civil, ceremonial or ecclesiastical): - decree, ordinance
 </ul>
 {{% /quotebox %}}
 
-Since Colossians was written by an apostle, the way <bdo dir="ltr" lang="grc">δόγμα</bdo> (<span lang="grc-Latn" dir="ltr">dogma</span>) [G1378] was used was definitely _not_ the third definition <q>of certain decrees of the apostles relative to right living</q>. It can only mean the first and/or second definition. Majority understood it as the second and equated it to the Torah but was it about the Torah?
+Since Colossians was written by an apostle, the way <bdo dir="ltr" lang="grc">δόγμα</bdo> (<span lang="grc-Latn" dir="ltr">dogma</span>) [G1378] was used was definitely *not* the third definition <q>of certain decrees of the apostles relative to right living</q>. It can only mean the first and/or second definition. Majority understood it as the second and equated it to the Torah but was it about the Torah?
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Romans 3:31" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
 Do we, then, abolish the Law by this faith? Of course not! Instead, we uphold the Law.
@@ -186,7 +186,7 @@ He already paid for our sins so we wouldn't hang on a tree (<cite>Galatians 3:13
 
 Shalom!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

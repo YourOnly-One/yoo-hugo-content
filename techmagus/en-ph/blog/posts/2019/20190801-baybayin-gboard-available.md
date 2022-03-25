@@ -2,8 +2,8 @@
 title = "(Updated) Baybayin in Gboard App Now Available!"
 description = "The wait was worth it as Google's Gboard team releases Baybayin-Buhid, Baybayin-Hanunoó, Baybayin-Tagalog, and Baybayin-Tagbanwa support!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2019-08-01T07:34:39"                                        # manually adjust to local timezone
-lastmod = "2019-08-01T07:34:39"                                        # manually adjust to local timezone
+date = "2019-08-01T07:34:39+08:00"                                        # manually adjust to local timezone
+lastmod = "2019-08-01T07:34:39+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2019/08/baybayin-gboard-now-available.html"]
 slug = "baybayin-gboard-available"
@@ -73,9 +73,9 @@ For example, in **Baybayin-Tagalog**, the layout was split in two groups with a 
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 <del datetime="2019-08-24">Where is Baybayin-Tagbanwa keyboard layout? Unfortunately it is not yet available in this release. It is possible that the R&D team are still studying how best to create a layout for Tagbanwa especially since it has fewer characters of the four Unicode Baybayin code points.</del>
@@ -92,7 +92,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
 
   src="https://4.bp.blogspot.com/-2KsIhfyB7tw/XuN_F_jadmI/AAAAAAAAiu4/Ml-oTghjH9caBvjw_XizloNoxam_oOhZACPcBGAYYCw/s1600/GBoard-02-Baybayin-Buhid.png"
   link="https://4.bp.blogspot.com/-2KsIhfyB7tw/XuN_F_jadmI/AAAAAAAAiu4/Ml-oTghjH9caBvjw_XizloNoxam_oOhZACPcBGAYYCw/s1600/GBoard-02-Baybayin-Buhid.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Buhid layout"
@@ -104,9 +104,9 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -117,7 +117,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
 
   src="https://4.bp.blogspot.com/-mczk_wcedP8/XuN_F99hP-I/AAAAAAAAiu8/pi1rY490YGcT9cSPHaGJ2h8qJlS4Bx9iwCPcBGAYYCw/s1600/GBoard-03-Baybayin-Hanunoo%25CC%2581.png"
   link="https://4.bp.blogspot.com/-mczk_wcedP8/XuN_F99hP-I/AAAAAAAAiu8/pi1rY490YGcT9cSPHaGJ2h8qJlS4Bx9iwCPcBGAYYCw/s1600/GBoard-03-Baybayin-Hanunoo%25CC%2581.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Hanunoó layout"
@@ -129,9 +129,9 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -142,7 +142,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
 
   src="https://3.bp.blogspot.com/-WWyOKOzY8yY/XuN_F4XbfLI/AAAAAAAAivA/oZItaTWCocInCm5rrK7uokgE4aUFR1YsACPcBGAYYCw/s1600/GBoard-04-Baybayin-Tagalog-animated.png"
   link="https://3.bp.blogspot.com/-WWyOKOzY8yY/XuN_F4XbfLI/AAAAAAAAivA/oZItaTWCocInCm5rrK7uokgE4aUFR1YsACPcBGAYYCw/s1600/GBoard-04-Baybayin-Tagalog-animated.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Tagalog layout"
@@ -154,9 +154,9 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -167,7 +167,7 @@ The continued Baybayin request by the Baybayin community finally showed results.
 
   src="https://4.bp.blogspot.com/-BxeUYDATzos/XuN_GvSzmFI/AAAAAAAAivA/84s4EAUFgq8pnNLDuevDijSpB_-mJmgVQCPcBGAYYCw/s1600/GBoard-05-Baybayin-Tagbanwa.jpg"
   link="https://4.bp.blogspot.com/-BxeUYDATzos/XuN_GvSzmFI/AAAAAAAAivA/84s4EAUFgq8pnNLDuevDijSpB_-mJmgVQCPcBGAYYCw/s1600/GBoard-05-Baybayin-Tagbanwa.jpg"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Tagbanwa layout"
@@ -179,16 +179,16 @@ The continued Baybayin request by the Baybayin community finally showed results.
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 Download the Gboard app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) <del datetime="2019-08-01T07:52:50+0800">and Apple App Store</del> (not <del datetime="2021-09-27T05:00:00+0800">yet</del> available for iOS).
 
 Check our How-To guide on [how to activate Baybayin in Gboard]({{< ref "/20190801-activate-use-baybayin-gboard.md" >}} "How to Activate Baybayin in Gboard").
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

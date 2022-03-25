@@ -2,8 +2,8 @@
 title = "Tsitsit, Tassles, Fringes, Should We Wear It?"
 description = "Tsitsit, tassles, or fringes, was commanded to be worn. But in the Renewed/New Covenant, is it still valid or done away with? Let's study the Scripture!"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2017-10-21T13:57:27"                          # manually adjust to local timezone
-lastmod = "2017-10-21T13:57:27"                          # manually adjust to local timezone
+date = "2017-10-21T13:57:27+08:00"                          # manually adjust to local timezone
+lastmod = "2017-10-21T13:57:27+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2017/10/tsitsit-tassles-fringes-should-we-wear.html"]
 slug = "Tsitsit, Tassles, Fringes, Should We Wear It?"
@@ -51,6 +51,7 @@ As a Natsari, should we wear tsitsit? The short answer is, yes, we should as it 
 <!--more-->
 
 ## Tzitzit as a Reminder of the Torah
+
 In **Bemidbar (Numbers) 15:38-40** <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (pronounced as "yah-hu-ah"; transliterated as "YAHUAH", "YaHuWaH", or "YHWH") Himself instructed us to wear tsitsit. Here is the instruction from three different translations.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Bemidbar (Numbers) 15:38-40" srclink="" srcrel="noopener external nofollow" attribto="eth-Cepher" attriblink="" attribrel="noopener external nofollow" %}}
@@ -80,7 +81,8 @@ The tsitsit or tassles or fringes, are to serve as a reminder to us of all the c
 <sup>6</sup> Know Him in all your ways,<br />And He makes all your paths straight.
 {{% /quotebox %}}
 
-## But we already have the Set-apart Ruah (Holy Spirit)!
+## But we already have the Set-apart Ruah (Holy Spirit)
+
 True, there is no question about that. **Yahuhanan (John) 14:26** has this to say about the Set-apart Ruah (Holy Spirit).
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yahuhanan (John) 14:26" srclink="" srcrel="noopener external nofollow" attribto="HalleluYAH Scriptures" attriblink="" attribrel="noopener external nofollow" %}}
@@ -108,6 +110,7 @@ And wherever He went, into villages, or cities, or the country, they were laying
 {{% /quotebox %}}
 
 ## Warning
+
 However, in **Mattithyahu (Matthew) 23:5**, our Messiah <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) warned us about doing things to or for show, he made an example of the Pharisees. In other words, if you are going to wear tsitsit for the purpose of broadcasting to the world that you are "holy", it is much better that you do not wear one.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 23:5" srclink="" srcrel="noopener external nofollow" attribto="HalleluYAH Scriptures" attriblink="" attribrel="noopener external nofollow" %}}
@@ -119,6 +122,7 @@ And if I may add, wearing a tsitsit means that you are constantly reminded of <b
 Even if you do not wear a tsitsit, as some insists that "it has been done away with" despite the verses presented above, do you think the Set-apart Ruah (Holy Spirit) will be pleased and wouldn't leave you or condemn you of your *intentional* "white" lies?
 
 ## Conclusion
+
 Wearing a tsitsit is what we can consider one of the least of commands. However, we were instructed to follow all His commands, from the greatest to the least. In addition, there are no verses to support that we were commanded not to wear a tsitsit anymore. On the contrary, <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) Himself continued to wear His own tsitsit throughout His earthly ministry.
 
 <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) taught us to follow Him, in His footsteps, to be like Him. If He wore a tsitsit, then we should too! <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (Yahushua) earthly ministry was not only about saving us. He could have just headed straight and die for us. Instead, He walked on earth and showed us how to live and how to obey our Father <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YaHuWaH).
@@ -136,7 +140,7 @@ I strongly believe that our Father <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅�
 
 That's being wise. Stay strong. Stay alive. Stay safe. Keep studying!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -151,7 +155,7 @@ That's being wise. Stay strong. Stay alive. Stay safe. Keep studying!
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="Yahuhanan Yukia Sese Cuneta"
-  attriburl="https://iam.youronly.one"
-  attribrel="noopener external nofollow"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

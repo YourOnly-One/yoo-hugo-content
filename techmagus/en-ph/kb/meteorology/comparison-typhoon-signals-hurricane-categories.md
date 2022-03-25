@@ -2,8 +2,8 @@
 title = "Comparison of Typhoon Signals and Hurricane Categories"
 description = "Philippine Typhoon Signals and the American Hurricane Categories are worlds apart. In this post, I'll clarify the difference between these two scale systems."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-10-02T00:03:23"                                        # manually adjust to local timezone
-lastmod = "2009-10-02T00:03:23"                                        # manually adjust to local timezone
+date = "2009-10-02T00:03:23+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-10-02T00:03:23+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/10/comparison-typhoon-signals-hurricane-category.html"]
 slug = "comparison-typhoon-signals-hurricane-categories"
@@ -65,6 +65,7 @@ All clear? Good!
 We're done! But if you want to continue reading and know additional information (more like a trivia) then continue reading.
 
 ## Difference between Typhoon and Hurricane
+
 <figure class="quote_box qbs_generic qbm_doublequotationmark qbc_green">
   <blockquote cite="https://www.docstoc.com/docs/10577240/Difference-Between-Typhoon-And-Hurricane">
     Typhoon and hurricane are terms describing the same weather phenomenon. They are only different names used in different places. In the Atlantic and North-Eastern Pacific regions such as the United States, people call them hurricanes. In the North-West Pacific region such as Hong Kong, people call them typhoons.
@@ -77,6 +78,7 @@ We're done! But if you want to continue reading and know additional information 
 </figure>
 
 ## What's the difference between a hurricane and a typhoon or tropical cyclone?
+
 <figure class="quote_box qbs_generic qbm_doublequotationmark qbc_green">
   <blockquote cite="https://www.ucar.edu/news/backgrounders/hurricanes.jsp">
     When a tropical disturbance organizes to the point where its sustained winds top 34 knots (39 mph), it's known as a tropical cyclone. But various parts of the world use a variety of terms once a tropical cyclone packs winds of at least 65 knots (74 mph).
@@ -89,7 +91,7 @@ We're done! But if you want to continue reading and know additional information 
   </figcaption>
 </figure>
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

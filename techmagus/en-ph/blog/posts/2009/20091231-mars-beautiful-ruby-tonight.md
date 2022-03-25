@@ -2,8 +2,8 @@
 title = "Mars, A Beautiful Ruby Shines Tonight"
 description = "Planet Mars will shine as beautiful, rare ruby gem tonight.  Here's a simple guide on how you can spot it and have the best Mars experience on Earth…"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-12-31T13:05:01"                                        # manually adjust to local timezone
-lastmod = "2009-12-31T13:05:01"                                        # manually adjust to local timezone
+date = "2009-12-31T13:05:01+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-12-31T13:05:01+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/12/mars-beautiful-ruby-shines-tonight.html"]
 slug = "mars-beautiful-ruby-tonight"
@@ -102,7 +102,7 @@ Happy New Year 2010 to everyone!!
   type="imagecoverattrib"
 
   link="https://2.bp.blogspot.com/-d-GRT0feifM/XrPKps34XhI/AAAAAAAAhg0/B7E_sYYyk3Q_LyhO0uoh1IxV5i2gptBnwCPcBGAsYHg/s1600/Sirius_2010-01-01T0000%252B08.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Starchart"
   caption=""
@@ -111,7 +111,7 @@ Happy New Year 2010 to everyone!!
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

@@ -2,8 +2,8 @@
 title = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
 description = "The Order of Operations explained."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-15T09:40:35"
-lastmod = "2021-08-15T09:40:35"
+date = "2021-08-15T09:40:35+08:00"
+lastmod = "2021-08-15T09:40:35+08:00"
 
 #aliases = [""]
 slug = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
@@ -189,7 +189,7 @@ We should teach the order of operations without using mnemonics. It is not hard 
 ## Final note
 The examples I provided earlier were very simple and basic. If one is confused with how to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, and GEMDAS, or simply ***order of operations***, then it is not yet time to move to advance mathematics. We have not even touched the various ambiguities like the use of a forward-slash "/" in mathematical expressions. As with everything in life, master the basics first before moving to next level.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

@@ -2,8 +2,8 @@
 title = "The Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
 description = ""  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-04-07T03:27:17"                          # manually adjust to local timezone
-lastmod = "2020-04-07T03:27:17"                          # manually adjust to local timezone
+date = "2020-04-07T03:27:17+08:00"                          # manually adjust to local timezone
+lastmod = "2020-04-07T03:27:17+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2020/04/feast-yahuah-passover.html"]
 slug = "The Feast of 𐤉𐤄𐤅𐤄 (YAHUAH)'s Passover"
@@ -100,8 +100,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -125,8 +125,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -150,8 +150,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -175,8 +175,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -200,8 +200,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -225,8 +225,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -250,8 +250,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -275,8 +275,8 @@ I also provided an image version below if you would like to share each slide ind
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
@@ -292,7 +292,7 @@ I also provided an image version below if you would like to share each slide ind
 
 Shalom!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

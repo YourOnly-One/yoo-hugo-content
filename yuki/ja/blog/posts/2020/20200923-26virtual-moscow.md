@@ -7,8 +7,8 @@ images = ["https://img.youtube.com/vi/cShMNxRJ27o/0.jpg"]                       
 videos = ["https://www.youtube.com/watch?v=cShMNxRJ27o"]                                                      # og:video
 #audio = [""]                                                       # og:audio
 
-date = "2020-09-23T21:15:00"
-lastmod = "2020-09-23T21:15:00"
+date = "2020-09-23T21:15:00+09:00"
+lastmod = "2020-09-23T21:15:00+09:00"
 
 #aliases = [""]
 slug = "26virtual Moscow, My First Half-marathon"
@@ -73,9 +73,9 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
   attribcountry="Philippines"
   attribcountrycode="PH"
 
@@ -90,10 +90,11 @@ avatar = "https://rsc.youronly.one/img/y/Faithful_Athlete-logo-02-1500x.webp"
 購読して、次のエピソードのアラートを受け取りましょう！
 
 公式リンク
-* [Fediverse](https://koyu.space/@faithfulathlete)
-* [フェイスブック](https://facebook.com/faithful.athlete)
-* [インスタグラム](https://instagram.com/faithful.athlete)
 
-<hr/>
+- [Fediverse](https://koyu.space/@faithfulathlete)
+- [フェイスブック](https://facebook.com/faithful.athlete)
+- [インスタグラム](https://instagram.com/faithful.athlete)
+
+---
 
 注意：Google翻訳

@@ -2,8 +2,8 @@
 title = "Web Standards Philippines"
 description = "Being web standard compliant is a must these days. There are few who bother with it. In the Philippines, someone finally took the job in spreading it."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2007-04-12T09:10:38"                                        # manually adjust to local timezone
-lastmod = "2007-04-12T09:10:38"                                        # manually adjust to local timezone
+date = "2007-04-12T09:10:38+08:00"                                        # manually adjust to local timezone
+lastmod = "2007-04-12T09:10:38+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2007/04/web-standards-philippines.html"]
 slug = "web-standards-philippines"
@@ -49,6 +49,7 @@ Finally someone took the job in establishing a group in the Philippines to be "w
 <!--more-->
 
 What exactly is a "web standard"? Simple, following the recommended specifications of the <a title="World Wide Web Consortium" href="https://www.w3.org/" target="_blank" rel="noopener"><i>World Wide Web Consortium</i></a>. The common ones are HTML 4.01, XHTML 1.0, XHTML 1.1, DOM, CSS Level 2 (CSS2). Example, it is no longer allowed to do this:
+
 ```html
 <marquee><font>Hello world!</font></marquee>
 ```
@@ -72,7 +73,7 @@ Oh, don't get frustrated with the validation tools, when you are using applicati
 
 But that is not a reason for you not to learn how to create a website compliant with the current web standards.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

@@ -2,8 +2,8 @@
 title = "胸キュンは本物かもしれない"
 description = "胃の中の蝶は本物ですか？ 研究によるかもしれません。"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-04-08T16:15:41"
-lastmod = "2016-04-08T16:15:41"
+date = "2016-04-08T16:15:41+09:00"
+lastmod = "2016-04-08T16:15:41+09:00"
 
 #aliases = [""]
 slug = "Butterflies in Stomach Might Be Real"
@@ -52,6 +52,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 悲しくなると冷たくなります。 寂しい。 私たちも食欲を失います。 そしてこの研究を通して、彼らはそれがまさに私たちの体が感情にどのように反応するかを発見しました。 この場合の悲しみは、私たちの腕と脚に冷たさをもたらします。 私たちの胃には何もありませんでした。 私たちの胸と頭はかすかな反応です。間違いなく、私たちは痛みや面白い考えを感じているからです。
 
 ## 感情マップ
+
 {{< image
   type="image"
 
@@ -91,7 +92,7 @@ The emotions you feel--for example, fear--help prepare your body to avoid threat
 
 よく耳にするように、<q>それはすべてあなたの心の中にあります</q>。
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -111,6 +112,6 @@ The emotions you feel--for example, fear--help prepare your body to avoid threat
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

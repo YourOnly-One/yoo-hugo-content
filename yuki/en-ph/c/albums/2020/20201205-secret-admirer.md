@@ -7,8 +7,8 @@ images = ["https://1.bp.blogspot.com/-6RVBTHA7oQ4/X8r3rBADTSI/AAAAAAAAoKk/dES600
 #videos = [""]																											# og:video
 #audio = [""]																												# og:audio
 
-date = "2020-12-05T11:12:14"
-lastmod = "2020-12-05T11:12:14"
+date = "2020-12-05T11:12:14+08:00"
+lastmod = "2020-12-05T11:12:14+08:00"
 
 aliases = ["/mix-secret-admirer-2020340", "/c/albums/secret-admirer-2020340"]	# Permanent (old FB posts)
 slug = "Secret Admirer"
@@ -42,19 +42,19 @@ avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 #rel = "noopener external nofollow"
 +++
 
-《__Secret Admirer__》 is a compilation of songs promising love and faithfulness for the person who stole our heart. These are songs with messages we wish we can tell him/her.
+《**Secret Admirer**》 is a compilation of songs promising love and faithfulness for the person who stole our heart. These are songs with messages we wish we can tell him/her.
 
 <!--more-->
 
-A total of 17 songs with a running time of 1 hour and 12 minutes, 《Secret Admirer》 is the perfect gift to secretly send to your significant other who is yet know they have you in their life. __BONUS__: Three additional songs added putting the total playtime to 1 hour and 24 minutes which guarantees your significant other will finally realise they love you too!
+A total of 17 songs with a running time of 1 hour and 12 minutes, 《Secret Admirer》 is the perfect gift to secretly send to your significant other who is yet know they have you in their life. **BONUS**: Three additional songs added putting the total playtime to 1 hour and 24 minutes which guarantees your significant other will finally realise they love you too!
 
 <div class="responsive_embedframe"><iframe src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
 Do not forget to "follow"/"like" the playlist in your Spotify account!
 
-* [Playlist link (browser)](https://open.spotify.com/playlist/43emZgYoSDRR277EyIA8p5?si=nRgRUD8qSm-jRB9w5AyPrQ)
-* [Open in Spotify app](spotify:playlist:43emZgYoSDRR277EyIA8p5)
+- [Playlist link (browser)](https://open.spotify.com/playlist/43emZgYoSDRR277EyIA8p5?si=nRgRUD8qSm-jRB9w5AyPrQ)
+- [Open in Spotify app](spotify:playlist:43emZgYoSDRR277EyIA8p5)
 
 <aside class="figure_box">
-	<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="375" data-original-width="300" src="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png"/></a></div>
+  <div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="375" data-original-width="300" src="https://1.bp.blogspot.com/-GQAN1J_ne0k/X8sGqmNq7NI/AAAAAAAAoKw/GYA4uP6qWNAkvh1_AddbEdspbnWgIyT7ACLcBGAsYHQ/s0/Spotify%2BCode-Secret%2BAdmirer.png"/></a></div>
 </aside>

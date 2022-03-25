@@ -2,8 +2,8 @@
 title = "Your Christian Bible and Christmas Trees"
 description = "People say Christmas Trees are pagan. But what does the Christian Bible really say about it?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2018-12-12T07:57:02"                          # manually adjust to local timezone
-lastmod = "2018-12-12T07:57:02"                          # manually adjust to local timezone
+date = "2018-12-12T07:57:02+08:00"                          # manually adjust to local timezone
+lastmod = "2018-12-12T07:57:02+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2018/12/christian-bible-christmas-trees.html"]
 slug = "Your Christian Bible and Christmas Trees"
@@ -99,7 +99,6 @@ For they also built them high places, and images, and Asherah poles, on every hi
   attribrel="noopener external nofollow"
 >}}
 
-
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Debarim (Deuteronomy) 16:21-22" srclink="" srcrel="noopener external nofollow" attribto="Cepher" attriblink="" attribrel="noopener external nofollow" %}}
 <sup>21</sup> You shall not plant an asherah pole of any trees near unto the altar of <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH) Elohayka, which you shall make.
 
@@ -111,6 +110,7 @@ And he broke down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the houses
 {{% /quotebox %}}
 
 ## A deeper look
+
 {{< video
   platform="youtube"
   isplaylist=false
@@ -165,6 +165,7 @@ And he broke down <bdo dir="rtl" lang="hbo-Hebr">𐤀𐤕</bdo> (eth)-the houses
 >}}
 
 ## The "Christmas Tree" represents
+
 <ul class="custom_liststyle checkmark-heavy list-red">
   <li>Ashtoroth, Astarte, Ishtar, Venus</li>
   <li>Ashera/Asherim (sacred tree; babylonian tree of life; yule tree, tannendaum, everlasting fir tree)</li>
@@ -185,7 +186,7 @@ I used to believe and practice these things until the Most High, our Abba in hea
 
 <bdo dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdo> (HaleluYAH). Baruch <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

@@ -2,8 +2,8 @@
 title = "Feast of Tabernacles Verses"
 description = "Three very important verses reminding us that we should observe and celebrate the Feast of Tabernacles (Sukkot/Succot)."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2015-10-01T02:32:24"                          # manually adjust to local timezone
-lastmod = "2015-10-01T02:32:24"                          # manually adjust to local timezone
+date = "2015-10-01T02:32:24+08:00"                          # manually adjust to local timezone
+lastmod = "2015-10-01T02:32:24+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2015/10/feast-of-tabernacles.html"]
 slug = "Feast of Tabernacles Verses"
@@ -72,7 +72,7 @@ On the 1st yom (day) is a rest, and on the 8th yom (day) a rest [22nd of the 7th
 <sup>42</sup> 'Dwell in booths for 7 Yomim (Days); all who are native Yisharalites dwell in booths, <sup>43</sup> so that your generations know that I made the children of Yisharal dwell in booths when I brought them out of the land of Mitsrayim (Egypt). I am <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) your Alahim.' "
 {{% /quotebox %}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

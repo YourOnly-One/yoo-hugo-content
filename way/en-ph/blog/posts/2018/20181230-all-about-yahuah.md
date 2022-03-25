@@ -2,8 +2,8 @@
 title = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
 description = "Do you know the Name of your GOD? Did they tell you His Name is the LORD? Are you aware that GOD and LORD are not names? It's 𐤉𐤄𐤅𐤄!"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2018-12-30T12:00:00"                          # manually adjust to local timezone
-lastmod = "2018-12-30T12:00:00"                          # manually adjust to local timezone
+date = "2018-12-30T12:00:00+08:00"                          # manually adjust to local timezone
+lastmod = "2018-12-30T12:00:00+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2018/12/it-is-all-about-yahuah.html"]
 slug = "It's All About 𐤉𐤄𐤅𐤄 (YAHUAH)!"
@@ -63,6 +63,7 @@ O give thanks unto <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH
 Now the Psalmist makes sense, right? He said to "call upon His name", what is His name? "Give thanks unto <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)"! His name is right there! His name is <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH)! It's not the "LORD" and definitely not lost in time!
 
 ## He told us His name
+
 Our Abba has a name. He introduced Himself to us. Just like how you and I introduce ourselves to others. "Hi, my name is Agnes", "I'm Angel by the way, and you are?"
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yashayahu (Isaiah) 42:8" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -82,6 +83,7 @@ I am <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH): that is my 
 What is His Name according to our Abba, Most High, Almighty One, Creator? <q><strong>I AM <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (YAHUAH): THAT IS MY NAME</strong></q>.
 
 ### A warning
+
 Let us not forget the warning in the rest of that verse: <q>and My Glory will I not give to another, neither My Praise to graven images</q>.
 
 He will never accept the glory and praise all due Him to be given to another! To another name! To someone else! To some generic title! He introduced Himself, He told us His name, so we can properly give Him all the glory, praise, thanks, and honour that is His and His alone!
@@ -94,7 +96,7 @@ Our Abba Himself said He will not give His glory, honour, praise, thanks that is
 
 <bdo dir="rtl" lang="hbo-Hebr">𐤄𐤋𐤋𐤅𐤉𐤄</bdo> (HaleluYAH)!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -109,8 +111,8 @@ Our Abba Himself said He will not give His glory, honour, praise, thanks that is
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC0"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 
   cc0country="Philippines"

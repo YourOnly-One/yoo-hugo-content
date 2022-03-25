@@ -2,8 +2,8 @@
 title = "Blogrollが帰ってきた"
 description = "リンクリストとブログロールを復活させます！"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-19T15:14:41"                                        # manually adjust to local timezone
-lastmod = "2021-12-19T15:14:41"                                        # manually adjust to local timezone
+date = "2021-12-19T15:14:41+09:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-19T15:14:41+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "linklists-are-back"
@@ -54,6 +54,7 @@ A proposal, dear reader: Create a list of bookmarks linking to websites you find
 {{% /quotebox %}}
 
 ## リンクリストまたはブログロールとは何ですか？
+
 *リンクリスト*または*ブログロール*は、ウェブサイトの所有者またはブロガーが収集した推奨リンクのコレクションであり、サイトのサイドバーまたは専用ページに表示されます。 家族や友人のブログリンク、または興味深いWebサイトへのリンクである可能性があります。
 
 ウェブサイトの構築とブログの初期の頃には、ブログのネットワークをソーシャル化して作成することが重要でした。 それは、検索エンジン最適化（SEO）のせいではなく、後で焦点になりましたが、訪問者がお互いを見つけられるようにするためでした。 ある日、誰もがブログロールを作成していましたが、翌日はすべてなくなりました。
@@ -63,6 +64,7 @@ A proposal, dear reader: Create a list of bookmarks linking to websites you find
 その時でした。 今日、私たちはそれを持ち帰ります！
 
 ## しかし、なぜ？
+
 ブログを*WordPress*から*Hugo*に移行し始めて以来、リンクリストまたはブログロールは常にToDoリストに含まれています。 それは私が引用する記事を見つける代わりに私が絶えず言及する価値があると思う推薦されたウェブサイトとブロガーに私のための方法です。 また、単一の記事にリンクする場合と比較して、Webサイト自体と作成者への推奨事項でもあります。
 
 しかし、私はそれを押し戻し続けました。 私がお勧めしたいウェブサイトやブロガーが多すぎます。リストのキュレーションと維持の作業について考えるだけでも、すでに疲れています。 今まで、私はこれを小規模で行うための非常に良い方法と理由を見つけました。
@@ -84,16 +86,19 @@ If we actually want these small websites to flourish as a healthy community, we 
 （私たちがお互いを知っていて、あなたのブログがリストされていない場合は、あなたがすでに検索でランク付けされているためである可能性が高いです。将来、家族や友人のために別のリストを作成する可能性があります。 。）
 
 ## よくある質問
+
 質問：ペナルティはありますか？
 
 : いいえ。リンクリストまたはブログロールにWebサイトを追加することで、それを承認します。言い換えると、推奨します。 `rel=nofollow`は、有料リンク、コメントやフォーラムのリンク、サードパーティのテーマフッタークレジットなど、承認できないリンクにのみ使用されます（これらのリンクは必ず更新してください）。
 
 : *ハイテク マギ*へのリンクを追加するには：
+
   ```html
   <a href="https://im.youronly.one/techmagus/ja/" rel="noopener external">ハイテク マギ</a>
   ```
 
 : 私のブログロールにリンクしたい場合：
+
   ```html
   <a href="https://im.youronly.one/p/linklist/" rel="noopener external">YourOnly.One ブログロール</a>
   ```
@@ -118,12 +123,13 @@ If we actually want these small websites to flourish as a healthy community, we 
 
 [^a]: MDN Web Docs: [リンク種別](https://developer.mozilla.org/ja/docs/Web/HTML/Link_types)
 
-## あなたのものを共有してください！
+## あなたのものを共有してください
+
 独自の厳選されたブックマークリストまたはブログロールを作成しましたか？ 以下のコメントであなたのリンクを共有してください。[YourOnly.One ブログロール](https://im.youronly.one/p/linklist/)にもあなたを追加します。 信頼できるリンクを共有し、リンクリストを相互リンクすることがすべてです。
 
 シャローム！
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -131,7 +137,7 @@ If we actually want these small websites to flourish as a healthy community, we 
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/techmagus/u/linklist-01.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Linklist"
   caption=""
@@ -142,15 +148,15 @@ If we actually want these small websites to flourish as a healthy community, we 
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="ph"
   cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
--------
+---
 
 注意：Google翻訳

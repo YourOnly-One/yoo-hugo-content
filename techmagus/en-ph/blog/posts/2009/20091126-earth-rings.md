@@ -2,8 +2,8 @@
 title = "[Video] Earth with Rings"
 description = "Imagine Earth with rings as beautiful as Saturn's. Do you think it will be cool? Or would it be scary? Is it a beautiful sight or an annoyance?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-11-26T23:09:28"                                        # manually adjust to local timezone
-lastmod = "2009-11-26T23:09:28"                                        # manually adjust to local timezone
+date = "2009-11-26T23:09:28+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-11-26T23:09:28+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/11/video-earth-with-rings.html"]
 slug = "earth-rings"
@@ -60,7 +60,7 @@ Watch this video showing us exactly that - huge and beautiful rings like Saturn'
 
 And as <a href="//www.youtube.com/user/danthemango" target="_blank" rel="noopener">danthemango</a> said: <q>… the only thing this is missing are the shots from the Earth, under the ring's shadows, or the shots at the rings in Earth's shadow</q>.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

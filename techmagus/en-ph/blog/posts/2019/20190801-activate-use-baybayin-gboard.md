@@ -2,8 +2,8 @@
 title = "(Updated) Activate and Use Baybayin in Gboard"
 description = "Step by step guide on how to activate and use Baybayin in Gboard for Android."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2019-08-01T07:26:20"                                        # manually adjust to local timezone
-lastmod = "2019-08-01T07:26:20"                                        # manually adjust to local timezone
+date = "2019-08-01T07:26:20+08:00"                                        # manually adjust to local timezone
+lastmod = "2019-08-01T07:26:20+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2019/08/activate-baybayin-gboard.html"]
 slug = "activate-baybayin-gboard"
@@ -52,26 +52,27 @@ Here is a short guide on how to activate and use Baybayin-Buhid, Baybayin-Hanuno
 1. Download the Gboard app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) <del datetime="2019-08-01T07:52:50+0800">and Apple App Store</del> (not <del datetime="2021-09-27T05:00:00+0800">yet</del> available for iOS).
 1. Go to the Gboard settings
 
-    * In Android 9 Pie: Settings > System > Languages & Input > Virtual keyboard > Gboard
-    * In Android 8 Oreo: Settings > Languages & Input > Keyboard > Gboard
-  
+    - In Android 9 Pie: Settings > System > Languages & Input > Virtual keyboard > Gboard
+    - In Android 8 Oreo: Settings > Languages & Input > Keyboard > Gboard
+
 1. Go to Languages
 1. Tap the "ADD KEYBOARD" button at the bottom of the screen
 1. In the "Add keyboard" page, choose:
 
-    * "Filipino (Baybayin)" – Baybayin-Tagalog
-    * "Hanunuo" – Baybayin-Hanunoó (Mangyan)
-    * "Buhid" – Baybayin-Buhid (Mangyan)
-    * "Aborlan" – Baybayin-Tagbanwa [thank you to Ki Wakat for informing us]
-  
+    - "Filipino (Baybayin)" – Baybayin-Tagalog
+    - "Hanunuo" – Baybayin-Hanunoó (Mangyan)
+    - "Buhid" – Baybayin-Buhid (Mangyan)
+    - "Aborlan" – Baybayin-Tagbanwa [thank you to Ki Wakat for informing us]
+
 1. Optionally, add:
 
-    * "English (Philippines)"
-    * "Filipino (Latin)"
-  
+    - "English (Philippines)"
+    - "Filipino (Latin)"
+
 1. Then remove any other keyboard layouts which were automatically added.
 
 ## Not working? Join the Beta
+
 <del datetime="2021-09-27T05:00:00+0800">If you can not find the keyboard layouts mentioned above, one possible reason is your Google Play Store account and/or unit is yet to receive an update push. Until then, joining the beta is the only way.</del>
 
 1. <del datetime="2021-09-27T05:00:00+0800">Go to the Gboard app [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) page</del>
@@ -84,20 +85,22 @@ Here is a short guide on how to activate and use Baybayin-Buhid, Baybayin-Hanuno
 <ins datetime="2021-09-27T05:00:00+0800">Baybayin in Gboard is now available for everyone.</ins>
 
 ### <ins datetime="2019-09-24">2019-08-24 Update</ins>
+
 It was discovered that the Gboard app is automatically disabling the layouts if there are no font support in the system.
 
 For example, manufacturers Samsung and MyPhone deleted the Noto Tagalog font in their Android 7 and Android 8 models but left Noto Buhid, Noto Hanunoó, and Noto Tagbanwa. This is the reason why Samsung and MyPhone users can not see the "Filipino (Baybayin)" Gboard layout.
 
 The best way to test this is to open this article in your favourite mobile browser and check if you can see the following texts.
 
-* Baybayin-Buhid: <span lang="bku-Buhd">ᝀᝁᝂᝃᝄᝅᝆᝇᝈᝉᝊᝋᝌᝍᝎᝏᝐᝑ</span>
-* Baybayin-Hanunoó: <span lang="hnn-Hano">ᜠᜡᜢᜣᜤᜥᜦᜧᜨᜩᜪᜫᜬᜭᜮᜯᜰᜱ</span>
-* Baybayin-Tagalog: <span lang="tgl-Tglg">ᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜎᜏᜀᜁᜂᜐᜑ</span>
-* Baybayin-Tagbanwa: <span lang="tbw-Tagb">ᝣᝤᝥᝦᝧᝨᝩᝪᝫᝬᝮᝯᝠᝡᝢᝰ</span>
+- Baybayin-Buhid: <span lang="bku-Buhd">ᝀᝁᝂᝃᝄᝅᝆᝇᝈᝉᝊᝋᝌᝍᝎᝏᝐᝑ</span>
+- Baybayin-Hanunoó: <span lang="hnn-Hano">ᜠᜡᜢᜣᜤᜥᜦᜧᜨᜩᜪᜫᜬᜭᜮᜯᜰᜱ</span>
+- Baybayin-Tagalog: <span lang="tgl-Tglg">ᜃᜄᜅᜆᜇᜈᜉᜊᜋᜌᜎᜏᜀᜁᜂᜐᜑ</span>
+- Baybayin-Tagbanwa: <span lang="tbw-Tagb">ᝣᝤᝥᝦᝧᝨᝩᝪᝫᝬᝮᝯᝠᝡᝢᝰ</span>
 
 If you can not see one of those, then your mobile phone is missing the appropriate Noto font support for that script. This in turn will automatically disable Gboard support for it. It means it is time to switch to an "Android One" model.
 
 ## How to type in Baybayin after activation
+
 {{< image
   type="image"
 
@@ -118,9 +121,9 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 1. Long-tap the "spacebar" to show the "Change Keyboard" menu; or tap the "world" icon
@@ -135,7 +138,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
 
   src="https://4.bp.blogspot.com/-2KsIhfyB7tw/XuN_F_jadmI/AAAAAAAAiu4/Ml-oTghjH9caBvjw_XizloNoxam_oOhZACPcBGAYYCw/s1600/GBoard-02-Baybayin-Buhid.png"
   link="https://4.bp.blogspot.com/-2KsIhfyB7tw/XuN_F_jadmI/AAAAAAAAiu4/Ml-oTghjH9caBvjw_XizloNoxam_oOhZACPcBGAYYCw/s1600/GBoard-02-Baybayin-Buhid.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Buhid layout"
@@ -147,9 +150,9 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -160,7 +163,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
 
   src="https://4.bp.blogspot.com/-mczk_wcedP8/XuN_F99hP-I/AAAAAAAAiu8/pi1rY490YGcT9cSPHaGJ2h8qJlS4Bx9iwCPcBGAYYCw/s1600/GBoard-03-Baybayin-Hanunoo%25CC%2581.png"
   link="https://4.bp.blogspot.com/-mczk_wcedP8/XuN_F99hP-I/AAAAAAAAiu8/pi1rY490YGcT9cSPHaGJ2h8qJlS4Bx9iwCPcBGAYYCw/s1600/GBoard-03-Baybayin-Hanunoo%25CC%2581.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Hanunoó layout"
@@ -172,9 +175,9 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -185,7 +188,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
 
   src="https://3.bp.blogspot.com/-WWyOKOzY8yY/XuN_F4XbfLI/AAAAAAAAivA/oZItaTWCocInCm5rrK7uokgE4aUFR1YsACPcBGAYYCw/s1600/GBoard-04-Baybayin-Tagalog-animated.png"
   link="https://3.bp.blogspot.com/-WWyOKOzY8yY/XuN_F4XbfLI/AAAAAAAAivA/oZItaTWCocInCm5rrK7uokgE4aUFR1YsACPcBGAYYCw/s1600/GBoard-04-Baybayin-Tagalog-animated.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="Gboard"
   caption="Baybayin-Tagalog layout"
@@ -197,9 +200,9 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
 {{< image
@@ -222,18 +225,18 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://1.bp.blogspot.com/-y_Q6Werhn58/XuOQU0Tb4nI/AAAAAAAAivM/ro_fU8XNH00JijIgcz6GfeY6G16Sj_lBgCLcBGAsYHQ/s1600/GBoard-Baybayin_cover-01.png"
-  linkrel="me noopener external"
+  linkrel="noopener external"
 
   title="GBoard-Baybayin_cover-01"
   caption=""
@@ -242,7 +245,7 @@ If you can not see one of those, then your mobile phone is missing the appropria
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

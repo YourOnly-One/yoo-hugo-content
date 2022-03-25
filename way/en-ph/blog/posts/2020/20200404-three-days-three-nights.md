@@ -2,8 +2,8 @@
 title = "Three Days and Three Nights in the Heart of the Earth"
 description = "Was Yahushua / Jesus literally 3 Days and 3 Nights in the Heart of the Earth?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-04-04T21:59:01"                          # manually adjust to local timezone
-lastmod = "2020-04-04T21:59:01"                          # manually adjust to local timezone
+date = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
+lastmod = "2020-04-04T21:59:01+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2020/04/three-days-three-nights.html"]
 slug = "Three Days and Three Nights in the Heart of the Earth"
@@ -59,6 +59,7 @@ Mattithyahu (Matthew) 12:40 is the verse we have read and heard a lot on how man
 In both, there is no <q>three days and three nights in the heart of the earth</q> as Mattithyahu (Matthew) 12:40 said.
 
 ## Setting the Expectation
+
 For us to be able to understand Mattithyahu (Matthew) 12:40 we first need to establish an agreement: the Bible is the final authority. Simply put, if it is written <q>three days and three nights in the heart of the earth</q> then it is what must have happened.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Mattithyahu (Matthew) 12:38" srclink="" srcrel="noopener external nofollow" attribto="International Standard Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -68,6 +69,7 @@ Then some of the scribes and Pharisees told <bdo lang="hbo-Hebr" dir="rtl">𐤉�
 This is very important for us to understand because this is the key, the sign, that <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤔𐤅𐤏</bdo> (<span lang="hbo-Latn" dir="ltr">Yahushua</span>) or "Jesus" was indeed the Messiah. He must be <q>three days and three nights in the heart of the earth</q>. Not one day and two nights; not one day and half a night; not three days and three and half nights. There is no room for any other than <q>three days and three nights</q>.
 
 ## What does it mean <q>in the heart of the earth</q>?
+
 Let's look at Markus (Mark) 8:31-32.
 
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Markus (Mark) 8:31-32" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
@@ -81,6 +83,7 @@ In verse 31, the Messiah explained what must happen, and in verse 32 it was writ
 Markus (Mark) 8:31-32 sealed it. Mattithyahu (Matthew) 12:40 can not be anything other than a literal <q>three days and three nights in the heart of the earth</q>! It was the Messiah himself who explained plainly or openly what <q>in the heart of the earth</q> means before Mattithyahu (Matthew) wrote it!.
 
 ## The Sign of Jonah
+
 {{% quotebox boxstyle="qbs_verse01" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_midnightblue" attribalign="txt_right" srctitle="Yonah (Jonah) 1:17" srclink="" srcrel="noopener external nofollow" attribto="King James Version" attriblink="" attribrel="noopener external nofollow" %}}
 Now <bdo lang="hbo-Hebr" dir="rtl">𐤉𐤄𐤅𐤄</bdo> (<span lang="hbo-Latn" dir="ltr">YAHUAH</span>) had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 {{% /quotebox %}}
@@ -96,11 +99,13 @@ And said unto them, Thus it is written, and thus it behoved the Messiah to suffe
 Even Lukas (Luke) recorded the Messiah saying the exact same thing. The Messiah must <q>suffer, and to rise from the dead the third day</q>, it can not be any clearer than that. The Messiah's suffering is counted and him getting killed is but the last phase of the <q>heart of the earth</q> in Mattithyahu (Matthew) 12:40. Then on the third day he became the first to rise from the dead.
 
 ## Inclusive counting versus Exclusive counting
+
 During the Biblical times, the Israelites were counting similarly as the rest of what we call today as "Asians" - inclusively. It means that counting starts at "one (1)" as opposed to "zero (0)" when counting exclusively as most people do today. For example, in Korea, when a child is born he or she is 1 year old but in other countries the child upon birth is 0 year old.
 
 This is important in understanding the Bible, we need to view it from a Hebrew perspecitve at that time period as the texts were written from their perspective and culture. Thus when counting the <q>three days and three nights</q>, at the strike of dawn it is "Day 1" and at the strike of darkness it is "Night 1". <!-- (For more about this topic, read [Inclusive Versus Exclusive (Calendar) Counting](https://snoworld.one/inclusive-versus-exclusive-calendar-counting/).) -->
 
 ## Putting it all together
+
 From these verses, and directly from the Messiah himself, the <q>heart of the earth</q> was referring to from the moment he was betrayed up to when he was killed. The suffering he must endure to be the perfect and final sacrificial lamb to buy our salvation once and for all.
 
 {{< image
@@ -123,8 +128,8 @@ From these verses, and directly from the Messiah himself, the <q>heart of the ea
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC0"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 
   cc0country="Philippines"
@@ -147,7 +152,7 @@ From these verses, and directly from the Messiah himself, the <q>heart of the ea
 
 That, my friend, is the simplest and shortest version. I hope you were able to follow and understood it.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

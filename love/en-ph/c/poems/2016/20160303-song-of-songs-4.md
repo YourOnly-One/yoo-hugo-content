@@ -2,8 +2,8 @@
 title = "Song of Songs 4"
 description = "The Letter of King Solomon"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-03-03T21:48:15"
-lastmod = "2016-03-03T21:48:15"
+date = "2016-03-03T21:48:15+08:00"
+lastmod = "2016-03-03T21:48:15+08:00"
 
 #aliases = [""]
 slug = "Song of Songs 4"
@@ -104,7 +104,7 @@ with every kind of incense tree; myrrh and aloes, with all the best spices,
 a well of living waters, flowing streams from Lebanon.
 {{% /quotebox %}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

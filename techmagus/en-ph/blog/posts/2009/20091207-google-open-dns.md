@@ -2,8 +2,8 @@
 title = "Google Public DNS vs. OpenDNS"
 description = "Google DNS vs. Open DNS, which is faster anyway? From where I am, Google DNS showed up as the winner. Test it yourself!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-12-07T17:43:23"                                        # manually adjust to local timezone
-lastmod = "2009-12-07T17:43:23"                                        # manually adjust to local timezone
+date = "2009-12-07T17:43:23+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-12-07T17:43:23+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/12/google-public-dns-vs-opendns.html"]
 slug = "google-open-dns"
@@ -87,10 +87,11 @@ However, the choice is up to you. We differ in our needs and criteria. As I have
 ---
 
 Further reading:
-* <a class="popper animate" href="https://www.manu-j.com/blog/opendns-alternative-google-dns-rocks/403/" rel="noopener external nofollow" data-popper="Google DNS vs OpenDNS: Google Rocks for International Users">Google DNS vs OpenDNS: Google Rocks for International Users</a>
-* <a class="popper animate" href="https://googlecode.blogspot.com/2009/12/introducing-google-public-dns-new-dns.html" rel="noopener external nofollow" data-popper="Introducing Google Public DNS: A new DNS resolver from Google">Introducing Google Public DNS: A new DNS resolver from Google</a>
-* <a class="popper animate" href="https://blog.opendns.com/2009/12/03/opendns-google-dns/" rel="noopener external nofollow" data-popper="Some thoughts on Google DNS">Some thoughts on Google DNS</a>
-* <a class="popper animate" href="https://developers.google.com/speed/public-dns/?csw=1" rel="noopener external nofollow" data-popper="Google Public DNS">Google Public DNS</a>
+
+- <a class="popper animate" href="https://www.manu-j.com/blog/opendns-alternative-google-dns-rocks/403/" rel="noopener external nofollow" data-popper="Google DNS vs OpenDNS: Google Rocks for International Users">Google DNS vs OpenDNS: Google Rocks for International Users</a>
+- <a class="popper animate" href="https://googlecode.blogspot.com/2009/12/introducing-google-public-dns-new-dns.html" rel="noopener external nofollow" data-popper="Introducing Google Public DNS: A new DNS resolver from Google">Introducing Google Public DNS: A new DNS resolver from Google</a>
+- <a class="popper animate" href="https://blog.opendns.com/2009/12/03/opendns-google-dns/" rel="noopener external nofollow" data-popper="Some thoughts on Google DNS">Some thoughts on Google DNS</a>
+- <a class="popper animate" href="https://developers.google.com/speed/public-dns/?csw=1" rel="noopener external nofollow" data-popper="Google Public DNS">Google Public DNS</a>
 
 -------
 
@@ -98,7 +99,7 @@ Further reading:
   type="imagecoverattrib"
 
   link="https://2.bp.blogspot.com/-My6VQMwrbWw/XrFatMOpyCI/AAAAAAAAhfU/SNcOBNQsm8cqpGfY60VVSYYMrNKXdKHuACPcBGAsYHg/s1600/GoogleDNS-vs-OpenDNS.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="GoogleDNS vs OpenDNS"
   caption=""
@@ -107,7 +108,7 @@ Further reading:
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

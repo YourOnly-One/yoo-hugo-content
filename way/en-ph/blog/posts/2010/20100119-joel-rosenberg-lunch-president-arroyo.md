@@ -2,8 +2,8 @@
 title = "Joel Rosenberg's Lunch with President Arroyo"
 description = "Joel Rosenberg is currently here in the Philippines. Yesterday, he had lunch with President Gloria Macapagal-Arroyo, together with Filipino Pastor Peter."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2010-01-19T21:30:49"									# manually adjust to local timezone
-lastmod = "2010-01-19T21:30:49"                  # manually adjust to local timezone
+date = "2010-01-19T21:30:49+08:00"									# manually adjust to local timezone
+lastmod = "2010-01-19T21:30:49+08:00"                  # manually adjust to local timezone
 
 aliases = ["/2010/01/joel-rosenberg-lunch-president-arroyo.html"]
 slug = "Joel Rosenberg's Lunch with President Arroyo"
@@ -48,12 +48,11 @@ avatar = "https://rsc.youronly.one/img/y/Way-Hanukkahns4.svg"
 
 The Epicenter team posted their summary of the meeting from their perspective (meaning, nothing from the President of the Philippines) and two things caught my attention.
 
-
 <!--more-->
 
 > ***TAGLINE***
 
-But before I share it, for those who do not know him, Joel Rosenberg is the *New York Times* best-selling author of *The Last Jihan* (2002), *The Last Days* (2003), *The Ezekiel Option* (2005), *The Copper Scroll* (2006), *Epicenter* (2006), and *Dead Heat* (2008). (You can read more here: <a href="https://flashtrafficblog.wordpress.com/about/">About Joel Rosenberg</a>.)
+But before I share it, for those who do not know him, Joel Rosenberg is the *New York Times* best-selling author of *The Last Jihan* (2002), *The Last Days* (2003), *The Ezekiel Option* (2005), *The Copper Scroll* (2006), *Epicenter* (2006), and *Dead Heat* (2008). (You can read more here: [About Joel Rosenberg](https://flashtrafficblog.wordpress.com/about/ "About Joel Rosenberg").)
 
 Now the meat, the first one:
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_greylight" attribalign="txt_right" srctitle="Day Three Lunch with President Arroyo" srclink="https://flashtrafficblog.wordpress.com/2010/01/18/day-three-lunch-with-president-arroyo/" srcrel="noopener external nofollow" attribto="Joel Rosenberg" attriblink="https://flashtrafficblog.wordpress.com" attribrel="noopener external nofollow" %}}
@@ -76,9 +75,9 @@ Let's all pray for Israel and the Palestinian people who are under the rule and 
 
 God Bless!
 
-You can read the complete account <a href="https://flashtrafficblog.wordpress.com/2010/01/18/day-three-lunch-with-president-arroyo/">here</a>.
+You can read the complete account [here](https://flashtrafficblog.wordpress.com/2010/01/18/day-three-lunch-with-president-arroyo/ "Day Three Lunch with President Arroyo").
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

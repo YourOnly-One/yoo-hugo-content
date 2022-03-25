@@ -2,8 +2,8 @@
 title = "雅歌 4"
 description = "Tソロモン王への手紙"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-03-03T22:48:15"
-lastmod = "2016-03-03T22:48:15"
+date = "2016-03-03T22:48:15+09:00"
+lastmod = "2016-03-03T22:48:15+09:00"
 
 #aliases = [""]
 slug = "Song of Songs 4"
@@ -111,7 +111,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 私をさわやかな気分にしてくれる。
 {{% /quotebox %}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -131,6 +131,6 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

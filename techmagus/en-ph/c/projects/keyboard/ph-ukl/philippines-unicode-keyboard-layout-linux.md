@@ -2,8 +2,8 @@
 title = "Philippines Unicode Keyboard Layout for Linux Is Now Available!"
 description = "Filipino Linux users around the world can now download and use the first release of the Philippines Unicode Keyboard Layout."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2010-10-23T19:40:10"                                        # manually adjust to local timezone
-lastmod = "2010-10-23T19:40:10"                                        # manually adjust to local timezone
+date = "2010-10-23T19:40:10+08:00"                                        # manually adjust to local timezone
+lastmod = "2010-10-23T19:40:10+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/p/philippines-unicode-keyboard-linux.html"]
 slug = "philippines-baybayin-unicode-linux"
@@ -55,33 +55,45 @@ Without further ado, here are the steps to get you started with using our very o
 
 <!--more-->
 
-* Download the PH-UKL-Linux file (available in 7-zip and zip format) <a href="https://bitbucket.org/paninap/ph-ukl/downloads" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">here</a>
-* Extract the content of the archive file you just downloaded
-* Install the font included so your system can display Baybayin (Alibata) glyphs
-* Then copy the file "ph" to the correct folder by typing in the terminal (be sure to adjust ~/Downloads/ to where the file is on your end)
+- Download the PH-UKL-Linux file (available in 7-zip and zip format) <a href="https://bitbucket.org/paninap/ph-ukl/downloads" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">here</a>
+- Extract the content of the archive file you just downloaded
+- Install the font included so your system can display Baybayin (Alibata) glyphs
+- Then copy the file "ph" to the correct folder by typing in the terminal (be sure to adjust ~/Downloads/ to where the file is on your end)
+
   ```shell
   sudo cp ~/Downloads/ph /usr/share/X11/xkb/symbols
   ```
-* Open these two files by typing:
+
+- Open these two files by typing:
+
   ```shell
   gksu gedit /usr/share/X11/xkb/rules/evdev.lst
   ```
+
   ```shell
   gksu gedit /usr/share/X11/xkb/rules/base.lst
   ```
-* Search for:
+
+- Search for:
+
   ```
   ! layout
   ```
-* After it add:
+
+- After it add:
+
   ```
   ph              Philippines
   ```
-* Search for:
+
+- Search for:
+
   ```
   ! variant
   ```
-* After it add:
+
+- After it add:
+
   ```
   qwerty-bay            ph: QWERTY (Baybayin)
   capewell-dvorak       ph: Capewell-Dvorak (Latin)
@@ -93,18 +105,25 @@ Without further ado, here are the steps to get you started with using our very o
   dvorak                ph: Dvorak (Latin)
   dvorak-bay            ph: Dvorak (Baybayin)
   ```
-* Open these two files by typing:
+
+- Open these two files by typing:
+
   ```shell
   gksu gedit /usr/share/X11/xkb/rules/evdev.xml
   ```
+
   ```shell
   gksu gedit /usr/share/X11/xkb/rules/base.xml
   ```
-* Search for:
+
+- Search for:
+
   ```xml
   <layoutlist>
   ```
-* After it add:
+
+- After it add:
+
   ```xml
   <layout>
     <configItem>
@@ -234,22 +253,22 @@ Without further ado, here are the steps to get you started with using our very o
 
 You're done! Sort of. You need to activate it to actually use it, follow the next few steps to do so.
 
-* Go to: Preferences > Keyboard > Layouts
-* Click the "Add…" button
-* Search for the new keyboard you installed either "By country" (Philippines) or "By language" (English; Filipino; Cebuano; Philippine Languages; etc.)
-* There are different variants that you can choose from:
-  * Philippines (default; QWERTY - Latin)
-  * Philippines - QWERTY (Baybayin)
-  * Philippines - Capewell-Dvorak (Latin)
-  * Philippines - Capewell-Dvorak (Baybayin)
-  * Philippines - Capewell-QWERF 2006 (Latin)
-  * Philippines - Capewell-QWERF 2006 (Baybayin)
-  * Philippines - Colemak (Latin)
-  * Philippines - Colemak (Baybayin)
-  * Philippines - Dvorak (Latin)
-  * Philippines - Dvorak (Baybayin)
-* Click the "Add" button
-* Select the new layout that you added then click the "Move Up" button and place it on top
+- Go to: Preferences > Keyboard > Layouts
+- Click the "Add…" button
+- Search for the new keyboard you installed either "By country" (Philippines) or "By language" (English; Filipino; Cebuano; Philippine Languages; etc.)
+- There are different variants that you can choose from:
+  - Philippines (default; QWERTY - Latin)
+  - Philippines - QWERTY (Baybayin)
+  - Philippines - Capewell-Dvorak (Latin)
+  - Philippines - Capewell-Dvorak (Baybayin)
+  - Philippines - Capewell-QWERF 2006 (Latin)
+  - Philippines - Capewell-QWERF 2006 (Baybayin)
+  - Philippines - Colemak (Latin)
+  - Philippines - Colemak (Baybayin)
+  - Philippines - Dvorak (Latin)
+  - Philippines - Dvorak (Baybayin)
+- Click the "Add" button
+- Select the new layout that you added then click the "Move Up" button and place it on top
   {{< image
     type="image"
 
@@ -258,7 +277,7 @@ You're done! Sort of. You need to activate it to actually use it, follow the nex
 
     src="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
     link="https://2.bp.blogspot.com/-s6u_KKylKpg/TMJT_n8RdXI/AAAAAAAAAHw/ErsBqZlFJeg/s1600/Philippines%252520National%252520Keyboard%252520Layout.png"
-    linkrel="me noopener"
+    linkrel="noopener"
 
     title="Keyboard Preferences"
     caption="Select Philippines Keyboard Layouts"
@@ -270,9 +289,9 @@ You're done! Sort of. You need to activate it to actually use it, follow the nex
     licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
     licensename="CC BY-SA 4.0 International"
 
-    attribto="YourOnly.One"
-    attriburl="https://youronly.one"
-    attribrel="me noopener"
+    attribto="I'M YourOnly.One"
+    attriburl="https://im.youronly.one"
+    attribrel="noopener"
   >}}
 
 Let's not forget to add the first Baybayin <span lang="fil-Tglg">ᜊᜌ᜔ᜊᜌᜒᜈ᜔</span>) keyboard layout, it is QWERTY-based. Simply repeat the process above but place it as second in your Layouts list. Then if you want to switch between Philippines Latin and Philippines Baybayin scripts, simply press **Shift+CAPS_Lock**. It is the default shortcut in Ubuntu 10.10 Maverick Meerkat.
@@ -283,15 +302,15 @@ See the [keyboard layout images here]({{< ref "philippines-unicode-keyboard-layo
 
 Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitbucket.org/paninap/ph-ukl/). If you have suggestions or bugs to report, please do not hesitate to [file a ticket here](https://bitbucket.org/paninap/ph-ukl/issues).
 
-*** The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines LoCo Team*. ***
+The **Philippines Unicode Keyboard Layout** is a project of *Ubuntu Philippines LoCo Team*.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://3.bp.blogspot.com/-IPzJrxh1_vg/TncoS7FQ61I/AAAAAAAAAVQ/65UR2jN6Aes/s1600/Philippines-Dvorak%252520Simplified%252520%252528Latin%252529.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Philippines-Dvorak Simplified (Latin)"
   caption=""
@@ -300,9 +319,9 @@ Official source repository: [https://bitbucket.org/paninap/ph-ukl/](https://bitb
   licenseurl="https://creativecommons.org/publicdomain/zero/1.0/"
   licensename="CC Zero / Public Domain dedication"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="PH"

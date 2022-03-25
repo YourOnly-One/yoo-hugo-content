@@ -2,8 +2,8 @@
 title = "A Rare New Year's Day Blue Moon"
 description = "An hour and thirteen minutes after Aseans and China welcomes the New Year 2010, we will be treated with a rare New Year's Day Blue Moon. No, Earth's Moon w…"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-12-31T13:07:59"                                        # manually adjust to local timezone
-lastmod = "2009-12-31T13:07:59"                                        # manually adjust to local timezone
+date = "2009-12-31T13:07:59+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-12-31T13:07:59+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/12/a-rare-new-years-day-blue-moon.html"]
 slug = "rare-new-year-blue-moon"
@@ -81,13 +81,13 @@ Bonus, this is how sky will look like when New Year's Day strikes.
 
 Happy New Year to everyone!!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://3.bp.blogspot.com/-TuaNKujl8AM/XrPKpsSdVhI/AAAAAAAAhg0/jvTerpvtpMA1dNxOoE0EEhb_TGPX1vNdgCPcBGAsYHg/s1600/Sky_2010-01-01T0000%252B08.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Starchart - New Year"
   caption=""
@@ -96,7 +96,7 @@ Happy New Year to everyone!!
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

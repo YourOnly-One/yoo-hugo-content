@@ -2,8 +2,8 @@
 title = "Happy True New Year!"
 description = "March 25, 2020 is the True New Year! Happy New Year!"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-03-25T21:32:17"                          # manually adjust to local timezone
-lastmod = "2020-03-25T21:32:17"                          # manually adjust to local timezone
+date = "2020-03-25T21:32:17+08:00"                          # manually adjust to local timezone
+lastmod = "2020-03-25T21:32:17+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2020/03/happy-true-new-year.html"]
 slug = "Happy True New Year!"
@@ -58,7 +58,7 @@ For now, let's greet each other a "Happy New Year" and let it be a sign of hope.
 
 If you would like to know more about the true New Year, read: [When is the True New Year and Day]({{< ref "/20180101-when-true-new-year-day.md" >}}).
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

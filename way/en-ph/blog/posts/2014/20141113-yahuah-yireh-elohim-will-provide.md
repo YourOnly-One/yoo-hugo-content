@@ -2,8 +2,8 @@
 title = "𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "
 description = "Whenever I think about the future depression sets in. The sad reality of our society drains me: low salary and high expenses."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2014-11-13T16:30:27"                          # manually adjust to local timezone
-lastmod = "2014-11-13T16:30:27"                          # manually adjust to local timezone
+date = "2014-11-13T16:30:27+08:00"                          # manually adjust to local timezone
+lastmod = "2014-11-13T16:30:27+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2014/11/yahuah-yireh-elohim-will-provide.html"]
 slug = " 𐤉𐤄𐤅𐤄 (YAHUAH) Yireh, Elohim will Provide "
@@ -155,7 +155,7 @@ I pray you are as blessed as I am today by His revelation. Cultivate it and nurt
 
 Shalom.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -170,8 +170,8 @@ Shalom.
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 
   cc0country="Philippines"

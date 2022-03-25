@@ -2,8 +2,8 @@
 title = "Linklists Are Back"
 description = "We are bringing back linklists and blogrolls!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-19T14:14:41"                                        # manually adjust to local timezone
-lastmod = "2021-12-19T14:14:41"                                        # manually adjust to local timezone
+date = "2021-12-19T14:14:41+08:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-19T14:14:41+08:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "linklists-are-back"
@@ -54,6 +54,7 @@ A proposal, dear reader: Create a list of bookmarks linking to websites you find
 {{% /quotebox %}}
 
 ## What is a linklist or blogroll?
+
 A *linklist* or *blogroll* is a collection of recommend links a website owner or blogger collected and displays on the site's sidebar or in a dedicated page. It could be blog links of family and friends, or links to interesting websites.
 
 Back in the early days of website building and blogging, socialising and creating a network of blogs was important. It was not because of search engine optimizations (SEO)—although later it became the focus—rather it was to help each other get discovered by visitors. One day everybody were creating their blogrolls, the next day it was all gone.
@@ -63,6 +64,7 @@ Websites were no longer "socially connected". Any connection between websites tu
 That was then. Today, we are bringing it back!
 
 ## But why?
+
 Since I started migrating my blogs from *WordPress* to *Hugo*, a linklist or blogroll has always been in my ToDo list. It is a way for me to recommended websites and bloggers I find worthy of constant mention instead of finding an article to cite. It is also a recommendation for the website itself and the author as compared to linking to a single article.
 
 However, I kept on pushing it back. There are too many websites and bloggers I want to recommend, just thinking about the work in curating and maintaining the list is tiring already. Until now, I found a very good way and reason to do this in a small scale.
@@ -84,16 +86,19 @@ If we actually want these small websites to flourish as a healthy community, we 
 (If we know each other and your blog is not listed, more likely than not it was because you are ranking in searches already. I might create a separate list for family and friends in the future and I'm hoping you will recommend me back.)
 
 ## FAQ
+
 Q: Is there a penalty?
 
 : No. By adding a website in your linklist or blogroll you are endorsing it, or to put it another way, you are recommending it. `rel=nofollow` is used only for links which you can not endorse such as but is not limited to: paid links, links in comments and forums, and yes, third-party theme footer credits (be sure to update those links).
 
 : To add a link to *techmagus*:
+
   ```html
   <a href="https://im.youronly.one/techmagus/" rel="noopener external">techmagus</a>
   ```
 
 : If you want to link to my linklist:
+
   ```html
   <a href="https://im.youronly.one/p/linklist/" rel="noopener external">YourOnly.One Linklist</a>
   ```
@@ -118,12 +123,13 @@ Q: I know what `rel=nofollow` is but what are `noopener` and `external`?
 
 [^a]: MDN Web Docs: [Link types](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types)
 
-## Share yours!
+## Share yours
+
 Have you created your own curated bookmark list or blogroll? Share your link in the comments below and I will also add you in [YourOnly.One Linklist](https://im.youronly.one/p/linklist/). It is all about sharing trusted links and interlinking our linklists.
 
 Shalom!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -131,7 +137,7 @@ Shalom!
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/techmagus/u/linklist-01.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Linklist"
   caption=""
@@ -142,9 +148,9 @@ Shalom!
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="ph"

@@ -2,8 +2,8 @@
 title = "MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、GEMDASを正しく使用する方法"
 description = "演算の順序について説明しました。"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-15T10:40:35"
-lastmod = "2021-08-15T10:40:35"
+date = "2021-08-15T10:40:35+09:00"
+lastmod = "2021-08-15T10:40:35+09:00"
 
 #aliases = [""]
 slug = "How to correctly use MDAS, PEMDAS, BEDMAS, BODMAS, BIDMAS, GEMDAS"
@@ -191,7 +191,7 @@ MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASは、学生と大人�
 ## 最後の注意
 以前に提供した例は非常に単純で基本的なものでした。 MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASを正しく使用する方法、または単に***演算の順序***と混同している場合は、まだ数学を進歩させる時期ではありません。 数式でスラッシュ「/」を使用するなど、さまざまなあいまいさについては触れていません。 人生のすべてと同様に、次のレベルに進む前に、まず基本をマスターしてください。
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -211,6 +211,6 @@ MDAS、PEMDAS、BEDMAS、BODMAS、BIDMAS、およびGEMDASは、学生と大人�
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 注意：Google翻訳

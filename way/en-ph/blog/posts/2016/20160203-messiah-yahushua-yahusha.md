@@ -2,8 +2,8 @@
 title = "Messiah's name: Yahushua or Yahusha?"
 description = "Discussions about the transliteration & pronunciation of our Messiah's name יְהוֹשׁוּעַ (full) / יְהוֹשֻׁעַ (defective) abounds. Which one is accurate?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-02-03T02:13:44"                          # manually adjust to local timezone
-lastmod = "2016-02-03T02:13:44"                          # manually adjust to local timezone
+date = "2016-02-03T02:13:44+08:00"                          # manually adjust to local timezone
+lastmod = "2016-02-03T02:13:44+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/02/messiah-yahushua-yahusha.html"]
 slug = "Messiah's name: Yahushua or Yahusha?"
@@ -57,6 +57,7 @@ The Masoretic marks ("niqqud"/"vowel points") were developed to supposedly make 
 Our example is our Messiah's name: <bdo dir="rtl" lang="he">יְהוֺשֻׁעַ</bdo> becomes <bdo dir="rtl" lang="he">יהושוע</bdo>. I submit that this is the proper way to remove the niqqud, we reverse the process of how they arrived into the niqqud form. (n.b. Our Messiah's name is the same as what we know in English as "Joshua".)
 
 ## From ancient to niqqud form
+
 <ol class="custom_liststyle circles-list">
   <li>His name was originally written in "full spelling" in Paleo-Hebrew: <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤅𐤏</bdo></li>
   <li>Later, they figured they can drop one character/glyph *without* changing the pronunciation, this is called "defective spelling": <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤔𐤏</bdo></li>
@@ -77,6 +78,7 @@ Our example is our Messiah's name: <bdo dir="rtl" lang="he">יְהוֺשֻׁעַ
 The purpose of the niqqud or vowel markers were simply to guide a person in pronunciation.
 
 ## Modern Hebrew
+
 The Hebrew language that we know today has dropped the use of niqqud in favor of the "full spelling" of the words. Instead of using vowel markers, they now use a real character/glyph to represent the vowel sounds. The same way as it was before the vowel marker system was invented.
 
 However, people's names stay as-is but without any niqqud. Example, if your name was written in defective spelling, it stays the same but without any vowel markers. But again, the pronunciation stays the same.
@@ -92,7 +94,9 @@ For children, who are obviously not masters of the Hebrew language yet, they use
 If you have mastered the Hebrew language and your knowledge is vast about the rules, grammar, and vocabulary, you no longer need the vowel markers. You know the correct pronunciation of "defective spelling" words/names without any niqqud, and you know what a "full" and "defective" spelling is about.
 
 ## Let's break it down
+
 ### Full spelling: <bdo class="font-Hebr-modern" dir="rtl" lang="he">יְהוֺשׁוּעַ</bdo> / <bdo class="font-Hebr-modern" dir="rtl" lang="he">יהושוע</bdo>
+
 <ul class="custom_liststyle checkmark-heavy list-green">
   <li><bdo dir="rtl" lang="he">יְ</bdo> - yah (yad with the sheva niqqud)</li>
   <li><bdo dir="rtl" lang="he">ה</bdo> - h (hey)</li>
@@ -103,6 +107,7 @@ If you have mastered the Hebrew language and your knowledge is vast about the ru
 </ul>
 
 ### Defective spelling: <bdo class="font-Hebr-modern" dir="rtl" lang="he">יְהוֺשֻׁעַ</bdo> / <bdo class="font-Hebr-modern" dir="rtl" lang="he">יהושע</bdo>
+
 <ul class="custom_liststyle checkmark-heavy list-green">
   <li><bdo dir="rtl" lang="he">יְ</bdo> - yah (yad with a sheva niqqud)</li>
   <li><bdo dir="rtl" lang="he">ה</bdo> - h (hey)</li>
@@ -137,12 +142,13 @@ Both spellings (defective and full) are pronounced and understood as:
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}
 
 ## How about the transliteration?
+
 Personally, to help in educating our brethren about the proper pronunciation of Hebrew words and names, we should transliterate based on the actual, original pronunciation, which is called "phonemic transcription/orthography". In our example, our Messiah's name should be written as "Yahushua". However, if you prefer to use "Yehoshua", "Yehushua", "Yahusha", "Yehusha", "Yeshua", "Yesu"/"Yeshu" (Chinese), I *personally* do not see anything wrong with it, as long as you pronounce it as "yah-hu-shua" because that is how it is pronounced in Hebrew.
 
 If you are not familiar with transliteration, especially if you are not an Asian or had no need to transliterate Asian languages and writing scripts, there are different paths in arriving to a transliteration of a name or word. "Phonemic transcription/orthography", as mentioned earlier, is one of these.
@@ -173,6 +179,7 @@ If you think that it is a disrespect to write His name's transliteration "wrong"
 <hr />
 
 ## Disclaimer
+
 <ul class="custom_liststyle omark-black list-magenta">
   <li>This is not an academic paper and should not be treated as such.</li>
   <li>This is my record of my personal journey in my faith as a Natsari/Messianic, sharing it hopefully to help our brethren.</li>
@@ -185,7 +192,7 @@ I hope with the disclaimers above, there will be no attempts to spark debates. Y
 
 <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (Yahuah) bless you, my brothers and sisters.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -200,7 +207,7 @@ I hope with the disclaimers above, there will be no attempts to spark debates. Y
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="CC-BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}

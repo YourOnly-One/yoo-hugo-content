@@ -2,8 +2,8 @@
 title = "Blogroll이 돌아왔습니다"
 description = "링크 목록과 블로그 롤을 다시 가져옵니다!"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-19T15:14:41"                                        # manually adjust to local timezone
-lastmod = "2021-12-19T15:14:41"                                        # manually adjust to local timezone
+date = "2021-12-19T15:14:41+09:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-19T15:14:41+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "linklists-are-back"
@@ -54,6 +54,7 @@ A proposal, dear reader: Create a list of bookmarks linking to websites you find
 {{% /quotebox %}}
 
 ## 링크 목록 또는 블로그 롤이란 무엇입니까?
+
 *linklist* 또는 *blogroll*은 웹사이트 소유자 또는 블로거가 수집하여 사이트의 사이드바 또는 전용 페이지에 표시하는 추천 링크 모음입니다. 가족 및 친구의 블로그 링크 또는 흥미로운 웹 사이트에 대한 링크가 될 수 있습니다.
 
 웹사이트 구축 및 블로깅의 초기에는 블로그 네트워크를 만들고 소셜화하는 것이 중요했습니다. 나중에 초점이 되었지만 검색 엔진 최적화(SEO) 때문이 아니라 방문자가 서로를 찾을 수 있도록 돕기 위한 것이었습니다. 어느 날 모든 사람들이 블로그롤을 만들고 있었는데 다음 날 모든 것이 사라졌습니다.
@@ -63,6 +64,7 @@ A proposal, dear reader: Create a list of bookmarks linking to websites you find
 그때였다. 오늘, 우리는 그것을 다시 가져옵니다!
 
 ## 하지만 왜?
+
 내 블로그를 *WordPress*에서 *Hugo*로 마이그레이션하기 시작한 이후로 linklist 또는 blogroll은 항상 내 ToDo 목록에 있었습니다. 인용할 기사를 찾는 대신 지속적으로 언급할 가치가 있는 추천 웹사이트와 블로거를 추천하는 방법입니다. 또한 단일 기사에 링크하는 것과 비교하여 웹 사이트 자체 및 작성자에 대한 권장 사항입니다.
 
 하지만, 나는 계속 그것을 뒤로 밀었다. 추천하고 싶은 웹사이트와 블로거가 너무 많아서 목록을 선별하고 유지하는 작업을 생각하는 것만으로도 이미 피곤합니다. 지금까지 소규모로 이것을 하는 아주 좋은 방법과 이유를 찾았습니다.
@@ -84,16 +86,19 @@ If we actually want these small websites to flourish as a healthy community, we 
 (만약 우리가 서로를 알고 있고 당신의 블로그가 목록에 없다면 당신이 이미 검색 순위에 있기 때문일 가능성이 큽니다. 나는 나중에 가족과 친구를 위한 별도의 목록을 만들 수 있고 당신이 나를 다시 추천해주기를 바랍니다.)
 
 ## 자주하는 질문
+
 질문: 패널티가 있습니까?
 
 : 아니요. 링크 목록이나 블로그 롤에 웹 사이트를 추가하면 웹 사이트를 보증하거나 다른 방식으로 추천하는 것입니다. `rel=nofollow`는 유료 링크, 댓글 및 포럼의 링크, 예, 타사 테마 바닥글 크레딧(해당 링크를 업데이트해야 함)과 같이 보증할 수 없는 링크에만 사용됩니다.
 
 : *테크 마구스*에 대한 링크를 추가하려면:
+
   ```html
   <a href="https://im.youronly.one/techmagus/ko/" rel="noopener external">테크 마구스</a>
   ```
 
 : 내 블로그 롤에 연결하려면:
+
   ```html
   <a href="https://im.youronly.one/p/linklist/" rel="noopener external">YourOnly.One 블로그롤</a>
   ```
@@ -118,12 +123,13 @@ If we actually want these small websites to flourish as a healthy community, we 
 
 [^a]: MDN Web Docs: [Link types](https://developer.mozilla.org/ko/docs/Web/HTML/Link_types)
 
-## 당신의 공유!
+## 당신의 공유
+
 나만의 선별된 책갈피 목록이나 블로그롤을 만드셨습니까? 아래 댓글에 링크를 공유해 주시면 [YourOnly.One 블로그롤](https://im.youronly.one/p/linklist/)에도 추가하겠습니다. 신뢰할 수 있는 링크를 공유하고 링크 목록을 서로 연결하는 것입니다.
 
 샬롬!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -131,7 +137,7 @@ If we actually want these small websites to flourish as a healthy community, we 
   isrepresentativeofpage=true
 
   link="https://img.youronly.one/p/techmagus/u/linklist-01.png"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Linklist"
   caption=""
@@ -142,15 +148,15 @@ If we actually want these small websites to flourish as a healthy community, we 
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   cc0country="Philippines"
   cc0countrycode="ph"
   cc0countryurl="https://en.wikipedia.org/wiki/Philippines"
 >}}
 
--------
+---
 
 고시 : Google 번역

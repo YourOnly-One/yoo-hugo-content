@@ -2,8 +2,8 @@
 title = "자유 문화는 저작권에 반하는가?"
 description = "자유 문화, 크리에이티브 커먼즈, 오픈 액세스는 저작권법에 위배됩니까?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-16T10:21:27"                                        # manually adjust to local timezone
-lastmod = "2021-12-16T10:21:27"                                        # manually adjust to local timezone
+date = "2021-12-16T10:21:27+09:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-16T10:21:27+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "free-culture-anti-copyright"
@@ -52,16 +52,19 @@ type = "article"                                                           # art
 하지만 먼저 …
 
 ## 저작권이란 무엇입니까?
+
 **저작권**은 일반적으로 제한된 시간 동안 창작물을 복사하고 배포할 수 있는 독점적 권리를 소유자에게 부여하는 일종의 지적 재산입니다. 창작물은 문학, 예술, 교육 또는 음악 형식일 수 있습니다. 저작권은 창작물 형태의 아이디어의 원래 표현을 보호하기 위한 것이지 아이디어 자체를 보호하는 것은 아닙니다.[^a]
 
 [^a]: Wikipedia: [Copyright](https://en.wikipedia.org/wiki/Copyright)
 
 ## 소수의 저작권 남용
+
 믿거 나 말거나 저작권법은 오늘날까지 소유자에 의해 드물게, 그룹에 의해 더 자주 남용되고 있습니다. 저널에 연구 논문을 게재하는 것이 좋은 예입니다. 연구에 자금을 지원한 기관에서 제공한 자금을 회수하기 위해 연구원은 모든 사람에게 얼마나 유용한지에 관계없이 유료 또는 유료로 논문을 게시할 의무가 있습니다. 동시에 평판이 좋은 저널은 계속 운영하기 위해(그리고 평판이 좋은가?) 돈을 벌어야 하므로 엄청난 비용을 지불해야 합니다.
 
 이것들은 모두 어느 정도 괜찮고 관행 자체가 잘못된 것은 아닙니다. 실제로 저작권법은 *경제적 권리*와 *저작인격권*이라는 두 가지 권리를 보호하며 이는 전자에 해당합니다.
 
 ### 경제적 권리란 무엇입니까?
+
 어떤 종류의 재산이든 소유자는 사용 방법을 결정할 수 있으며 다른 사람들은 종종 라이센스를 통해 소유자의 허가가 있는 경우에만 합법적으로 사용할 수 있습니다. 그러나 소유자의 재산 사용은 법적으로 인정된 사회 구성원의 권리와 이익을 존중해야 합니다. 따라서 저작권으로 보호되는 저작물의 소유자는 저작물의 사용 방법을 결정할 수 있으며 다른 사람이 무단으로 사용하는 것을 방지할 수 있습니다.[^b]
 
 [^b]: Wikipedia: [Copyright: Economic rights](https://en.wikipedia.org/wiki/Copyright#Economic_rights)
@@ -77,6 +80,7 @@ Open access is a broad international movement that seeks to grant free and open 
 참조: [COVID-19는 오픈 액세스의 가치를 보여줍니다](https://crln.acrl.org/index.php/crlnews/article/view/24414/32251).
 
 ## 다수의 저작권 사용
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 많은 사람들이 자신의 이익을 위해 저작권을 남용하고 있지만 자유 문화 옹호자들은 모든 사람의 이익을 위해 저작권을 악용합니다.
 {{% /quotebox %}}
@@ -90,6 +94,7 @@ Open access is a broad international movement that seeks to grant free and open 
 앞의 예에서 저작권은 연구 논문에 액세스할 수 있도록 하는 데 사용됩니다. 반드시 연구 논문이 무료로 제공되었다는 의미는 아닙니다. *Open Access* 프로그램에서는 일반적으로 *크리에이티브 커먼즈* 에서 공개적으로 사용할 수 있는 연구 논문을 얻기 위해 비용을 지불하는 그룹이나 개인이 있습니다. 라이센스. 이를 통해 자금 지원 여부, 부자 또는 학생에 관계없이 모든 사람이 연구 데이터에 액세스할 수 있습니다.
 
 ## 우리는 저작권법에 반대합니까?
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 *자유롭고 개방적이며 공유하는 문화*가 작품이 무료라는 의미는 아니며 누구도 그들의 노력 및/또는 출판 비용에 대한 대가를 받지 않아야 합니다.
 {{% /quotebox %}}
@@ -107,11 +112,12 @@ Open access is a broad international movement that seeks to grant free and open 
 모든 것을 고려하면 우리는 반저작권이지만 소수의 이익을 위해 저작권법이 남용되고 있기 때문입니다. 이에 대한 응답으로 자유 문화 옹호자들은 저작권을 모든 사람의 이익을 위해 사용하여 창의성, 개발 및 글로벌 문화와 사회를 발전시키기 위해 노력하고 있습니다. 우리는 또한 저작권 침해를 지지하고 있습니까? 확실히! 설명했듯이 저작권을 사용하여 모든 사람에게 유익하고 우리 사회의 모든 측면에서 성장을 촉진하는 *무료, 개방 및 공유 커뮤니티*를 추진할 수 있습니다. 그것이 ***자유 문화***의 모든 것입니다.
 
 ## 마지막 예
+
 본 자료는 ***[크리에이티브 커먼즈 저작자표시-동일조건변경허락 4.0 국제 라이선스](https://creativecommons.org/licenses/by-sa/4.0/)*** 하에 있습니다. 이는 [1] 저작자 표시(BY)가 부여되는 한 파생 작업을 만들고, 재출판하고, 상업적인 목적으로도 재배포할 수 있는 권리를 누구에게나 부여했음을 의미합니다. [2] 귀하의 파생물에 대한 라이선스도 동일한 라이선스(ShareAlike) 하에 있습니다. [3] 상기 라이선스에 따른 기타 모든 요구 사항을 준수합니다.
 
 달리 말하면, 누구든지 내 허락 없이 이 기사를 번역하고, 자신의 블로그에 다시 게시하거나, 다음 유료 전자책에 포함하거나, 이 작업을 페이월 뒤에 넣을 수 있습니다. ***[CC-BY-SA 4.0 국제 라이선스](https:// creativecommons.org/licenses/by-sa/4.0/)***.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -181,6 +187,6 @@ Open access is a broad international movement that seeks to grant free and open 
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

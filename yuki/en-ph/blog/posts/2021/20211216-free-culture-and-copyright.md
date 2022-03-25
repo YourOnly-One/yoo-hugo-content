@@ -2,8 +2,8 @@
 title = "Is Free Culture Anti-Copyright"
 description = "Is Free Culture, Creative Commons, Open Access, Open Knowledge, Libre Content, and related labels, promoting anti-Copyright?"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-16T09:21:27"                                        # manually adjust to local timezone
-lastmod = "2021-12-16T09:21:27"                                        # manually adjust to local timezone
+date = "2021-12-16T09:21:27+08:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-16T09:21:27+08:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "free-culture-anti-copyright"
@@ -52,16 +52,19 @@ Are advocates of ***Free Culture***, ***Creative Commons***, ***Open Knowledge**
 But first …
 
 ## What is Copyright?
+
 **Copyright** is a type of intellectual property that gives its owner the exclusive right to copy and distribute a creative work, usually for a limited time. The creative work may be in a literary, artistic, educational, or musical form. Copyright is intended to protect the original expression of an idea in the form of a creative work but not the idea itself.[^a]
 
 [^a]: Wikipedia: [Copyright](https://en.wikipedia.org/wiki/Copyright)
 
 ## Abuse of Copyright for the few
+
 Believe it or not, the Copyright Law is being abused to this very day, rarely by the owners and more often by groups. A good example is in the publication of research papers in Journals. The desire to recuperate the funding given by the institutions who funded a research, the researchers are obligated to publish their papers behind a paywall, or for a fee, regardless of how useful it can be for everyone. At the same time, reputable Journals also need to earn to keep them running (and reputable?) so they have extravagant fees.
 
 These are all fine to an extent, the practice itself is not wrong. In fact, the Copyright Law does protect two Rights: *Economic Rights* and *Moral Rights*, and this falls under the former.
 
 ### What is Economic Rights?
+
 With any kind of property, its owner may decide how it is to be used, and others can use it lawfully only if they have the owner's permission, often through a license. The owner's use of the property must, however, respect the legally recognised rights and interests of other members of society. So the owner of a copyright-protected work may decide how to use the work, and may prevent others from using it without permission.[^b]
 
 [^b]: Wikipedia: [Copyright: Economic rights](https://en.wikipedia.org/wiki/Copyright#Economic_rights)
@@ -77,6 +80,7 @@ Open access is a broad international movement that seeks to grant free and open 
 See also: [COVID-19 demonstrates the value of open access](https://crln.acrl.org/index.php/crlnews/article/view/24414/32251).
 
 ## Use of Copyright for the many
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 While many are abusing Copyright for their own benefit, Free Culture advocates exploit it for everyone's gain.
 {{% /quotebox %}}
@@ -90,6 +94,7 @@ While many are abusing Copyright for their own benefit, Free Culture advocates e
 In our earlier example, Copyright is used to ensure that research papers are accessible. It does not necessarily mean the research papers were made available free-of-charge, under the *Open Access* program there usually is still a group or an individual who pays for the fees to get a research paper available publicly under a *Creative Commons* license. This ensures that everyone have access to the research data, no matter if they were funded or not, wealthy or a student.
 
 ## Anti-Copyright?
+
 {{% quotebox boxstyle="qbs_generic" qmarkstyle="qbm_doublequotationmark" boxcolour="qbc_indigodye" attribalign="txt_right" srctitle="" srclink="" srcrel="me noopener" attribto="" attriblink="" attribrel="me noopener" %}}
 *A free, open, and sharing culture* does not mean works are free-of-charge and no one should get paid for their hard work and/or the cost of publication.
 {{% /quotebox %}}
@@ -107,11 +112,12 @@ If there was already a Copyright Law during the time of William Shakespeare, the
 All things considered, maybe we are anti-Copyright but it was because the Copyright Law is being abused for the benefit of the few. In response, advocates of Free Culture are using Copyright for everyone's gain, to push creativity, development, and our global culture and society forward. Are we also endorsing Copyright infringement? Certainly not! As was explained, we can use Copyright to push for *a free, open, and sharing community* which is beneficial for everyone and promotes growth in all aspects of our society. That is what ***Free Culture*** is all about.
 
 ## One final example
+
 This material is under a ***[Creative Commons Attribution-ShareAlike (CC-BY-SA) 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)***. It means  I have granted the Rights to create a derivative work, re-publish, re-distribute, even for commercial purposes, to anyone for as long as [1] Attribution (BY) is given; [2] the license of your derivative work is also under the same license (ShareAlike); and [3] all other requirements under the said license are followed.
 
 To put it another way, anyone can make translations of this article, re-post it in their own blogs, include it in your next paid e-Book, or put this work behind a paywall, without asking for my permission. It is not stealing and it is not Copyright infringement because I have granted you the Rights to do so for as long as you do not violate the conditions of the ***[CC-BY-SA 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)***.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

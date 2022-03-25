@@ -2,8 +2,8 @@
 title = "[Event] 5 Years of Firefox in Manila"
 description = "An event report on the recently held 5 Years of Firefox in Manila celebration, organized by Mozilla Philippines headed by Regnard Raquedan."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2009-11-23T22:59:59"                                        # manually adjust to local timezone
-lastmod = "2009-11-23T22:59:59"                                        # manually adjust to local timezone
+date = "2009-11-23T22:59:59+08:00"                                        # manually adjust to local timezone
+lastmod = "2009-11-23T22:59:59+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2009/11/event-5-years-of-firefox-in-manila.html"]
 slug = "five-years-firefox-manila"
@@ -54,8 +54,8 @@ What is <i>Web2Mobile</i>?  It is a Filipino-developed Firefox browser extension
 
 This is how Olive Ruth Dag and J. Allen Santos, the UP students who developed the extension for the Globe Labs Summer of Code program made it stand-out:
 
-* Highlight any text on any website, right-click, and then hit 'Send'.  No need to copy and paste or re-typing everything
-* You can also send any images, be it a photo or any graphics from any website.  Right-click on the image and simply hit 'Send'
+- Highlight any text on any website, right-click, and then hit 'Send'.  No need to copy and paste or re-typing everything
+- You can also send any images, be it a photo or any graphics from any website.  Right-click on the image and simply hit 'Send'
 
 After the Globe presentation (good thing there was no Q&amp;A session, I would have drilled the presenters with questions about their service), what followed was the raffle.  For the first time I won - being unlucky with raffles…  I got a Firefox ID lace, now two, which I'll proudly use and keep.
 
@@ -82,10 +82,9 @@ After the Globe presentation (good thing there was no Q&amp;A session, I would h
   <figcaption class="attribution_copyright txt_center">
     <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
       <small>"5 Years of Firefox in Manila" by <a href="https://iam.youronly.one" rel="dct:creator noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">Yahuhanan Yukia Sese Cuneta</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">CC BY-SA 4.0 International</a>.</small>
-    
+
   </figcaption>
 </figure>
-
 
 It is good to be part of <i>Free/Libre Open-Source Software</i> (FLOSS/FOSS) communities.  We may not be able to give back code or donate but through these events and communities, we are giving back something even though it is as small as showing our support by being simply being present and spreading the word.
 
@@ -94,15 +93,16 @@ Congratulations to the organizers of <i>Five Years of Firefox in Manila</i> and 
 <a href="https://www.facebook.com/media/set/?vanity=snoworld&set=a.186789282150" target="_blank" rel="noopener">Photo gallery on Facebook.</a>
 
 Bloggers who attended:
-* <a href="https://www.jlapitan.com/2009/11/24/five-years-of-firefox-in-manila/" target="_blank" rel="noopener">Joell Lapitan</a>
-* <a href="https://baratillo.net/" target="_blank" rel="noopener">Juned Sonido</a>
-* <a href="https://herestolife.wordpress.com/" target="_blank" rel="noopener">Jane Uymatiao</a>
-* <a href="https://rochellesychua.com/" target="_blank" rel="noopener">Rochelle Sy Chua</a>
-* <a href="https://stellify.net/" target="_blank" rel="noopener">Ia Lucero</a>
-* <a href="https://vaes9.codedgraphic.com" target="_blank" rel="noopener">Eugene Alvin Villar</a>
-* <a href="https://synthesistblog.com/mozilla-firefox-turns-five-137-0/" target="_blank" rel="noopener">Marvin Beduya</a>
-* <a href="https://jpmanahan.multiply.com/journal" target="_blank" rel="noopener">JP Manahan</a>
-* <a href="https://webstandards.raquedan.com" target="_blank" rel="noopener">Regnard Raquedan</a> (organizer)
+
+- <a href="https://www.jlapitan.com/2009/11/24/five-years-of-firefox-in-manila/" target="_blank" rel="noopener">Joell Lapitan</a>
+- <a href="https://baratillo.net/" target="_blank" rel="noopener">Juned Sonido</a>
+- <a href="https://herestolife.wordpress.com/" target="_blank" rel="noopener">Jane Uymatiao</a>
+- <a href="https://rochellesychua.com/" target="_blank" rel="noopener">Rochelle Sy Chua</a>
+- <a href="https://stellify.net/" target="_blank" rel="noopener">Ia Lucero</a>
+- <a href="https://vaes9.codedgraphic.com" target="_blank" rel="noopener">Eugene Alvin Villar</a>
+- <a href="https://synthesistblog.com/mozilla-firefox-turns-five-137-0/" target="_blank" rel="noopener">Marvin Beduya</a>
+- <a href="https://jpmanahan.multiply.com/journal" target="_blank" rel="noopener">JP Manahan</a>
+- <a href="https://webstandards.raquedan.com" target="_blank" rel="noopener">Regnard Raquedan</a> (organizer)
 
 Give <i>Web2Mobile</i> a try: <a href="https://web.archive.org/web/20100318004319/https://www.globelabs.com.ph:80/blogs/pages/BlogWithComments.aspx?Pid=70" target="_blank" rel="noopener">Download the add-on here</a>.
 
@@ -114,7 +114,7 @@ Visit the official community website at <a href="https://www.mozillaphilippines.
   type="imagecoverattrib"
 
   link="https://2.bp.blogspot.com/-FqcULxVAeVc/Xqw8QKoJPQI/AAAAAAAAhco/EwiHWyDi3yQTyzVQic9ssVYQFqF6F3EIACPcBGAsYHg/s1600/DSC00204.JPG"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="5 Years of Firefox in Manila"
   caption=""
@@ -123,7 +123,7 @@ Visit the official community website at <a href="https://www.mozillaphilippines.
   licenseurl=https://creativecommons.org/licenses/by-sa/4.0/""
   licensename="CC BY-SA 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}

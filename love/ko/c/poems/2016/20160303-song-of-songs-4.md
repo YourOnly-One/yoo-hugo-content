@@ -2,8 +2,8 @@
 title = "아가 4"
 description = "솔로몬 왕의 편지" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-03-03T22:48:15"
-lastmod = "2016-03-03T22:48:15"
+date = "2016-03-03T22:48:15+09:00"
+lastmod = "2016-03-03T22:48:15+09:00"
 
 #aliases = [""]
 slug = "Song of Songs 4"
@@ -81,7 +81,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 <sup>15</sup> 너는 동산의 샘이요, 생수의 우물이요, 레바논에서부터 흐르는 시내로구나
 {{% /quotebox %}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -101,6 +101,6 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   attribrel="noopener external nofollow"
 >}}
 
--------
+---
 
 고시 : Google 번역

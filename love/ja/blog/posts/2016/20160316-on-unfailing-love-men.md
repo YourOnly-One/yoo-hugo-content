@@ -2,8 +2,8 @@
 title = "[画像]絶え間ない愛と男性について"
 description = "箴言 知恵の泉 20:6-7"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-03-16T02:22:39"
-lastmod = "2016-03-16T02:22:39"
+date = "2016-03-16T02:22:39+09:00"
+lastmod = "2016-03-16T02:22:39+09:00"
 
 #aliases = [""]
 slug = "On Unfailing Love and Men"
@@ -55,13 +55,13 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 正直に生きることを教わることです。
 {{% /quotebox %}}
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
 
   link="https://1.bp.blogspot.com/-4gbLtTlCzrE/VuluWGFlOrI/AAAAAAAARIk/cepTCm7K574yjhHWjDUPq0qJxSmvMfIoQ/s1600/On_Unfailing_Love_of_Men-License_CC0.jpg"
-  linkrel="me noopener external"
+  linkrel="noopener"
 
   title="On Unfailing Love and Men"
   caption=""
@@ -70,11 +70,11 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
   licenseurl=""
   licensename=""
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener external"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 >}}
 
--------
+---
 
 注意：Google翻訳

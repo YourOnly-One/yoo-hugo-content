@@ -2,8 +2,8 @@
 title = "How to Create a Keybase Account"
 description = "Creating a Keybase account is simple but there is one step most users are skipping …"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2020-06-08T08:53:42"                                        # manually adjust to local timezone
-lastmod = "2020-06-08T08:53:42"                                        # manually adjust to local timezone
+date = "2020-06-08T08:53:42+08:00"                                        # manually adjust to local timezone
+lastmod = "2020-06-08T08:53:42+08:00"                                        # manually adjust to local timezone
 
 aliases = ["/2020/06/create-keybase-account.html"]
 slug = "create-keybase"
@@ -51,6 +51,7 @@ There are various software, apps, services, available which offers one, two, or 
 <!--more-->
 
 ## What is Keybase?
+
 To put it simply, <b>Keybase</b> is a tool which makes it easier for regular users to do encryption and signing. <q cite="https://book.keybase.io">Private stuff stays private. Accounts are secure against spoofing, phishing, and scamming.</q> It also helps in establishing which online accounts are officially owned by a Keybase user, effectively nullifying online attacks through impersonation.
 
 <figure class="quote_box qbs_generic qbc_lime">
@@ -82,7 +83,8 @@ To put it simply, <b>Keybase</b> is a tool which makes it easier for regular use
 
 In other words, every person who takes their freedom, anonymity, privacy, &amp; security very seriously must have a Keybase account.
 
-## Let's get you started with Keybase!
+## Let's get you started with Keybase
+
 The first thing to understand is registration through a web browser is not possible by design and for security reasons. New users must download Keybase which is available in GNU/Linux, Android, iOS, and Windows: <a href="https://keybase.io/download" rel="noopener external nofollow" referrerpolicy="strict-origin-when-cross-origin">download Keybase here</a>.
 
 <small>* We're using Keybase for Android below, the process is the same regardless of platform.</small>
@@ -108,9 +110,11 @@ The first thing to understand is registration through a web browser is not possi
 Congratulations! You have successfully created a Keybase account and have taken your first step in establishing a way for others to prove your online identity beyond any reasonable doubt as well as to chat, share files, collaborate with your team, with a peace of mind everything is automatically end-to-end encrypted and signed.
 
 ## Create a "Paper Key" for recovery
+
 Establishing a way for others to prove our online identity, chat with family &amp; friends, and collaborate with teams, would be practically useless if we later can not login our account. In Keybase, each [re]-installation is considered a "new device" regardless if it was exactly the same device used.
 
 ### What is a "device"?
+
 A "device" in Keybase is simply an access point or a "device" where an account is logged-in.
 
 Registering each devices creates another security layer, if a phone was stolen one can simply "Revoke" the device. If for some reason the account was not automatically logged-out, any actions made from the "Revoked" device is automatically invalid.
@@ -148,6 +152,7 @@ Let's create a new <i>paper key</i>.
 </ol>
 
 ### What is a "Paper Key" for?
+
 A Keybase <i>paper key</i> is technically a "device". It's main purpose is to give the account owner a way to confirm a "new device" if a registered literal device is not or no longer available.
 
 Many new Keybase users skip this step, uninstalls Keybase, and later can no longer login because they are stuck in the "new device" process. Without an existing device logged-in to Keybase you can not confirm a "new device". A <i>paper key</i> acts as an "existing device" to approve a "new device". The used paper key can be optionally revoked and a new one created (a very good practice); or create a new paper key every three months (an even better practice).
@@ -161,10 +166,9 @@ Many new Keybase users skip this step, uninstalls Keybase, and later can no long
 
 There is another way to recover a Keybase account if a paper key is not available. The catch with this method is your Keybase account will be reset back to start, all confirmed online accounts, domain names, devices, teams, followers, following, will be removed; it is as if you created a new account. The reason behind this is if you no longer have access to any of your "devices" (including your paper keys if you created any), then it is assumed all of your devices were lost and/or compromised.
 
-
 Welcome to Keybase! Before you start exploring Keybase, noticed how you were not asked to enter a password/passphrase? It is only used if you want to login via a web browser—which is not advisable—and if you prefer to auto-logout when you close the Keybase app (an added security; if you reinstalled Keybase it will be considered a "new device"). We will discuss this another day.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

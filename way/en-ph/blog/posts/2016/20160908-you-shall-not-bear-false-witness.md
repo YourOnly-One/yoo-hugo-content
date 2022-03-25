@@ -2,8 +2,8 @@
 title = "The 9th: You Shall Not Bear False Witness"
 description = "What is bearing false witness against our neighbor? Is it only applicable during times of court and interrogation witnessing, or it is applicable daily?"  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-08T12:14:42"                          # manually adjust to local timezone
-lastmod = "2016-09-08T12:14:42"                          # manually adjust to local timezone
+date = "2016-09-08T12:14:42+08:00"                          # manually adjust to local timezone
+lastmod = "2016-09-08T12:14:42+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/the-9th-commandment.html"]
 slug = "The 9th: You Shall Not Bear False Witness"
@@ -63,8 +63,9 @@ Today, we meditate on the 9<sup>th</sup> commandment, let us think of those mome
 
 Shalom my brethren!
 
--------
+---
 
+<!-- markdownlint-disable -->
 {{< image
   type="imagecoverattrib"
 
@@ -82,3 +83,4 @@ Shalom my brethren!
   attriburl="https://en.wikipedia.org/wiki/Raphael"
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->

@@ -2,8 +2,8 @@
 title = "Feast of Trumpets"
 description = "Today is 7th New Moon Day of the year 6003 Since Creation / Scriptural Calendar reckoning. It means today is also the Feast of Trumpets."  # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-09-02T12:45:07"                          # manually adjust to local timezone
-lastmod = "2016-09-02T12:45:07"                          # manually adjust to local timezone
+date = "2016-09-02T12:45:07+08:00"                          # manually adjust to local timezone
+lastmod = "2016-09-02T12:45:07+08:00"                          # manually adjust to local timezone
 
 aliases = ["/2016/09/feast-trumpets-6003.html"]
 slug = "Feast of Trumpets"
@@ -73,6 +73,7 @@ There is no better way to do it but by studying, absorbing, and embracing the Te
 {{% /quotebox %}}
 
 ## Meditation
+
 How did we live for the past days, weeks, and months? Were we aware that He brought us out of bondage? Out of darkness and into his marvelous light? Or have we forgotten it and lived like our old selves? That <bdo dir="rtl" lang="hbo-Hebr">𐤉𐤄𐤅𐤄</bdo> (YAHUAH/YAHUWAH) is our **one and only** Aluah/Eloah?
 
 How about graven images? It does not have to be an idol of some god. It could be a person at home or in the office that we glorified and idolised. Or during the election campaign period, we championed someone and put him high above the rest. Are we guilty of breaking the this commandment?
@@ -85,7 +86,7 @@ In these first three commandments, where do we stand? Are we guilty of violating
 
 Shalom, my brethren.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"

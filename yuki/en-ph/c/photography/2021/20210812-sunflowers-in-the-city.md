@@ -2,8 +2,8 @@
 title = "Sunflowers in the City"
 description = "Photos I took of the Sunflowers in Makati, Philippines"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-08-12T08:21:02"
-lastmod = "2021-08-12T08:21:02"
+date = "2021-08-12T08:21:02+08:00"
+lastmod = "2021-08-12T08:21:02+08:00"
 
 aliases = ["/c/photography/sunflowers-in-the-city-2021224"]       # Permanent, old share links
 slug = "Sunflowers in the City"
@@ -50,19 +50,23 @@ These were the photos I took while testing the camera that came with Nokia 3. Th
 These photos are now under a Creative Commons Attribution-ShareAlike 4.0 International license as of today, 2018-08-12.
 
 ## Like in Instagram
+
 {{< instagram CSachaHhDP- hidecaption >}}
 
 Do not forget to follow me in Instagram!
 
 ## What is a Sunflower?
+
 Sunflower is the common name given to the *Helianthus* genus of flowers. It has more or less 70 species. The sunflowers in my photos are more likely from the *Helianthus annuus* species, the species that is commonly referred to by the name "sunflower" and "common sunflower" by everyone.
 
 ### Trivia: Do sunflower heads track the Sun across the sky?
+
 A common misconception is that flowering sunflower heads track the Sun across the sky. Although immature flower buds exhibit this behaviour, the mature flowering heads point in a fixed (and typically easterly) direction throughout the day. This old misconception was disputed in 1597 by the English botanist John Gerard, who grew sunflowers in his famous herbal garden: "[some] have reported it to turn with the Sun, the which I could never observe, although I have endeavored to find out the truth of it." The uniform alignment of sunflower heads in a field might give some people the false impression that the flowers are tracking the Sun.[^a] When I took these photos, I definitely observed the sunflowers facing Eastward when it was 15:00 in the afternoon.
 
 [^a]: Wikipedia: [Heliotropism in *Helianthus annuus*](https://en.wikipedia.org/wiki/Helianthus_annuus#Heliotropism_in_Helianthus_annuus); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## Higher resolution
+
 {{< image
   type="image"
 
@@ -71,7 +75,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
 
   src="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
   link="https://img.youronly.one/works/Sunflower_in_the_City-01-Nokia3_macro-20180409_150333-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Sunflower in the City"
   caption=""
@@ -83,9 +87,9 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Makati City, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Glorietta"
@@ -102,7 +106,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
 
   src="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
   link="https://img.youronly.one/works/Sunflower_in_the_City-02-Nokia3_macro-20180409_150415-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Sunflower in the City"
   caption=""
@@ -114,9 +118,9 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Makati City, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Glorietta"
@@ -133,7 +137,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
 
   src="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
   link="https://img.youronly.one/works/Sunflower_in_the_City-03-Nokia3_macro-20180409_150647-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Sunflower in the City"
   caption=""
@@ -145,9 +149,9 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Makati City, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Glorietta"
@@ -164,7 +168,7 @@ A common misconception is that flowering sunflower heads track the Sun across th
 
   src="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
   link="https://img.youronly.one/works/Sunflower_in_the_City-04-Nokia3_macro-20180409_150833-s.webp"
-  linkrel="me noopener"
+  linkrel="noopener"
 
   title="Sunflower in the City"
   caption=""
@@ -176,9 +180,9 @@ A common misconception is that flowering sunflower heads track the Sun across th
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
-  attribrel="me noopener"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
+  attribrel="noopener"
 
   contentloc="Makati City, Philippines"
   contentlocurl="https://en.wikipedia.org/wiki/Glorietta"
@@ -188,11 +192,12 @@ A common misconception is that flowering sunflower heads track the Sun across th
 >}}
 
 ## Attribution, Usage, &amp; Leave your links
+
 Simply follow the attribution shown underneath each photo, or whichever is acceptable within the bounds of CC-BY-SA 4.0 International license. In addition to that, I would also appreciate if you leave your links below or in Instagram, who knows, I might mention your site (and usage) one day.
 
 Enjoy and Shalom!
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
@@ -207,7 +212,7 @@ Enjoy and Shalom!
   licenseurl="https://creativecommons.org/licenses/by-sa/4.0/"
   licensename="Creative Commons Attribution-ShareAlike 4.0 International"
 
-  attribto="YourOnly.One"
-  attriburl="https://youronly.one"
+  attribto="I'M YourOnly.One"
+  attriburl="https://im.youronly.one"
   attribrel="noopener"
 >}}

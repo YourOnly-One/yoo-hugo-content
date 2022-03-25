@@ -2,8 +2,8 @@
 title = "Butterflies in the Stomach Might Be Real"
 description = "Are butterflies in the stomach real? It might be according to a study."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2016-04-08T15:15:41"
-lastmod = "2016-04-08T15:15:41"
+date = "2016-04-08T15:15:41+08:00"
+lastmod = "2016-04-08T15:15:41+08:00"
 
 #aliases = [""]
 slug = "Butterflies in Stomach Might Be Real"
@@ -52,6 +52,7 @@ In this study, a team provoked emotions from surprise to depression among 700 pe
 If we feel sad, we feel cold. Lonely. We lose appetite too. And through this research they discovered it is exactly how our body reacts to an emotion. Sadness in this case produces coldness in our arms and legs. Our stomach was void of anything. Our chest and head a faint reaction, no doubt because we are feeling pain or entertaining thoughts, the what-ifs.
 
 ## Emotion Map
+
 {{< image
   type="image"
 
@@ -91,7 +92,7 @@ Now that we know that, we should be able to control ourselves better. If you are
 
 As we often hear, <q>it's all in your mind</q>.
 
--------
+---
 
 {{< image
   type="imagecoverattrib"
