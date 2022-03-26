@@ -66,7 +66,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - Also known as: 8
 - Fandom name: Lucky Charm (as ***Clover***)
 - Debut: 2020-03-05 (as ***Clover***)
-  - Song: 「Mamma Mia」 (「맘마미아」) (original by ***[KARA]({{< ref "/kpop-2nd-gen.md#kara" >}} "KARA")***)
+  - Song: 《Mamma Mia》 (《맘마미아》) (original by ***[KARA]({{< ref "/kpop-2nd-gen.md#kara" >}} "KARA")***)
 
 {{< video
   id="VBAqJOekusM"
@@ -85,7 +85,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - Song: tba
 
 - Sample songs:
-  - 「Kumakabog-kabog (Pounding Heart)」 [^clover-songs-kumakabog-kabog] (Tagalog remix of 「맘이맘이」 (「Mammy Mammy」); original by ***[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")***)
+  - 《Kumakabog-kabog (Pounding Heart)》 [^clover-songs-kumakabog-kabog] (Tagalog remix of 《맘이맘이》 (《Mammy Mammy》); original by ***[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")***)
 - Did you know?
   - As ***Clover*** they were the first all-Filipino group under a Korean entertainment company to debut in the Philippines.
 - Authority control:
@@ -106,14 +106,14 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - [Instagram](https://www.instagram.com/infinityeightofficial)
   - [Twitter](https://twitter.com/8EightOfficial)
 
-[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 「[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v=_KFzox7Ng_k "Clover: Kumakabog-kabog (Pounding Heart)")」 (Tagalog remix of 「맘이맘이」 (「Mammy Mammy」); original by *[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")*)
+[^clover-songs-kumakabog-kabog]: [Clover] YouTube: 《[Kumakabog-kabog (Pounding Heart)](https://www.youtube.com/watch?v=_KFzox7Ng_k "Clover: Kumakabog-kabog (Pounding Heart)")》 (Tagalog remix of 《맘이맘이》 (《Mammy Mammy》); original by *[Kimi (키미)]({{< ref "/kpop-3rd-gen.md#kimi" >}} "Kimi (키미)")*)
 
 ### 1st.One {#1st-one-MNvUmzVR7AStxbtQp}
 
 - Baybayin: ᜂᜈ
 - Fandom name: FOR.ONE
 - Debut: 2020-04-03
-  - Song: 「One Dream」
+  - Song: 《One Dream》
 
 {{< video
   id="Nx4tD2oxnBc"
@@ -128,9 +128,9 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 >}}
 
 - Sample songs:
-  - 「Ttak Maja Nuh (You Are The One)」 [^1st-one-songs-ttak-maja-nuh]
-  - 「OH!」 [^1st-one-songs-oh]
-  - 「Shout Out」 [^1st-one-songs-shout-out]
+  - 《Ttak Maja Nuh (You Are The One)》 [^1st-one-songs-ttak-maja-nuh]
+  - 《OH!》 [^1st-one-songs-oh]
+  - 《Shout Out》 [^1st-one-songs-shout-out]
 - Did you know?
   - ***1st.One*** is the first P-pop idol to perform in the 2020 Music Awards in Korea.
   - Grand winner of the Seoul Music Awards Philippines Dance To Our Seoul 2019.
@@ -150,9 +150,9 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - [Instagram](https://www.instagram.com/1st.oneofficial)
   - [Twitter](https://twitter.com/1stoneOfficial)
 
-[^1st-one-songs-ttak-maja-nuh]: [1st.One] YouTube: 「[Ttak Maja Nuh (You Are The One)](https://www.youtube.com/watch?v=HsbOdvjBmrI "1st.One: Ttak Maja Nuh (You Are The One")」
-[^1st-one-songs-oh]: [1st.One] YouTube: 「[OH!](https://www.youtube.com/watch?v=Quru30r2Ugc "1st.One: OH!")」
-[^1st-one-songs-shout-out]: [1st.One] YouTube: 「[Shout Out](https://www.youtube.com/watch?v=Nx4tD2oxnBc "1st.One: Shout Out")」
+[^1st-one-songs-ttak-maja-nuh]: [1st.One] YouTube: 《[Ttak Maja Nuh (You Are The One)](https://www.youtube.com/watch?v=HsbOdvjBmrI "1st.One: Ttak Maja Nuh (You Are The One")》
+[^1st-one-songs-oh]: [1st.One] YouTube: 《[OH!](https://www.youtube.com/watch?v=Quru30r2Ugc "1st.One: OH!")》
+[^1st-one-songs-shout-out]: [1st.One] YouTube: 《[Shout Out](https://www.youtube.com/watch?v=Nx4tD2oxnBc "1st.One: Shout Out")》
 
 ### BINI {#bini-X4e7qCdOc1kH9wCeu}
 
@@ -160,7 +160,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - Also known as: SHA Girls; Star Hunt Academy Girls
 - Fandom name: BL∞M(S); BLOOM(S)
 - Debut: 2020-11-20
-  - Song: 「Da Coconut Nut」 (original by ***Smokey Mountain*** in 1991)
+  - Song: 《Da Coconut Nut》 (original by ***Smokey Mountain*** in 1991)
 
 {{< video
   id="eZfeW9WDwmA"
@@ -175,7 +175,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 >}}
 
 - First original: 2021-06-11
-  - Song: 「Born To Win」
+  - Song: 《Born To Win》
 
 {{< video
   id="cUMH4XhQTGI"
@@ -190,15 +190,15 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 >}}
 
 - Sample songs:
-  - 「Born To Win」
+  - 《Born To Win》
     - Japanese [^bini-songs-born-to-win-japanese]
     - Thai [^bini-songs-born-to-win-thai]
     - Bahasa Indonesia [^bini-songs-born-to-win-bahasa-indonesia]
     - Spanish [^bini-songs-born-to-win-spanish]
-  - 「Na Na Na」 [^bini-songs-na-na-na]
-  - 「8」 [^bini-songs-8]
-  - 「Here With You」 [^bini-songs-here-with-you]
-  - 「Kapit Lang」 [^bini-songs-kapit-lang]
+  - 《Na Na Na》 [^bini-songs-na-na-na]
+  - 《8》 [^bini-songs-8]
+  - 《Here With You》 [^bini-songs-here-with-you]
+  - 《Kapit Lang》 [^bini-songs-kapit-lang]
 - Authority control:
   - [MusicBrainz](https://musicbrainz.org/artist/9e5e47a9-4fb0-4772-a11a-26a2e2e28671)
   - [Wikidata](https://www.wikidata.org/wiki/Q29966238)
@@ -217,20 +217,20 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Bini_(group))
 
-[^bini-songs-born-to-win-japanese]: [BINI] YouTube: 「[Born To Win](https://www.youtube.com/watch?v=Q-ylUq3-a50 "BINI: Born To Win (Japanese)")」 (Japanese)
-[^bini-songs-born-to-win-thai]: [BINI] YouTube: 「[Born To Win](https://www.youtube.com/watch?v=xXg_fKNnE9c "BINI: Born To Win (Thai)")」 (Thai)
-[^bini-songs-born-to-win-bahasa-indonesia]: [BINI] YouTube: 「[Born To Win](https://www.youtube.com/watch?v=yNAPz-CCk6Y "BINI: Born To Win (Bahasa Indonesia)")」 (Bahasa Indonesia)
-[^bini-songs-born-to-win-spanish]: [BINI] YouTube: 「[Born To Win](https://www.youtube.com/watch?v=0taVK7QSwU4 "BINI: Born To Win (Spanish)")」 (Spanish)
-[^bini-songs-na-na-na]: [BINI] YouTube: 「[Na Na Na](https://www.youtube.com/watch?v=tikM6b0k9zI "BINI: Na Na Na")」
-[^bini-songs-8]: [BINI] YouTube: 「[8](https://music.youtube.com/watch?v=9VR1GDsKnyk "BINI: 8")」
-[^bini-songs-here-with-you]: [BINI] YouTube: 「[Here With You](https://music.youtube.com/watch?v=gM12bu8yqW4 "BINI: Here With You")」
-[^bini-songs-kapit-lang]: [BINI] YouTube: 「[Kapit Lang](https://www.youtube.com/watch?v=vBshRG9UqyM "BINI: Kapit Lang")」
+[^bini-songs-born-to-win-japanese]: [BINI] YouTube: 《[Born To Win](https://www.youtube.com/watch?v=Q-ylUq3-a50 "BINI: Born To Win (Japanese)")》 (Japanese)
+[^bini-songs-born-to-win-thai]: [BINI] YouTube: 《[Born To Win](https://www.youtube.com/watch?v=xXg_fKNnE9c "BINI: Born To Win (Thai)")》 (Thai)
+[^bini-songs-born-to-win-bahasa-indonesia]: [BINI] YouTube: 《[Born To Win](https://www.youtube.com/watch?v=yNAPz-CCk6Y "BINI: Born To Win (Bahasa Indonesia)")》 (Bahasa Indonesia)
+[^bini-songs-born-to-win-spanish]: [BINI] YouTube: 《[Born To Win](https://www.youtube.com/watch?v=0taVK7QSwU4 "BINI: Born To Win (Spanish)")》 (Spanish)
+[^bini-songs-na-na-na]: [BINI] YouTube: 《[Na Na Na](https://www.youtube.com/watch?v=tikM6b0k9zI "BINI: Na Na Na")》
+[^bini-songs-8]: [BINI] YouTube: 《[8](https://music.youtube.com/watch?v=9VR1GDsKnyk "BINI: 8")》
+[^bini-songs-here-with-you]: [BINI] YouTube: 《[Here With You](https://music.youtube.com/watch?v=gM12bu8yqW4 "BINI: Here With You")》
+[^bini-songs-kapit-lang]: [BINI] YouTube: 《[Kapit Lang](https://www.youtube.com/watch?v=vBshRG9UqyM "BINI: Kapit Lang")》
 
 ### Morning After {#morning-after-1pIfcr93zP9LSVpWO}
 
 - Fandom name:
 - Debut: 2020-12-15
-  - Song: 「Chino」
+  - Song: 《Chino》
 
 {{< video
   id="g5-Av_9mf5c"
@@ -245,7 +245,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 >}}
 
 - Sample songs:
-  - 「HIRAYA」 [^morning-after-songs-hiraya]
+  - 《HIRAYA》 [^morning-after-songs-hiraya]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/10266397-Morning-After-10)
   - YourOnly.One MD: 1pIfcr93zP9LSVpWO
@@ -262,7 +262,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
   - [Instagram](https://www.instagram.com/morningafterph)
   - [Twitter](https://twitter.com/morningafterph)
 
-[^morning-after-songs-hiraya]: [Morning After] YouTube: 「[HIRAYA](https://www.youtube.com/watch?v=nEKkO0z2UrI "Morning After: HIRAYA")」
+[^morning-after-songs-hiraya]: [Morning After] YouTube: 《[HIRAYA](https://www.youtube.com/watch?v=nEKkO0z2UrI "Morning After: HIRAYA")》
 
 ## 2021
 
@@ -270,7 +270,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 
 - Fandom name:
 - Debut: 2021-03-27
-  - Song: 「Baliktanaw」
+  - Song: 《Baliktanaw》
 
 {{< video
   id="7QSJS6IqWFU"
@@ -303,7 +303,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
 - Fandom name:
 - Debut: 2020-12-31
-  - Song: 「Home」
+  - Song: 《Home》
 
 {{< video
   id="ATPfN_-XKNE"
@@ -325,7 +325,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - A subgroup of ***[Z1ON]({{< ref "/ppop-4th-gen.md#z1on" >}} "Z1ON")***
 - Fandom name:
 - Debut: 2021-05-26
-  - Song: 「All Again」
+  - Song: 《All Again》
 
 {{< video
   id="CdpT5Mq0guc"
@@ -348,7 +348,7 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - Also known as: SHA Boys; Star Hunt Academy Boys
 - Fandom name: Ace
 - Debut: 2021-01-29
-  - Song: 「The Light」
+  - Song: 《The Light》
 
 {{< video
   id="y2un_yj1IEU"
@@ -363,14 +363,14 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 >}}
 
 - Sample songs:
-  - 「The Light」
+  - 《The Light》
     - Japanese [^bgyo-songs-the-light-japanese]
     - Thai [^bgyo-songs-the-light-thai]
     - Bahasa Indonesia [^bgyo-songs-the-light-bahasa-indonesia]
     - Spanish [^bgyo-songs-the-light-spanish]
-  - 「Kundiman」 [^bgyo-songs-kundiman]
-  - 「When I'm With You」 [^bgyo-songs-when-im-with-you]
-  - 「He's Into Her」 [^bgyo-songs-he-is-into-her] OST for a Filipino movie of the same name
+  - 《Kundiman》 [^bgyo-songs-kundiman]
+  - 《When I'm With You》 [^bgyo-songs-when-im-with-you]
+  - 《He's Into Her》 [^bgyo-songs-he-is-into-her] OST for a Filipino movie of the same name
 - Did you know?
   - ***BGYO*** is the first Pinoy act to rank #1 in the weekly Billboard Next Big Sound chart. [^bgyo-wikipedia-billboard]
   - They are the fifth act to appear in the weekly Billboard Next Big Sound chart. [^bgyo-wikipedia-billboard]
@@ -397,13 +397,13 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/BGYO)
 
-[^bgyo-songs-the-light-japanese]: [BGYO] YouTube: 「[The Light](https://www.youtube.com/watch?v=bGCfVunS20Y "BGYO: The Light (Japanese)")」 (Japanese)
-[^bgyo-songs-the-light-thai]: [BGYO] YouTube: 「[The Light](https://www.youtube.com/watch?v=VluVKlzDkik "BGYO: The Light (Thai)")」 (Thai)
-[^bgyo-songs-the-light-bahasa-indonesia]: [BGYO] YouTube: 「[The Light](https://www.youtube.com/watch?v=zmCMv7DhWCQ "BGYO: The Light (Bahasa Indonesia)")」 (Bahasa Indonesia)
-[^bgyo-songs-the-light-spanish]: [BGYO] YouTube: 「[The Light](https://www.youtube.com/watch?v=dl4MFqQhuxs "BGYO: The Light (Spanish)")」 (Spanish)
-[^bgyo-songs-kundiman]: [BGYO] YouTube: 「[Kundiman](https://www.youtube.com/watch?v=zH87x_u5GcE "BGYO: Kundiman")」
-[^bgyo-songs-when-im-with-you]: [BGYO] YouTube: 「[When I'm With You](https://www.youtube.com/watch?v=9Qi6wCqSjwM "BGYO: When I'm With You")」
-[^bgyo-songs-he-is-into-her]: [BGYO] YouTube: 「[He's Into Her](https://www.youtube.com/watch?v=H-hkiIBB7QY "BGYO: He's Into Her OST")」 OST for a Filipino movie of the same name
+[^bgyo-songs-the-light-japanese]: [BGYO] YouTube: 《[The Light](https://www.youtube.com/watch?v=bGCfVunS20Y "BGYO: The Light (Japanese)")》 (Japanese)
+[^bgyo-songs-the-light-thai]: [BGYO] YouTube: 《[The Light](https://www.youtube.com/watch?v=VluVKlzDkik "BGYO: The Light (Thai)")》 (Thai)
+[^bgyo-songs-the-light-bahasa-indonesia]: [BGYO] YouTube: 《[The Light](https://www.youtube.com/watch?v=zmCMv7DhWCQ "BGYO: The Light (Bahasa Indonesia)")》 (Bahasa Indonesia)
+[^bgyo-songs-the-light-spanish]: [BGYO] YouTube: 《[The Light](https://www.youtube.com/watch?v=dl4MFqQhuxs "BGYO: The Light (Spanish)")》 (Spanish)
+[^bgyo-songs-kundiman]: [BGYO] YouTube: 《[Kundiman](https://www.youtube.com/watch?v=zH87x_u5GcE "BGYO: Kundiman")》
+[^bgyo-songs-when-im-with-you]: [BGYO] YouTube: 《[When I'm With You](https://www.youtube.com/watch?v=9Qi6wCqSjwM "BGYO: When I'm With You")》
+[^bgyo-songs-he-is-into-her]: [BGYO] YouTube: 《[He's Into Her](https://www.youtube.com/watch?v=H-hkiIBB7QY "BGYO: He's Into Her OST")》 OST for a Filipino movie of the same name
 [^bgyo-wikipedia-billboard]: [BGYO] Wikipedia: [Billboard](https://en.wikipedia.org/wiki/BGYO "Billboard")
 
 ### LUNA {#luna-jD7oka1R8mdJ32n0h}
@@ -411,15 +411,15 @@ The first new P-pop act debut was *1st.One* in April 3, 2020 when the Philippine
 - Baybayin: ᜎᜓᜈ
 - Fandom name: ᜆᜎ (TALA)
 - Debut: 2021-01-30
-  - Song: 「Ako Naman」 [^luna-songs-ako-naman]
+  - Song: 《Ako Naman》 [^luna-songs-ako-naman]
 
 {{% sembox boxstyle="qbs_generic" qmarkstyle="" boxcolour="qbc_magenta" attribalign="txt_right" srctitle="" srclink="" srcrel="noopener external" attribto="" attriblink="" attribrel="noopener external" %}}
 As of 2022-02-14, embed for the official music video is disabled. If this has been fixed, please leave a comment below and we will embed it.
 {{% /sembox %}}
 
 - Sample songs:
-  - 「La Luna」 [^luna-songs-la-luna]
-  - 「Paulit-ulit」 [^luna-songs-paulit-ulit]
+  - 《La Luna》 [^luna-songs-la-luna]
+  - 《Paulit-ulit》 [^luna-songs-paulit-ulit]
 - Authority control:
   - YourOnly.One MD: jD7oka1R8mdJ32n0h
 - Audio streaming:
@@ -434,16 +434,16 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   - [Instagram](https://instagram.com/ofclunaph)
   - [Twitter](https://twitter.com/ofclunaph)
 
-[^luna-songs-ako-naman]: [LUNA] YouTube: 「[Ako Naman](https://www.youtube.com/watch?v=E4NHugda7R4 "LUNA: Ako Naman")」
-[^luna-songs-la-luna]: [LUNA] YouTube: 「[La Luna](https://www.youtube.com/watch?v=JzQSpJ7Zh9s "LUNA: La Luna")」
-[^luna-songs-paulit-ulit]: [LUNA] YouTube: 「[Paulit-ulit](https://www.youtube.com/watch?v=UjqPD6vR51s "LUNA: Paulit-ulit")」
+[^luna-songs-ako-naman]: [LUNA] YouTube: 《[Ako Naman](https://www.youtube.com/watch?v=E4NHugda7R4 "LUNA: Ako Naman")》
+[^luna-songs-la-luna]: [LUNA] YouTube: 《[La Luna](https://www.youtube.com/watch?v=JzQSpJ7Zh9s "LUNA: La Luna")》
+[^luna-songs-paulit-ulit]: [LUNA] YouTube: 《[Paulit-ulit](https://www.youtube.com/watch?v=UjqPD6vR51s "LUNA: Paulit-ulit")》
 
 ### Alamat {#alamat-PnnIuDnxVzlaRbsLg}
 
 - Baybayin: ᜀᜎᜋᜆ᜔
 - Fandom name: ᜋᜄᜒᜎᜒᜏ᜔ (Magiliw)
 - Debut: 2021-02-14
-  - Song: 「kbye」
+  - Song: 《kbye》
 
 {{< video
   id="I7vPP-yIhY0"
@@ -458,14 +458,14 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 >}}
 
 - Sample songs:
-  - 「Sandigan」 [^alamat-songs-sandigan] OST for 「Anitu」 comic book series
-  - 「kasmala」 [^alamat-songs-kasmala]
+  - 《Sandigan》 [^alamat-songs-sandigan] OST for 《Anitu》 comic book series
+  - 《kasmala》 [^alamat-songs-kasmala]
 - Did you know?
   - ***Alamat*** is a multi-ethnic and multilingual group. They have members from and sings in Tagalog, Ilokano, Kapampangan, Cebuano, Hiligaynon, Bikolano, and Waray.
   - They are the second P-pop act to make it in the Billboard Next Big Sound chart.
   - Fastest rising Pinoy act on the Billboard Next Big Sound chart. [^alamat-inquirer-billboard]
   - Reached #2 in the Billboard Next Big Sound chart on their debut. [^alamat-manila-bulletin-billboard]
-  - The music video for 「kasmala」 tells the story of colonialism, dehumanisation of, and racism against Filipinos.
+  - The music video for 《kasmala》 tells the story of colonialism, dehumanisation of, and racism against Filipinos.
     - It makes use of a real event in April 1904 St. Louis World Fair where the organizers brought Filipino natives in America and displayed them as if they were animals in a zoo. [^alamat-nylon-manila-alamat-takes-on-colonialism]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/5961818-Alamat)
@@ -488,8 +488,8 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Alamat_(band))
 
-[^alamat-songs-sandigan]: [Alamat] YouTube: 「[Sandigan](https://www.youtube.com/watch?v=xA_xo_I8B64 "Alamat: Sandigan OST")」 OST for 「Anitu」
-[^alamat-songs-kasmala]: [Alamat] YouTube: 「[kasmala](https://www.youtube.com/watch?v=_5Y_mTfBh3o "Alamat: kasmala")」
+[^alamat-songs-sandigan]: [Alamat] YouTube: 《[Sandigan](https://www.youtube.com/watch?v=xA_xo_I8B64 "Alamat: Sandigan OST")》 OST for 《Anitu》
+[^alamat-songs-kasmala]: [Alamat] YouTube: 《[kasmala](https://www.youtube.com/watch?v=_5Y_mTfBh3o "Alamat: kasmala")》
 [^alamat-inquirer-billboard]: [Alamat] Inquirer: [Alamat is second P-pop group to make it on Billboard chart](https://www.philstar.com/entertainment/music/2021/03/03/2081237/alamat-second-p-pop-group-make-it-billboard-200 "Alamat is second P-pop group to make it on Billboard chart")
 [^alamat-manila-bulletin-billboard]: [Alamat] Manila Bulletin: [New P-pop boyband ALAMAT fast to score Billboard milestone](https://mb.com.ph/2021/03/02/new-ppop-boyband-alamat-fast-to-score-billboard-milestone/ "New P-pop boyband ALAMAT fast to score Billboard milestone")
 [^alamat-nylon-manila-alamat-takes-on-colonialism]: [Alamat] Nylon Manila: [ALAMAT Takes On Colonialism And Anti-Asian Hate in Their Latest Comeback kasmala](https://nylonmanila.com/alamat-asian-hate-colonialism-latest-comeback-kasmala/ "ALAMAT Takes On Colonialism And Anti-Asian Hate in Their Latest Comeback kasmala")
@@ -498,7 +498,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 
 - Fandom name: Dreamies
 - Debut: 2021-04-29
-  - Song: 「Fallin' 4 U」
+  - Song: 《Fallin' 4 U》
 
 {{< video
   id="T__QrfITfM0"
@@ -513,7 +513,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 >}}
 
 - Sample songs:
-  - 「Lumayo」 [^daydream-songs-lumayo]
+  - 《Lumayo》 [^daydream-songs-lumayo]
 - Authority control:
   - [ISNI](https://isni.org/isni/0000000503651121)
   - YourOnly.One MD: hULs4UOwDswrZCY7A
@@ -530,7 +530,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
   - [Instagram](https://www.instagram.com/wearedaydreamph)
   - [Twitter](https://twitter.com/wearedaydreamph)
 
-[^daydream-songs-lumayo]: [DAYDREAM] YouTube: 「[Lumayo](https://www.youtube.com/watch?v=OzM1duC9WwU "DAYDREAM: Lumayo")」
+[^daydream-songs-lumayo]: [DAYDREAM] YouTube: 《[Lumayo](https://www.youtube.com/watch?v=OzM1duC9WwU "DAYDREAM: Lumayo")》
 
 ### LITZ {#litz-7Ygv3xz7yMGwNtP50}
 
@@ -538,7 +538,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 - Also known as: Life In The Sunshine
 - Fandom name:
 - Debut: 2021-11-11
-  - Song: 「Natataranta」 OST for 「Kinsenas Katapusan」
+  - Song: 《Natataranta》 OST for 《Kinsenas Katapusan》
 
 {{< video
   id="p7MFa6nnLy0"
@@ -572,7 +572,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 - Baybayin: ᜃᜌ
 - Fandom name:
 - Debut: 2021-12-10
-  - Song: 「KAYA」
+  - Song: 《KAYA》
 
 {{< video
   id="9aFDvAvCFE8"
@@ -612,7 +612,7 @@ As of 2022-02-14, embed for the official music video is disabled. If this has be
 - Also known as: Vision
 - Fandom name: VIXIES
 - Debut: 2022-01-07
-  - Song: 「The Beast」
+  - Song: 《The Beast》
 
 {{< video
   id="Mo8OVB_jqFs"

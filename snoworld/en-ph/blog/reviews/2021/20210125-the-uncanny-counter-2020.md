@@ -1,5 +1,5 @@
 +++
-title = "「The Uncanny Counter」 review"
+title = "《The Uncanny Counter》 review"
 description = "A story about family, friendships, forgiveness, and second chances."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-01-25T16:20:30+08:00"
@@ -66,7 +66,7 @@ name = "경이로운 소문"
 alternatenames = ["The Uncanny Counter"]
 sameas = ["https://en.wikipedia.org/wiki/The_Uncanny_Counter", "https://www.imdb.com/title/tt13273826"]
 countryoforigin = "Korea"
-description = "「The Uncanny Counter」 (2020) Season 1 was a live-action adaptation of the webtoon (digital Korean manhwa) entitled 「Kyeongirowoon Somoon」 (2018) by Jang Yi. It stars 「Cho Byeong Kyu」, 「Yoo Joon Sang」, 「Kim Se Jeong」, 「Yeom Hye Ran」, and 「Ahn Suk Hwan」, as the Counters--people who hunts evil spirits."
+description = "《The Uncanny Counter》 (2020) Season 1 was a live-action adaptation of the webtoon (digital Korean manhwa) entitled 《Kyeongirowoon Somoon》 (2018) by Jang Yi. It stars 《Cho Byeong Kyu》, 《Yoo Joon Sang》, 《Kim Se Jeong》, 《Yeom Hye Ran》, and 《Ahn Suk Hwan》, as the Counters--people who hunts evil spirits."
 datepublished = "2020-11-28"
 categories = ["Action", "Drama", "Supernatural", "Paranormal"]
 
@@ -145,7 +145,7 @@ alternatenames = ["Yoo Seon Dong"]
 sameas = ["https://www.imdb.com/name/nm1602570"]
 +++
 
-「***경이로운 소문***」 / 「***The Uncanny Counter***」 (2020) Season 1 was a live-action adaptation of the webtoon ("digital Korean manhwa") entitled 「Kyeongirowoon Somoon」 (2018) by Jang Yi. It stars 「Cho Byeong Kyu」, 「Yoo Joon Sang」, 「Kim Se Jeong」, 「Yeom Hye Ran」, and 「Ahn Suk Hwan」, as the Counters--people who hunts evil spirits.
+《***경이로운 소문***》 / 《***The Uncanny Counter***》 (2020) Season 1 was a live-action adaptation of the webtoon ("digital Korean manhwa") entitled 《Kyeongirowoon Somoon》 (2018) by Jang Yi. It stars 《Cho Byeong Kyu》, 《Yoo Joon Sang》, 《Kim Se Jeong》, 《Yeom Hye Ran》, and 《Ahn Suk Hwan》, as the Counters--people who hunts evil spirits.
 
 <!--more-->
 
@@ -157,7 +157,7 @@ In the fictional city of Jungjin, a group of four demon-hunters called the Count
 
 One day, the fourth Counter Jang Cheol-joong is killed in a battle against a strong "Level 3" evil spirit. As his spirit gets consumed by his killer, his Yung partner Wi-gen struggles to find a new comatose human to possess. Uncannily, she is quickly drawn towards high school boy So Mun who, despite being disabled, is nevertheless perfectly healthy and alive. As soon as Wi-gen possessed him, the unknowing Mun starts noticing bizarre changes to his body and starts seeing Wi-gen in his dreams. Soon, Mun finds the answers in Eonni's Noodles, and as he becomes the replacement to the late Cheol-joong, he finds himself in a thrilling journey of battling against bloodthirsty demons, reconnecting to his past, and uncovering the ugly truth behind a major redevelopment project in Jungjin.[^a]
 
-[^a]: Wikipedia: [「The Uncanny Counter」 synopsis](https://en.wikipedia.org/wiki/The_Uncanny_Counter#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《The Uncanny Counter》 synopsis](https://en.wikipedia.org/wiki/The_Uncanny_Counter#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## Story and Performance
 
@@ -174,8 +174,8 @@ The multiple story arcs were well thought out and I was amazed with how these di
   linkrel="noopener external nofollow"
 
   title="The Uncanny Counter (2020)"
-  caption="(left to right) 「Kim Se Jeong」, 「Yoo Joon Sang」, 「Ahn Suk Hwan」, 「Cho Byeong Kyu」, 「Yeom Hye Ran」"
-  alt="The Uncanny Counter (2020) (left to right) 「Kim Se Jeong」, 「Yoo Joon Sang」, 「Ahn Suk Hwan」, 「Cho Byeong Kyu」, 「Yeom Hye Ran」"
+  caption="(left to right) 《Kim Se Jeong》, 《Yoo Joon Sang》, 《Ahn Suk Hwan》, 《Cho Byeong Kyu》, 《Yeom Hye Ran》"
+  alt="The Uncanny Counter (2020) (left to right) 《Kim Se Jeong》, 《Yoo Joon Sang》, 《Ahn Suk Hwan》, 《Cho Byeong Kyu》, 《Yeom Hye Ran》"
 
   attribalign=""
 
@@ -210,7 +210,7 @@ Since it was already announced that season 2 was given a green light, it further
   endtime=""
 
   title="The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
-  caption="「The Uncanny Counter」 trailer"
+  caption="《The Uncanny Counter》 trailer"
   inlanguage="ko"
 
   datecreated=""

@@ -2,8 +2,8 @@
 title = "YourOnly.One 2021년 최고의 영화"
 description = "YourOnly.One 2021년 최고의 영화 10편"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
-lastmod = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
+date = "2021-12-14T23:17:08+09:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-14T23:17:08+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "youronlyone-top-movies-2021"
@@ -51,6 +51,7 @@ type = "article"                                                           # art
 
 ## 10. 블랙 위도우 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -58,7 +59,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)*poster.jpg#/media/File:Black_Widow*(2021_film)_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)_poster.jpg#/media/File:Black_Widow_(2021_film)_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="블랙 위도우 (2021)"
@@ -75,6 +76,7 @@ type = "article"                                                           # art
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***블랙 위도우***는 **마블 코믹스**를 기반으로 한 2021년 미국 슈퍼히어로 영화로, 동명의 캐릭터가 등장합니다. **Marvel Studios**가 제작하고 **Walt Disney Studios Motion Pictures**가 배급하는 이 영화는 *Marvel Cinematic Universe*(MCU)의 24번째 영화입니다. 이 영화는 에릭 피어슨이 각본을 맡은 케이트 쇼트랜드가 감독했으며 나타샤 로마노프/블랙 위도우 역으로 스칼렛 요한슨이 출연했으며 플로렌스 퓨, 데이비드 하버, O-T 패그벤레, 올가 쿠릴렌코, 윌리엄 허트, 레이 윈스턴, 레이첼 와이즈와 함께 출연했습니다. *캡틴 아메리카: 시빌 워*(2016)의 사건 이후를 배경으로 한 이 영화는 로마노프가 도주하고 그녀의 과거와 맞서야 하는 모습을 봅니다.[^a]
 
@@ -113,6 +115,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ## 9. 인피니트 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -120,7 +123,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/0/07/Infinite_%282021_film%29_release_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)*release_poster.jpeg#/media/File:Infinite*(2021_film)_release_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)_release_poster.jpeg#/media/File:Infinite_(2021_film)_release_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="인피니트 (2021)"
@@ -137,6 +140,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Infinite***는 Antoine Fuqua가 감독한 2021년 미국 SF 액션 영화입니다. Ian Shorr는 D. Eric Maikranz의 2009년 소설 *The Reincarnationist Papers*를 각색한 Todd Stein의 이야기를 바탕으로 각본을 썼습니다. 이 영화에는 Mark Wahlberg, Chiwetel Ejiofor, Sophie Cookson, Jason Mantzoukas, Rupert Friend, Toby Jones 및 Dylan O'Brien이 출연합니다.[^b]
 
@@ -237,6 +241,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ## 7. 소설가 암살 (2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -244,7 +249,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/ec/Writer%27s_Odyssey_%282021_film%29_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)*poster.jpeg#/media/File:Writer's_Odyssey*(2021_film)_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)_poster.jpeg#/media/File:Writer's_Odyssey_(2021_film)_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="소설가 암살 (2021)"
@@ -261,6 +266,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***작가의 오디세이***(중국어: ***刺杀小说家***)는 Lu Yang이 감독과 각본을 쓰고 Ning Hao가 제작한 2021년 중국 액션 어드벤처 판타지 영화입니다. 이 영화는 2021년 2월 12일 음력 설날에 개봉되었습니다. 이 영화는 **Shuang Xuetao**의 동명 소설과 그 속편 *Godslayer*를 기반으로 합니다.[^d] 딸을 찾기 위해 필사적으로 아버지는 소설이 현실에 영향을 미치고 있는 판타지 작가를 암살하기로 동의했습니다. -세계, 특히 기술 재벌의 삶이 균형에 달려 있습니다. 그 대가로 기술 재벌은 딸의 위치를 알려주겠다고 약속했습니다. 나중에 그는 이 소설에 대해 처음에 들은 것보다 더 많은 것이 있음을 발견했습니다.
 
@@ -303,6 +309,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
 
 ## 6. 투모로우 워(2021)
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -310,7 +317,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/6/60/The_Tomorrow_War_%282021_film%29_official_theatrical_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)*official_theatrical_poster.jpg#/media/File:The_Tomorrow_War*(2021_film)_official_theatrical_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg#/media/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="투모로우 워(2021)"
@@ -327,6 +334,7 @@ COVID-19로 인해 수많은 영화의 프리미어가 연기되었고 그 중 �
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***투모로우 워***는 크리스 맥케이 감독의 2021년 미국 군사 SF 액션 영화입니다. 그림은 David Ellison, Dana Goldberg, Don Granger, David S. Goyer, Jules Daly 및 Adam Kolbrenner가 제작하고 Zach Dean이 작성했습니다. 앙상블 캐스트에는 Chris Pratt, Yvonne Strahovski, J. K. Simmons, Betty Gilpin, Sam Richardson, Edwin Hodge, Jasmine Mathews, Ryan Kiera Armstrong 및 Keith Powers가 있습니다. 그것은 외계인 군대와 싸우기 위해 미래로 보내진 현재의 군인과 민간인의 혼합을 따릅니다.[^e]
 

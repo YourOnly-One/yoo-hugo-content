@@ -1,5 +1,5 @@
 +++
-title = "「Splash Splash LOVE」 review"
+title = "《Splash Splash LOVE》 review"
 description = "A story you will never forget for the rest of your life"  # For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-03-20T11:10:37+08:00"
@@ -49,7 +49,7 @@ videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A", "https://www.youtube.co
 type = "TVSeries"
 
 [semweb.review]
-snippet = "I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash LOVE」 today. A simple yet very touching story that we can all relate to. I will never forget this story for the rest of my life."
+snippet = "I can not believe I only discovered 《퐁당퐁당 LOVE》 / 《Splash Splash LOVE》 today. A simple yet very touching story that we can all relate to. I will never forget this story for the rest of my life."
 rating = "10.00"
 
 # If different from our website
@@ -121,13 +121,13 @@ alternatenames = ["Kim Ji Hyun"]
 sameas = ["https://www.imdb.com/name/nm7806626"]
 +++
 
-「***퐁당퐁당 LOVE***」 / 「***Splash Splash LOVE***」 is a 2015 live-action short story about a senior high school girl student, who have the ability to teleport through spacetime, who ended up in the Joseon Dynasty and met King Sejong the Great. Kim Seul Gi arrived in a time of draught and had no way to return to 2015, the court of Joseon have mistaken her to be a eunuch which helped her hide her real identity. King Sejong recognized her usefulness and together they developed the improvements the people of Joseon needed … and fell in love with each other.
+《***퐁당퐁당 LOVE***》 / 《***Splash Splash LOVE***》 is a 2015 live-action short story about a senior high school girl student, who have the ability to teleport through spacetime, who ended up in the Joseon Dynasty and met King Sejong the Great. Kim Seul Gi arrived in a time of draught and had no way to return to 2015, the court of Joseon have mistaken her to be a eunuch which helped her hide her real identity. King Sejong recognized her usefulness and together they developed the improvements the people of Joseon needed … and fell in love with each other.
 
 <!--more-->
 
 > ***A story you will never forget for the rest of your life***
 
-「퐁당퐁당 LOVE」 / 「Splash Splash LOVE」 was originally released as a web series totalling 10 webisodes. It was later compiled and released as a two-episode series with a total running time of two hours and twenty minutes, the usual length of a movie. They could have had filmed a movie but the decision to do an episodic (or webisodic in this case) story allowed them to create a very beautiful and touching show.
+《퐁당퐁당 LOVE》 / 《Splash Splash LOVE》 was originally released as a web series totalling 10 webisodes. It was later compiled and released as a two-episode series with a total running time of two hours and twenty minutes, the usual length of a movie. They could have had filmed a movie but the decision to do an episodic (or webisodic in this case) story allowed them to create a very beautiful and touching show.
 
 {{< image
   type="image"
@@ -160,7 +160,7 @@ The chemistry between the main actors, 윤두준 (Yoon Doo Joon) and 김슬기 (
 
 ## Music
 
-While this show only have one theme song, 「너에게 퐁당」, sang by two different singers, it was a great song that fits the story. Though the lyrics reflect the story of this short drama, one can easily relate to it regardless of which time period they are. A very good composition and melody which complimented 「퐁당퐁당 LOVE」 / 「Splash Splash LOVE」 well.
+While this show only have one theme song, 《너에게 퐁당》, sang by two different singers, it was a great song that fits the story. Though the lyrics reflect the story of this short drama, one can easily relate to it regardless of which time period they are. A very good composition and melody which complimented 《퐁당퐁당 LOVE》 / 《Splash Splash LOVE》 well.
 
 {{< image
   type="image"
@@ -191,7 +191,7 @@ While this show only have one theme song, 「너에게 퐁당」, sang by two di
 
 Last but definitely not the least, it would not have achieved its success if this was originally filmed as movie as movies have a higher and far different expectations and requirements. A great decision on the part of the production team. Because it was made episodic, they were able to concentrate on the delivery without the immense stress and demands of a movie. Yes, this is not a film but with its total running time and great story, it is a great movie for me.
 
-I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash LOVE」 today. I will never forget this story for the rest of my life.
+I can not believe I only discovered 《퐁당퐁당 LOVE》 / 《Splash Splash LOVE》 today. I will never forget this story for the rest of my life.
 
 10 out of 10 stars from me!
 
@@ -210,7 +210,7 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
   linkrel="noopener external nofollow"
 
   title="[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
-  caption="「Splash Splash LOVE」 (2015) trailer"
+  caption="《Splash Splash LOVE》 (2015) trailer"
 
   datecreated=""
   datepublished="2015-12-01"
@@ -248,7 +248,7 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
   contentreferencetime=""
 >}}
 
-## Official Music Video: 「너에게 퐁당」 (단비 이야기)
+## Official Music Video: 《너에게 퐁당》 (단비 이야기)
 
 {{< video
   platform="youtube"
@@ -260,7 +260,7 @@ I can not believe I only discovered 「퐁당퐁당 LOVE」 / 「Splash Splash L
   endtime=""
 
   title="[MV] 퐁당퐁당LOVE OST-'너에게 퐁당' (단비 이야기)"
-  caption="「Splash Splash LOVE」 (2015) OST"
+  caption="《Splash Splash LOVE》 (2015) OST"
 
   datecreated=""
   datepublished="2016-03-10"

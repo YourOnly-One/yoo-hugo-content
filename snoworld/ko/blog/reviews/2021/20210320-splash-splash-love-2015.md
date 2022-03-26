@@ -1,9 +1,9 @@
 +++
-title = "「퐁당퐁당 LOVE」 비평"
+title = "《퐁당퐁당 LOVE》 비평"
 description = "평생 잊지 못할 이야기" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-03-20T12:10:37"
-lastmod = "2021-03-20T12:10:37"
+date = "2021-03-20T12:10:37+09:00"
+lastmod = "2021-03-20T12:10:37+09:00"
 
 #aliases = [""]
 slug = "퐁당퐁당 LOVE Splash Splash LOVE (2015)"
@@ -50,7 +50,7 @@ videos = ["https://www.youtube.com/watch?v=hAkKzgShR5A", "https://www.youtube.co
 type = "TVSeries"
 
 [semweb.review]
-snippet = "오늘은 「퐁당퐁당 LOVE」/ 「Splash Splash LOVE」밖에 발견하지 못했다. 우리 모두가 공감할 수있는 간단하면서도 감동적인 이야기. 이 이야기는 평생 잊지 못할 것입니다."
+snippet = "오늘은 《퐁당퐁당 LOVE》/ 《Splash Splash LOVE》밖에 발견하지 못했다. 우리 모두가 공감할 수있는 간단하면서도 감동적인 이야기. 이 이야기는 평생 잊지 못할 것입니다."
 rating = "10.00"
 
 # If different from our website
@@ -67,7 +67,7 @@ name = "퐁당퐁당 LOVE"
 alternatenames = ["Splash Splash LOVE", "Pongdang Pongdang LOVE"]
 sameas = ["https://www.hancinema.net/korean_drama_Splash_Splash_Love.php", "https://en.wikipedia.org/wiki/Splash_Splash_Love", "https://www.imdb.com/title/tt5290026/"]
 countryoforigin = "Korea"
-description = "「단비」는 대학 수학 능력 시험 (CSAT)을 치르는 고등학생입니다. 그러나 그녀는 수학이 좋지 않고 그것을 받아들이기를 꺼려합니다. 시험 당일, 그녀는 도망 가기로 결심하고 근처의 물웅덩이에서 북소리가 들리면 사라지기를 바라며 놀이터에 들렀습니다. 시공간을 여행 할 수있는 능력을 가진 그녀는 믿음의 도약을하고 물웅덩이에 뛰어 들어 세종대왕을 만난 조선 시대로 들어갔다."
+description = "《단비》는 대학 수학 능력 시험 (CSAT)을 치르는 고등학생입니다. 그러나 그녀는 수학이 좋지 않고 그것을 받아들이기를 꺼려합니다. 시험 당일, 그녀는 도망 가기로 결심하고 근처의 물웅덩이에서 북소리가 들리면 사라지기를 바라며 놀이터에 들렀습니다. 시공간을 여행 할 수있는 능력을 가진 그녀는 믿음의 도약을하고 물웅덩이에 뛰어 들어 세종대왕을 만난 조선 시대로 들어갔다."
 datepublished = "2015-12-13"
 categories = ["Romance", "Time Travel"]
 
@@ -122,13 +122,13 @@ alternatenames = ["Kim Ji Hyun"]
 sameas = ["https://www.imdb.com/name/nm7806626"]
 +++
 
-「***퐁당퐁당 LOVE***」/ 「***Splash Splash LOVE***」는 시공간을 통해 순간 이동하는 능력을 가진 여고생에 대한 2015 년 실사 단편 소설이다. 조선 시대 세종대왕을 만났습니다. 김슬기가 드래프트 때 도착 해 2015 년으로 돌아갈 방법이 없었고, 조선 법원은 그녀를 내시로 착각하여 그녀의 진정한 정체성을 숨기는 데 도움을 주었다. 세종대왕은 그녀의 유용성을 인식하고 함께 조선인들이 필요로하는 발전을 발전 시켰고 ... 서로 사랑에 빠졌습니다.
+《***퐁당퐁당 LOVE***》/ 《***Splash Splash LOVE***》는 시공간을 통해 순간 이동하는 능력을 가진 여고생에 대한 2015 년 실사 단편 소설이다. 조선 시대 세종대왕을 만났습니다. 김슬기가 드래프트 때 도착 해 2015 년으로 돌아갈 방법이 없었고, 조선 법원은 그녀를 내시로 착각하여 그녀의 진정한 정체성을 숨기는 데 도움을 주었다. 세종대왕은 그녀의 유용성을 인식하고 함께 조선인들이 필요로하는 발전을 발전 시켰고 ... 서로 사랑에 빠졌습니다.
 
 <!--more-->
 
 > ***평생 잊지 못할 이야기***
 
-「퐁당퐁당 LOVE」는 원래 총 10 개의 웹 에피소드로 웹 시리즈로 출시되었습니다. 나중에 총 2 시간 20 분의 상영 시간, 보통 영화 길이 인 2 부작 시리즈로 컴파일 및 출시되었습니다. 그들은 영화를 촬영할 수도 있었지만 에피소드 (또는이 경우 웹 소드) 이야기를하기로 결정함으로써 매우 아름답고 감동적인 쇼를 만들 수있었습니다.
+《퐁당퐁당 LOVE》는 원래 총 10 개의 웹 에피소드로 웹 시리즈로 출시되었습니다. 나중에 총 2 시간 20 분의 상영 시간, 보통 영화 길이 인 2 부작 시리즈로 컴파일 및 출시되었습니다. 그들은 영화를 촬영할 수도 있었지만 에피소드 (또는이 경우 웹 소드) 이야기를하기로 결정함으로써 매우 아름답고 감동적인 쇼를 만들 수있었습니다.
 
 {{< image
   type="image"
@@ -161,7 +161,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 
 ## 음악
 
-이번 쇼에는 두 명의 다른 가수가 부른 주제가 「너에게 퐁당」이 하나 밖에 없는데 스토리에 딱 맞는 곡이었다. 가사는이 짧은 드라마의 이야기를 반영하지만, 어느 시대에 관계없이 쉽게 공감할 수있다. 「퐁당퐁당 LOVE」를 잘 칭찬 한 아주 좋은 구성과 멜로디.
+이번 쇼에는 두 명의 다른 가수가 부른 주제가 《너에게 퐁당》이 하나 밖에 없는데 스토리에 딱 맞는 곡이었다. 가사는이 짧은 드라마의 이야기를 반영하지만, 어느 시대에 관계없이 쉽게 공감할 수있다. 《퐁당퐁당 LOVE》를 잘 칭찬 한 아주 좋은 구성과 멜로디.
 
 {{< image
   type="image"
@@ -192,7 +192,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
 
 마지막으로, 영화가 더 높고 훨씬 다른 기대와 요구 사항을 가지고 있기 때문에 이것이 원래 영화로 촬영 되었다면 성공하지 못했을 것입니다. 프로덕션 팀의 훌륭한 결정입니다. 에피소드로 제작 되었기 때문에 영화에 대한 엄청난 스트레스와 요구없이 전달에 집중할 수있었습니다. 네, 이건 영화는 아니지만 총 상영 시간과 멋진 스토리로 저에게 좋은 영화입니다.
 
-오늘은 「퐁당퐁당 LOVE」밖에 발견하지 못했다. 이 이야기는 평생 잊지 못할 것입니다.
+오늘은 《퐁당퐁당 LOVE》밖에 발견하지 못했다. 이 이야기는 평생 잊지 못할 것입니다.
 
 내 별 10 개 중 10 개!
 
@@ -211,7 +211,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   linkrel="noopener external nofollow"
 
   title="[teaser] 윤두준, 김슬기의 '퐁당퐁당 LOVE' 티져 2탄"
-  caption="「퐁당퐁당 LOVE」 (2015) 예고편"
+  caption="《퐁당퐁당 LOVE》 (2015) 예고편"
 
   datecreated=""
   datepublished="2015-12-01"
@@ -249,7 +249,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   contentreferencetime=""
 >}}
 
-## 공식 음악 비디오: 「너에게 퐁당」 (단비 이야기)
+## 공식 음악 비디오: 《너에게 퐁당》 (단비 이야기)
 
 {{< video
   platform="youtube"
@@ -261,7 +261,7 @@ sameas = ["https://www.imdb.com/name/nm7806626"]
   endtime=""
 
   title="[MV] 퐁당퐁당LOVE OST-'너에게 퐁당' (단비 이야기)"
-  caption="「퐁당퐁당 LOVE」 (2015) OST"
+  caption="《퐁당퐁당 LOVE》 (2015) OST"
 
   datecreated=""
   datepublished="2016-03-10"

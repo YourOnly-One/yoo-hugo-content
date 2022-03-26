@@ -47,7 +47,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 
 여기 한국어 성경 아가 4[^a].
 
-[^a]: StudyBible.info: [「아가 4」](https://studybible.info/Korean/Song%20of%20Songs%204)
+[^a]: StudyBible.info: [《아가 4》](https://studybible.info/Korean/Song%20of%20Songs%204)
 
 <!--more-->
 

@@ -1,5 +1,5 @@
 +++
-title = "「Please Don't Date Him」 review"
+title = "《Please Don't Date Him》 review"
 description = "Romantic comedy done right."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-01-11T23:38:36+08:00"
@@ -49,7 +49,7 @@ videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                        
 type = "TVSeries"
 
 [semweb.review]
-snippet = "「Please Don't Date Him」 is romantic comedy done right. There are many shows categorised as RomCom over the years and very few deserving of this label. 「Please Don't Date Him」 is one of the few exception as it brings out genuine laughter in every episode while building on the romantic relationship of the characters."
+snippet = "《Please Don't Date Him》 is romantic comedy done right. There are many shows categorised as RomCom over the years and very few deserving of this label. 《Please Don't Date Him》 is one of the few exception as it brings out genuine laughter in every episode while building on the romantic relationship of the characters."
 rating = "9.00"
 
 # If different from our website
@@ -66,7 +66,7 @@ name = "제발 그 남자 만나지 마요"
 alternatenames = ["Please Don't Date Him"]
 sameas = ["https://en.wikipedia.org/wiki/Please_Don't_Date_Him", "https://www.imdb.com/title/tt13394428", "https://www.hancinema.net/korean_drama_Please_Don__t_Meet_Him.php"]
 countryoforigin = "Korea"
-description = "「Please Don't Date Him」 is a romantic comedy TV series starring 「Song Ha Yoon」, 「Lee Jun Young」, 「Yoon Bo Mi」, & 「Gong Min Jung」. The story revolves around a household appliances developer who accidentally used a missing government R&D advanced microchip and AI that can search everyone's private information."
+description = "《Please Don't Date Him》 is a romantic comedy TV series starring 《Song Ha Yoon》, 《Lee Jun Young》, 《Yoon Bo Mi》, & 《Gong Min Jung》. The story revolves around a household appliances developer who accidentally used a missing government R&D advanced microchip and AI that can search everyone's private information."
 datepublished = "2020-11-10"
 categories = ["Romance", "Comedy", "Drama", "Sci-fi"]
 
@@ -137,7 +137,7 @@ alternatenames = ["Oh Mi Kyeong"]
 sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 +++
 
-「***제발 그 남자 만나지 마요***」 / 「***Please Don't Date Him***」 is romantic comedy done right. There are many shows categorised as "RomCom" over the years and very few deserving of this label. 「Please Don't Date Him」 is one of the few exception as it brings out genuine laughter in every episode while building on the romantic relationship of the characters.
+《***제발 그 남자 만나지 마요***》 / 《***Please Don't Date Him***》 is romantic comedy done right. There are many shows categorised as "RomCom" over the years and very few deserving of this label. 《Please Don't Date Him》 is one of the few exception as it brings out genuine laughter in every episode while building on the romantic relationship of the characters.
 
 <!--more-->
 
@@ -151,7 +151,7 @@ Working on an Artificial Intelligence refrigerator with voice activated features
 
 One day, Jung Kook-hee, a firefighter, with no social media record, whom the program couldn't analyze, shows up. Ji-seong is skeptical about him, as there is no trace of his past on the internet.[^a]
 
-[^a]: Wikipedia: [「Please Don't Date Him」 synopsis](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《Please Don't Date Him》 synopsis](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## Story
 
@@ -159,7 +159,7 @@ The literary device used for the plot was properly used and was not just a liter
 
 ## Performance
 
-「Song Ha Yoon」, who played "Seo Ji Sung" did very well in portraying an A.I. programmer yet still "just a girl, standing in front of a boy, asking him to love her" (to borrow from 「Notting Hill」). I also love how they chose a woman as a programmer in this show debunking the stereotypes [1] programming is for men; and [2] girl programmers does not have a love life.
+《Song Ha Yoon》, who played "Seo Ji Sung" did very well in portraying an A.I. programmer yet still "just a girl, standing in front of a boy, asking him to love her" (to borrow from 《Notting Hill》). I also love how they chose a woman as a programmer in this show debunking the stereotypes [1] programming is for men; and [2] girl programmers does not have a love life.
 
 {{< image
   type="image"
@@ -172,8 +172,8 @@ The literary device used for the plot was properly used and was not just a liter
   linkrel="noopener"
 
   title="Please Don't Date Him (2020)"
-  caption="「Song Ha Yoon」 (left); 「Gong Min Jung」 (right)"
-  alt="Please Don't Date Him (2020) 「Song Ha Yoon」 (left); 「Gong Min Jung」 (right)"
+  caption="《Song Ha Yoon》 (left); 《Gong Min Jung》 (right)"
+  alt="Please Don't Date Him (2020) 《Song Ha Yoon》 (left); 《Gong Min Jung》 (right)"
 
   attribalign=""
 
@@ -208,7 +208,7 @@ It's sad that they only planned a total of ten (10) episodes, they could have ex
   endtime=""
 
   title="[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
-  caption="「Please Don't Date Him」 trailer"
+  caption="《Please Don't Date Him》 trailer"
   inlanguage="ko"
 
   datecreated=""

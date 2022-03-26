@@ -1,9 +1,9 @@
 +++
-title = "「경이로운 소문」 비평"
+title = "《경이로운 소문》 비평"
 description = "가족, 우정, 용서 및 두 번째 기회에 대한 이야기."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-25T17:20:30"
-lastmod = "2021-01-25T17:20:30"
+date = "2021-01-25T17:20:30+09:00"
+lastmod = "2021-01-25T17:20:30+09:00"
 
 #aliases = [""]
 slug = "경이로운 소문 The Uncanny Counter (2020)"
@@ -66,7 +66,7 @@ name = "경이로운 소문"
 alternatenames = ["The Uncanny Counter"]
 sameas = ["https://en.wikipedia.org/wiki/The_Uncanny_Counter", "https://www.imdb.com/title/tt13273826"]
 countryoforigin = "Korea"
-description = "「경이로운 소문」(2020) 시즌 1은 장이의 「경이로운 소문」(2018)이라는 제목의 웹툰 (디지털 한국 만화)을 실사로 각색 한 작품입니다. 악령을 사냥하는 카운터로 「조병규」, 「유준상」, 「김세정」, 「염 혜란」, 「안석환」이 출연한다."
+description = "《경이로운 소문》(2020) 시즌 1은 장이의 《경이로운 소문》(2018)이라는 제목의 웹툰 (디지털 한국 만화)을 실사로 각색 한 작품입니다. 악령을 사냥하는 카운터로 《조병규》, 《유준상》, 《김세정》, 《염 혜란》, 《안석환》이 출연한다."
 datepublished = "2020-11-28"
 categories = ["Action", "Drama", "Supernatural", "Paranormal"]
 
@@ -145,7 +145,7 @@ alternatenames = ["Yoo Seon Dong"]
 sameas = ["https://www.imdb.com/name/nm1602570"]
 +++
 
-「***경이로운 소문***」(2020) 시즌 1은 장이의 「경이로운 소문」(2018)이라는 제목의 웹툰 ( "디지털 한국 만화")을 실사로 각색 한 작품입니다. 악령을 사냥하는 카운터로 「조병규」, 「유준상」, 「김세정」, 「염 혜란」, 「안석환」이 출연한다.
+《***경이로운 소문***》(2020) 시즌 1은 장이의 《경이로운 소문》(2018)이라는 제목의 웹툰 ( "디지털 한국 만화")을 실사로 각색 한 작품입니다. 악령을 사냥하는 카운터로 《조병규》, 《유준상》, 《김세정》, 《염 혜란》, 《안석환》이 출연한다.
 
 <!--more-->
 
@@ -157,7 +157,7 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
 
 어느 날, 네 번째 장철중 카운터가 강력한 "레벨 3"악령과의 전투에서 살 해당합니다. 그의 영혼이 살인자에게 마비되자 Yung의 파트너 Wi-gen은 새로운 혼수 상태에 빠진 인간을 찾기 위해 고군분투합니다. 놀랍게도 그녀는 장애에도 불구하고 완벽하게 건강하고 살아있는 고등학생 소문에게 빠르게 이끌린 다. 위젠이 그를 사로 잡자마자 알지 못하는 문은 몸의 기괴한 변화를 알아 차리고 꿈속에서 위젠을보기 시작한다. 머지 않아 문은 언니의 국수에서 답을 찾고, 고철 중의 후임자가되면서 피에 굶주린 악마와 싸우고, 과거와 다시 연결하고, 대대적 재개발 뒤에 숨겨진 추악한 진실을 밝혀내는 스릴 넘치는 여정에 빠져 든다. 정진 프로젝트.[^a]
 
-[^a]: Wikipedia: [「경이로운 소문」 개요](https://en.wikipedia.org/wiki/The_Uncanny_Counter#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《경이로운 소문》 개요](https://en.wikipedia.org/wiki/The_Uncanny_Counter#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 스토리와 퍼포먼스
 
@@ -174,8 +174,8 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   linkrel="noopener external nofollow"
 
   title="경이로운 소문 (2020)"
-  caption="(좌에서 우로) 「김세정」, 「유준상」, 「안석환」, 「조병규」, 「염혜란」"
-  alt="경이로운 소문 (2020) (좌에서 우로) 「김세정」, 「유준상」, 「안석환」, 「조병규」, 「염혜란」"
+  caption="(좌에서 우로) 《김세정》, 《유준상》, 《안석환》, 《조병규》, 《염혜란》"
+  alt="경이로운 소문 (2020) (좌에서 우로) 《김세정》, 《유준상》, 《안석환》, 《조병규》, 《염혜란》"
 
   attribalign=""
 
@@ -210,7 +210,7 @@ sameas = ["https://www.imdb.com/name/nm1602570"]
   endtime=""
 
   title="The Uncanny Counter | Official Trailer | Netflix [ENG SUB]"
-  caption="「경이로운 소문」 예고편"
+  caption="《경이로운 소문》 예고편"
   inlanguage="ko"
 
   datecreated=""

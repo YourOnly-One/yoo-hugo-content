@@ -2,8 +2,8 @@
 title = "YourOnly.One Best2022新年のお祝い"
 description = "どの2022年の新年のお祝いが最高でしたか？"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-01-01T23:59:59"                                        # manually adjust to local timezone
-lastmod = "2022-01-01T23:59:59"                                        # manually adjust to local timezone
+date = "2022-01-01T23:59:59+09:00"                                        # manually adjust to local timezone
+lastmod = "2022-01-01T23:59:59+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "2022-best-new-year"
@@ -110,7 +110,7 @@ Let's say goodbye to this year as one, and all agree that the new decade starts 
 
 ### ドバイ、アラブ首長国連邦
 
-「世界で最も高いビル、ブルジュハリファからの通常の花火ショー」として簡単に却下されますが、ドバイは確かに自分たちをしのぐ方法を知っています。
+《世界で最も高いビル、ブルジュハリファからの通常の花火ショー》として簡単に却下されますが、ドバイは確かに自分たちをしのぐ方法を知っています。
 {{< video
   id="VHHDw3EUJGA"
   isplaylist=false

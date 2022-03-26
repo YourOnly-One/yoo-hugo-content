@@ -1,9 +1,9 @@
 +++
-title = "「알파 게이트웨이」 병렬 세계 설명"
-description = "「알파 게이트웨이」의 평행 세계가 헷갈 리나요?" # For Schema.org; OpenGraph; Twitter Cards
+title = "《알파 게이트웨이》 병렬 세계 설명"
+description = "《알파 게이트웨이》의 평행 세계가 헷갈 리나요?" # For Schema.org; OpenGraph; Twitter Cards
 
-date = "2019-02-25T17:46:12"
-#lastmod = "2019-02-25T17:46:12"
+date = "2019-02-25T17:46:12+09:00"
+#lastmod = "2019-02-25T17:46:12+09:00"
 
 #aliases = [""]
 slug = "Alpha Gateway (2018) Parallel Worlds Explained"
@@ -43,7 +43,7 @@ videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                        
   #rel = "noopener external nofollow"
 +++
 
-「알파 게이트웨이」에는 여러 개의 병렬 세계가 있으며, 병렬 세계를 구별하는 방법에 익숙하지 않으면 혼란 스러울 수 있습니다. 이 게시물에서는 Jane이 방문한 평행 세계에 대한 가장 정확한 분석이라고 생각하는 것을 제시합니다.
+《알파 게이트웨이》에는 여러 개의 병렬 세계가 있으며, 병렬 세계를 구별하는 방법에 익숙하지 않으면 혼란 스러울 수 있습니다. 이 게시물에서는 Jane이 방문한 평행 세계에 대한 가장 정확한 분석이라고 생각하는 것을 제시합니다.
 
 <!--more-->
 
@@ -92,7 +92,7 @@ Jane "Delta"의 위치는 누구나 추측 할 수 있습니다. 그녀는 여�
   endtime=""
 
   title="Alpha Gateway - Official Trailer Sci Fi Thriller Movie HD"
-  caption="「알파 게이트웨이」 예고편"
+  caption="《알파 게이트웨이》 예고편"
   inlanguage="en"
 
   datecreated=""

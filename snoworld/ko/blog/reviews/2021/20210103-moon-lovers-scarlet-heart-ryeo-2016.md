@@ -3,8 +3,8 @@ title = "달의 연인 - 보보경심 려 비평"
 description = "2016 년 이후 가장 높은 평가를받은 한국 드라마 중 하나에 대한 리뷰, 달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "2016 년 이후 가장 높은 평가를받은 한국 드라마 중 하나에 대한 리뷰, 달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo."																											# for summary text in list displays
 
-date = "2021-01-03T10:34:40"
-lastmod = "2021-01-03T10:34:40"
+date = "2021-01-03T10:34:40+09:00"
+lastmod = "2021-01-03T10:34:40+09:00"
 
 #aliases = [""]
 slug = "달의 연인 - 보보경심 려 Moon Lovers: Scarlet Heart Ryeo (2016)"
@@ -144,13 +144,13 @@ alternatenames = ["Kim Kyu Tae", "Gim Gyu Tae", "Kim Kyoo Tae"]
 sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/name/nm2153361/?ref_=ttfc_fc_dr1"]
 +++
 
-「**달의 연인-보보 경심 려**」또는 「**Moon Lovers : Scarlet Heart Ryeo**」는 2016 년부터 높은 평가를 받고있는 한국 드라마 중 하나입니다. 」, 「해수」, 이준기는 「왕소」, 강 하늘은 「왕욱」, 홍종현은 「왕요」」를 주인공으로했다.
+《**달의 연인-보보 경심 려**》또는 《**Moon Lovers : Scarlet Heart Ryeo**》는 2016 년부터 높은 평가를 받고있는 한국 드라마 중 하나입니다. 」, 《해수》, 이준기는 《왕소》, 강 하늘은 《왕욱》, 홍종현은 《왕요》」를 주인공으로했다.
 
 이 시리즈는 Tong Hua 의 중국 소설 《步步惊心》 (Bù bù jīng xīn) 를 한국 TV로 각색 한 것입니다.
 
 <!--more-->
 
-> **「花より男子」 (「Hana Yori Dango」) / 「Meteor Garden」 과 비슷하지만 정치적 형제 자매가 경쟁하는 쇼**
+> **《花より男子》 (《Hana Yori Dango》) / 《Meteor Garden》 과 비슷하지만 정치적 형제 자매가 경쟁하는 쇼**
 
 ## 이야기
 
@@ -209,7 +209,7 @@ sameas = ["https://en.wikipedia.org/wiki/Kim_Kyu-tae", "https://www.imdb.com/nam
   endtime=""
 
   title="Scarlet Heart : Ryeo Trailer"
-  caption="「달의 연인 - 보보경심 려」 (2016) 예고편"
+  caption="《달의 연인 - 보보경심 려》 (2016) 예고편"
   inlanguage="ko"
 
   datecreated=""

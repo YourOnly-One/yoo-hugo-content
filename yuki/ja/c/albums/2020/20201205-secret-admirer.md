@@ -1,5 +1,5 @@
 +++
-title = "[ミックス] Secret Admirer (「隠れファン」)"
+title = "[ミックス] Secret Admirer (《隠れファン》)"
 description = "《Secret Admirer》は、私たちの心を奪った人への愛と誠実さを約束する曲を集めたものです。 これらは私たちが彼/彼女に伝えたいメッセージのある曲です。"                          # IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "《Secret Admirer》は、私たちの心を奪った人への愛と誠実さを約束する曲を集めたものです。 これらは私たちが彼/彼女に伝えたいメッセージのある曲です。"                                                      # for summary text in list displays
 
@@ -50,7 +50,7 @@ avatar = "https://rsc.youronly.one/img/y/Yūgen_Bard-logo-01-1500x.webp"
 
 <div class="responsive_embedframe"><iframe src="https://open.spotify.com/embed/playlist/43emZgYoSDRR277EyIA8p5" sandbox="allow-same-origin allow-scripts" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe></div>
 
-Spotifyアカウントのプレイリストを「フォロー」/「いいね」することを忘れないでください！
+Spotifyアカウントのプレイリストを《フォロー》/《いいね》することを忘れないでください！
 
 - [プレイリストリンク（ブラウザ）](https://open.spotify.com/playlist/43emZgYoSDRR277EyIA8p5?si=nRgRUD8qSm-jRB9w5AyPrQ)
 - [Spotifyアプリで開く](spotify:playlist:43emZgYoSDRR277EyIA8p5)

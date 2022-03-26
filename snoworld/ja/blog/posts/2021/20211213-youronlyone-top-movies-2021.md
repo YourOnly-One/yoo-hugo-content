@@ -2,8 +2,8 @@
 title = "YourOnly.Oneトップ映画2021年"
 description = "YourOnly.Oneトップ10映画2021年"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
-lastmod = "2021-12-14T23:17:08"                                        # manually adjust to local timezone
+date = "2021-12-14T23:17:08+09:00"                                        # manually adjust to local timezone
+lastmod = "2021-12-14T23:17:08+09:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "youronlyone-top-movies-2021"
@@ -51,6 +51,7 @@ type = "article"                                                           # art
 
 ## 10. ブラックウィドウ（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -58,7 +59,7 @@ type = "article"                                                           # art
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)*poster.jpg#/media/File:Black_Widow*(2021_film)_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:Black_Widow_(2021_film)_poster.jpg#/media/File:Black_Widow_(2021_film)_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="ブラックウィドウ（2021）"
@@ -75,6 +76,7 @@ type = "article"                                                           # art
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***ブラックウィドウ***は、同じ名前のキャラクターが登場する**マーベルコミック**をベースにした2021年のアメリカのスーパーヒーロー映画です。 **マーベルスタジオ**によって制作され、**ウォルトディズニースタジオモーションピクチャーズ**によって配布されたこの映画は、*マーベルシネマティックユニバース*（MCU）の24番目の映画です。 この映画は、ケイトショートランドがエリックピアソンの脚本から監督し、スカーレットヨハンソンをナターシャロマノフ/ブラックウィドウ、フローレンスピュー、デヴィッドハーバー、O-Tファグベンレ、オルガキュリレンコ、ウィリアムハート、レイウィンストン、レイチェルワイズとして主演しています。 *キャプテンアメリカ：シビルウォー*（2016）のイベントの後に設定されたこの映画では、ロマノフが逃走し、彼女の過去に立ち向かうことを余儀なくされています。[^a]
 
@@ -95,7 +97,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   linkrel="noopener external nofollow"
 
   title="Marvel Studios’ Black Widow | New Trailer"
-  caption="「私たちは未完成のビジネスを持っています。」 劇場または7月9日のプレミアアクセス付きのDisney +で、マーベルスタジオの「ブラックウィドウ」をご覧ください。追加料金が必要です。"
+  caption="《私たちは未完成のビジネスを持っています。》 劇場または7月9日のプレミアアクセス付きのDisney +で、マーベルスタジオの《ブラックウィドウ》をご覧ください。追加料金が必要です。"
   inlanguage="en"
 
   datepublished="2021-04-04"
@@ -113,6 +115,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ## 9. インフィニット（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -120,7 +123,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/0/07/Infinite_%282021_film%29_release_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)*release_poster.jpeg#/media/File:Infinite*(2021_film)_release_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Infinite_(2021_film)_release_poster.jpeg#/media/File:Infinite_(2021_film)_release_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="インフィニット（2021）"
@@ -137,6 +140,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***Infinite***は、アントワーン・フーク監督の2021年のアメリカのSFアクション映画です。 イアン・ショアは、トッド・スタインの物語に基づいて脚本を書きました。トッド・スタインは、D。エリック・マイクランツの2009年の小説*The Reincarnationist Papers*を採用しました。 映画スターのマーク・ウォールバーグ、キウェテル・イジョフォー、ソフィー・クックソン、ジェイソン・マンツォーカス、ルパート・フレンド、トビー・ジョーンズ、ディラン・オブライエン。[^b]
 
@@ -202,7 +206,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ***トムクランシーのウィズアウトリモース***は、**トムクランシー**による同名の1993年の小説に基づいた2021年のアメリカのアクションスリラー映画です。 監督はステファノ・ソリマ、脚本はテイラー・シェリダンとウィル・ステープルズ、主演はマイケル・B・ジョーダン、ジェイミー・ベル、ジョディ・ターナー・スミス、ローレン・ロンドン、ブレット・ゲルマン、ジェイコブ・シピオ、ジャック・ケシー、コールマン・ドミンゴ、ガイ・ピアース。 プロットは、妊娠中の妻と部隊のメンバーがロシアの殺し屋に殺された後、復讐の道を歩み始めた米海軍シールのジョン・ケリーに続く。[^c]
 
-これは2021年のもう1つの過小評価された映画です。*RottenTomtatoes*の188票から44％の評価を受け、*IMDb*の51,309票から10の評価のうち5.8を獲得しました。 この映画は、**トムクランシー**による*容赦なく*に基づいています。 レビューは「一般的すぎる」から「*ジェイソンボーン*をコピーする試み」まで多岐にわたりましたが、1993年にオリジナルの小説がどのように出版され、それ以来映画の適応が開発されているかを考えると、後者は不公平です。
+これは2021年のもう1つの過小評価された映画です。*RottenTomtatoes*の188票から44％の評価を受け、*IMDb*の51,309票から10の評価のうち5.8を獲得しました。 この映画は、**トムクランシー**による*容赦なく*に基づいています。 レビューは《一般的すぎる》から《*ジェイソンボーン*をコピーする試み》まで多岐にわたりましたが、1993年にオリジナルの小説がどのように出版され、それ以来映画の適応が開発されているかを考えると、後者は不公平です。
 
 私は言う、評価を無視して、この映画を見てください。 最後のシーンを忘れないでください。
 
@@ -237,6 +241,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ## 7. 小説家の暗殺（2021年）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatright"
@@ -244,7 +249,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/e/ec/Writer%27s_Odyssey_%282021_film%29_poster.jpeg"
-  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)*poster.jpeg#/media/File:Writer's_Odyssey*(2021_film)_poster.jpeg"
+  link="https://en.wikipedia.org/wiki/File:Writer%27s_Odyssey_(2021_film)_poster.jpeg#/media/File:Writer's_Odyssey_(2021_film)_poster.jpeg"
   linkrel="noopener external nofollow"
 
   title="小説家の暗殺（2021年）"
@@ -261,6 +266,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***ライターズオデッセイ***（中国語：***刺杀小説明家***）は、ルーヤンが監督、脚本を務め、寧浩がプロデュースした2021年の中国のアクションアドベンチャーファンタジー映画です。 この映画は、2021年2月12日の旧正月に公開されました。 この映画は、**双雪濤**の同名の小説とその続編*ゴッドレイヤー*に基づいています。[^d]娘を見つけるのに必死で、父親は小説が現実に影響を与えているファンタジー作家を暗殺することに同意しました -世界、特にハイテク大物の人生はバランスにかかっています。 引き換えに、ハイテクの大物は彼に彼の娘の場所を教えることを約束しました。 後で、彼は彼が最初に言われたよりも小説についてもっとあることに気づきました。
 
@@ -303,6 +309,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
 
 ## 6. トゥモローウォー（2021）
 
+<!-- markdownlint-disable -->
 {{< image
   width="250px"
   class="obj_floatleft"
@@ -310,7 +317,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   isrepresentativeofpage=false
 
   src="https://upload.wikimedia.org/wikipedia/en/6/60/The_Tomorrow_War_%282021_film%29_official_theatrical_poster.jpg"
-  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)*official_theatrical_poster.jpg#/media/File:The_Tomorrow_War*(2021_film)_official_theatrical_poster.jpg"
+  link="https://en.wikipedia.org/wiki/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg#/media/File:The_Tomorrow_War_(2021_film)_official_theatrical_poster.jpg"
   linkrel="noopener external nofollow"
 
   title="トゥモローウォー（2021）"
@@ -327,6 +334,7 @@ COVID-19のせいで、無数の映画のプレミアが遅れ、そのうちの
   attriburl=""
   attribrel="noopener external nofollow"
 >}}
+<!-- markdownlint-enable -->
 
 ***トゥモローウォー***は、クリスマッケイ監督の2021年のアメリカのミリタリーSFアクション映画です。 この写真は、デヴィッドエリソン、ダナゴールドバーグ、ドングレンジャー、デヴィッドS.ゴイヤー、ジュールスデイリー、アダムコルブレナーによって制作され、ザックディーンによって書かれました。 アンサンブルキャストには、クリスプラット、イボンヌストラホフスキー、J。K。シモンズ、ベティギルピン、サムリチャードソン、エドウィンホッジ、ジャスミンマシューズ、ライアンキエラアームストロング、キースパワーズが出演しています。 それは、エイリアンの軍隊と戦うために未来に送られた現在の兵士と民間人の混合に続く。[^e]
 
@@ -516,7 +524,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attribrel="noopener external nofollow"
 >}}
 
-***るろうに剣心：決勝***（日本語：***るろうに剣心最終章：決勝***）は、第4回目となる同名のマンガシリーズをベースにした2021年の日本の実写映画です。 2014年の*るろうに剣心伝説の終焉*に続く*るろうに剣心*映画シリーズの いくつかのストーリー要素は異なりますが、この映画はマンガシリーズの最終回を適応させています。 この映画は、映画シリーズの第5作目と最終回の「るろうに剣心最終編」と同時に制作されました。これは、「決勝戦」の直接の前編であり、フラッシュバックシーンは「始まり」から取られています。[^h]
+***るろうに剣心：決勝***（日本語：***るろうに剣心最終章：決勝***）は、第4回目となる同名のマンガシリーズをベースにした2021年の日本の実写映画です。 2014年の*るろうに剣心伝説の終焉*に続く*るろうに剣心*映画シリーズの いくつかのストーリー要素は異なりますが、この映画はマンガシリーズの最終回を適応させています。 この映画は、映画シリーズの第5作目と最終回の《るろうに剣心最終編》と同時に制作されました。これは、《決勝戦》の直接の前編であり、フラッシュバックシーンは《始まり》から取られています。[^h]
 
 アニメやマンガのファンなら、*るろうに剣心*、または西洋で知られている*サムライX*は、実写版をすでに見ているはずです。 *るろうに剣心：決勝戦*は、雪代縁が緋村剣心に復讐した物語です。 年代順に言えば、彼らはこの映画で完全に一周し、実写の物語の真の終わりです。 5本すべての映画を再視聴する場合は、*ファイナル*が最後になるようにしてください。
 
@@ -533,7 +541,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   linkrel="noopener external nofollow"
 
   title="RUROUNI KENSHIN: THE FINAL – Official Main Trailer"
-  caption="累計興行収入が125億円を超える大ヒット映画シリーズがついに終了！ 2021年、このシリーズの最大のクライマックスは、日本の映画の歴史を作ります！ 剣心の伝説は続き、「るろうに剣心」のすべてが最終的に公開されます！ 始まり：ケンシンがどのようにして傷を負ったのか。 決勝：見事なシリーズクライマックス。"
+  caption="累計興行収入が125億円を超える大ヒット映画シリーズがついに終了！ 2021年、このシリーズの最大のクライマックスは、日本の映画の歴史を作ります！ 剣心の伝説は続き、《るろうに剣心》のすべてが最終的に公開されます！ 始まり：ケンシンがどのようにして傷を負ったのか。 決勝：見事なシリーズクライマックス。"
   inlanguage="ja"
 
   datepublished="2021-03-10"
@@ -576,7 +584,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   attribrel="noopener external nofollow"
 >}}
 
-***るろうに剣心：始まり***（日本語：***るろうに剣心最終章：始まり***）は、同名の漫画シリーズを基にした2021年の日本の実写映画です。 『るろうに剣心』シリーズの最終回となる第5弾で、緋村剣心の暗殺者「ひときりばっとさい」を描いた前編であり、雪代巴という女性との関係を探る。 この映画は*るろうに剣心最終*と同時に制作されたため、前者のイベントは後者で直接参照され、*始まり*で発生したイベントのために巴の兄弟の雪代縁が登場します。[^i]
+***るろうに剣心：始まり***（日本語：***るろうに剣心最終章：始まり***）は、同名の漫画シリーズを基にした2021年の日本の実写映画です。 『るろうに剣心』シリーズの最終回となる第5弾で、緋村剣心の暗殺者《ひときりばっとさい》を描いた前編であり、雪代巴という女性との関係を探る。 この映画は*るろうに剣心最終*と同時に制作されたため、前者のイベントは後者で直接参照され、*始まり*で発生したイベントのために巴の兄弟の雪代縁が登場します。[^i]
 
 *るろうに剣心：始まり*は、5番目で最後の実写映画ですが、実際には適応シリーズの始まりです。 緋村剣心がひときりバトウサイとして、雪代縁の姉である雪代巴と出会った経緯を物語っています。 5本すべての映画を再視聴することを計画している場合は、適切な名前の*The Beginning*から始めて時系列で視聴することをお勧めします。
 
@@ -593,7 +601,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   linkrel="noopener external nofollow"
 
   title="RUROUNI KENSHIN: THE BEGINNING – Official Main Trailer"
-  caption="累計興行収入が125億円を超える大ヒット映画シリーズがついに終了！ 2021年、このシリーズの最大のクライマックスは、日本の映画の歴史を作ります！ 剣心の伝説は続き、「るろうに剣心」のすべてが最終的に公開されます！ 始まり：ケンシンがどのようにして傷を負ったのか。 決勝：見事なシリーズクライマックス。"
+  caption="累計興行収入が125億円を超える大ヒット映画シリーズがついに終了！ 2021年、このシリーズの最大のクライマックスは、日本の映画の歴史を作ります！ 剣心の伝説は続き、《るろうに剣心》のすべてが最終的に公開されます！ 始まり：ケンシンがどのようにして傷を負ったのか。 決勝：見事なシリーズクライマックス。"
   inlanguage="ja"
 
   datepublished="2021-05-17"
@@ -640,7 +648,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
 
 物語は典型的な西洋の宇宙SFとして始まりました。 人類は生命を脅かす状況に遭遇しました、そして、唯一の方法は宇宙空間にありました。 ゆっくりと完璧にストーリーテリングとプロットの韓国の署名が浮上し、それは非常に興味深いものになり始めました。 *スペーススウィーパーズ*は、人間であるあなたと私、そして私たちがそれぞれの冒険で築く関係についての物語です。 私たちの人間性。 私たちの弱さ。 私たちが毎日直面している課題と、最終的に勝利する（またはしない）方法。
 
-「スペース・スウィーパーズ」で話された言語と国籍を推測できますか？
+《スペース・スウィーパーズ》で話された言語と国籍を推測できますか？
 
 [^j]: Wikipedia: [Space Sweepers](https://en.wikipedia.org/wiki/Space_Sweepers)
 
@@ -725,7 +733,7 @@ Google検索での13,725票から5つ星のうち4.6を獲得しました。 *IM
   linkrel="noopener external nofollow"
 
   title="Dune"
-  caption="神話的で感情に訴えるヒーローの旅「デューン」は、彼の理解を超えた大きな運命に生まれた才能あふれる才能あふれる若者、ポールアトレイデスの物語です。彼は、彼の未来を確実にするために、宇宙で最も危険な惑星に旅しなければなりません。 家族と彼の人々。"
+  caption="神話的で感情に訴えるヒーローの旅《デューン》は、彼の理解を超えた大きな運命に生まれた才能あふれる才能あふれる若者、ポールアトレイデスの物語です。彼は、彼の未来を確実にするために、宇宙で最も危険な惑星に旅しなければなりません。 家族と彼の人々。"
   inlanguage="en"
 
   datepublished="2021-07-22"

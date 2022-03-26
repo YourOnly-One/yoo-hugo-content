@@ -57,7 +57,7 @@ In 1928, Pedro Flores, a Filipino immigrant to the United States of America, ope
 
 The principal distinction between the Filipino design popularized by Flores and more primitive yo-yos is in the way the yo-yo is strung. In older (and some remaining inexpensive) yo-yo designs, the string is tied to the axle using a knot. With this technique, the yo-yo just goes back and forth; it returns easily, but it is impossible to make it sleep. In Flores's design, one continuous piece of string, double the desired length, is twisted around something to produce a loop at one end which is fitted around the axle. Also termed a *looped slip-string*, this seemingly minor modification allows for a far greater variety and sophistication of motion, thanks to increased stability and suspension of movement during free spin.[^a]
 
-[^a]: Wikipedia: [「Yo-yo」](https://en.wikipedia.org/wiki/Yo-yo#Etymology_and_history); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《Yo-yo》](https://en.wikipedia.org/wiki/Yo-yo#Etymology_and_history); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 [^b]: Merriam-Webster: [History and Etymology for yo-yo](https://www.merriam-webster.com/dictionary/yo-yo)
 
 {{< image

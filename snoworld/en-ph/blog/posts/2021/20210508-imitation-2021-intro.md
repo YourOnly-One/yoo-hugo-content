@@ -1,5 +1,5 @@
 +++
-title = "What K-Pop Idols Go Through According to 「Imitation」"
+title = "What K-Pop Idols Go Through According to 《Imitation》"
 description = "The road to becoming a K-Pop idol is not as easy as most assume."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-05-08T13:54:00+08:00"
@@ -76,7 +76,7 @@ name = "이미테이션"
 alternatenames = ["Imitation"]
 sameas = ["https://en.wikipedia.org/wiki/Imitation_(TV_series)", "https://www.imdb.com/title/tt14371376/"]
 countryoforigin = "Korea"
-description = "「Imitation」 is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see."
+description = "《Imitation》 is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see."
 datepublished = "2021-05-07"
 categories = ["Drama", "K-pop", "Romance"]
 
@@ -160,7 +160,7 @@ alternatenames = ["Han Hyun Hee"]
 sameas = ["https://www.imdb.com/name/nm10727746/"]
 +++
 
-「**Imitation**」 is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see. It stars 「Jeong Ji So」 as 「Lee Ma Ha」, 「Lee Jun Young」 as 「Kwon Ryok」, 「Park Ji Yeon」 as 「La Li Ma」, 「Jeong Yun Ho」 as 「Lee Yoo Jin」, together with 「Chani」 as 「Lee Eun Jo」, 「Im Na Young」 as 「Shim Hyun Ji」, and 「Kim Min Seo」 as 「Yu Ri Ah」.
+《**Imitation**》 is a 12-episode drama about K-Pop idols. It depicts the various challenges and experiences idols go through from training to finally being chosen to debut, a world that fans rarely see. It stars 《Jeong Ji So》 as 《Lee Ma Ha》, 《Lee Jun Young》 as 《Kwon Ryok》, 《Park Ji Yeon》 as 《La Li Ma》, 《Jeong Yun Ho》 as 《Lee Yoo Jin》, together with 《Chani》 as 《Lee Eun Jo》, 《Im Na Young》 as 《Shim Hyun Ji》, and 《Kim Min Seo》 as 《Yu Ri Ah》.
 
 <!--more-->
 
@@ -168,17 +168,17 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 
 ## Synopsis
 
-「Lee Ma Ha」 is a member of the new K-pop girl group 「Tea Party」, formed by 「Ji Hak」, who was once the manager of the famous boy group 「Shax」, but resigned after the sudden disappearance of member 「Eun Jo」 in the middle of a concert. Prior to joining 「Tea Party」, 「Ma Ha」 was a member of the group 「Omega III」, which disbanded on its debut day due to a tragic incident involving a former trainee at the group's company. This led 「Ma Ha」 to support herself by performing as an impersonator of the popular solo singer 「La Li Ma」, gaining her public notoriety.[^a]
+《Lee Ma Ha》 is a member of the new K-pop girl group 《Tea Party》, formed by 《Ji Hak》, who was once the manager of the famous boy group 《Shax》, but resigned after the sudden disappearance of member 《Eun Jo》 in the middle of a concert. Prior to joining 《Tea Party》, 《Ma Ha》 was a member of the group 《Omega III》, which disbanded on its debut day due to a tragic incident involving a former trainee at the group's company. This led 《Ma Ha》 to support herself by performing as an impersonator of the popular solo singer 《La Li Ma》, gaining her public notoriety.[^a]
 
-Starting anew with 「Tea Party」, 「Ma Ha」 finds herself repeatedly crossing paths with 「Kwon Ryok」, the center and most popular member of 「Shax」 who is still haunted by 「Eun Jo」's disappearance three years later. While 「Ryok」 initially dislikes 「Ma Ha」 due to her imitation of 「Li Ma」, the two eventually begin to grow interested in one another and start a secret relationship that could put both of their careers in jeopardy.[^a]
+Starting anew with 《Tea Party》, 《Ma Ha》 finds herself repeatedly crossing paths with 《Kwon Ryok》, the center and most popular member of 《Shax》 who is still haunted by 《Eun Jo》's disappearance three years later. While 《Ryok》 initially dislikes 《Ma Ha》 due to her imitation of 《Li Ma》, the two eventually begin to grow interested in one another and start a secret relationship that could put both of their careers in jeopardy.[^a]
 
-Meanwhile, 「Lee Yu Jin」, 「Ma Ha」's loyal friend who is the center of the rising boy group 「Sparkling」, has been in love with 「Ma Ha」 since their idol trainee days. When he notices the budding relationship between 「Ma Ha」 and 「Ryok」, he determines to protect her from 「Ryok」 and lead 「Sparkling」 to beat out 「Shax」 as the most popular boy group in the industry.[^a]
+Meanwhile, 《Lee Yu Jin》, 《Ma Ha》's loyal friend who is the center of the rising boy group 《Sparkling》, has been in love with 《Ma Ha》 since their idol trainee days. When he notices the budding relationship between 《Ma Ha》 and 《Ryok》, he determines to protect her from 《Ryok》 and lead 《Sparkling》 to beat out 《Shax》 as the most popular boy group in the industry.[^a]
 
-[^a]: Wikipedia: [「Imitation」 synopsis](https://en.wikipedia.org/wiki/Imitation_(TV_series)#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《Imitation》 synopsis](https://en.wikipedia.org/wiki/Imitation_(TV_series)#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## Story
 
-This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of K-Pop or Korean Music. It tells the story K-Pop idols went through when they dreamed of debuting in the industry and the life they experience as an idol that the public rarely sees. This was the tone they established in episode 1 as 「Lee Ma Ha」, an aspiring idol, spent her teenage years training hard and non-stop just to be selected to debut on the elusive stage of Korean Music.
+This new 2021 Korean Drama entitled 《Imitation》 should appeal to all fans of K-Pop or Korean Music. It tells the story K-Pop idols went through when they dreamed of debuting in the industry and the life they experience as an idol that the public rarely sees. This was the tone they established in episode 1 as 《Lee Ma Ha》, an aspiring idol, spent her teenage years training hard and non-stop just to be selected to debut on the elusive stage of Korean Music.
 
 {{< image
   width="50%"
@@ -190,8 +190,8 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 sets her goal"
-  alt="Imitation (2021) 「Lee Ma Ha」 sets her goal"
+  caption="《Lee Ma Ha》 sets her goal"
+  alt="Imitation (2021) 《Lee Ma Ha》 sets her goal"
 
   attribalign=""
 
@@ -214,8 +214,8 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 dreams of debuting in a grand stage"
-  alt="Imitation (2021) 「Lee Ma Ha」 dreams of debuting in a grand stage"
+  caption="《Lee Ma Ha》 dreams of debuting in a grand stage"
+  alt="Imitation (2021) 《Lee Ma Ha》 dreams of debuting in a grand stage"
 
   attribalign=""
 
@@ -240,8 +240,8 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 prepares to run"
-  alt="Imitation (2021) 「Lee Ma Ha」 prepares to run"
+  caption="《Lee Ma Ha》 prepares to run"
+  alt="Imitation (2021) 《Lee Ma Ha》 prepares to run"
 
   attribalign=""
 
@@ -264,8 +264,8 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 running"
-  alt="Imitation (2021) 「Lee Ma Ha」 running"
+  caption="《Lee Ma Ha》 running"
+  alt="Imitation (2021) 《Lee Ma Ha》 running"
 
   attribalign=""
 
@@ -288,8 +288,8 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 ran more than 11 km"
-  alt="Imitation (2021) 「Lee Ma Ha」 ran more than 11 km"
+  caption="《Lee Ma Ha》 ran more than 11 km"
+  alt="Imitation (2021) 《Lee Ma Ha》 ran more than 11 km"
 
   attribalign=""
 
@@ -304,7 +304,7 @@ This new 2021 Korean Drama entitled 「Imitation」 should appeal to all fans of
 
 ## What is it like to aspire as a K-Pop idol?
 
-In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. Other than the instense training, what are the other challenges aspiring K-Pop idols go through? These are what were revealed in episode 1 of 「Imitation」.
+In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. Other than the instense training, what are the other challenges aspiring K-Pop idols go through? These are what were revealed in episode 1 of 《Imitation》.
 
 {{< image
   type="image"
@@ -317,8 +317,8 @@ In the era of millions of K-Pop idol trainees, only 0.1% are selected to debut. 
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Shax」"
-  alt="Imitation (2021) 「Shax」"
+  caption="《Shax》"
+  alt="Imitation (2021) 《Shax》"
 
   attribalign=""
 
@@ -421,8 +421,8 @@ Being away from your family, especially in special occasions, is very depressing
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 celebrated her birthday away from her family"
-  alt="Imitation (2021) 「Lee Ma Ha」 celebrated her birthday away from her family"
+  caption="《Lee Ma Ha》 celebrated her birthday away from her family"
+  alt="Imitation (2021) 《Lee Ma Ha》 celebrated her birthday away from her family"
 
   attribalign=""
 
@@ -435,7 +435,7 @@ Being away from your family, especially in special occasions, is very depressing
   attribrel="noopener external nofollow"
 >}}
 
-If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular company.
+If that was not enough, 《Lee Ma Ha》's agency sold her to a less popular company.
 
 {{< image
   width="50%"
@@ -447,8 +447,8 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 packing her things"
-  alt="Imitation (2021) 「Lee Ma Ha」 packing her things"
+  caption="《Lee Ma Ha》 packing her things"
+  alt="Imitation (2021) 《Lee Ma Ha》 packing her things"
 
   attribalign=""
 
@@ -471,8 +471,8 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Lee Ma Ha」 packing her things"
-  alt="Imitation (2021) 「Lee Ma Ha」 packing her things"
+  caption="《Lee Ma Ha》 packing her things"
+  alt="Imitation (2021) 《Lee Ma Ha》 packing her things"
 
   attribalign=""
 
@@ -489,7 +489,7 @@ If that was not enough, 「Lee Ma Ha」's agency sold her to a less popular comp
 
 ### Debuting is also an internal process
 
-Regardless if one is a solo act or a group, they have to market themselves within the industry and introduce themselves to their seniors. In a very competitive industry such as K-Pop idol world, getting your seniors to like your music, your act, and them saying something positive about you or your group, will help in exposure and potential success. Like what 「Omega III」 did in episode 1, they even gave a free copy of their single to their seniors.
+Regardless if one is a solo act or a group, they have to market themselves within the industry and introduce themselves to their seniors. In a very competitive industry such as K-Pop idol world, getting your seniors to like your music, your act, and them saying something positive about you or your group, will help in exposure and potential success. Like what 《Omega III》 did in episode 1, they even gave a free copy of their single to their seniors.
 
 {{< image
   width="50%"
@@ -501,8 +501,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Omega III」 debut"
-  alt="Imitation (2021) 「Omega III」 debut"
+  caption="《Omega III》 debut"
+  alt="Imitation (2021) 《Omega III》 debut"
 
   attribalign=""
 
@@ -525,8 +525,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Omega III」 debut"
-  alt="Imitation (2021) 「Omega III」 debut"
+  caption="《Omega III》 debut"
+  alt="Imitation (2021) 《Omega III》 debut"
 
   attribalign=""
 
@@ -551,8 +551,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Omega III」 debut"
-  alt="Imitation (2021) 「Omega III」 debut"
+  caption="《Omega III》 debut"
+  alt="Imitation (2021) 《Omega III》 debut"
 
   attribalign=""
 
@@ -575,8 +575,8 @@ Regardless if one is a solo act or a group, they have to market themselves withi
   linkrel="noopener external nofollow"
 
   title="Imitation (2021)"
-  caption="「Omega III」 debut"
-  alt="Imitation (2021) 「Omega III」 debut"
+  caption="《Omega III》 debut"
+  alt="Imitation (2021) 《Omega III》 debut"
 
   attribalign=""
 
@@ -603,7 +603,7 @@ Respect them. Stop bullying them.
   platform="youtube"
   id="m7WhnM4mU4w"
   title="Official Trailer: Imitation | 仿品 | iQiyi"
-  caption="「Imitation」 trailer"
+  caption="《Imitation》 trailer"
   inlanguage="ko"
   datepublished="2021-04-27"
   attribto="iQIYI 爱奇艺"

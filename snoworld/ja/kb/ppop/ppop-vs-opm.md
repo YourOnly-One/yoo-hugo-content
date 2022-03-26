@@ -158,11 +158,11 @@ type = "article"                                                           # art
 
 マニラサウンド時代の終わり以降、分類としての<span lang="fil">OPM</span>が登場したのは事実です。 1970年代後半には、より独創的なピリピノ音楽が強く求められました。 国の最初の作詞作曲コンクール、メトロマニラポピュラーミュージックフェスティバル（1977）、または略してメトロポップは、より独創的なフィリピン音楽を奨励し、制作するためのプラットフォームになりました。 その時、<span lang="fil">OPM</span>は国の誇りになりました。
 
-<span lang="fil">OPM</span>が時代だとしたら、「<span lang="fil">OPM</span>時代」以前にフィリピン人が作曲したオリジナル音楽はどうでしょうか。 それらは*オリジナルのピリピノ音楽*ではありませんか？
+<span lang="fil">OPM</span>が時代だとしたら、《<span lang="fil">OPM</span>時代》以前にフィリピン人が作曲したオリジナル音楽はどうでしょうか。 それらは*オリジナルのピリピノ音楽*ではありませんか？
 
 ### タガログ語の曲のみのOPMですか？
 
-これは今日でもよくある誤解です。「タガログ語で書かれた曲はOPMです」。 ただし、<span lang="fil">OPM</span>の初期には、タグリッシュ語（タガログ語と英語）とフルイングリッシュの曲がすでにありました。
+これは今日でもよくある誤解です。《タガログ語で書かれた曲はOPMです》。 ただし、<span lang="fil">OPM</span>の初期には、タグリッシュ語（タガログ語と英語）とフルイングリッシュの曲がすでにありました。
 
 いくつかの注目すべき英語の<span lang="fil">OPM</span>曲について言及すると、第5回メトロマニラポピュラーミュージックフェスティバル（1982）で、<cite lang="en-PH">Give Me A Chance</cite>がアマチュア部門で<cite lang="en-PH">Memories</cite>とファイナリストとして<cite lang="en-PH">Coming Back</cite>。 プロのカテゴリでは、曲<cite lang="en-PH">Don't Deceive Yourself</cite>、<cite lang="en-PH">What Are You Doing On A Rainy Sunday Morning</cite>、<cite lang="en-PH">You Made Me Live Again</cite>、 ファイナリストでした。 [^wikipedia-metropop]
 

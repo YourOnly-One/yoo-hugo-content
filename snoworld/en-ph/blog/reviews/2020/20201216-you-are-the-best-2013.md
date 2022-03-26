@@ -1,6 +1,6 @@
 +++
-title = "「You Are The Best!」 review"
-description = "A review of 「최고다 이순신」"	# For Schema.org; OpenGraph; Twitter Cards
+title = "《You Are The Best!》 review"
+description = "A review of 《최고다 이순신》"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2020-12-16T19:04:36+08:00"
 lastmod = "2020-12-16T19:04:36+08:00"
@@ -183,7 +183,7 @@ alternatenames = ["Yoon Sung Shik"]
 sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/name/nm5897319"]
 +++
 
-A review of the family K-Drama entitled 「**최고다 이순신**」 (「**You Are The Best!**」), starring 이지은 (Lee Ji Eun) as *Lee Soon Shin*, as she embarks on a journey in finding success in a cruel world; together with 조정석 (Jo Jung Suk) as *Shin Joon Ho*, the owner of a talent agency trying to make a big break in a challenging industry.
+A review of the family K-Drama entitled 《**최고다 이순신**》 (《**You Are The Best!**》), starring 이지은 (Lee Ji Eun) as *Lee Soon Shin*, as she embarks on a journey in finding success in a cruel world; together with 조정석 (Jo Jung Suk) as *Shin Joon Ho*, the owner of a talent agency trying to make a big break in a challenging industry.
 
 <!--more-->
 
@@ -199,7 +199,7 @@ Shin Joon Ho, and in particular Lee Soon Shin, were only used as an anchor to be
 
 All 50 episodes should be watched completely to fully appreciate this series. A series about family relationships. The bond that we share with each other. The ups and downs we go through. The love that still triumphs over resentment and hate.
 
-「You Are The Best!」 is about "YOU" (yes, YOU the reader) being the best because you fight despite all the trials and tribulations that comes in our lives.
+《You Are The Best!》 is about "YOU" (yes, YOU the reader) being the best because you fight despite all the trials and tribulations that comes in our lives.
 
 I'm giving it an 8 out of 10 stars.
 
@@ -254,7 +254,7 @@ Overall, I'm giving the series 8 out of 10 stars. It was a great show and it was
   endtime=""
 
   title="[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
-  caption="「You Are The Best!」 (2013) trailer"
+  caption="《You Are The Best!》 (2013) trailer"
   inlanguage="ko"
 
   datecreated=""

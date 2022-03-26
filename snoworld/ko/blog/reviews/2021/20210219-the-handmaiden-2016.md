@@ -3,8 +3,8 @@ title = "아가씨 비평"
 description = "2016 년 한국 영화 리뷰, 아가씨 The Handmaiden."													# IMPT for Schema.org; OpenGraph; Twitter Cards -- for RDFa, Microdata, JSON-LD
 summary = "2016 년 한국 영화 리뷰, 아가씨 The Handmaiden."																											# for summary text in list displays
 
-date = "2021-02-19T15:11:58"
-lastmod = "2021-02-19T15:11:58"
+date = "2021-02-19T15:11:58+09:00"
+lastmod = "2021-02-19T15:11:58+09:00"
 
 aliases = ["/ko/the-handmaiden-2016-202150"]  # Permanent (twt)
 slug = "아가씨 The Handmaiden (2016)"
@@ -176,9 +176,9 @@ sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/
   attribrel="noopener external nofollow"
 >}}
 
-자연스럽게 한국어와 일본어를 전환하는 것도 좋았습니다. 다른 국적이 관련된 대부분의 영화에서는 캐릭터의 "외국 적"성을 확립 한 후 모든 사람이 같은 언어를 사용하게함으로써 지름길이 항상 만들어집니다. 나는 그러한 지름길에 눈살을 찌푸리고 「아가씨」 에서 그것을 보지 못해서 기쁩니다. 또한 등장 인물이 두 언어를 혼합하여 하나의 문장을 형성하는 방식에 놀랐습니다. 이중 언어 사용자가 실제로 실제로 말하는 방식입니다. 이 작은 디테일에 큰 도움이되지만 영화를 만드는 데 똑같이 중요합니다.
+자연스럽게 한국어와 일본어를 전환하는 것도 좋았습니다. 다른 국적이 관련된 대부분의 영화에서는 캐릭터의 "외국 적"성을 확립 한 후 모든 사람이 같은 언어를 사용하게함으로써 지름길이 항상 만들어집니다. 나는 그러한 지름길에 눈살을 찌푸리고 《아가씨》 에서 그것을 보지 못해서 기쁩니다. 또한 등장 인물이 두 언어를 혼합하여 하나의 문장을 형성하는 방식에 놀랐습니다. 이중 언어 사용자가 실제로 실제로 말하는 방식입니다. 이 작은 디테일에 큰 도움이되지만 영화를 만드는 데 똑같이 중요합니다.
 
-이 영화를보고 보는 모든 사람들이 명백한 것에 집중하지 않고이 영화의 더 깊은 메시지를 보게되기를 바랍니다. 표면 너머를 보면 「아가씨」 뒤에있는 중요한 알림과 교훈을 볼 수 있습니다. 뭐야? 더 잘보세요. 영화를 본 적이 있다면 다시보고 찾아보세요.
+이 영화를보고 보는 모든 사람들이 명백한 것에 집중하지 않고이 영화의 더 깊은 메시지를 보게되기를 바랍니다. 표면 너머를 보면 《아가씨》 뒤에있는 중요한 알림과 교훈을 볼 수 있습니다. 뭐야? 더 잘보세요. 영화를 본 적이 있다면 다시보고 찾아보세요.
 
 나를 위해 모든 카테고리에서 10 이상. 축하합니다!
 
@@ -219,7 +219,7 @@ sameas = ["https://en.wikipedia.org/wiki/Park_Chan-wook", "https://www.imdb.com/
   endtime=""
 
   title="THE HANDMAIDEN Official Int'l Special Trailer"
-  caption="「아가씨」 (2016) 예고편"
+  caption="《아가씨》 (2016) 예고편"
 
   datecreated=""
   datepublished="2016-04-25"

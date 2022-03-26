@@ -2,8 +2,8 @@
 title = "Contact Us"
 description = "YourOnly.One™ Contact Us"
 
-date = "2020-03-25T06:00:00"
-lastmod = "2020-03-25T06:00:00"
+date = "2020-03-25T06:00:00+00:00"
+lastmod = "2020-03-25T06:00:00+00:00"
 
 #aliases = ["", ""]
 #slug = ""

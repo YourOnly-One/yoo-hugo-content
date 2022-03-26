@@ -320,7 +320,7 @@ P-POPアイドルの世代を適切に識別するには、世代の長さを定
 The notion of generation is widely used in the everyday world to make sense of differences between age groupings in society and to locate individual selves and other persons within historical time. We speak, for example, of 'my generation' and of 'the older generation'. We describe those who grew up in, say, the 1960s, as belonging to 'the sixties generation'. We speak of 'a few generations ago', 'a new generation' and of 'the generation gap'.
 {{% /quotebox %}}
 
-ジェーン・ピルシェアが言ったように、<q>私たちは、たとえば1960年代に育った人々を、「60年代」に属するものとして説明します</q>。 これは10暦年に固定されているため、適切な基準です。 このため、2010年から2019年にかけて第1世代のP-POPアイドルカバーがデビューします。
+ジェーン・ピルシェアが言ったように、<q>私たちは、たとえば1960年代に育った人々を、《60年代》に属するものとして説明します</q>。 これは10暦年に固定されているため、適切な基準です。 このため、2010年から2019年にかけて第1世代のP-POPアイドルカバーがデビューします。
 
 <span class="en-PH">Pop Girls</span>（<span lang="ja">ポップガールズ</span>）は2010年の19日前にデビューし、2004年以来初めてのP-ポップアイドルであるため、マイナーな例外があります。 P-POPアイドルの第1世代はまだ2010年から2019年までですが、今年の変わり目の数日前にデビューしたにもかかわらず、<span class="en-PH">Pop Girls</span>（<span lang="ja">ポップガールズ</span>）が含まれています。
 

@@ -1,9 +1,9 @@
 +++
-title = "「なお、男会わないで」 批評"
+title = "《なお、男会わないで》 批評"
 description = "ロマンチックコメディは正しく行われました。"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-12T00:38:36"
-lastmod = "2021-01-12T00:38:36"
+date = "2021-01-12T00:38:36+09:00"
+lastmod = "2021-01-12T00:38:36+09:00"
 
 aliases = ["/ja/제발-그-남자-만나지-마요-please-dont-date-him-2020-202111"] # Permanent timezone
 slug = "제발 그 남자 만나지 마요 Please Don't Date Him (2020)"
@@ -50,7 +50,7 @@ videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                        
 type = "TVSeries"
 
 [semweb.review]
-snippet = "「あり、男会わないで」は、正しく行われたロマンチックコメディです。 何年にもわたってロマンチックコメディとして分類された多くのショーがあり、このラベルに値するものはほとんどありません。 「あり、男会わないで」は、登場人物の恋愛関係を生かしながら、エピソードごとに本物の笑いを誘う数少ない例外のひとつです。"
+snippet = "《あり、男会わないで》は、正しく行われたロマンチックコメディです。 何年にもわたってロマンチックコメディとして分類された多くのショーがあり、このラベルに値するものはほとんどありません。 《あり、男会わないで》は、登場人物の恋愛関係を生かしながら、エピソードごとに本物の笑いを誘う数少ない例外のひとつです。"
 rating = "9.00"
 
 # If different from our website
@@ -67,7 +67,7 @@ name = "제발 그 남자 만나지 마요"
 alternatenames = ["Please Don't Date Him"]
 sameas = ["https://en.wikipedia.org/wiki/Please_Don't_Date_Him", "https://www.imdb.com/title/tt13394428", "https://www.hancinema.net/korean_drama_Please_Don__t_Meet_Him.php"]
 countryoforigin = "Korea"
-description = "「ある、男会わないで」は、「ソン・ハユン」、「イジ・ユン玉」、「ユン・ボミ」、「キム・ミンジョン」が主演のロマンティックコメディーテレビシリーズです。 物語は、行方不明の政府の研究開発の高度なマイクロチップと、すべての人の個人情報を検索できるAIを誤って使用した家電開発者を中心に展開しています。"
+description = "《ある、男会わないで》は、《ソン・ハユン》、《イジ・ユン玉》、《ユン・ボミ》、《キム・ミンジョン》が主演のロマンティックコメディーテレビシリーズです。 物語は、行方不明の政府の研究開発の高度なマイクロチップと、すべての人の個人情報を検索できるAIを誤って使用した家電開発者を中心に展開しています。"
 datepublished = "2020-11-10"
 categories = ["Romance", "Comedy", "Drama", "Sci-fi"]
 
@@ -138,7 +138,7 @@ alternatenames = ["Oh Mi Kyeong"]
 sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 +++
 
-「***なお、男会わないで***」は、正しく行われたロマンチックコメディです。 何年にもわたってロマンチックコメディとして分類された多くのショーがあり、このラベルに値するものはほとんどありません。 「あり、男会わないで」は、登場人物の恋愛関係を生かしながら、エピソードごとに本物の笑いを誘う数少ない例外のひとつです。
+《***なお、男会わないで***》は、正しく行われたロマンチックコメディです。 何年にもわたってロマンチックコメディとして分類された多くのショーがあり、このラベルに値するものはほとんどありません。 《あり、男会わないで》は、登場人物の恋愛関係を生かしながら、エピソードごとに本物の笑いを誘う数少ない例外のひとつです。
 
 <!--more-->
 
@@ -148,11 +148,11 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
 ペリカンエレクトロニクスのソ・ジソンのAI制御の家電開発者は、よく発達したプログラムのように完璧な生活を送ることを夢見ています。[^a]
 
-彼女は音声起動機能を備えた人工知能冷蔵庫に取り組んでおり、ナショナルインテリジェンスサービスによって失われたスーパーセンサーチップを冷蔵庫に挿入し、野菜の鮮度を伝える代わりにスカムを拾う「AncestralSpirit」プログラムを開発しました。 それで、ジソンは彼女が完璧な婚約者ジョンハンと見なしたのは実際には彼女のチャーミング王子ではなかったことを知りました。[^a]
+彼女は音声起動機能を備えた人工知能冷蔵庫に取り組んでおり、ナショナルインテリジェンスサービスによって失われたスーパーセンサーチップを冷蔵庫に挿入し、野菜の鮮度を伝える代わりにスカムを拾う《AncestralSpirit》プログラムを開発しました。 それで、ジソンは彼女が完璧な婚約者ジョンハンと見なしたのは実際には彼女のチャーミング王子ではなかったことを知りました。[^a]
 
 ある日、番組で分析できなかったソーシャルメディアの記録がない消防士のジョングクヒが現れた。 インターネット上に彼の過去の痕跡がないので、チソンは彼に懐疑的です。[^a]
 
-[^a]: Wikipedia: [「なお、男会わないで」 筋書き](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《なお、男会わないで》 筋書き](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 物語
 
@@ -160,7 +160,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
 ## 演技
 
-「ソ・チソン」を演じた「ソン・ハユン」は、A.I。 プログラマーはまだ「ただの女の子、男の子の前に立って、彼に彼女を愛するように頼む」（「ノッティングヒル」から借りる）。 私はまた、彼らがステレオタイプを暴くこのショーでプログラマーとして女性を選んだ方法が大好きです[1]プログラミングは男性向けです。 [2]女の子のプログラマーには恋愛生活がありません。
+《ソ・チソン》を演じた《ソン・ハユン》は、A.I。 プログラマーはまだ《ただの女の子、男の子の前に立って、彼に彼女を愛するように頼む》（《ノッティングヒル》から借りる）。 私はまた、彼らがステレオタイプを暴くこのショーでプログラマーとして女性を選んだ方法が大好きです[1]プログラミングは男性向けです。 [2]女の子のプログラマーには恋愛生活がありません。
 
 {{< image
   type="image"
@@ -173,8 +173,8 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   linkrel="noopener"
 
   title="なお、男会わないで (2020)"
-  caption="「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
-  alt="なお、男会わないで (2020) 「ソン・ハユン」 (左); 「キム・ミンジョン」 (右)"
+  caption="《ソン・ハユン》 (左); 《キム・ミンジョン》 (右)"
+  alt="なお、男会わないで (2020) 《ソン・ハユン》 (左); 《キム・ミンジョン》 (右)"
 
   attribalign=""
 
@@ -209,7 +209,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   endtime=""
 
   title="[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
-  caption="「なお、男会わないで」 予告編"
+  caption="《なお、男会わないで》 予告編"
   inlanguage="ko"
 
   datecreated=""

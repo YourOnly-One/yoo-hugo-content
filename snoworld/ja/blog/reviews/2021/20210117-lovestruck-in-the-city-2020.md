@@ -1,9 +1,9 @@
 +++
-title = "「都会の男女の恋愛法」 批評"
+title = "《都会の男女の恋愛法》 批評"
 description = "楽しく、親しみやすく、レッスンがいっぱい"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-17T09:17:39"
-lastmod = "2021-01-17T09:17:39"
+date = "2021-01-17T09:17:39+09:00"
+lastmod = "2021-01-17T09:17:39+09:00"
 
 #aliases = [""]
 slug = "도시남녀의 사랑법 Lovestruck in the City (2020)"
@@ -49,7 +49,7 @@ videos = ["https://www.youtube.com/watch?v=-lKjFaESjwk"]                        
 type = "TVSeries"
 
 [semweb.review]
-snippet = "既存の本格的なラインナップを打ち破るテレビ番組をお探しの方は、ぜひ「都会の男女の恋愛法」をお選びください。 キャラクター、ストーリー、ひねりは、本物のラブストーリーに基づいており、誰にとっても親しみやすいものです。"
+snippet = "既存の本格的なラインナップを打ち破るテレビ番組をお探しの方は、ぜひ《都会の男女の恋愛法》をお選びください。 キャラクター、ストーリー、ひねりは、本物のラブストーリーに基づいており、誰にとっても親しみやすいものです。"
 rating = "9.50"
 
 # If different from our website
@@ -66,7 +66,7 @@ name = "도시남녀의 사랑법"
 alternatenames = ["Lovestruck in the City"]
 sameas = ["https://en.wikipedia.org/wiki/Lovestruck_in_the_City", "https://www.imdb.com/title/tt13394544"]
 countryoforigin = "Korea"
-description = "「都会の男女の恋愛法」は、大都会に住む若者たちの本当のラブストーリーを描いた短編小説または短編ロマンティックコメディドラマです。 「チ・チャンウク」と「キム・ジウォン」が主演。 このシリーズは、「シティカップルの愛の道」と題されたマルチシリーズの最初の部分でもあります。"
+description = "《都会の男女の恋愛法》は、大都会に住む若者たちの本当のラブストーリーを描いた短編小説または短編ロマンティックコメディドラマです。 《チ・チャンウク》と《キム・ジウォン》が主演。 このシリーズは、《シティカップルの愛の道》と題されたマルチシリーズの最初の部分でもあります。"
 datepublished = "2020-12-22"
 categories = ["Romance", "Drama", "Comedy"]
 
@@ -153,7 +153,7 @@ alternatenames = ["Park Shin Woo"]
 sameas = ["https://www.imdb.com/name/nm11636776"]
 +++
 
-「***都会の男女の恋愛法***」は、大都会に住む若者たちの本当のラブストーリーを描いた短編小説または短編ロマンティックコメディドラマです。 「チ・チャンウク」と「キム・ジウォン」が主演。 このシリーズは、「シティカップルの愛の道」と題されたマルチシリーズの最初の部分でもあります。
+《***都会の男女の恋愛法***》は、大都会に住む若者たちの本当のラブストーリーを描いた短編小説または短編ロマンティックコメディドラマです。 《チ・チャンウク》と《キム・ジウォン》が主演。 このシリーズは、《シティカップルの愛の道》と題されたマルチシリーズの最初の部分でもあります。
 
 <!--more-->
 
@@ -163,11 +163,11 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 
 シリーズのストーリーはインタビュー形式で、6人がデートライフについて語っています。[^a]
 
-職業別の32歳の建築家、パク・ジェウォンは情熱的で正直な性格を持っている。 彼は「カメラ泥棒」と呼んでいる、心を奪って姿を消した女性を忘れることはできません。 29歳のフリーランスのマーケター、イ・ウンオは普通の生活を送っているが、ユン・ソンアと呼ばれる分身を持っている。 彼女は襄陽ビーチで偽のアイデンティティの下でパク・ジェウォンに会い、彼に恋をすることになります。[^a]
+職業別の32歳の建築家、パク・ジェウォンは情熱的で正直な性格を持っている。 彼は《カメラ泥棒》と呼んでいる、心を奪って姿を消した女性を忘れることはできません。 29歳のフリーランスのマーケター、イ・ウンオは普通の生活を送っているが、ユン・ソンアと呼ばれる分身を持っている。 彼女は襄陽ビーチで偽のアイデンティティの下でパク・ジェウォンに会い、彼に恋をすることになります。[^a]
 
-建築家でもあるチェ・キョンジュンさん（２９）とソ・リンイさんは、しっかりした夫婦のようだ。 29歳の小説家カン・ジョンは、デートする女性に恋をする傾向があります。 30歳の体育教師のオ・ソンヨンは、自己入場で「連続デート」をしている。[^a]
+建築家でもあるチェ・キョンジュンさん（２９）とソ・リンイさんは、しっかりした夫婦のようだ。 29歳の小説家カン・ジョンは、デートする女性に恋をする傾向があります。 30歳の体育教師のオ・ソンヨンは、自己入場で《連続デート》をしている。[^a]
 
-[^a]: Wikipedia: [「都会の男女の恋愛法」 筋書き](https://en.wikipedia.org/wiki/Lovestruck_in_the_City#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《都会の男女の恋愛法》 筋書き](https://en.wikipedia.org/wiki/Lovestruck_in_the_City#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 反応
 
@@ -184,8 +184,8 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   linkrel="noopener external nofollow"
 
   title="都会の男女の恋愛法 (2020)"
-  caption="(左から右へ) 「小・主演」、 「リュ・ギョンス」、 「キム・ジウォン」"
-  alt="都会の男女の恋愛法 (2020) (左から右へ) 「小・主演」、 「リュ・ギョンス」、 「キム・ジウォン」"
+  caption="(左から右へ) 《小・主演》、 《リュ・ギョンス》、 《キム・ジウォン》"
+  alt="都会の男女の恋愛法 (2020) (左から右へ) 《小・主演》、 《リュ・ギョンス》、 《キム・ジウォン》"
 
   attribalign=""
 
@@ -204,7 +204,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
 
 ## 評決
 
-既存の本格的なラインナップを打ち破るテレビ番組をお探しの方は、ぜひ「都会の男女の恋愛法」をお選びください。 私はこれに10個の星のうち9.5個を与えます。
+既存の本格的なラインナップを打ち破るテレビ番組をお探しの方は、ぜひ《都会の男女の恋愛法》をお選びください。 私はこれに10個の星のうち9.5個を与えます。
 
 今日[Netflix](https://www.netflix.com/title/81340910)でご覧ください。
 
@@ -219,8 +219,8 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   linkrel="noopener external nofollow"
 
   title="都会の男女の恋愛法 (2020)"
-  caption="「キム・ミンソク」 (左); 「小・主演」 (右)"
-  alt="都会の男女の恋愛法 (2020) 「キム・ミンソク」 (左); 「小・主演」 (右)"
+  caption="《キム・ミンソク》 (左); 《小・主演》 (右)"
+  alt="都会の男女の恋愛法 (2020) 《キム・ミンソク》 (左); 《小・主演》 (右)"
 
   attribalign=""
 
@@ -245,7 +245,7 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   endtime=""
 
   title="[ENG SUB HD] Lovestruck in the City Official Trailer"
-  caption="「都会の男女の恋愛法」 予告編"
+  caption="《都会の男女の恋愛法》 予告編"
   inlanguage="ko"
 
   datecreated=""
@@ -293,8 +293,8 @@ sameas = ["https://www.imdb.com/name/nm11636776"]
   starttime=""
   endtime=""
 
-  title="「Lovestruck in the City」 OST"
-  caption="「都会の男女の恋愛法」 OST"
+  title="《Lovestruck in the City》 OST"
+  caption="《都会の男女の恋愛法》 OST"
   inlanguage="ko"
 
   datecreated=""

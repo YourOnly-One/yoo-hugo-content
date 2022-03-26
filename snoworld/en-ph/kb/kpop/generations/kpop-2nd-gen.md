@@ -165,7 +165,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 - Also known as: Dara; Sandy; Sandy Park; Krung-krung
 - Fandom name:
 - Debut: 2004 (as a solo act in the Philippines)
-  - Song: 「In Or Out」
+  - Song: 《In Or Out》
 
 {{< video
   id="_IKAPJSAiSQ"
@@ -181,7 +181,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
 
 - Debut: 2009-03-27 (as a member of ***2NE1***)
 - Debut: 2009-07-09 (as a solo act in Korea)
-  - Song: 「Kiss」
+  - Song: 《Kiss》
 
 {{< video
   id="ZAqiMCp9zrI"
@@ -199,7 +199,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   - ***Sandara Park*** is dubbed as the "*BoA* of the Philippines" due to her immense popularity in the country; similar to how ***BoA*** is immensely popular in Japan.
   - She is considered as the standard for Korean beauty.
   - She is also known as the "Pambansang krung-krung" ("Nation's Crazy Person").
-  - In 2004, she released her self-titled EP, with the first track 「In Or Out」, as her debut in singing.
+  - In 2004, she released her self-titled EP, with the first track 《In Or Out》, as her debut in singing.
     - Her EP is also the only album by a South Korean to be certified platinum by the Philippine Association of the Record Industry or PARI.
   - Her inspiration to become a celebrity was the K-pop boy band ***Seo Taiji and Boys*** who started the modern K-pop music in 1992.
   - In 2004, ***Sandara Parak*** joined **ABS-CBN**'s talent program, *Star Circle Quest* where she finished in second place.
@@ -863,7 +863,7 @@ The ***2nd Generation of K-Pop Music*** started in 2002 and ended in 2011 which 
   - She won Little Miss Korea at age 7.
 - Wikipedia: [Hahm Eun-jung](https://en.wikipedia.org/wiki/Hahm_Eun-jung "Hahm Eun-jung")
 
-[^eun-jung-songs-desire]: [Eun Jung] YouTube: [EUN JUNG 「DESIRE」 MUSIC VIDEO](https://www.youtube.com/watch?v=als-8K2vYBo "EUN JUNG 「DESIRE」 MUSIC VIDEO")
+[^eun-jung-songs-desire]: [Eun Jung] YouTube: [EUN JUNG 《DESIRE》 MUSIC VIDEO](https://www.youtube.com/watch?v=als-8K2vYBo "EUN JUNG 《DESIRE》 MUSIC VIDEO")
 [^eun-jung-songs-sweet-snow]: [Eun Jung] YouTube: [Sweet Snow](https://www.youtube.com/watch?v=_yM86BVV7VM "Sweet Snow")
 [^eun-jung-songs-a-little-more]: [Eun Jung] YouTube: [あともう少し…](https://www.youtube.com/watch?v=sKCCfdi4YU4 "あともう少し…") (A little more …)
 

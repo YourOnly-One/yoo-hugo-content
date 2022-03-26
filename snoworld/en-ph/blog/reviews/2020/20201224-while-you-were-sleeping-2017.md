@@ -1,6 +1,6 @@
 +++
-title = "「While You Were Sleeping」 review"
-description = "A review of the sweet and relatable drama 「While You Were Sleeping」."	# For Schema.org; OpenGraph; Twitter Cards
+title = "《While You Were Sleeping》 review"
+description = "A review of the sweet and relatable drama 《While You Were Sleeping》."	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2020-12-24T16:57:34+08:00"
 lastmod = "2020-12-24T16:57:34+08:00"
@@ -49,7 +49,7 @@ videos = ["https://www.youtube.com/watch?v=8--Jj-iA0TY"]                        
 type = "TVSeries"
 
 [semweb.review]
-snippet = "Watching 「While You Were Sleeping」 made me feel again what it is to truly fall in love. It was lovely, touching, and memorable, a drama I would repeatedly watch and a relationship anyone would die for."
+snippet = "Watching 《While You Were Sleeping》 made me feel again what it is to truly fall in love. It was lovely, touching, and memorable, a drama I would repeatedly watch and a relationship anyone would die for."
 rating = "9.00"
 
 # If different from our website
@@ -66,7 +66,7 @@ name = "당신이 잠든 사이에"
 alternatenames = ["While You Were Sleeping"]
 sameas = ["https://en.wikipedia.org/wiki/While_You_Were_Sleeping_(2017_TV_series)", "https://www.imdb.com/title/tt6256484"]
 countryoforigin = "Korea"
-description = "「While You Were Sleeping」 is a comedy, legal, and romance drama, focusing on the tale of three young adults who have acquired the ability to see the future through their dreams: field reporter Nam Hong-joo, rookie prosecutor Jung Jae-chan, and police officer Han Woo-tak. Some of these dreams show crimes that Jae-chan has to investigate and others show disastrous events that one or more of them will have to endure. Troubled by these dreams, the trio collaborate with each other to prevent their ominous dreams from turning into reality and to take down their archenemy, the corrupt lawyer Lee Yoo-beom."
+description = "《While You Were Sleeping》 is a comedy, legal, and romance drama, focusing on the tale of three young adults who have acquired the ability to see the future through their dreams: field reporter Nam Hong-joo, rookie prosecutor Jung Jae-chan, and police officer Han Woo-tak. Some of these dreams show crimes that Jae-chan has to investigate and others show disastrous events that one or more of them will have to endure. Troubled by these dreams, the trio collaborate with each other to prevent their ominous dreams from turning into reality and to take down their archenemy, the corrupt lawyer Lee Yoo-beom."
 datepublished = "2017-09-27"
 categories = ["Romance", "Drama", "Legal", "Comedy"]
 
@@ -193,11 +193,11 @@ alternatenames = ["Oh Choong Hwan"]
 sameas = ["https://www.imdb.com/name/nm8589259"]
 +++
 
-「**While You Were Sleeping**」 is that kind of drama where the audience can relate to the characters and the story arcs and at the same time hopes that it becomes a reality in their lives. It stars veteran actress, the lovely 수지 (Bae Suzy); and veteran actor, the handsome 이종석 (Lee Jong Suk).
+《**While You Were Sleeping**》 is that kind of drama where the audience can relate to the characters and the story arcs and at the same time hopes that it becomes a reality in their lives. It stars veteran actress, the lovely 수지 (Bae Suzy); and veteran actor, the handsome 이종석 (Lee Jong Suk).
 
 <!--more-->
 
-> ***Watching 「While You Were Sleeping」 made me feel again what it is to truly fall in love. It was lovely, touching, and memorable, a drama I would repeatedly watch and a relationship anyone would die for.***
+> ***Watching 《While You Were Sleeping》 made me feel again what it is to truly fall in love. It was lovely, touching, and memorable, a drama I would repeatedly watch and a relationship anyone would die for.***
 
 ## Story
 
@@ -207,7 +207,7 @@ Some of the episode stories were good but there were those which were great. Out
 
 ### Series story
 
-The overall story of the show was neatly written and realistic. It isn't your typical boy-meets-girl-and-they-lived-happily-ever-after which are usually boring and only for the "giggles" factor. 「While You Were Sleeping」 have the dynamics and challenges usually experienced by two strangers, turned friends, and started falling for each other yet there were some things holding them back.
+The overall story of the show was neatly written and realistic. It isn't your typical boy-meets-girl-and-they-lived-happily-ever-after which are usually boring and only for the "giggles" factor. 《While You Were Sleeping》 have the dynamics and challenges usually experienced by two strangers, turned friends, and started falling for each other yet there were some things holding them back.
 
 ## Acting
 
@@ -246,7 +246,7 @@ For the whole series, there were only 5 songs which made an impact out of 14 inc
 
 ## Rewatch value
 
-I've watched this twice already. The first time was the Filipino-dub version and recently the original Korean-dub. Anyone can watch 「While You Were Sleeping」 anytime and everytime they want, it is a light drama and very romantic.
+I've watched this twice already. The first time was the Filipino-dub version and recently the original Korean-dub. Anyone can watch 《While You Were Sleeping》 anytime and everytime they want, it is a light drama and very romantic.
 
 ## Suzy Bae
 
@@ -254,7 +254,7 @@ Suzy Bae did well in portraying a lovable and pretty character who anyone would 
 
 ## Overall score
 
-I give 「While You Were Sleeping」 an overall score of 9.0 out of 10 stars.
+I give 《While You Were Sleeping》 an overall score of 9.0 out of 10 stars.
 
 {{< video
   platform="youtube"
@@ -266,7 +266,7 @@ I give 「While You Were Sleeping」 an overall score of 9.0 out of 10 stars.
   endtime=""
 
   title="[While You Were Sleeping] Official Teaser (Eng Sub)"
-  caption="「While You Were Sleeping」 (2017) trailer"
+  caption="《While You Were Sleeping》 (2017) trailer"
   inlanguage="ko"
 
   datecreated=""

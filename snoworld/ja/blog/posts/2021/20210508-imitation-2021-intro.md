@@ -1,9 +1,9 @@
 +++
-title = "「イミテーション」によるとK-POPアイドルが通過するもの"
+title = "《イミテーション》によるとK-POPアイドルが通過するもの"
 description = "K-POPアイドルになるまでの道のりは、ほとんどの人が思っているほど簡単ではありません。"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-05-08T14:54:00"
-lastmod = "2021-05-08T14:54:00"
+date = "2021-05-08T14:54:00+09:00"
+lastmod = "2021-05-08T14:54:00+09:00"
 
 #aliases = [""]
 slug = "이미테이션 Imitation (2021)"
@@ -76,7 +76,7 @@ name = "이미테이션"
 alternatenames = ["Imitation"]
 sameas = ["https://en.wikipedia.org/wiki/Imitation_(TV_series)", "https://www.imdb.com/title/tt14371376/"]
 countryoforigin = "Korea"
-description = "「イミテーション」はK-POPアイドルを描いた12話のドラマです。 ファンにはめったに見られない世界で、アイドルがトレーニングからデビューに選ばれるまでのさまざまな挑戦と経験を描いています。"
+description = "《イミテーション》はK-POPアイドルを描いた12話のドラマです。 ファンにはめったに見られない世界で、アイドルがトレーニングからデビューに選ばれるまでのさまざまな挑戦と経験を描いています。"
 datepublished = "2021-05-07"
 categories = ["Drama", "K-pop", "Romance"]
 
@@ -160,7 +160,7 @@ alternatenames = ["Han Hyun Hee"]
 sameas = ["https://www.imdb.com/name/nm10727746/"]
 +++
 
-「**イミテーション**」はK-POPアイドルを描いた12話のドラマです。 ファンにはめったに見られない世界で、アイドルがトレーニングからデビューに選ばれるまでのさまざまな挑戦と経験を描いています。 「汚れ牛」を「リー・マーハ」、「イジュンヤードン」を「クォン・リョク」、「パク・チヨン」を「ラ・リー・マ」、「フォード・ユンホ」を「リー・ユジン」、「ガンチャンフイ」を主演。 」は「イ・ウンジュ」、「イムナヨウン」は「シム・ヒョンジ」、「ギムミンソ」は「ユ・リア」。
+《**イミテーション**》はK-POPアイドルを描いた12話のドラマです。 ファンにはめったに見られない世界で、アイドルがトレーニングからデビューに選ばれるまでのさまざまな挑戦と経験を描いています。 《汚れ牛》を《リー・マーハ》、《イジュンヤードン》を《クォン・リョク》、《パク・チヨン》を《ラ・リー・マ》、《フォード・ユンホ》を《リー・ユジン》、《ガンチャンフイ》を主演。 」は《イ・ウンジュ》、《イムナヨウン》は《シム・ヒョンジ》、《ギムミンソ》は《ユ・リア》。
 
 <!--more-->
 
@@ -168,17 +168,17 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 
 ## 筋書き
 
-「リー・マーハ」は、かつて有名なボーイグループ「Shax」のマネージャーだった「ジ・ハク」が結成した新しいK-POPガールグループ「Tea Party」のメンバーですが、メンバーの突然の失踪後に辞任しました コンサート中の「ウンジョ」。 「Tea Party」に参加する前は、「Ma Ha」はグループ「Omega III」のメンバーでしたが、グループの会社の元研修生が巻き込まれた悲劇的な事件のため、デビュー日に解散しました。 これにより、「マハ」は人気のソロ歌手「ラ・リ・マ」のなりすましとして活躍し、世間の注目を集めました。[^a]
+《リー・マーハ》は、かつて有名なボーイグループ《Shax》のマネージャーだった《ジ・ハク》が結成した新しいK-POPガールグループ《Tea Party》のメンバーですが、メンバーの突然の失踪後に辞任しました コンサート中の《ウンジョ》。 《Tea Party》に参加する前は、《Ma Ha》はグループ《Omega III》のメンバーでしたが、グループの会社の元研修生が巻き込まれた悲劇的な事件のため、デビュー日に解散しました。 これにより、《マハ》は人気のソロ歌手《ラ・リ・マ》のなりすましとして活躍し、世間の注目を集めました。[^a]
 
-「Tea Party」から新たにスタートした「Ma Ha」は、3年後も「Eun Jo」の失踪に悩まされている「Shax」の中心で最も人気のあるメンバーである「Kwon Ryok」と何度も道を渡っています。 「リョク」は当初「リマ」を真似て「マハ」を嫌っていたが、やがてお互いに興味を持ち始め、二人のキャリアを危うくする秘密の関係を築く。[^a]
+《Tea Party》から新たにスタートした《Ma Ha》は、3年後も《Eun Jo》の失踪に悩まされている《Shax》の中心で最も人気のあるメンバーである《Kwon Ryok》と何度も道を渡っています。 《リョク》は当初《リマ》を真似て《マハ》を嫌っていたが、やがてお互いに興味を持ち始め、二人のキャリアを危うくする秘密の関係を築く。[^a]
 
-一方、新進ボーイズグループ「Sparkling」の中心である「マハ」の忠実な友人である「リー・ユジン」は、アイドル研修生の頃から「マハ」に恋をしている。 「マハ」と「リョク」の新進関係に気づいた彼は、「リョク」から彼女を守り、「Sparkling」を率いて業界で最も人気のあるボーイグループ「Shax」を打ち負かそうと決意する。[^a]
+一方、新進ボーイズグループ《Sparkling》の中心である《マハ》の忠実な友人である《リー・ユジン》は、アイドル研修生の頃から《マハ》に恋をしている。 《マハ》と《リョク》の新進関係に気づいた彼は、《リョク》から彼女を守り、《Sparkling》を率いて業界で最も人気のあるボーイグループ《Shax》を打ち負かそうと決意する。[^a]
 
-[^a]: Wikipedia: [「イミテーション」 筋書き](https://en.wikipedia.org/wiki/Imitation_(TV_series)#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《イミテーション》 筋書き](https://en.wikipedia.org/wiki/Imitation_(TV_series)#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 物語
 
-「イミテーション」と題されたこの新しい2021年の韓国ドラマは、K-Popまたは韓国音楽のすべてのファンにアピールするはずです。 K-POPアイドルが業界でのデビューを夢見ていたときのストーリーと、一般の人にはめったに見られないアイドルとしての生活を物語っています。 これは、彼らがエピソード1で確立したトーンであり、意欲的なアイドルである「リー・マーハ」は、韓国音楽のとらえどころのないステージでデビューするために選ばれるために、10代を懸命にそしてノンストップでトレーニングしました。
+《イミテーション》と題されたこの新しい2021年の韓国ドラマは、K-Popまたは韓国音楽のすべてのファンにアピールするはずです。 K-POPアイドルが業界でのデビューを夢見ていたときのストーリーと、一般の人にはめったに見られないアイドルとしての生活を物語っています。 これは、彼らがエピソード1で確立したトーンであり、意欲的なアイドルである《リー・マーハ》は、韓国音楽のとらえどころのないステージでデビューするために選ばれるために、10代を懸命にそしてノンストップでトレーニングしました。
 
 {{< image
   type="image"
@@ -190,9 +190,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Dream-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「リー・マーハ」が目標を設定"
-  alt="「イミテーション」 (2021) 「リー・マーハ」が目標を設定"
+  title="《イミテーション》 (2021)"
+  caption="《リー・マーハ》が目標を設定"
+  alt="《イミテーション》 (2021) 《リー・マーハ》が目標を設定"
 
   attribalign=""
 
@@ -215,9 +215,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Dream-02.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「リー・マーハ」がグランドステージでデビューすることを夢見ている"
-  alt="「イミテーション」 (2021) 「リー・マーハ」がグランドステージでデビューすることを夢見ている"
+  title="《イミテーション》 (2021)"
+  caption="《リー・マーハ》がグランドステージでデビューすることを夢見ている"
+  alt="《イミテーション》 (2021) 《リー・マーハ》がグランドステージでデビューすることを夢見ている"
 
   attribalign=""
 
@@ -240,9 +240,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「リー・マーハ」が走る準備をする"
-  alt="「イミテーション」 (2021) 「リー・マーハ」が走る準備をする"
+  title="《イミテーション》 (2021)"
+  caption="《リー・マーハ》が走る準備をする"
+  alt="《イミテーション》 (2021) 《リー・マーハ》が走る準備をする"
 
   attribalign=""
 
@@ -265,9 +265,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-02.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「リー・マーハ」が走っている"
-  alt="「イミテーション」 (2021) 「リー・マーハ」が走っている"
+  title="《イミテーション》 (2021)"
+  caption="《リー・マーハ》が走っている"
+  alt="《イミテーション》 (2021) 《リー・マーハ》が走っている"
 
   attribalign=""
 
@@ -290,9 +290,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Lee_Ma_Ha-03.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「リー・マーハ」は11km以上走った"
-  alt="「イミテーション」 (2021) 「リー・マーハ」は11km以上走った"
+  title="《イミテーション》 (2021)"
+  caption="《リー・マーハ》は11km以上走った"
+  alt="《イミテーション》 (2021) 《リー・マーハ》は11km以上走った"
 
   attribalign=""
 
@@ -307,7 +307,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 
 ## K-POPアイドルを目指すのはどんな感じですか？
 
-何百万人ものK-POPアイドル研修生の時代に、デビューするために選ばれたのはわずか0.1％です。 激しいトレーニング以外に、K-POPアイドルを目指す他の課題は何ですか？ これらは「イミコー」のエピソード1で明らかにされたものです。
+何百万人ものK-POPアイドル研修生の時代に、デビューするために選ばれたのはわずか0.1％です。 激しいトレーニング以外に、K-POPアイドルを目指す他の課題は何ですか？ これらは《イミコー》のエピソード1で明らかにされたものです。
 
 {{< image
   type="image"
@@ -319,9 +319,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Shax-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「Shax」"
-  alt="「イミテーション」 (2021) 「Shax」"
+  title="《イミテーション》 (2021)"
+  caption="《Shax》"
+  alt="《イミテーション》 (2021) 《Shax》"
 
   attribalign=""
 
@@ -346,9 +346,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Quitting-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「Omega III」会員はデビュー数日前に辞任"
-  alt="「イミテーション」 (2021) 「Omega III」会員はデビュー数日前に辞任"
+  title="《イミテーション》 (2021)"
+  caption="《Omega III》会員はデビュー数日前に辞任"
+  alt="《イミテーション》 (2021) 《Omega III》会員はデビュー数日前に辞任"
 
   attribalign=""
 
@@ -371,9 +371,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Quitting-02.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="元「Omega III」メンバーが川に飛び込もうとしている"
-  alt="「イミテーション」 (2021) 元「Omega III」メンバーが川に飛び込もうとしている"
+  title="《イミテーション》 (2021)"
+  caption="元《Omega III》メンバーが川に飛び込もうとしている"
+  alt="《イミテーション》 (2021) 元《Omega III》メンバーが川に飛び込もうとしている"
 
   attribalign=""
 
@@ -396,9 +396,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Agency_Accommodation-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
+  title="《イミテーション》 (2021)"
   caption="エージェンシー宿泊施設"
-  alt="「イミテーション」 (2021) エージェンシー宿泊施設"
+  alt="《イミテーション》 (2021) エージェンシー宿泊施設"
 
   attribalign=""
 
@@ -423,9 +423,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Away_from_Family-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「リー・マーハ」は家族から離れて誕生日を祝った"
-  alt="「イミテーション」 (2021) 「リー・マーハ」は家族から離れて誕生日を祝った"
+  title="《イミテーション》 (2021)"
+  caption="《リー・マーハ》は家族から離れて誕生日を祝った"
+  alt="《イミテーション》 (2021) 《リー・マーハ》は家族から離れて誕生日を祝った"
 
   attribalign=""
 
@@ -438,7 +438,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   attribrel="noopener external nofollow"
 >}}
 
-それでも足りない場合は、「リー・マーハ」の代理店が彼女をあまり人気のない会社に売りました。
+それでも足りない場合は、《リー・マーハ》の代理店が彼女をあまり人気のない会社に売りました。
 
 {{< image
   type="image"
@@ -450,9 +450,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="荷物をまとめる「リー・マーハ」"
-  alt="「イミテーション」 (2021) 荷物をまとめる「リー・マーハ」"
+  title="《イミテーション》 (2021)"
+  caption="荷物をまとめる《リー・マーハ》"
+  alt="《イミテーション》 (2021) 荷物をまとめる《リー・マーハ》"
 
   attribalign=""
 
@@ -475,9 +475,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Sold_to_Another_Agency-02.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="荷物をまとめる「リー・マーハ」"
-  alt="「イミテーション」 (2021) 荷物をまとめる「リー・マーハ」"
+  title="《イミテーション》 (2021)"
+  caption="荷物をまとめる《リー・マーハ》"
+  alt="《イミテーション》 (2021) 荷物をまとめる《リー・マーハ》"
 
   attribalign=""
 
@@ -492,7 +492,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
 
 ### デビューも社内プロセスです
 
-一人の行為であろうとグループであろうと、彼らは業界内で自分自身を売り込み、彼らの先輩に自己紹介しなければなりません。 K-POPアイドルの世界のような非常に競争の激しい業界では、あなたの先輩にあなたの音楽、あなたの行為、そしてあなたやあなたのグループについて何か前向きなことを言ってもらうことは、露出と潜在的な成功に役立ちます。 「Omega III」がエピソード1でしたように、彼らは彼らのシングルの無料コピーを彼らの先輩にさえ与えました。
+一人の行為であろうとグループであろうと、彼らは業界内で自分自身を売り込み、彼らの先輩に自己紹介しなければなりません。 K-POPアイドルの世界のような非常に競争の激しい業界では、あなたの先輩にあなたの音楽、あなたの行為、そしてあなたやあなたのグループについて何か前向きなことを言ってもらうことは、露出と潜在的な成功に役立ちます。 《Omega III》がエピソード1でしたように、彼らは彼らのシングルの無料コピーを彼らの先輩にさえ与えました。
 
 {{< image
   type="image"
@@ -504,9 +504,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-01.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「Omega III」デビュー"
-  alt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="《イミテーション》 (2021)"
+  caption="《Omega III》デビュー"
+  alt="《イミテーション》 (2021) 《Omega III》デビュー"
 
   attribalign=""
 
@@ -529,9 +529,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-02.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「Omega III」デビュー"
-  alt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="《イミテーション》 (2021)"
+  caption="《Omega III》デビュー"
+  alt="《イミテーション》 (2021) 《Omega III》デビュー"
 
   attribalign=""
 
@@ -554,9 +554,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-03.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「Omega III」デビュー"
-  alt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="《イミテーション》 (2021)"
+  caption="《Omega III》デビュー"
+  alt="《イミテーション》 (2021) 《Omega III》デビュー"
 
   attribalign=""
 
@@ -579,9 +579,9 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   link="https://img.youronly.one/p/Imitation-(2021)-Omega_III-04.webp"
   linkrel="noopener external nofollow"
 
-  title="「イミテーション」 (2021)"
-  caption="「Omega III」デビュー"
-  alt="「イミテーション」 (2021) 「Omega III」デビュー"
+  title="《イミテーション》 (2021)"
+  caption="《Omega III》デビュー"
+  alt="《イミテーション》 (2021) 《Omega III》デビュー"
 
   attribalign=""
 
@@ -612,7 +612,7 @@ sameas = ["https://www.imdb.com/name/nm10727746/"]
   endtime=""
 
   title="Official Trailer: Imitation | 仿品 | iQiyi"
-  caption="「イミテーション」 予告編"
+  caption="《イミテーション》 予告編"
   inlanguage="ko"
 
   datecreated=""

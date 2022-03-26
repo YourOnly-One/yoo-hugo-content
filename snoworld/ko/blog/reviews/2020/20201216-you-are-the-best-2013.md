@@ -1,9 +1,9 @@
 +++
-title = "「최고다 이순신」 비평"
-description = "「최고 다 이순신」 (2013) 리뷰"	# For Schema.org; OpenGraph; Twitter Cards
+title = "《최고다 이순신》 비평"
+description = "《최고 다 이순신》 (2013) 리뷰"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2020-12-16T20:04:36"
-lastmod = "2020-12-16T20:04:36"
+date = "2020-12-16T20:04:36+09:00"
+lastmod = "2020-12-16T20:04:36+09:00"
 
 #aliases = [""]
 slug = "최고다 이순신 You Are The Best (2013)"
@@ -183,7 +183,7 @@ alternatenames = ["Yoon Sung Shik"]
 sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/name/nm5897319"]
 +++
 
-「**최고 다 이순신**」( 「**You Are The Best!**」)라는 제목의 가족 K-Drama 리뷰, 이지은 (Lee Ji Eun)이 *이순신* 역으로 출연 잔인한 세상에서 성공을 찾는 여정; 조정석 (조정석)과 함께 도전적인 산업에서 큰 도약을 시도하는 탤런트 에이전시의 오너 *신준호*로 함께합니다.
+《**최고 다 이순신**》( 《**You Are The Best!**》)라는 제목의 가족 K-Drama 리뷰, 이지은 (Lee Ji Eun)이 *이순신* 역으로 출연 잔인한 세상에서 성공을 찾는 여정; 조정석 (조정석)과 함께 도전적인 산업에서 큰 도약을 시도하는 탤런트 에이전시의 오너 *신준호*로 함께합니다.
 
 <!--more-->
 
@@ -199,7 +199,7 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
 
 이 시리즈를 충분히 감상하려면 50 개의 에피소드를 모두 시청해야합니다. 가족 관계에 관한 시리즈. 우리가 서로 나누는 유대감. 우리가 겪는 기복. 원한과 증오를이기는 사랑.
 
-「최고다 이순신」는 우리 삶에 닥친 모든 시련과 고난에도 불구하고 싸우기 때문에 "YOU"(예, 독자 여러분)가 최고라는 것입니다.
+《최고다 이순신》는 우리 삶에 닥친 모든 시련과 고난에도 불구하고 싸우기 때문에 "YOU"(예, 독자 여러분)가 최고라는 것입니다.
 
 별점 10 점 만점에 8 점입니다.
 
@@ -254,7 +254,7 @@ sameas = ["https://en.wikipedia.org/wiki/Yoon_Sung-sik", "https://www.imdb.com/n
   endtime=""
 
   title="[Trailer] You Are The Best! (최고다 이순신) - ENGLISH"
-  caption="「최고다 이순신」 (2013) 예고편"
+  caption="《최고다 이순신》 (2013) 예고편"
   inlanguage="ko"
 
   datecreated=""

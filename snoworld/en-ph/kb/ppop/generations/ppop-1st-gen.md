@@ -64,7 +64,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Also known as: Bitoy; Beethoven Del Valle Bunagan
 - Fandom name:
 - Debut: 1991
-  - Song: 「Maganda Ang Piliin (Ayoko Ng Panget)」
+  - Song: 《Maganda Ang Piliin (Ayoko Ng Panget)》
 
 {{< video
   id="Y145DD0Xwo4"
@@ -104,7 +104,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1991 (as ***Pretty and Pink***)
 - First sales: 1995
-  - Song: 「Cool Ka Lang」
+  - Song: 《Cool Ka Lang》
 
 {{< video
   id="THcvhdz8PeI"
@@ -119,7 +119,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Para Sa Iyo」 [^prettier-than-pink-songs-para-sa-iyo]
+  - 《Para Sa Iyo》 [^prettier-than-pink-songs-para-sa-iyo]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/5177609-Prettier-Than-Pink)
   - [ISNI](https://isni.org/isni/0000000471426092)
@@ -138,14 +138,14 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Prettier_Than_Pink)
 
-[^prettier-than-pink-songs-para-sa-iyo]: 「[Prettier Than Pink] YouTube: [Para Sa Iyo](https://www.youtube.com/watch?v=HeaT_d_yKfM "Prettier Than Pink: Para Sa Iyo")」
+[^prettier-than-pink-songs-para-sa-iyo]: 《[Prettier Than Pink] YouTube: [Para Sa Iyo](https://www.youtube.com/watch?v=HeaT_d_yKfM "Prettier Than Pink: Para Sa Iyo")》
 
 ### True Faith {#true-faith-icyGIeAvlofnGNvmC}
 
 - Fandom name:
 - Debut: 1991
 - First sales: 1993
-  - Song: 「Perfect」
+  - Song: 《Perfect》
 
 {{< video
   id="sGycruvJ5fk"
@@ -185,7 +185,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1992 (as a member of ***Death Threat***)
 - First sales: 2003
-  - Song: 「Jologs」 OST for 「Jologs」
+  - Song: 《Jologs》 OST for 《Jologs》
 
 {{< video
   id="0OTIG5tA1dw"
@@ -229,7 +229,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1992-01
 - First sales: 1995
-  - Song: 「Darkness Fell」
+  - Song: 《Darkness Fell》
 
 {{< video
   id="froToerEUEo"
@@ -267,7 +267,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
 - Fandom name:
 - Debut: 1993
-  - Song: 「Sana'y Laging Magkapiling」 (original by ***Tsuyoshi Nagabuchi*** as 「Kanpai」 in 1980)
+  - Song: 《Sana'y Laging Magkapiling》 (original by ***Tsuyoshi Nagabuchi*** as 《Kanpai》 in 1980)
 
 {{< video
   id="V06g4a_VCIA"
@@ -282,9 +282,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Ikaw Pa Rin Ang Mamahalin」 [^april-boys-songs-ikaw-pa-rin-ang-mamahalin]
-  - 「Sana Ay Mahalin Mo Rin Ako」 [^april-boys-songs-sana-ay-mahalin-mo-rin-ako]
-  - 「Tunay Na Pag-ibig」 [^april-boys-songs-tunay-na-pag-ibig]
+  - 《Ikaw Pa Rin Ang Mamahalin》 [^april-boys-songs-ikaw-pa-rin-ang-mamahalin]
+  - 《Sana Ay Mahalin Mo Rin Ako》 [^april-boys-songs-sana-ay-mahalin-mo-rin-ako]
+  - 《Tunay Na Pag-ibig》 [^april-boys-songs-tunay-na-pag-ibig]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/6309775-April-Boys)
   - [ISNI](https://isni.org/isni/0000000470232165)
@@ -303,9 +303,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/April_Boys)
 
-[^april-boys-songs-ikaw-pa-rin-ang-mamahalin]: [April Boys] YouTube: 「[Ikaw Pa rin Ang Mamahalin](https://www.youtube.com/watch?v=K3upMQA2kkM "April Boys: Ikaw Pa Rin Ang Mamahalin")」
-[^april-boys-songs-sana-ay-mahalin-mo-rin-ako]: [April Boys] YouTube: 「[Sana Ay Mahalin Mo Rin Ako](https://www.youtube.com/watch?v=z04qdn8E8zE "April Boys: Sana Ay Mahalin Mo Rin Ako")」
-[^april-boys-songs-tunay-na-pag-ibig]: [April Boys] YouTube: 「[Tunay Na Pag-ibig](https://www.youtube.com/watch?v=IKgIyUUAESI "April Boys: Tunay Na Pag-ibig")」
+[^april-boys-songs-ikaw-pa-rin-ang-mamahalin]: [April Boys] YouTube: 《[Ikaw Pa rin Ang Mamahalin](https://www.youtube.com/watch?v=K3upMQA2kkM "April Boys: Ikaw Pa Rin Ang Mamahalin")》
+[^april-boys-songs-sana-ay-mahalin-mo-rin-ako]: [April Boys] YouTube: 《[Sana Ay Mahalin Mo Rin Ako](https://www.youtube.com/watch?v=z04qdn8E8zE "April Boys: Sana Ay Mahalin Mo Rin Ako")》
+[^april-boys-songs-tunay-na-pag-ibig]: [April Boys] YouTube: 《[Tunay Na Pag-ibig](https://www.youtube.com/watch?v=IKgIyUUAESI "April Boys: Tunay Na Pag-ibig")》
 
 ### Parokya ni Edgar {#parokya-ni-edgar-2Mn8S6zgSPBYpKIjs}
 
@@ -313,7 +313,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1993
 - First sales: 1996
-  - Song: 「Buloy」
+  - Song: 《Buloy》
 
 {{< video
   id="qdGtuXTqpxs"
@@ -328,7 +328,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Harana」 [^parokya-ni-edgar-songs-harana]
+  - 《Harana》 [^parokya-ni-edgar-songs-harana]
 - Did you know?
   - Dubbed as the "Pambansang Banda ng Pilipinas" ("National Band of the Philippines").
   - While the band's name is ***Parokya ni Edgar*** there is no member named Edgar.
@@ -350,13 +350,13 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Parokya_ni_Edgar)
 
-[^parokya-ni-edgar-songs-harana]: [Parokya ni Edgar] YouTube: 「[Harana](https://www.youtube.com/watch?v=4uzgcpSR-_4 "Parokya ni Edgar: Harana")」
+[^parokya-ni-edgar-songs-harana]: [Parokya ni Edgar] YouTube: 《[Harana](https://www.youtube.com/watch?v=4uzgcpSR-_4 "Parokya ni Edgar: Harana")》
 
 ### Put3ska {#put3ska-QWfUollNQgUwz8tew}
 
 - Fandom name:
 - Debut: 1994
-  - Song: 「Manila Girl」 (remix; original by ***Urban Bandits*** in 1985)
+  - Song: 《Manila Girl》 (remix; original by ***Urban Bandits*** in 1985)
 
 {{< video
   id="0nIZAVm_6Ls"
@@ -390,7 +390,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1993
 - First sales: 1996
-  - Song: 「Kahit Kailan」
+  - Song: 《Kahit Kailan》
 
 {{< video
   id="jRjCOLMRTuk"
@@ -405,10 +405,10 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「May Pag-ibig Pa Kaya」 [^south-border-songs-may-pag-ibig-pa-kaya]
-  - 「Rainbow」 [^south-border-songs-rainbow]
-  - 「With a Smile」 [^south-border-songs-with-a-smile] (original by ***Eraserheads*** in 1994)
-  - 「Love of My Life」 [^south-border-songs-love-of-my-life]
+  - 《May Pag-ibig Pa Kaya》 [^south-border-songs-may-pag-ibig-pa-kaya]
+  - 《Rainbow》 [^south-border-songs-rainbow]
+  - 《With a Smile》 [^south-border-songs-with-a-smile] (original by ***Eraserheads*** in 1994)
+  - 《Love of My Life》 [^south-border-songs-love-of-my-life]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3521349)
   - [ISNI](https://isni.org/isni/0000000471154402)
@@ -431,17 +431,17 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/South_Border_(band))
 
-[^south-border-songs-may-pag-ibig-pa-kaya]: [South Border] YouTube: 「[May Pag-ibig Pa Kaya](https://www.youtube.com/watch?v=MDKmqWARjqU "South Border: May Pag-ibig Pa Kaya")」
-[^south-border-songs-rainbow]: [South Border] YouTube: 「[Rainbow](https://www.youtube.com/watch?v=HYISOx7vmVk "South Border: Rainbow")」
-[^south-border-songs-with-a-smile]: [South Border] YouTube: 「[With a Smile](https://www.youtube.com/watch?v=Qws7Fh4Yx5w "South Border: With a Smile")」 (original by *Eraserheads* in 1994)
-[^south-border-songs-love-of-my-life]: [South Border] YouTube: 「[Love of My Life](https://www.youtube.com/watch?v=SPd2Nqz4DJo "South Border: Love of My Life")」
+[^south-border-songs-may-pag-ibig-pa-kaya]: [South Border] YouTube: 《[May Pag-ibig Pa Kaya](https://www.youtube.com/watch?v=MDKmqWARjqU "South Border: May Pag-ibig Pa Kaya")》
+[^south-border-songs-rainbow]: [South Border] YouTube: 《[Rainbow](https://www.youtube.com/watch?v=HYISOx7vmVk "South Border: Rainbow")》
+[^south-border-songs-with-a-smile]: [South Border] YouTube: 《[With a Smile](https://www.youtube.com/watch?v=Qws7Fh4Yx5w "South Border: With a Smile")》 (original by *Eraserheads* in 1994)
+[^south-border-songs-love-of-my-life]: [South Border] YouTube: 《[Love of My Life](https://www.youtube.com/watch?v=SPd2Nqz4DJo "South Border: Love of My Life")》
 
 ### Streetboys {#streetboys-8cZF8KxNJl98f1Nfk}
 
 - Fandom name:
 - Debut: 1993
 - First sales: 1996
-  - Song: 「Boom Tiyaya」
+  - Song: 《Boom Tiyaya》
 
 {{< video
   id="nfyAcBhzqq8"
@@ -479,7 +479,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
 - Fandom name:
 - Debut: 1994-11
-  - Song: 「Ulan」
+  - Song: 《Ulan》
 
 {{< video
   id="Y0VG07yDK9E"
@@ -494,12 +494,12 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「214」 [^rivermaya-songs-214]
-  - 「Awit ng Kabataan」 [^rivermaya-songs-awit-ng-kabataan]
-  - 「Kisapmata」 [^rivermaya-songs-kisapmata]
-  - 「Himala」 [^rivermaya-songs-himala]
-  - 「Panahon Na Naman」 [^rivermaya-songs-pnahaon-na-naman]
-  - 「Hinahanap-hanap Kita」 [^rivermaya-songs-hinahanap-hanap-kita]
+  - 《214》 [^rivermaya-songs-214]
+  - 《Awit ng Kabataan》 [^rivermaya-songs-awit-ng-kabataan]
+  - 《Kisapmata》 [^rivermaya-songs-kisapmata]
+  - 《Himala》 [^rivermaya-songs-himala]
+  - 《Panahon Na Naman》 [^rivermaya-songs-pnahaon-na-naman]
+  - 《Hinahanap-hanap Kita》 [^rivermaya-songs-hinahanap-hanap-kita]
 - Did you know?
   - The group started as ***Xaga*** in 1993, however their group experienced constant changes in line-up and eventually disbanded and reformed as ***Rivermaya***.
 - Authority control:
@@ -524,19 +524,19 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Rivermaya)
 
-[^rivermaya-songs-214]: [Rivermaya] YouTube: 「[214](hthttps://www.youtube.com/watch?v=d59MC-PEJK0 "Rivermaya: 214")」
-[^rivermaya-songs-awit-ng-kabataan]: [Rivermaya] YouTube: 「[Awit ng Kabataan](https://www.youtube.com/watch?v=41OKPv-i7hk "Rivermaya: Awit ng Kabataan")」
-[^rivermaya-songs-kisapmata]: [Rivermaya] YouTube: 「[Kisapmata](https://www.youtube.com/watch?v=XZvTk1WItqE "Rivermaya: Kisapmata")」
-[^rivermaya-songs-himala]: [Rivermaya] YouTube: 「[Himala](https://www.youtube.com/watch?v=OC-QonyUlU8 "Rivermaya: Himala")」
-[^rivermaya-songs-panahon-na-naman]: [Rivermaya] YouTube: 「[Panahon Na Naman](https://www.youtube.com/watch?v=Looe5xph3jY "Rivermaya: Panahon Na Naman")」
-[^rivermaya-songs-hinahanap-hanap-kita]: [Rivermaya] YouTube: 「[Hinahanap-hanap Kita](https://www.youtube.com/watch?v=JsjzVo2pAnc "Rivermaya: Hinahanp-hanap Kita")」
+[^rivermaya-songs-214]: [Rivermaya] YouTube: 《[214](hthttps://www.youtube.com/watch?v=d59MC-PEJK0 "Rivermaya: 214")》
+[^rivermaya-songs-awit-ng-kabataan]: [Rivermaya] YouTube: 《[Awit ng Kabataan](https://www.youtube.com/watch?v=41OKPv-i7hk "Rivermaya: Awit ng Kabataan")》
+[^rivermaya-songs-kisapmata]: [Rivermaya] YouTube: 《[Kisapmata](https://www.youtube.com/watch?v=XZvTk1WItqE "Rivermaya: Kisapmata")》
+[^rivermaya-songs-himala]: [Rivermaya] YouTube: 《[Himala](https://www.youtube.com/watch?v=OC-QonyUlU8 "Rivermaya: Himala")》
+[^rivermaya-songs-panahon-na-naman]: [Rivermaya] YouTube: 《[Panahon Na Naman](https://www.youtube.com/watch?v=Looe5xph3jY "Rivermaya: Panahon Na Naman")》
+[^rivermaya-songs-hinahanap-hanap-kita]: [Rivermaya] YouTube: 《[Hinahanap-hanap Kita](https://www.youtube.com/watch?v=JsjzVo2pAnc "Rivermaya: Hinahanp-hanap Kita")》
 
 ### Siakol {#siakol-YyQnNQiD0zBDwPxsY}
 
 - Fandom name:
 - Debut: 1994
 - First sales: 1996
-  - Song: 「Bakit Ba」
+  - Song: 《Bakit Ba》
 
 {{< video
   id="NABWA5zHW9M"
@@ -551,8 +551,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Peksman」 [^siakol-songs-peksman]
-  - 「Lakas Tama」 [^siakol-songs-lakas-tama]
+  - 《Peksman》 [^siakol-songs-peksman]
+  - 《Lakas Tama》 [^siakol-songs-lakas-tama]
 - Did you know?
   - They are dubbed as "the face of the *Tunog Kalye* era".
 - Authority control:
@@ -578,8 +578,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Siakol)
 
-[^siakol-songs-peksman]: [Siakol] YouTube: 「[Peksman](https://www.youtube.com/watch?v=VHxrwIbh0xM "Siakol: Peksman")」
-[^siakol-songs-lakas-tama]: [Siakol] YouTube: 「[Lakas Tama](https://www.youtube.com/watch?v=Xgd9Bf1oQak "Siakol: Lakas Tama")」
+[^siakol-songs-peksman]: [Siakol] YouTube: 《[Peksman](https://www.youtube.com/watch?v=VHxrwIbh0xM "Siakol: Peksman")》
+[^siakol-songs-lakas-tama]: [Siakol] YouTube: 《[Lakas Tama](https://www.youtube.com/watch?v=Xgd9Bf1oQak "Siakol: Lakas Tama")》
 
 ## 1995
 
@@ -588,7 +588,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1995
 - First sales: 2003-09-11 (first commercial release)
-  - Song: 「To Love You More」
+  - Song: 《To Love You More》
 
 {{< video
   id="yAS0S4MnbI0"
@@ -603,13 +603,13 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Forever's Not Enough」 [^sarah-geronomino-songs-forever-is-not-enough]
-  - 「I Still Believe in Loving You」 [^sarah-geronomino-songs-i-still-believe-in-you]
-  - 「Tala」 [^sarah-geronomino-songs-tala]
-  - 「Kilometro」 [^sarah-geronomino-songs-kilometro]
-  - 「A Very Special Love」 [^sarah-geronomino-songs-a-very-special-love] OST for 「A Very Special Love」 (original by ***Maureen McGovern*** in 1979)
-  - 「Sa Iyo」 [^sarah-geronomino-songs-sa-iyo]
-  - 「How Could You Say You Love Me」 [^sarah-geronomino-songs-how-could-you-say-you-love-me]
+  - 《Forever's Not Enough》 [^sarah-geronomino-songs-forever-is-not-enough]
+  - 《I Still Believe in Loving You》 [^sarah-geronomino-songs-i-still-believe-in-you]
+  - 《Tala》 [^sarah-geronomino-songs-tala]
+  - 《Kilometro》 [^sarah-geronomino-songs-kilometro]
+  - 《A Very Special Love》 [^sarah-geronomino-songs-a-very-special-love] OST for 《A Very Special Love》 (original by ***Maureen McGovern*** in 1979)
+  - 《Sa Iyo》 [^sarah-geronomino-songs-sa-iyo]
+  - 《How Could You Say You Love Me》 [^sarah-geronomino-songs-how-could-you-say-you-love-me]
 - Did you know?
   - She was dubbed as the "Popstar Princess".
   - She is also known as the "Popstar Royalty".
@@ -645,7 +645,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 [^sarah-geronimo-songs-i-still-believe-in-you]: [Sarah Geronimo] YouTube: [I Still Believe In You](https://www.youtube.com/watch?v=mnhm3Qym4Sc "Sarah Geronimo: I Still Believe In You")
 [^sarah-geronimo-songs-tala]: [Sarah Geronimo] YouTube: [Tala](https://www.youtube.com/watch?v=ahpmuikko3U "Sarah Geronimo: Tala")
 [^sarah-geronimo-songs-kilometro]: [Sarah Geronimo] YouTube: [Kilometro](https://www.youtube.com/watch?v=4gljXoIJF0s "Sarah Geronimo: Kilometro")
-[^sarah-geronimo-songs-a-very-special-love]: [Sarah Geronimo] YouTube: [A Very Special Love](https://www.youtube.com/watch?v=XaFLogNq8rA "Sarah Geronimo: A Very Special Love") OST for 「A Very Special Love」 (original by *Maureen McGovern* in 1979)
+[^sarah-geronimo-songs-a-very-special-love]: [Sarah Geronimo] YouTube: [A Very Special Love](https://www.youtube.com/watch?v=XaFLogNq8rA "Sarah Geronimo: A Very Special Love") OST for 《A Very Special Love》 (original by *Maureen McGovern* in 1979)
 [^sarah-geronimo-songs-sa-iyo]: [Sarah Geronimo] YouTube: [Sa Iyo](https://www.youtube.com/watch?v=l_Jes66S70s "Sarah Geronimo: Sa Iyo")
 [^sarah-geronimo-songs-how-could-you-say-you-love-me]: [Sarah Geronimo] YouTube: [How Could You Say You Love Me](https://www.youtube.com/watch?v=7e4Bg0MavZY "Sarah Geronimo: How Could You Say You Love Me")
 
@@ -654,7 +654,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1995 (as ***AG's Soundtrippers*** in Japan)
 - Debut: 1998 (as ***Aegis***)
-  - Song: 「Halik」
+  - Song: 《Halik》
 
 {{< video
   id="Rb-cQS6L7iY"
@@ -669,10 +669,10 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Bakit (Tanong Ko Sa'yo」 [^aegis-songs-bakit-tanong-ko-sa-iyo]
-  - 「Sinta」 [^aegis-songs-sinta]
-  - 「Basang-basa Sa Ulan」 [^aegis-songs-basang-basa-sa-ulan] (original by ***Nonoy Zuñiga*** in 1982)
-  - 「Luha」 [^aegis-songs-luha] (original by ***AG's Sakada*** in 1989)
+  - 《Bakit (Tanong Ko Sa'yo》 [^aegis-songs-bakit-tanong-ko-sa-iyo]
+  - 《Sinta》 [^aegis-songs-sinta]
+  - 《Basang-basa Sa Ulan》 [^aegis-songs-basang-basa-sa-ulan] (original by ***Nonoy Zuñiga*** in 1982)
+  - 《Luha》 [^aegis-songs-luha] (original by ***AG's Sakada*** in 1989)
 - Did you know?
   - Known as the second best-selling female group in the Philippines after ***Sexbomb Girls***.
   - While they are known as a girl group band, they have one male member.
@@ -694,10 +694,10 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Aegis_(band))
 
-[^aegis-songs-bakit-tanong-ko-sa-iyo]: [Aegis] YouTube: 「[Bakit (Tanong Ko Sa'yo)](https://www.youtube.com/watch?v=UQtQXrfF_Vc "Aegis: Bakit (Tanong Ko Sa'yo)")」
-[^aegis-songs-sinta]: [Aegis] YouTube: 「[Sinta](https://www.youtube.com/watch?v=WP5HQ2nuB7Q "Aegis: Sinta")」
-[^aegis-songs-basang-basa-sa-ulan]: [Aegis] YouTube: 「[Basang-basa Sa Ulan](https://www.youtube.com/watch?v=O2GyI3Whk50 "Aegis: Basang-basa Sa Ulan")」 (original by *Nonoy Zuñiga* in 1982)
-[^aegis-songs-luha]: [Aegis] YouTube: 「[Luha](https://www.youtube.com/watch?v=QnNP7GXBjSg "Aegis: Luha")」 (original by *AG's Sakada* in 1989)
+[^aegis-songs-bakit-tanong-ko-sa-iyo]: [Aegis] YouTube: 《[Bakit (Tanong Ko Sa'yo)](https://www.youtube.com/watch?v=UQtQXrfF_Vc "Aegis: Bakit (Tanong Ko Sa'yo)")》
+[^aegis-songs-sinta]: [Aegis] YouTube: 《[Sinta](https://www.youtube.com/watch?v=WP5HQ2nuB7Q "Aegis: Sinta")》
+[^aegis-songs-basang-basa-sa-ulan]: [Aegis] YouTube: 《[Basang-basa Sa Ulan](https://www.youtube.com/watch?v=O2GyI3Whk50 "Aegis: Basang-basa Sa Ulan")》 (original by *Nonoy Zuñiga* in 1982)
+[^aegis-songs-luha]: [Aegis] YouTube: 《[Luha](https://www.youtube.com/watch?v=QnNP7GXBjSg "Aegis: Luha")》 (original by *AG's Sakada* in 1989)
 
 ## 1996
 
@@ -706,7 +706,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1996
 - First sales: 1998
-  - Song: 「Before I Let You Go」
+  - Song: 《Before I Let You Go》
 
 {{< video
   id="xVzIHz--V9g"
@@ -721,9 +721,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「So Slow」 [^freestyle-songs-so-slow]
-  - 「This Time」 [^freestyle-songs-this-time]
-  - 「Till I Found You」 [^freestyle-songs-till-i-found-you]
+  - 《So Slow》 [^freestyle-songs-so-slow]
+  - 《This Time》 [^freestyle-songs-this-time]
+  - 《Till I Found You》 [^freestyle-songs-till-i-found-you]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3688217-Freestyle-15)
   - [MusicBrainz](https://musicbrainz.org/artist/bdf0a58d-15c0-41a0-b901-31ae584f908a)
@@ -744,9 +744,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Freestyle_(Filipino_band))
 
-[^freestyle-songs-so-slow]: [Freestyle] YouTube: 「[So Slow](https://www.youtube.com/watch?v=3r0TsywDv2E "Freestyle: So Slow")」
-[^freestyle-songs-this-time]: [Freestyle] YouTube: 「[This Time](https://www.youtube.com/watch?v=PKotMTtAKKA "Freestyle: This Time")」
-[^freestyle-songs-till-i-found-you]: [Freestyle] YouTube: 「[Till I Found You](https://www.youtube.com/watch?v=C6X7yttJwHI "Freestyle: Till I Found You")」
+[^freestyle-songs-so-slow]: [Freestyle] YouTube: 《[So Slow](https://www.youtube.com/watch?v=3r0TsywDv2E "Freestyle: So Slow")》
+[^freestyle-songs-this-time]: [Freestyle] YouTube: 《[This Time](https://www.youtube.com/watch?v=PKotMTtAKKA "Freestyle: This Time")》
+[^freestyle-songs-till-i-found-you]: [Freestyle] YouTube: 《[Till I Found You](https://www.youtube.com/watch?v=C6X7yttJwHI "Freestyle: Till I Found You")》
 
 ### Itchyworms {#itchyworms-9zbxiBtAD2UA2I8UT}
 
@@ -754,7 +754,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1996
 - First sales: 2001
-  - Song: 「Antipara」
+  - Song: 《Antipara》
 
 {{< video
   id="cF_DjDEAoRg"
@@ -769,8 +769,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Happy Birthday」 [^itchyworms-songs-]
-  - 「Akin Ka Na Lang」 [^itchyworms-songs-]
+  - 《Happy Birthday》 [^itchyworms-songs-]
+  - 《Akin Ka Na Lang》 [^itchyworms-songs-]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/2933428)
   - [ISNI](https://isni.org/isni/0000000470505960)
@@ -793,8 +793,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/The_Itchyworms)
 
-[^itchyworms-songs-happy-birthday]: [Itchyworms] YouTube: 「[Happy Birthday](https://www.youtube.com/watch?v=YtZalrP58jg "Itchyworms: Happy Birthday")」
-[^itchyworms-songs-akin-ka-na-lang]: [Itchyworms] YouTube: 「[Akin Ka Na Lang](https://www.youtube.com/watch?v=pnMjmOaiySA "Itchyworms: Akin Ka Na Lang")」
+[^itchyworms-songs-happy-birthday]: [Itchyworms] YouTube: 《[Happy Birthday](https://www.youtube.com/watch?v=YtZalrP58jg "Itchyworms: Happy Birthday")》
+[^itchyworms-songs-akin-ka-na-lang]: [Itchyworms] YouTube: 《[Akin Ka Na Lang](https://www.youtube.com/watch?v=pnMjmOaiySA "Itchyworms: Akin Ka Na Lang")》
 
 ## 1997
 
@@ -803,7 +803,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Also known as: Melanie Alvarez
 - Fandom name:
 - Debut: 1997
-  - Song: 「Kung Magkikita Tayo Muli」 (also as 「Muli」)
+  - Song: 《Kung Magkikita Tayo Muli》 (also as 《Muli》)
 
 {{< video
   id="s7o2l2lqC-Q"
@@ -830,7 +830,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Debut: 2000-06-26 (as ***Kyla***)
-  - 「Bring It On」
+  - 《Bring It On》
 
 {{< video
   id="ayD3Z5LrIdo"
@@ -845,8 +845,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Let the Love Begin」 [^kyla-songs-let-the-love-begin] OST for 「Let the Love Begin」 (original by ***Jimmy Demers*** and ***Carol Sue Hill*** in 1986 as an OST for 「Thrashin'」)
-  - 「On the Wings of Love」 [^kyla-songs-on-the-wings-of-love] OST for 「On the Wings of Love」 (original by ***Jeffrey Osborne*** in 1982)
+  - 《Let the Love Begin》 [^kyla-songs-let-the-love-begin] OST for 《Let the Love Begin》 (original by ***Jimmy Demers*** and ***Carol Sue Hill*** in 1986 as an OST for 《Thrashin'》)
+  - 《On the Wings of Love》 [^kyla-songs-on-the-wings-of-love] OST for 《On the Wings of Love》 (original by ***Jeffrey Osborne*** in 1982)
 - Did you know?
   - ***Kyla*** is known as the queen of R&B.
 - Authority control:
@@ -866,8 +866,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Kyla_(Filipino_singer))
 
-[^kyla-songs-let-the-love-begin]: [Kyla] YouTube: 「[Let the Love Begin](https://www.youtube.com/watch?v=8r-k7CpJ-pg "Kyla: Let the Love Begin")」 OST for 「Let the Love Begin」 (original by *Jimmy Demers* and *Carol Sue Hill* in 1986 as an OST for 「Thrashin'」)
-[^kyla-songs-on-the-wings-love]: [Kyla] YouTube: 「[On the Wings of Love](https://www.youtube.com/watch?v=zejMWuReieY "Kyla: On the Wings of Love")」 OST for 「On the Wings of Love」 (original by *Jeffrey Osborne* in 1982)
+[^kyla-songs-let-the-love-begin]: [Kyla] YouTube: 《[Let the Love Begin](https://www.youtube.com/watch?v=8r-k7CpJ-pg "Kyla: Let the Love Begin")》 OST for 《Let the Love Begin》 (original by *Jimmy Demers* and *Carol Sue Hill* in 1986 as an OST for 《Thrashin'》)
+[^kyla-songs-on-the-wings-love]: [Kyla] YouTube: 《[On the Wings of Love](https://www.youtube.com/watch?v=zejMWuReieY "Kyla: On the Wings of Love")》 OST for 《On the Wings of Love》 (original by *Jeffrey Osborne* in 1982)
 
 ### Nina {#nina-G5lAcysKsynT0KhCI}
 
@@ -876,7 +876,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1997 (as a member of ***XS***)
 - Debut: 2002-08-20 (as a solo act)
-  - Song: 「Heaven」
+  - Song: 《Heaven》
 
 {{< video
   id="8VtuAu-S-Zk"
@@ -891,9 +891,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Jealous」 [^nina-songs-jealous]
-  - 「Loving You」 [^nina-songs-loving-you] original by ***Ric Segreto***
-  - 「Foolish Heart」 [^nina-songs-foolish-heart] original by ***Steve Perry***
+  - 《Jealous》 [^nina-songs-jealous]
+  - 《Loving You》 [^nina-songs-loving-you] original by ***Ric Segreto***
+  - 《Foolish Heart》 [^nina-songs-foolish-heart] original by ***Steve Perry***
 - Did you know?
   - Her trainer, Butch Albarracin (founder and president of Center for Pop Music Philippines), called her the "Whistle Girl" because she was his only student who whistles her songs. [^nina-philstar-no-short-cuts-for-nina]
 
@@ -912,9 +912,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Nina_Girado)
 
-[^nina-songs-jealous]: [Nina] YouTube: 「[Jealous](hhttps://www.youtube.com/watch?v=hWxmUgmEnok "Nina: Jealous")」
-[^nina-songs-loving-you]: [Nina] YouTube: 「[Loving You](https://www.youtube.com/watch?v=Y929N5N1ATE "Nina: Loving You")」 original by *Ric Segreto*
-[^nina-songs-foolish-heart]: [Nina] YouTube: 「[Foolish Heart](https://www.youtube.com/watch?v=we6hynfExK0 "Nina: Foolish Heart")」 original by *Steve Perry*
+[^nina-songs-jealous]: [Nina] YouTube: 《[Jealous](hhttps://www.youtube.com/watch?v=hWxmUgmEnok "Nina: Jealous")》
+[^nina-songs-loving-you]: [Nina] YouTube: 《[Loving You](https://www.youtube.com/watch?v=Y929N5N1ATE "Nina: Loving You")》 original by *Ric Segreto*
+[^nina-songs-foolish-heart]: [Nina] YouTube: 《[Foolish Heart](https://www.youtube.com/watch?v=we6hynfExK0 "Nina: Foolish Heart")》 original by *Steve Perry*
 [^nina-philstar-no-short-cuts-for-nina]: [Nina] Philstar: [No short cuts for Nina](https://www.philstar.com/entertainment/2004/01/27/236586/no-short-cuts-nina)
 
 ### Imago {#imago-yCjNtGHFbU1HKRKMH}
@@ -922,7 +922,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Baybayin: ᜁᜋᜄᜓ
 - Fandom name:
 - Debut: 1997
-  - Song: 「Alay」
+  - Song: 《Alay》
 
 {{< video
   id="_6YnLfaMheg"
@@ -937,7 +937,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - First sales: 2001
-  - Song: 「Idlip」
+  - Song: 《Idlip》
 
 {{< video
   id="jVYZFPUoLmg"
@@ -952,8 +952,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Akap」 [^imago-songs-akap]
-  - 「Taralets」 [^imago-songs-bakit-ba-taralets]
+  - 《Akap》 [^imago-songs-akap]
+  - 《Taralets》 [^imago-songs-bakit-ba-taralets]
 - Authority control:
   - [MusicBrainz](https://musicbrainz.org/artist/dcf0e174-e124-4ea2-9f80-227a387b0f16)
   - [Wikidata](https://www.wikidata.org/wiki/Q9008041)
@@ -970,8 +970,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Imago_(band))
 
-[^imago-songs-akap]: [Imago] YouTube: 「[Akap](https://www.youtube.com/watch?v=wZ_Ym3oWXek "Imago: Akap")」
-[^imago-songs-taralets]: [Imago] YouTube: 「[Taralets](https://www.youtube.com/watch?v=U-Y833lrvpY "Imago: Taralets")」
+[^imago-songs-akap]: [Imago] YouTube: 《[Akap](https://www.youtube.com/watch?v=wZ_Ym3oWXek "Imago: Akap")》
+[^imago-songs-taralets]: [Imago] YouTube: 《[Taralets](https://www.youtube.com/watch?v=U-Y833lrvpY "Imago: Taralets")》
 
 ### Jay R {#jay-r-Qc0w2z59nHPvXafpk}
 
@@ -979,7 +979,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1998 (as a member of ***First Impression***)
 - First sales: 2003
-  - Song: 「Bakit Pa Ba」
+  - Song: 《Bakit Pa Ba》
 
 {{< video
   id="xg48d9Vnzc8"
@@ -994,8 +994,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Dito Lang Ako」 [^jay-r-songs-dito-lang-ako] OST for 「Dito Lang Ako」
-  - 「No One Else Comes Close」 [^jay-r-songs-no-one-else-comes-close] (original by ***Joe*** in 1997)
+  - 《Dito Lang Ako》 [^jay-r-songs-dito-lang-ako] OST for 《Dito Lang Ako》
+  - 《No One Else Comes Close》 [^jay-r-songs-no-one-else-comes-close] (original by ***Joe*** in 1997)
 - Did you know?
   - ***Jay R*** was dubbed as the "R&B Prince".
   - Together with ***Kyla***, they are referred to as the "R&B Royalties".
@@ -1020,15 +1020,15 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Jay_R)
 
-[^jay-r-songs-dito-lang-ako]: [Jay R] YouTube: 「[Dito Lang Ako](https://www.youtube.com/watch?v=HZdWGvLKbTc "Jay R: Dito Lang Ako")」 OST for 「Dito Lang Ako」
-[^jay-r-songs-no-one-else-comes-close]: [Jay R] YouTube: 「[No One Else Comes Close](https://www.youtube.com/watch?v=HVFSGZsztOE "Jay R: No One Else Comes Close")」 (original by *Joe* in 1997)
+[^jay-r-songs-dito-lang-ako]: [Jay R] YouTube: 《[Dito Lang Ako](https://www.youtube.com/watch?v=HZdWGvLKbTc "Jay R: Dito Lang Ako")》 OST for 《Dito Lang Ako》
+[^jay-r-songs-no-one-else-comes-close]: [Jay R] YouTube: 《[No One Else Comes Close](https://www.youtube.com/watch?v=HVFSGZsztOE "Jay R: No One Else Comes Close")》 (original by *Joe* in 1997)
 
 ### Slapshock {#slapshock-GjoaRDHCmYxaMkkaq}
 
 - Fandom name:
 - Debut: 1997-02-14
 - First sales: 1998
-  - Song: 「Agent Orange」
+  - Song: 《Agent Orange》
 
 {{< video
   id="Rr9xuDv4om4"
@@ -1075,7 +1075,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1998 (as ***Sponge***)
 - Debut: 2003 (as ***Sponge Cola***)
-  - Song: 「Jeepney」
+  - Song: 《Jeepney》
 
 {{< video
   id="YE6bbpEY4nU"
@@ -1090,9 +1090,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Nakapagtataka」 [^sponge-cola-songs-nakapagtataka] original by ***APO Hiking Society***
+  - 《Nakapagtataka》 [^sponge-cola-songs-nakapagtataka] original by ***APO Hiking Society***
 - Did you know?
-  - They were originally known as ***Sponge*** which was based on 「Mr. Sponge Sporting Tour」 by ***R.S. Surtees***.
+  - They were originally known as ***Sponge*** which was based on 《Mr. Sponge Sporting Tour》 by ***R.S. Surtees***.
   - When they learned there was already a band by the name of *Sponge* they decided to add "Cola" in 2003.
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/2933426-Sponge-Cola)
@@ -1114,7 +1114,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Sponge_Cola)
 
-[^sponge-cola-songs-nakapagtataka]: [Sponge Cola] YouTube: 「[Nakapagtataka](https://www.youtube.com/watch?v=Q1gQ78-vSq8 "Sponge Cola: Nakapagtataka")」 original by *APO Hiking Society*
+[^sponge-cola-songs-nakapagtataka]: [Sponge Cola] YouTube: 《[Nakapagtataka](https://www.youtube.com/watch?v=Q1gQ78-vSq8 "Sponge Cola: Nakapagtataka")》 original by *APO Hiking Society*
 
 ### Sandwich {#sandwich-4rjQ8AlDdTkqobCJY}
 
@@ -1122,7 +1122,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1998
 - First sales: 1999
-  - Song: 「Butterfly Carnival」
+  - Song: 《Butterfly Carnival》
 
 {{< video
   id="qBLPATKirJQ"
@@ -1137,8 +1137,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Humanda Ka」 [^sandwich-songs-] OST for 「Tantra Online」 and 「Rounin」
-  - 「Zaido」 [^sandwich-songs-] OST for 「Zaido」
+  - 《Humanda Ka》 [^sandwich-songs-] OST for 《Tantra Online》 and 《Rounin》
+  - 《Zaido》 [^sandwich-songs-] OST for 《Zaido》
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3148620-Sandwich-6)
   - [ISNI](https://isni.org/isni/0000000471224626)
@@ -1161,8 +1161,8 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Sandwich_(band))
 
-[^sandwich-songs-humanda-ka]: [Sandwich] YouTube: 「[Humanda Ka](https://www.youtube.com/watch?v=5I8tVCQSzGU "Sandwich: Humanda Ka")」 OST for 「Tantra Online」 and 「Rounin」
-[^sandwich-songs-zaido]: [Sandwich] YouTube: 「[Zaido](https://www.youtube.com/watch?v=5G1VKmaHXp4 "Sandwich: Zaido")」 OST for 「Zaido」
+[^sandwich-songs-humanda-ka]: [Sandwich] YouTube: 《[Humanda Ka](https://www.youtube.com/watch?v=5I8tVCQSzGU "Sandwich: Humanda Ka")》 OST for 《Tantra Online》 and 《Rounin》
+[^sandwich-songs-zaido]: [Sandwich] YouTube: 《[Zaido](https://www.youtube.com/watch?v=5G1VKmaHXp4 "Sandwich: Zaido")》 OST for 《Zaido》
 
 ## 1999
 
@@ -1170,7 +1170,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 
 - Fandom name:
 - Debut: 1999
-  - Song: 「Minamalas」
+  - Song: 《Minamalas》
 
 {{< video
   id="JnXHQPItXVU"
@@ -1207,7 +1207,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1999 (as a member of ***Mojofly***)
 - Debut: 2004-10 (as a solo act)
-  - Song: 「Huwag na Huwag Mong Sasabihin」
+  - Song: 《Huwag na Huwag Mong Sasabihin》
 
 {{< video
   id="NyU3aEnkAac"
@@ -1222,9 +1222,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Majika」 [^kitchie-nadal-songs-majika] OST for 「Majika」
-  - 「Bulong !!!」 [^kitchie-nadal-songs-bulong]
-  - 「Same Ground」 [^kitchie-nadal-songs-same-ground]
+  - 《Majika》 [^kitchie-nadal-songs-majika] OST for 《Majika》
+  - 《Bulong !!!》 [^kitchie-nadal-songs-bulong]
+  - 《Same Ground》 [^kitchie-nadal-songs-same-ground]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3467294)
   - [ISNI](https://isni.org/isni/0000000372432120)
@@ -1247,16 +1247,16 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Kitchie_Nadal)
 
-[^kitchie-nadal-songs-majika]: [Kitchie Nadal] YouTube: 「[Majika](https://www.youtube.com/watch?v=QBT2PQtwyEA "Kitchie Nadal: Majika")」 OST for 「Majika」
-[^kitchie-nadal-songs-bulong]: [Kitchie Nadal] YouTube: 「[Bulong !!!](https://www.youtube.com/watch?v=2w6kYmJcX_o "Kitchie Nadal: Bulong !!!")」
-[^kitchie-nadal-songs-same-ground]: [Kitchie Nadal] YouTube: 「[Same Ground](https://www.youtube.com/watch?v=BN4wP9DHkuQ "Kitchie Nadal: Same Ground")」
+[^kitchie-nadal-songs-majika]: [Kitchie Nadal] YouTube: 《[Majika](https://www.youtube.com/watch?v=QBT2PQtwyEA "Kitchie Nadal: Majika")》 OST for 《Majika》
+[^kitchie-nadal-songs-bulong]: [Kitchie Nadal] YouTube: 《[Bulong !!!](https://www.youtube.com/watch?v=2w6kYmJcX_o "Kitchie Nadal: Bulong !!!")》
+[^kitchie-nadal-songs-same-ground]: [Kitchie Nadal] YouTube: 《[Same Ground](https://www.youtube.com/watch?v=BN4wP9DHkuQ "Kitchie Nadal: Same Ground")》
 
 ### Moonstar88 {#moonstar88-HxhA6psPMQpdJIehz}
 
 - Fandom name:
 - Debut: 1999
 - First sales: 2000
-  - Song: 「Torete」
+  - Song: 《Torete》
 
 {{< video
   id="sYBH40d4Q3o"
@@ -1293,7 +1293,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Also known as: Orange and Lemons
 - Fandom name:
 - Debut: 1999
-  - Song: 「She's Leaving Home」
+  - Song: 《She's Leaving Home》
 
 {{< video
   id="jzUNIxEUMKc"
@@ -1308,12 +1308,12 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Pinoy Ako」 [^orange-and-lemons-songs-] OST for 「Pinoy Big Brother」
-  - 「Hanggang Kailan」 [^orange-and-lemons-songs-hanggang-kailan]
-  - 「Yakap sa Dilim」 [^orange-and-lemons-songs-yakap-sa-dilim] (original by ***APO Hiking Society*** in 1983)
+  - 《Pinoy Ako》 [^orange-and-lemons-songs-] OST for 《Pinoy Big Brother》
+  - 《Hanggang Kailan》 [^orange-and-lemons-songs-hanggang-kailan]
+  - 《Yakap sa Dilim》 [^orange-and-lemons-songs-yakap-sa-dilim] (original by ***APO Hiking Society*** in 1983)
 - Did you know?
-  - Clem Castro shared that 「Pinoy Ako」 made and broke their band. [^orange-and-lemons-og-pinoy-ako]
-  - The band was accused of plagiarising the 1997 song「Chandeliers」 by ***Care*** when they composed their hit song 「Pinoy Ako」 which Clem Castro disputed and explained in 2021-09-24 in an **OG** interview. [^orange-and-lemons-og-pinoy-ako]
+  - Clem Castro shared that 《Pinoy Ako》 made and broke their band. [^orange-and-lemons-og-pinoy-ako]
+  - The band was accused of plagiarising the 1997 song《Chandeliers》 by ***Care*** when they composed their hit song 《Pinoy Ako》 which Clem Castro disputed and explained in 2021-09-24 in an **OG** interview. [^orange-and-lemons-og-pinoy-ako]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/2328903)
   - [ISNI](https://isni.org/isni/0000000470834801)
@@ -1332,9 +1332,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Orange_and_Lemons)
 
-[^orange-and-lemons-songs-pinoy-ako]: [Orange and Lemons] YouTube: 「[Pinoy Ako](https://www.youtube.com/watch?v=kLq6AOWwiP8 "Orange and Lemons: Pinoy Ako")」 OST for 「Pinoy Big Brother」
-[^orange-and-lemons-songs-hanggang-kailan]: [Orange and Lemons] YouTube: 「[Hanggang Kailan](https://www.youtube.com/watch?v=qMbL67TjnJk "Orange and Lemons: Hanggang Kailan")」
-[^orange-and-lemons-songs-yakap-sa-dilim]: [Orange and Lemons] YouTube: 「[Yakap sa Dilim](https://www.youtube.com/watch?v=vgG5Qk3rSgo "Orange and Lemons: Yakap sa Dilim")」 (original by *APO Hiking Society* in 1983)
+[^orange-and-lemons-songs-pinoy-ako]: [Orange and Lemons] YouTube: 《[Pinoy Ako](https://www.youtube.com/watch?v=kLq6AOWwiP8 "Orange and Lemons: Pinoy Ako")》 OST for 《Pinoy Big Brother》
+[^orange-and-lemons-songs-hanggang-kailan]: [Orange and Lemons] YouTube: 《[Hanggang Kailan](https://www.youtube.com/watch?v=qMbL67TjnJk "Orange and Lemons: Hanggang Kailan")》
+[^orange-and-lemons-songs-yakap-sa-dilim]: [Orange and Lemons] YouTube: 《[Yakap sa Dilim](https://www.youtube.com/watch?v=vgG5Qk3rSgo "Orange and Lemons: Yakap sa Dilim")》 (original by *APO Hiking Society* in 1983)
 [^orange-and-lemons-og-pinoy-ako]: [Orange & Lemons] OG: [Orange & Lemons | Clem Castro Being Totally Honest about Pinoy Ako | The Story Behind the Hit | OG](https://www.youtube.com/watch?v=IUPqDYG0O18 "Orange & Lemons | Clem Castro Being Totally Honest about Pinoy Ako | The Story Behind the Hit | OG")
 
 ### Sugarfree {#sugarfree-R2gI498QZmkVo6bbt}
@@ -1342,7 +1342,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1999
 - First sales: 2003
-  - Song: 「Burnout」
+  - Song: 《Burnout》
 
 {{< video
   id="Um-B-dd94jg"
@@ -1357,13 +1357,13 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Mariposa」 [^sugarfree-songs-mariposa]
-  - 「Prom」 [^sugarfree-songs-prom]
-  - 「Hari Ng Sablay」 [^sugarfree-songs-hari-ng-sablay]
-  - 「Tulog Na」 [^sugarfree-songs-tulog-na]
-  - 「Kung Ayaw Mo Na Sa Akin」 [^sugarfree-songs-kung-ayaw-mo-na-sa-akin]
-  - 「'Wag Ka Nang Umiyak」 [^sugarfree-songs-wag-ka-nang-umiyak]
-  - 「Makita Kang Muli」 [^sugarfree-songs-makita-kang-muli] OST for 「Panday」
+  - 《Mariposa》 [^sugarfree-songs-mariposa]
+  - 《Prom》 [^sugarfree-songs-prom]
+  - 《Hari Ng Sablay》 [^sugarfree-songs-hari-ng-sablay]
+  - 《Tulog Na》 [^sugarfree-songs-tulog-na]
+  - 《Kung Ayaw Mo Na Sa Akin》 [^sugarfree-songs-kung-ayaw-mo-na-sa-akin]
+  - 《'Wag Ka Nang Umiyak》 [^sugarfree-songs-wag-ka-nang-umiyak]
+  - 《Makita Kang Muli》 [^sugarfree-songs-makita-kang-muli] OST for 《Panday》
 - Did you know?
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3521335)
@@ -1383,13 +1383,13 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Sugarfree_(Filipino_band))
 
-[^sugarfree-songs-mariposa]: [Sugarfree] YouTube: 「[Mariposa](https://www.youtube.com/watch?v=17oXjJoh56g "Sugarfree: Mariposa")」
-[^sugarfree-songs-prom]: [Sugarfree] YouTube: 「[Prom](https://www.youtube.com/watch?v=iuZqraRSLaE "Sugarfree: Prom")」
-[^sugarfree-songs-hari-ng-sablay]: [Sugarfree] YouTube: 「[Hari Ng Sablay](https://www.youtube.com/watch?v=wyPHhT91TrQ "Sugarfree: Hari Ng Sablay")」
-[^sugarfree-songs-tulog-na]: [Sugarfree] YouTube: 「[Tulog Na](https://www.youtube.com/watch?v=2LJ9dc8c4UA "Sugarfree: Tulog Na")」
-[^sugarfree-songs-kung-ayaw-mo-na-sa-akin]: [Sugarfree] YouTube: 「[Kung Ayaw Mo Na Sa Akin](https://www.youtube.com/watch?v=lm67d_wfHuA "Sugarfree: Kung Ayaw Mo Na Sa Akin")」
-[^sugarfree-songs-wag-ka-nang-umiyak]: [Sugarfree] YouTube: 「['Wag Ka Nang Umiyak'](https://www.youtube.com/watch?v=NOzRYG91_rQ "Sugarfree: 'Wag Ka Nang Umiyak")」
-[^sugarfree-songs-makita-kang-muli]: [Sugarfree] YouTube: 「[Makita Kang Muli](https://www.youtube.com/watch?v=EMoDjYakcYM "Sugarfree: Makita Kang Muli")」 OST for 「Panday」
+[^sugarfree-songs-mariposa]: [Sugarfree] YouTube: 《[Mariposa](https://www.youtube.com/watch?v=17oXjJoh56g "Sugarfree: Mariposa")》
+[^sugarfree-songs-prom]: [Sugarfree] YouTube: 《[Prom](https://www.youtube.com/watch?v=iuZqraRSLaE "Sugarfree: Prom")》
+[^sugarfree-songs-hari-ng-sablay]: [Sugarfree] YouTube: 《[Hari Ng Sablay](https://www.youtube.com/watch?v=wyPHhT91TrQ "Sugarfree: Hari Ng Sablay")》
+[^sugarfree-songs-tulog-na]: [Sugarfree] YouTube: 《[Tulog Na](https://www.youtube.com/watch?v=2LJ9dc8c4UA "Sugarfree: Tulog Na")》
+[^sugarfree-songs-kung-ayaw-mo-na-sa-akin]: [Sugarfree] YouTube: 《[Kung Ayaw Mo Na Sa Akin](https://www.youtube.com/watch?v=lm67d_wfHuA "Sugarfree: Kung Ayaw Mo Na Sa Akin")》
+[^sugarfree-songs-wag-ka-nang-umiyak]: [Sugarfree] YouTube: 《['Wag Ka Nang Umiyak'](https://www.youtube.com/watch?v=NOzRYG91_rQ "Sugarfree: 'Wag Ka Nang Umiyak")》
+[^sugarfree-songs-makita-kang-muli]: [Sugarfree] YouTube: 《[Makita Kang Muli](https://www.youtube.com/watch?v=EMoDjYakcYM "Sugarfree: Makita Kang Muli")》 OST for 《Panday》
 
 ### SexBomb Girls / SB NewGen {#sexbomb-girls-LiAYDv7b6qIYXp5Zr}
 
@@ -1397,7 +1397,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - Fandom name:
 - Debut: 1999-11 (as ***Chicken Sandwich Dancers***)
 - First sales: 2002 (as ***SexBomb Girls***)
-  - Song: 「Bakit Papa」
+  - Song: 《Bakit Papa》
 
 {{< video
   id="Vvj36Ukkt7M"
@@ -1412,7 +1412,7 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Debut: 2018-01-30 (as ***SB NewGen***)
-  - Song: 「Want U」
+  - Song: 《Want U》
 
 {{< video
   id="BXNZoCclXds"
@@ -1427,9 +1427,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 >}}
 
 - Sample songs:
-  - 「Spageti Song」 [^sexbomb-girls-songs-spageti-song]
-  - 「Daisy Siete」 [^sexbomb-girls-songs-daisy-siete] OST for 「Daisy Siete」
-  - 「Halo Halo」 [^sexbomb-girls-songs-halo-halo]
+  - 《Spageti Song》 [^sexbomb-girls-songs-spageti-song]
+  - 《Daisy Siete》 [^sexbomb-girls-songs-daisy-siete] OST for 《Daisy Siete》
+  - 《Halo Halo》 [^sexbomb-girls-songs-halo-halo]
 - Did you know?
   - ***SexBomb Girls*** started with only 4 members in 1999.
   - They reached 26 members by the time of the release of their first album in 2002.
@@ -1466,9 +1466,9 @@ The ***1st Generation of P-pop Music*** started in 1990 and ended in 1999. Here 
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/SexBomb_Girls)
 
-[^sexbomb-girls-songs-spageti-song]: [SexBomb Girls] YouTube: 「[Spageti Song](https://www.youtube.com/watch?v=uosa8k5DgCo "SexBomb Girls: Spageti Song")」
-[^sexbomb-girls-songs-daisy-siete]: [SexBomb Girls] YouTube: 「[Daisy Siete](https://www.youtube.com/watch?v=OOniVvP2BCs "SexBomb Girls: Daisy Siete")」 OST for 「Daisy Siete」
-[^sexbomb-girls-songs-halo-halo]: [SB NewGen] YouTube: 「[Halo Halo](https://www.youtube.com/watch?v=Ns3QS-heJ4A "SB NewGen: Halo Halo")」
+[^sexbomb-girls-songs-spageti-song]: [SexBomb Girls] YouTube: 《[Spageti Song](https://www.youtube.com/watch?v=uosa8k5DgCo "SexBomb Girls: Spageti Song")》
+[^sexbomb-girls-songs-daisy-siete]: [SexBomb Girls] YouTube: 《[Daisy Siete](https://www.youtube.com/watch?v=OOniVvP2BCs "SexBomb Girls: Daisy Siete")》 OST for 《Daisy Siete》
+[^sexbomb-girls-songs-halo-halo]: [SB NewGen] YouTube: 《[Halo Halo](https://www.youtube.com/watch?v=Ns3QS-heJ4A "SB NewGen: Halo Halo")》
 [^sexbomb-girls-cnn-tracing-ppop]: [SexBomb Girls] CNN Philippines [Tracing the origins of P-pop](https://www.cnnphilippines.com/life/entertainment/music/2021/11/12/the-origins-of-p-pop.html)
 
 ---

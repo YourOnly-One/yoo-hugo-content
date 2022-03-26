@@ -1,9 +1,9 @@
 +++
-title = "「제발 그 남자 만나지 마요」 비평"
+title = "《제발 그 남자 만나지 마요》 비평"
 description = "로맨틱 코미디가 제대로 끝났습니다."	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-01-12T00:38:36"
-lastmod = "2021-01-12T00:38:36"
+date = "2021-01-12T00:38:36+09:00"
+lastmod = "2021-01-12T00:38:36+09:00"
 
 aliases = ["/ko/제발-그-남자-만나지-마요-please-dont-date-him-2020-202111"] # Permanent timezone
 slug = "제발 그 남자 만나지 마요 Please Don't Date Him (2020)"
@@ -49,7 +49,7 @@ videos = ["https://www.youtube.com/watch?v=gHJBiKk1hYw"]                        
 type = "TVSeries"
 
 [semweb.review]
-snippet = "「제발 그 남자 만나지 마요」는 제대로 된 로맨틱 코미디입니다. 수년에 걸쳐 로맨틱 코미디로 분류되는 많은 쇼가 있으며이 레이블에 적합한 쇼는 거의 없습니다. 「제발 그 남자 만나지 마요」는 각 에피소드마다 진정한 웃음을 자아 내면서 캐릭터들의 연애를 쌓아가는 몇 안되는 예외 중 하나 다."
+snippet = "《제발 그 남자 만나지 마요》는 제대로 된 로맨틱 코미디입니다. 수년에 걸쳐 로맨틱 코미디로 분류되는 많은 쇼가 있으며이 레이블에 적합한 쇼는 거의 없습니다. 《제발 그 남자 만나지 마요》는 각 에피소드마다 진정한 웃음을 자아 내면서 캐릭터들의 연애를 쌓아가는 몇 안되는 예외 중 하나 다."
 rating = "9.00"
 
 # If different from our website
@@ -66,7 +66,7 @@ name = "제발 그 남자 만나지 마요"
 alternatenames = ["Please Don't Date Him"]
 sameas = ["https://en.wikipedia.org/wiki/Please_Don't_Date_Him", "https://www.imdb.com/title/tt13394428", "https://www.hancinema.net/korean_drama_Please_Don__t_Meet_Him.php"]
 countryoforigin = "Korea"
-description = "「제발 그 남자 만나지 마요」는 「송하윤」, 「이준영」, 「윤보미」, 「김민정」주연의 로맨틱 코미디 TV 시리즈입니다. 이 이야기는 모든 사람의 개인 정보를 검색 할 수있는 누락 된 정부 R&D 첨단 마이크로 칩과 AI를 실수로 사용한 가전 제품 개발자를 중심으로 전개됩니다."
+description = "《제발 그 남자 만나지 마요》는 《송하윤》, 《이준영》, 《윤보미》, 《김민정》주연의 로맨틱 코미디 TV 시리즈입니다. 이 이야기는 모든 사람의 개인 정보를 검색 할 수있는 누락 된 정부 R&D 첨단 마이크로 칩과 AI를 실수로 사용한 가전 제품 개발자를 중심으로 전개됩니다."
 datepublished = "2020-11-10"
 categories = ["Romance", "Comedy", "Drama", "Sci-fi"]
 
@@ -137,7 +137,7 @@ alternatenames = ["Oh Mi Kyeong"]
 sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 +++
 
-「***제발 그 남자 만나지 마요***」는 제대로 된 로맨틱 코미디 다. 수년에 걸쳐 로맨틱 코미디로 분류되는 많은 쇼가 있으며이 레이블에 적합한 쇼는 거의 없습니다. 「제발 그 남자 만나지 마요」는 각 에피소드마다 진정한 웃음을 자아 내면서 캐릭터들의 연애를 쌓아가는 몇 안되는 예외 중 하나 다.
+《***제발 그 남자 만나지 마요***》는 제대로 된 로맨틱 코미디 다. 수년에 걸쳐 로맨틱 코미디로 분류되는 많은 쇼가 있으며이 레이블에 적합한 쇼는 거의 없습니다. 《제발 그 남자 만나지 마요》는 각 에피소드마다 진정한 웃음을 자아 내면서 캐릭터들의 연애를 쌓아가는 몇 안되는 예외 중 하나 다.
 
 <!--more-->
 
@@ -151,7 +151,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
 어느 날 소셜 미디어 기록이없는 소방관 정국 희가 프로그램이 분석 할 수없는 모습을 드러낸다. 지성은 인터넷에 과거의 흔적이 없어 회의적이다.[^a]
 
-[^a]: Wikipedia: [「제발 그 남자 만나지 마요」 개요](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《제발 그 남자 만나지 마요》 개요](https://en.wikipedia.org/wiki/Please_Don%27t_Date_Him#Synopsis); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 
 ## 이야기
 
@@ -159,7 +159,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
 
 ## 공연
 
-"서 지성"역을 맡은 「송하윤 송하윤」은 A.I. 프로그래머이지만 여전히 "소년 앞에 서서 그녀를 사랑해달라고 부탁하는 소녀"( 「Notting Hill」에서 빌림). 나는 또한 그들이이 쇼에서 여성을 프로그래머로 선택한 방식을 좋아한다. 프로그래밍은 남성을위한 것이다. 그리고 [2] 소녀 프로그래머는 연애 생활이 없습니다.
+"서 지성"역을 맡은 《송하윤 송하윤》은 A.I. 프로그래머이지만 여전히 "소년 앞에 서서 그녀를 사랑해달라고 부탁하는 소녀"( 《Notting Hill》에서 빌림). 나는 또한 그들이이 쇼에서 여성을 프로그래머로 선택한 방식을 좋아한다. 프로그래밍은 남성을위한 것이다. 그리고 [2] 소녀 프로그래머는 연애 생활이 없습니다.
 
 {{< image
   type="image"
@@ -172,8 +172,8 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   linkrel="noopener"
 
   title="제발 그 남자 만나지 마요 (2020)"
-  caption="「송하윤」 (왼쪽); 「김민정」 (바른)"
-  alt="제발 그 남자 만나지 마요 (2020) 「송하윤」 (왼쪽); 「김민정」 (바른)"
+  caption="《송하윤》 (왼쪽); 《김민정》 (바른)"
+  alt="제발 그 남자 만나지 마요 (2020) 《송하윤》 (왼쪽); 《김민정》 (바른)"
 
   attribalign=""
 
@@ -208,7 +208,7 @@ sameas = ["https://www.imdb.com/name/nm12034370/?ref_=ttfc_fc_dr1"]
   endtime=""
 
   title="[제발 그남자 만나지 마요 2차 티저]냉장고가 데려다준 한 남자! 사랑에 빠져도 괜찮은걸까? 2차 티저 MBC 201110 방송"
-  caption="「제발 그 남자 만나지 마요」 예고편"
+  caption="《제발 그 남자 만나지 마요》 예고편"
   inlanguage="ko"
 
   datecreated=""

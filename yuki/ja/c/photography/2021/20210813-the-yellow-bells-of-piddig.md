@@ -59,7 +59,7 @@ Instagramでもフォローしてね！
 
 ## イエローベルの花とは何ですか？
 
-イエローベルの花、またはその科学的分類*Allamanda cathartica*は、*Allamanda*属の種です。 *A。 cathartica*は、*Allamanda*属のほとんどの種と同様に黄色い花です。 「ゴールデントランペット」や「イエローアラマンダ」としても知られています。 属名*Allamanda*は、スイスの植物学者であり医師であるFrédéric-LouisAllamand（1736-1809）に敬意を表して付けられました。[^a]
+イエローベルの花、またはその科学的分類*Allamanda cathartica*は、*Allamanda*属の種です。 *A。 cathartica*は、*Allamanda*属のほとんどの種と同様に黄色い花です。 《ゴールデントランペット》や《イエローアラマンダ》としても知られています。 属名*Allamanda*は、スイスの植物学者であり医師であるFrédéric-LouisAllamand（1736-1809）に敬意を表して付けられました。[^a]
 
 [^a]: Florabase: [Allamanda L.](https://florabase.dpaw.wa.gov.au/browse/profile/21926); [Fair Use](https://florabase.dpaw.wa.gov.au/help/copyright)
 

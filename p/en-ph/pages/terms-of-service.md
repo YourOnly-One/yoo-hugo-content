@@ -2,8 +2,8 @@
 title = "Terms of Service"
 description = "YourOnly.One™ Terms of Service"
 
-date = "2020-03-25T06:00:00"
-lastmod = "2021-01-28T07:00:00"
+date = "2020-03-25T06:00:00+00:00"
+lastmod = "2021-01-28T07:00:00+00:00"
 
 #aliases = ["", ""]
 #slug = ""

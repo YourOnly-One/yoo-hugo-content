@@ -1,9 +1,9 @@
 +++
-title = "(업데이트 됨) 「시지프스 : The Myth」논리적으로 설명"
-description = "「시지프스 : The Myth」의 결말이 헷갈 리 시나요?"	# For Schema.org; OpenGraph; Twitter Cards
+title = "(업데이트 됨) 《시지프스 : The Myth》논리적으로 설명"
+description = "《시지프스 : The Myth》의 결말이 헷갈 리 시나요?"	# For Schema.org; OpenGraph; Twitter Cards
 
-date = "2021-04-10T22:12:21"
-#lastmod = "2021-04-10T22:12:21"
+date = "2021-04-10T22:12:21+09:00"
+#lastmod = "2021-04-10T22:12:21+09:00"
 
 #aliases = [""]
 slug = "시지프스 Sisyphus The Myth (2021) Explained Logically"
@@ -43,11 +43,11 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   #rel = "noopener external nofollow"
 +++
 
-결정적인 15 회, 16 회가 방영 된 이후에도 최근 종결 된 「시지프스: The Myth」라는 제목의 한국 드라마에 대해 많은 혼란이있다. 이 글에서는이 놀라운 이야기에 혼란스러워 보이는 결말을 명확하게 전달하기 위해 최선을 다할 것입니다.
+결정적인 15 회, 16 회가 방영 된 이후에도 최근 종결 된 《시지프스: The Myth》라는 제목의 한국 드라마에 대해 많은 혼란이있다. 이 글에서는이 놀라운 이야기에 혼란스러워 보이는 결말을 명확하게 전달하기 위해 최선을 다할 것입니다.
 
 <!--more-->
 
-> (노트 : 이 한국어 번역은 Google 번역을 통해 만들어졌습니다. 제대로 번역하고 싶으시면 Twitter로 연락주세요 <a href="https://twitter.com/YourOnlyOne7" rel="me noopener external" referrerpolicy="strict-origin-when-cross-origin">@YourOnlyOne7</a>. 감사합니다!)
+> (노트 : 이 한국어 번역은 Google 번역을 통해 만들어졌습니다. 제대로 번역하고 싶으시면 Twitter로 연락주세요 <a href="https://twitter.com/YourOnlyONEofcl" rel="me noopener external" referrerpolicy="strict-origin-when-cross-origin">@YourOnlyOne7</a>. 감사합니다!)
 
 > ***시작하기 전에,이 게시물의 모든 것은 스포일러입니다. 사랑하는 독자 여러분이 이미 시리즈 (16 화까지)를 마쳤다고 가정합니다.***
 
@@ -57,9 +57,9 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
 
 ## 지침
 
-「시지프스 : The Myth」를 이해하려면 같은 페이지에 있어야합니다. 이 설명에 사용 된 지침, 용어 및 기본 정보부터 시작하겠습니다.
+《시지프스 : The Myth》를 이해하려면 같은 페이지에 있어야합니다. 이 설명에 사용 된 지침, 용어 및 기본 정보부터 시작하겠습니다.
 
-1. **우리는 "우주 내"관점에서 접근합니다.** 우리는 "제작 오류", "문학적 자유", "불신의 유예"를 이유로 사용하지 않을 것입니다. 이것은 저자가 염두에 둔 것을 이해하기 쉽지 않을 때 일반적으로 사용되는 변명입니다. 「시지프스 : The Myth」의 우주에 사는 사람이라고 생각해보세요.
+1. **우리는 "우주 내"관점에서 접근합니다.** 우리는 "제작 오류", "문학적 자유", "불신의 유예"를 이유로 사용하지 않을 것입니다. 이것은 저자가 염두에 둔 것을 이해하기 쉽지 않을 때 일반적으로 사용되는 변명입니다. 《시지프스 : The Myth》의 우주에 사는 사람이라고 생각해보세요.
 
 2. **우리는 이것을 시간 여행 이야기로 취급합니다.** 그리스 신화의 시시 푸스를 재 해석 한 것이 아닙니다. 우리는 시그마와 한태술 사이에 누가 시시 푸스인지 알아 내지 않을 것입니다.
 
@@ -99,7 +99,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
 
 - **2035-시그마** 서해와 아버지가 2035 년 파티를 본 시그마 (15 화).
 
-- **2001- 시그마** 또는 간단히 **시그마**는 시간이 2001 년까지 여행하여 「양자와 시간」을 위해 부를 축적 한 시그마입니다.
+- **2001- 시그마** 또는 간단히 **시그마**는 시간이 2001 년까지 여행하여 《양자와 시간》을 위해 부를 축적 한 시그마입니다.
 
   - 2035-Sigma와 2001-Sigma는 하나이며 동일합니다. 사건과 장면을 이해하기 위해서는 그것들을 구별해야합니다.
 
@@ -109,9 +109,9 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
 
   - 데드 태설과 2020- 태설은 같은 인물이 아니다. Dead-Tae Sul은 이전 타임 루프에서 나온 것입니다.
 
-### 「시지프스」유니버스의 기본 규칙
+### 《시지프스》유니버스의 기본 규칙
 
-- **타임 스트림이 하나뿐입니다.** 「시지프스」세계에서. 여러 타임 라인이나 타임 스트림 분기는 잊어 버리세요. 이것은 나중에 설명 될 것입니다.
+- **타임 스트림이 하나뿐입니다.** 《시지프스》세계에서. 여러 타임 라인이나 타임 스트림 분기는 잊어 버리세요. 이것은 나중에 설명 될 것입니다.
 
 - **미래는 2035 년입니다.** 2035 년 서해가 백화점에 잡힐 뻔한 시점부터 죽은 서해의 일기와 시신 찾기, 업 로더 사용까지 모든 것이 2035 년에 일어났다.
 
@@ -125,7 +125,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
 
 ## 엔딩은 무엇을 선택합니까?
 
-이 게시물의 내용을 살펴보기 전에 방안에있는 코끼리에 대해 이야기 해 보겠습니다. 결말을 선택하는 것은 무엇입니까? 제가 생각할 수있는 것이 3 개 이상 있는데 「시지프스」에 대한 여러 글에서 본 적이 있습니다. 이것들은:
+이 게시물의 내용을 살펴보기 전에 방안에있는 코끼리에 대해 이야기 해 보겠습니다. 결말을 선택하는 것은 무엇입니까? 제가 생각할 수있는 것이 3 개 이상 있는데 《시지프스》에 대한 여러 글에서 본 적이 있습니다. 이것들은:
 
 1. 한태 설은 비행기에서 강서 해가 옆에 앉아있는 것을보고 환각을 느꼈다.
 
@@ -154,7 +154,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
-  caption="「김병철」 as 「Seo Won Ju / Sigma」"
+  caption="《김병철》 as 《Seo Won Ju / Sigma》"
   alt="시지프스: The Myth"
 
   attribalign=""
@@ -215,7 +215,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
-  caption="「박신혜」 as 「Kang Seo Hae」"
+  caption="《박신혜》 as 《Kang Seo Hae》"
   alt="시지프스: The Myth"
 
   attribalign=""
@@ -233,7 +233,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
 
 **질문: 2035 년의 모든 사람이 사라 졌다고해서 시간이 재설정되었다는 의미가 아닙니까? 그런 일이 일어나지 않았기 때문에 기억을 유지해서는 안 되는가?**
 
-: 아니요, 시간이 재설정되지 않았습니다. 시간이 실제로 재설정 되었다면 처음부터 돌아와 모든 것이 다시 시작될 것입니다. 네, 그게 시리즈 타이틀 「시지프스」의 전제이지만, 16 화 비행기 씬에서 보셨 듯이 전혀 그렇지 않습니다.
+: 아니요, 시간이 재설정되지 않았습니다. 시간이 실제로 재설정 되었다면 처음부터 돌아와 모든 것이 다시 시작될 것입니다. 네, 그게 시리즈 타이틀 《시지프스》의 전제이지만, 16 화 비행기 씬에서 보셨 듯이 전혀 그렇지 않습니다.
 
 : 이에 대한 해결책은이 게시물의 시작 부분에서 언급 한 *시간 거품*입니다. 태 설이 자살했을 때 업 로더의 개발이 지연되었습니다. 그것 없이는 2035 년의 모든 사람과 모든 항목이 사라졌습니다. 그러나 효과, 상호 작용, 기억, 서해가 쓴 일기, 그들이 공유 한 정보는 남았다. 이것은 시간이 재설정되지 않았다는 증거입니다.
 
@@ -268,7 +268,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
-  caption="「김병철」 as 「Seo Won Ju / Sigma」"
+  caption="《김병철》 as 《Seo Won Ju / Sigma》"
   alt="시지프스: The Myth"
 
   attribalign=""
@@ -310,7 +310,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
 
 : 아무도 Sun이 죽었다고 말하지 않았다면 그는 조끼를 가져 오지 않았을 것이고 Sun은 실제로 죽었을 것입니다. 그의 원래 계획은 Sun을 만나서 추가 지침을 줄 수 있도록하는 것이 었습니다. 벙커의 위치라고 생각하고 그날 밤 Asia Mart에서 그를 만나는 것이 었습니다.
 
-: 태 설이 말했던 *미래는 이미 여기에 있습니다. 당신은 그것을 알지 못합니다*. 시간 거품 속의 모든 것이 동시에 일어나고 끊임없이 변화하고 있기 때문에 아직 일어나지 않았던 미래가 이미 도래했습니다. 시간 거품이없고 대신 시간 흐름 분기가 있다면 미래는 결코 오지 않을 것입니다. 네, 이것은 「시지프스 Sisyphus」세계에 타임 스트림이 하나뿐이라는 또 다른 증거입니다.
+: 태 설이 말했던 *미래는 이미 여기에 있습니다. 당신은 그것을 알지 못합니다*. 시간 거품 속의 모든 것이 동시에 일어나고 끊임없이 변화하고 있기 때문에 아직 일어나지 않았던 미래가 이미 도래했습니다. 시간 거품이없고 대신 시간 흐름 분기가 있다면 미래는 결코 오지 않을 것입니다. 네, 이것은 《시지프스 Sisyphus》세계에 타임 스트림이 하나뿐이라는 또 다른 증거입니다.
 
 **질문: 하지만 잠깐, 그는 Eddie Kim이 교회에 나타날 것을 어떻게 알았습니까?**
 
@@ -335,7 +335,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
   linkrel="noopener external nofollow"
 
   title="시지프스: The Myth"
-  caption="「김병철」 as 「Seo Won Ju / Sigma」"
+  caption="《김병철》 as 《Seo Won Ju / Sigma》"
   alt="시지프스: The Myth"
 
   attribalign=""
@@ -376,7 +376,7 @@ Animetric은 쇼의 결말에 대한 훌륭한 설명을 발표했습니다. 나
   linkrel="noopener external nofollow"
 
   title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
-  caption="「시지프스: The Myth」 예고편"
+  caption="《시지프스: The Myth》 예고편"
 
   datecreated=""
   datepublished="2020-12-23"

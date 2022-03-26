@@ -57,7 +57,7 @@ avatar = "https://rsc.youronly.one/img/y/Yuki_flag-square-300x.webp"
 
 플로레스가 대중화 한 필리핀 디자인과 더 원시적 인 요요의 주요 차이점은 요요가 묶이는 방식에 있습니다. 오래된 (그리고 여전히 저렴한) 요요 디자인에서는 끈을 매듭을 사용하여 축에 묶습니다. 이 기술을 사용하면 요요가 앞뒤로 이동합니다. 쉽게 돌아 오지만 잠들게하는 것은 불가능합니다. Flores의 디자인에서는 원하는 길이의 두 배인 하나의 연속 된 끈을 꼬아 서 한 쪽 끝에서 차축 주위에 맞는 고리를 만듭니다. *루프 슬립-스트링*이라고도 불리는이 사소한 수정은 자유 회전 중 움직임의 안정성과 정지를 증가시켜 훨씬 더 다양하고 정교하게 움직일 수있게합니다.[^a]
 
-[^a]: Wikipedia: [「Yo-yo」](https://en.wikipedia.org/wiki/Yo-yo#Etymology_and_history); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
+[^a]: Wikipedia: [《Yo-yo》](https://en.wikipedia.org/wiki/Yo-yo#Etymology_and_history); [CC-BY-SA 3.0 Unported License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License)
 [^b]: Merriam-Webster: [History and Etymology for yo-yo](https://www.merriam-webster.com/dictionary/yo-yo)
 
 {{< image

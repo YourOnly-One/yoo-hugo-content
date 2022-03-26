@@ -1,6 +1,6 @@
 +++
-title = "(Updated) 「Sisyphus: The Myth」 Explained Logically"
-description = "Confused about the ending of 「Sisyphus: The Myth」?"	# For Schema.org; OpenGraph; Twitter Cards
+title = "(Updated) 《Sisyphus: The Myth》 Explained Logically"
+description = "Confused about the ending of 《Sisyphus: The Myth》?"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2021-04-10T21:12:21+08:00"
 #lastmod = "2021-04-10T21:12:21+08:00"
@@ -43,7 +43,7 @@ videos = ["https://www.youtube.com/watch?v=734PeGfxICM"]                        
     #rel = "noopener external nofollow"
 +++
 
-There is a lot of confusion about the recently concluded Korean TV series entitled 「Sisyphus: The Myth」 even after the crucial episodes 15 and 16 were aired. In this post, I will do my best in giving clarity to what seem to be a confusing ending to this amazing story.
+There is a lot of confusion about the recently concluded Korean TV series entitled 《Sisyphus: The Myth》 even after the crucial episodes 15 and 16 were aired. In this post, I will do my best in giving clarity to what seem to be a confusing ending to this amazing story.
 
 <!--more-->
 
@@ -55,9 +55,9 @@ There is a lot of confusion about the recently concluded Korean TV series entitl
 
 ## Guidelines
 
-If we are to understand 「Sisyphus: The Myth」, we need to be on the same page. Let's begin with the guidelines, terminologies, and basic information used in this explanation.
+If we are to understand 《Sisyphus: The Myth》, we need to be on the same page. Let's begin with the guidelines, terminologies, and basic information used in this explanation.
 
-1. **We approach this from the "in-universe" perspective.** We are not going to use "production error", "literary freedom", or "suspension of disbelief" as reasons, these are excuses commonly used when it is not easy to understand what the authors had in mind. Think as someone who lives in the universe of 「Sisyphus: The Myth」.
+1. **We approach this from the "in-universe" perspective.** We are not going to use "production error", "literary freedom", or "suspension of disbelief" as reasons, these are excuses commonly used when it is not easy to understand what the authors had in mind. Think as someone who lives in the universe of 《Sisyphus: The Myth》.
 
 2. **We treat this as a time travel story** and not as a reinterpretation of the Greek mythology of Sisyphus. We are not going to figure out who is Sisyphus between Sigma and Han Tae Sul.
 
@@ -97,7 +97,7 @@ If we are to understand 「Sisyphus: The Myth」, we need to be on the same page
 
 - **2035-Sigma** is the Sigma that Seo Hae and her father saw partying in 2035 (episode 15).
 
-- **2001-Sigma** or simply **Sigma** is the Sigma that time traveled to 2001 and amassed wealth to fund 「Quantum &amp; Time」
+- **2001-Sigma** or simply **Sigma** is the Sigma that time traveled to 2001 and amassed wealth to fund 《Quantum &amp; Time》
 
   - The 2035-Sigma and 2001-Sigma are one and the same. We need to distinguish them to understand the events and scenes.
 
@@ -107,9 +107,9 @@ If we are to understand 「Sisyphus: The Myth」, we need to be on the same page
 
   - The Dead-Tae Sul and 2020-Tae Sul are not the same person. The Dead-Tae Sul was from the previous time loop.
 
-### Basic rules of the 「Sisyphus」 universe
+### Basic rules of the 《Sisyphus》 universe
 
-- **There is only one timestream** in the 「Sisyphus」 universe. Forget about multiple timelines or timestream branches. This will be explained later.
+- **There is only one timestream** in the 《Sisyphus》 universe. Forget about multiple timelines or timestream branches. This will be explained later.
 
 - **The future is 2035.** From the time 2035-Seo Hae was almost caught in the department store, to finding the diary and corpse of Dead-Seo Hae, to using the Uploader, it all happened in 2035.
 
@@ -123,7 +123,7 @@ Now let's begin.
 
 ## What is your choice of ending?
 
-Before we dive into the meat of this post, let's talk about the elephant in the room: what is your choice of ending? There are at least three that I can think of and I have seen these in various threads about 「Sisyphus」. These are:
+Before we dive into the meat of this post, let's talk about the elephant in the room: what is your choice of ending? There are at least three that I can think of and I have seen these in various threads about 《Sisyphus》. These are:
 
 1. Han Tae Sul was hallucinating about Kang Seo Hae sitting besides him in the plane.
 
@@ -152,7 +152,7 @@ Anyone for *ending #1* will probably not like the rest of this post but are stil
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
+  caption="《Kim Byung Chul》 as 《Seo Won Ju / Sigma》"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -213,7 +213,7 @@ Yes, an FAQ. I think this is the best format to use this way it is easier to und
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="「Park Shin Hye」 as 「Kang Seo Hae」"
+  caption="《Park Shin Hye》 as 《Kang Seo Hae》"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -266,7 +266,7 @@ Which brings us to the next question.
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
+  caption="《Kim Byung Chul》 as 《Seo Won Ju / Sigma》"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -308,7 +308,7 @@ See? Even Sigma is laughing now.
 
 : If no one told him Sun is dead, he would probably never bring a vest and Sun would actually be dead. His original plan was only to meet Sun so he can give him additional instructions--which I believe to be the location of the bunker and to meet him at Asia Mart later that night.
 
-: Remember also what Tae Sul said, *the future is already here, you just do not know it*. Since everything in the time bubble is happening simultaenously and is constantly changing, the future that was yet to happen already arrived. If there was no time bubble and instead there is a timestream branch, then the future will never arrive. Yes, this is yet another proof that there is only one timestream in the 「Sisyphus」 universe.
+: Remember also what Tae Sul said, *the future is already here, you just do not know it*. Since everything in the time bubble is happening simultaenously and is constantly changing, the future that was yet to happen already arrived. If there was no time bubble and instead there is a timestream branch, then the future will never arrive. Yes, this is yet another proof that there is only one timestream in the 《Sisyphus》 universe.
 
 **Q: But wait, how did he know Eddie Kim will show up in the church?**
 
@@ -333,7 +333,7 @@ And we are back to that airplane scene. The new Seo Hae arrived. Han Tae Sul saw
   linkrel="noopener external nofollow"
 
   title="Sisyphus: The Myth"
-  caption="「Kim Byung Chul」 as 「Seo Won Ju / Sigma」"
+  caption="《Kim Byung Chul》 as 《Seo Won Ju / Sigma》"
   alt="Sisyphus: The Myth"
 
   attribalign=""
@@ -374,7 +374,7 @@ Animetric presented an excellent explanation on the show's ending, I highly reco
   linkrel="noopener external nofollow"
 
   title="[티저] ＂이번엔 끝장을 보자＂ 조승우x박신혜 ＜시지프스 : the myth＞ 2021년 2월 첫 방송"
-  caption="「Sisyphus: The Myth」 trailer"
+  caption="《Sisyphus: The Myth》 trailer"
 
   datecreated=""
   datepublished="2020-12-23"

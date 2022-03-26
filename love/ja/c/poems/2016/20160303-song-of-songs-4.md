@@ -47,7 +47,7 @@ avatar = "https://rsc.youronly.one/img/y/Love_and_Relationship.webp"
 
 こちらがリビングバイブルの雅歌4です[^a]。
 
-[^a]: BibleGateway.com: [「아가 4」](https://www.biblegateway.com/passage/?search=Song+of+Songs+4&version=JLB)
+[^a]: BibleGateway.com: [《아가 4》](https://www.biblegateway.com/passage/?search=Song+of+Songs+4&version=JLB)
 
 <!--more-->
 

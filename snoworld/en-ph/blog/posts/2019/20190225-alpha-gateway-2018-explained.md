@@ -1,6 +1,6 @@
 +++
-title = "「Alpha Gateway」 Parallel Worlds Explained"
-description = "Confused on the parallel worlds of 「The Gateway」?"	# For Schema.org; OpenGraph; Twitter Cards
+title = "《Alpha Gateway》 Parallel Worlds Explained"
+description = "Confused on the parallel worlds of 《The Gateway》?"	# For Schema.org; OpenGraph; Twitter Cards
 
 date = "2019-02-25T16:46:12+08:00"
 #lastmod = "2019-02-25T16:46:12+08:00"
@@ -43,7 +43,7 @@ videos = ["https://www.youtube.com/watch?v=gInFXtRvwlM"]                        
   #rel = "noopener external nofollow"
 +++
 
-There are multiple parallel worlds shown in 「Alpha Gateway」 or 「The Gateway」 and it is often confusing if one is not familiar with how to differentiate parallel worlds from each other. In this post, I will present what I believe to be the most accurate analysis of the parallel worlds visited by Jane.
+There are multiple parallel worlds shown in 《Alpha Gateway》 or 《The Gateway》 and it is often confusing if one is not familiar with how to differentiate parallel worlds from each other. In this post, I will present what I believe to be the most accurate analysis of the parallel worlds visited by Jane.
 
 <!--more-->
 
@@ -92,7 +92,7 @@ We can only hope there was another Jane that ended up in the Alpha World to send
   endtime=""
 
   title="Alpha Gateway - Official Trailer Sci Fi Thriller Movie HD"
-  caption="「Alpha Gateway」 trailer"
+  caption="《Alpha Gateway》 trailer"
   inlanguage="en"
 
   datecreated=""

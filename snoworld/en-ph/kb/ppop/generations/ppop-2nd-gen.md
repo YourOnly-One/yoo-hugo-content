@@ -65,7 +65,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2000
 - First sales: 2002-09-06
-  - Song: 「Sana Kahit Minsan」 (remix; original by ***Ariel Rivera*** in 1991)
+  - Song: 《Sana Kahit Minsan》 (remix; original by ***Ariel Rivera*** in 1991)
 
 {{< video
   id="dFaiI1FPGns"
@@ -80,8 +80,8 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Narda」 [^kamikazee-songs-narda]
-  - 「Chiksilog」 [^kamikazee-songs-chiksilog] OST for 「Philippine Ragnarok Online」 developed by **Gravity** (**그라비티 주식회사**) and published by **Level-Up! Games**
+  - 《Narda》 [^kamikazee-songs-narda]
+  - 《Chiksilog》 [^kamikazee-songs-chiksilog] OST for 《Philippine Ragnarok Online》 developed by **Gravity** (**그라비티 주식회사**) and published by **Level-Up! Games**
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/2933425-Kamikazee-2)
   - [ISNI](https://isni.org/isni/0000000470189814)
@@ -100,8 +100,8 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Kamikazee)
 
-[^kamikazee-songs-narda]: [Kamikazee] YouTube: 「[Narda](https://www.youtube.com/watch?v=ZsEdinsZYsI "Kamikazee: Narda")」
-[^kamikazee-songs-chiksilog]: [Kamikazee] YouTube: 「[Chiksilog](https://www.youtube.com/watch?v=hPIPEhThEg4 "Kamikazee: Chiksilog")」
+[^kamikazee-songs-narda]: [Kamikazee] YouTube: 《[Narda](https://www.youtube.com/watch?v=ZsEdinsZYsI "Kamikazee: Narda")》
+[^kamikazee-songs-chiksilog]: [Kamikazee] YouTube: 《[Chiksilog](https://www.youtube.com/watch?v=hPIPEhThEg4 "Kamikazee: Chiksilog")》
 
 ## 2001
 
@@ -110,7 +110,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2001
 - First sales: 2003
-  - Song: 「Come Breath Me」
+  - Song: 《Come Breath Me》
 
 {{< video
   id="uTlNrSr917w"
@@ -142,7 +142,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
 - Fandom name:
 - Debut: 2001
-  - Song: 「Come」
+  - Song: 《Come》
 
 {{< video
   id="hyUf84rTdr8"
@@ -157,7 +157,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Never Will I Forget」 [^urbandub-songs-never-will-i-forget]
+  - 《Never Will I Forget》 [^urbandub-songs-never-will-i-forget]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3462473-Urbandub)
   - [ISNI](https://isni.org/isni/0000000469931620)
@@ -176,7 +176,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Urbandub)
 
-[^urbandub-songs-never-will-i-forget]: [Urbandub] YouTube: 「[Never Will I Forget](https://www.youtube.com/watch?v=f10GNg0GOrA "Urbandub: Never Will I Forget")」
+[^urbandub-songs-never-will-i-forget]: [Urbandub] YouTube: 《[Never Will I Forget](https://www.youtube.com/watch?v=f10GNg0GOrA "Urbandub: Never Will I Forget")》
 
 ## 2002
 
@@ -185,7 +185,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2002
 - First sales: 2004-11
-  - Song: 「Jopay」
+  - Song: 《Jopay》
 
 {{< video
   id="IX6pZryBKQY"
@@ -200,7 +200,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Did you know?
-  - The band name is in honor of the song 「Mayonaise」 by ***The Smashing Pumpkins***.
+  - The band name is in honor of the song 《Mayonaise》 by ***The Smashing Pumpkins***.
   - They won in the 2004 *Red Horse Muziklaban*.
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/5619697-Mayonnaise-4)
@@ -226,7 +226,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
 - Fandom name:
 - Debut: 2002-08-15
-  - Song: 「Kusina」
+  - Song: 《Kusina》
 
 {{< video
   id="VxbjRJjzdrk"
@@ -241,7 +241,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Kamikazee」 [^narda-songs-kamikazee]
+  - 《Kamikazee》 [^narda-songs-kamikazee]
 - Did you know?
   - ***Narda*** is well-know as one of the first [indie] Pinoy rock band to record and release their music independently.
 - Authority control:
@@ -261,13 +261,13 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Narda)
 
-[^narda-songs-kamikazee]: [Narda] YouTube Music: 「[Kamikazee](https://music.youtube.com/watch?v=vfxxRhzjkvY "Narda: Kamikazee")」
+[^narda-songs-kamikazee]: [Narda] YouTube Music: 《[Kamikazee](https://music.youtube.com/watch?v=vfxxRhzjkvY "Narda: Kamikazee")》
 
 ### Salbakuta {#salbakuta-dxGT1cwa9Q218SMbL}
 
 - Fandom name:
 - Debut: 2002
-  - Song: 「S2pid Luv」
+  - Song: 《S2pid Luv》
 
 {{< video
   id="ecxupMtrYWk"
@@ -303,7 +303,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
 - Fandom name:
 - Debut: 2003
-  - Song: 「Sige」
+  - Song: 《Sige》
 
 {{< video
   id="pU6mktY3AYM"
@@ -318,7 +318,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Upside Down」 [^6cyclemind-songs-upside-down] (original by ***Two Minds Crack*** in 1986)
+  - 《Upside Down》 [^6cyclemind-songs-upside-down] (original by ***Two Minds Crack*** in 1986)
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3521355-6cyclemind)
   - [ISNI](https://isni.org/isni/0000000470413863)
@@ -337,7 +337,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/6cyclemind)
 
-[^6cyclemind-songs-upside-down]: [6cyclemind] YouTube: 「[Upside Down](https://www.youtube.com/watch?v=dW09_D3PQi8 "6cyclemind: Upside Down")」 (original by *Two Minds Crack* in 1986)
+[^6cyclemind-songs-upside-down]: [6cyclemind] YouTube: 《[Upside Down](https://www.youtube.com/watch?v=dW09_D3PQi8 "6cyclemind: Upside Down")》 (original by *Two Minds Crack* in 1986)
 
 ### MYMP {#mymp-PUah84MzBcEvd0GPU}
 
@@ -345,7 +345,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 1996
 - First sales: 2003
-  - Song: 「A Little Bit」
+  - Song: 《A Little Bit》
 
 {{< video
   id="DI_i7b1inQs"
@@ -360,13 +360,13 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Get Me」 [^mymp-songs-get-me]
-  - 「Sa 'Yo Lamang」 [^mymp-songs-sa-yo-lamang]
-  - 「Kailan」 [^mymp-songs-kailan] (original by ***Smokey Mountain*** in 1990)
-  - 「True Colors」 [^mymp-songs-true-colors] (original by ***Cyndi Lauper*** in 1986)
-  - 「Especially For You」 [^mymp-songs-especially-for-you] (remix; original by ***Kylie Minogue*** and ***Jason Donovan*** in 1988)
-  - 「Say You Love Me」 [^mymp-songs-say-you-love-me] (original by ***Patti Austin*** in 1976)
-  - 「Love Moves (In Mysterious Ways)」 [^mymp-songs-love-moves] (original by ***Julia Fordham*** in 1991)
+  - 《Get Me》 [^mymp-songs-get-me]
+  - 《Sa 'Yo Lamang》 [^mymp-songs-sa-yo-lamang]
+  - 《Kailan》 [^mymp-songs-kailan] (original by ***Smokey Mountain*** in 1990)
+  - 《True Colors》 [^mymp-songs-true-colors] (original by ***Cyndi Lauper*** in 1986)
+  - 《Especially For You》 [^mymp-songs-especially-for-you] (remix; original by ***Kylie Minogue*** and ***Jason Donovan*** in 1988)
+  - 《Say You Love Me》 [^mymp-songs-say-you-love-me] (original by ***Patti Austin*** in 1976)
+  - 《Love Moves (In Mysterious Ways)》 [^mymp-songs-love-moves] (original by ***Julia Fordham*** in 1991)
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3521350-MYMP)
   - [ISNI](https://isni.org/isni/0000000469851049)
@@ -390,20 +390,20 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/MYMP)
 
-[^mymp-songs-get-me]: [MYMP] YouTube: 「[Get Me](https://www.youtube.com/watch?v=ECGTuzuRaDk "MYMP: Get Me")」
-[^mymp-songs-sa-yo-lamang]: [MYMP] YouTube: 「[Sa 'Yo Lamang](https://www.youtube.com/watch?v=VqRYwK8l6Gs "MYMP: Sa 'Yo Lamang")」
-[^mymp-songs-kailan]: [MYMP] YouTube: 「[Kailan](https://www.youtube.com/watch?v=btw7ZJzYXf8 "MYMP: Kailan")」 (original by Smokey Mountain*in 1990)
-[^mymp-songs-true-colors]: [MYMP] YouTube: 「[True Colors](https://www.youtube.com/watch?v=SyAEcbGgklU "MYMP: True Colors")」 (original by*Cyndi Lauper*in 1986)
-[^mymp-songs-especially-for-you]: [MYMP] YouTube: 「[Especially For You](https://www.youtube.com/watch?v=IimqpTcrakU "MYMP: Especially For You")」 (remix; original by*Kylie Minogue and *Jason Donovan* in 1988)
-[^mymp-songs-say-you-love-me]: [MYMP] YouTube: 「[Say You Love Me](https://www.youtube.com/watch?v=5F19p3vOqrg "MYMP: Say You Love Me")」 (original by *Patti Austin* in 1976)
-[^mymp-songs-love-moves]: [MYMP] YouTube: 「[Love Moves (In Mysterious Ways)](https://www.youtube.com/watch?v=9-qgBht_CgE "MYMP: Love Moves (In Mysterious Ways)")」 (original by *Julia Fordham* in 1991)
+[^mymp-songs-get-me]: [MYMP] YouTube: 《[Get Me](https://www.youtube.com/watch?v=ECGTuzuRaDk "MYMP: Get Me")》
+[^mymp-songs-sa-yo-lamang]: [MYMP] YouTube: 《[Sa 'Yo Lamang](https://www.youtube.com/watch?v=VqRYwK8l6Gs "MYMP: Sa 'Yo Lamang")》
+[^mymp-songs-kailan]: [MYMP] YouTube: 《[Kailan](https://www.youtube.com/watch?v=btw7ZJzYXf8 "MYMP: Kailan")》 (original by Smokey Mountain*in 1990)
+[^mymp-songs-true-colors]: [MYMP] YouTube: 《[True Colors](https://www.youtube.com/watch?v=SyAEcbGgklU "MYMP: True Colors")》 (original by*Cyndi Lauper*in 1986)
+[^mymp-songs-especially-for-you]: [MYMP] YouTube: 《[Especially For You](https://www.youtube.com/watch?v=IimqpTcrakU "MYMP: Especially For You")》 (remix; original by*Kylie Minogue and *Jason Donovan* in 1988)
+[^mymp-songs-say-you-love-me]: [MYMP] YouTube: 《[Say You Love Me](https://www.youtube.com/watch?v=5F19p3vOqrg "MYMP: Say You Love Me")》 (original by *Patti Austin* in 1976)
+[^mymp-songs-love-moves]: [MYMP] YouTube: 《[Love Moves (In Mysterious Ways)](https://www.youtube.com/watch?v=9-qgBht_CgE "MYMP: Love Moves (In Mysterious Ways)")》 (original by *Julia Fordham* in 1991)
 
 ### Shamrock {#shamrock-y32wOwQ7Fch3WUdJQ}
 
 - Fandom name:
 - Debut: 2003
 - First sales: 2005
-  - Song: 「Alipin」 (also an OST for 「Let the Love Begin」)
+  - Song: 《Alipin》 (also an OST for 《Let the Love Begin》)
 
 {{< video
   id="uV8_00Pn_H8"
@@ -418,10 +418,10 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Ngiti」 [^shamrock-songs-ngiti]
-  - 「Haplos」 [^shamrock-songs-haplos] (also an OST in the Tagalog version of Korean drama 「Jumong」; original by ***Neocolours*** in 1988)
-  - 「Hold On」 [^shamrock-songs-hold-on] (also an OST in the Tagalog version of Korean drama 「Jumong」)
-  - 「Naaalala Ka」 [^shamrock-songs-naaalala-ka] (original by ***Rey Valera*** in 1978)
+  - 《Ngiti》 [^shamrock-songs-ngiti]
+  - 《Haplos》 [^shamrock-songs-haplos] (also an OST in the Tagalog version of Korean drama 《Jumong》; original by ***Neocolours*** in 1988)
+  - 《Hold On》 [^shamrock-songs-hold-on] (also an OST in the Tagalog version of Korean drama 《Jumong》)
+  - 《Naaalala Ka》 [^shamrock-songs-naaalala-ka] (original by ***Rey Valera*** in 1978)
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/3467290)
   - [MusicBrainz](https://musicbrainz.org/artist/f6cc7473-57cb-4fe1-882e-79ee8803ceca)
@@ -442,11 +442,11 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Shamrock_(Filipino_band))
 
-[^shamrock-songs-ngiti]: [Shamrock] YouTube: 「[Ngiti](https://www.youtube.com/watch?v=FYe_ibcay8M "Shamrock: Ngiti")」 (acoustic version)
-[^shamrock-songs-haplos]: [Shamrock] YouTube: 「[Haplos](https://www.youtube.com/watch?v=E4eeZSaNWCE "Shamrock: Haplos")」
-[^shamrock-songs-hold-on]: [Shamrock] YouTube: 「[Hold On](https://www.youtube.com/watch?v=y3F-USmIrXs "Shamrock: Hold On")」 (also an OST in the Tagalog version of Korean drama 「Jumong」; original by *Neocolours* in 1988)
-[^shamrock-songs-naaalala-ka]: [Shamrock] YouTube: 「[Naaalala Ka](https://www.youtube.com/watch?v=Q8GUGQ46BZc "Shamrock: Naaalala Ka")」 (original by *Rey Valera* in 1978)
-[^shamrock-songs-paano]: [Shamrock] YouTube: 「[Paano](https://www.youtube.com/watch?v=q8vxOfiy-fo "Shamrock: Paano")」
+[^shamrock-songs-ngiti]: [Shamrock] YouTube: 《[Ngiti](https://www.youtube.com/watch?v=FYe_ibcay8M "Shamrock: Ngiti")》 (acoustic version)
+[^shamrock-songs-haplos]: [Shamrock] YouTube: 《[Haplos](https://www.youtube.com/watch?v=E4eeZSaNWCE "Shamrock: Haplos")》
+[^shamrock-songs-hold-on]: [Shamrock] YouTube: 《[Hold On](https://www.youtube.com/watch?v=y3F-USmIrXs "Shamrock: Hold On")》 (also an OST in the Tagalog version of Korean drama 《Jumong》; original by *Neocolours* in 1988)
+[^shamrock-songs-naaalala-ka]: [Shamrock] YouTube: 《[Naaalala Ka](https://www.youtube.com/watch?v=Q8GUGQ46BZc "Shamrock: Naaalala Ka")》 (original by *Rey Valera* in 1978)
+[^shamrock-songs-paano]: [Shamrock] YouTube: 《[Paano](https://www.youtube.com/watch?v=q8vxOfiy-fo "Shamrock: Paano")》
 
 ## 2004
 
@@ -456,7 +456,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Also known as: Dara; Sandy; Sandy Park; Krung-krung
 - Fandom name:
 - Debut: 2004 (as a solo act in the Philippines)
-  - Song: 「In Or Out」
+  - Song: 《In Or Out》
 
 {{< video
   id="_IKAPJSAiSQ"
@@ -472,7 +472,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
 - Debut: 2009-03-27 (as a member of ***2NE1***)
 - Debut: 2009-07-09 (as a solo act in Korea)
-  - Song: 「Kiss」
+  - Song: 《Kiss》
 
 {{< video
   id="ZAqiMCp9zrI"
@@ -490,7 +490,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
   - ***Sandara Park*** is dubbed as the "*BoA* of the Philippines" due to her immense popularity in the country; similar to how ***BoA*** is immensely popular in Japan.
   - She is considered as the standard for Korean beauty.
   - She is also known as the "Pambansang krung-krung" ("Nation's Crazy Person").
-  - In 2004, she released her self-titled EP, with the first track 「In Or Out」, as her debut in singing.
+  - In 2004, she released her self-titled EP, with the first track 《In Or Out》, as her debut in singing.
     - Her EP is also the only album by a South Korean to be certified platinum by the Philippine Association of the Record Industry or PARI.
   - Her inspiration to become a celebrity was the K-pop boy band ***Seo Taiji and Boys*** who started the modern K-pop music in 1992.
   - In 2004, ***Sandara Parak*** joined **ABS-CBN**'s talent program, *Star Circle Quest* where she finished in second place.
@@ -527,7 +527,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2004-09
 - First sales: 2007
-  - Song: 「So Blue」
+  - Song: 《So Blue》
 
 {{< video
   id="5FMXr0pKIUg"
@@ -543,12 +543,12 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Nung Iniwan Mo Ako」 [^sinosikat-songs-nung-iniwan-mo-ako]
-  - 「Turning My Safety Off」 [^sinosikat-songs-turning-my-safety-off]
-  - 「Magic」 [^sinosikat-songs-magic]
-  - 「Tragic Beauty」 [^sinosikat-songs-tragic-beauty]
-  - 「Telepono」 [^sinosikat-songs-telepono]
-  - 「Pag-ibig」 [^sinosikat-songs-pag-ibig]
+  - 《Nung Iniwan Mo Ako》 [^sinosikat-songs-nung-iniwan-mo-ako]
+  - 《Turning My Safety Off》 [^sinosikat-songs-turning-my-safety-off]
+  - 《Magic》 [^sinosikat-songs-magic]
+  - 《Tragic Beauty》 [^sinosikat-songs-tragic-beauty]
+  - 《Telepono》 [^sinosikat-songs-telepono]
+  - 《Pag-ibig》 [^sinosikat-songs-pag-ibig]
 - Authority control:
   - [ISNI](https://isni.org/isni/0000000470083438)
   - [MusicBrainz](https://musicbrainz.org/artist/97adae35-8ff7-4a35-ab86-c26e0984142f)
@@ -569,12 +569,12 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Sinosikat%3F)
 
-[^sinosikat-songs-nung-iniwan-mo-ako]: [SinoSikat?] YouTube: 「[Nung Iniwan Mo Ako](https://www.youtube.com/watch?v=IvLDviNa38A "SinoSikat?: Nung Iniwan Mo Ako")」
-[^sinosikat-songs-turning-my-safety-off]: [SinoSikat?] YouTube: 「[Turning My Safety Off](https://www.youtube.com/watch?v=nCPkRlgBtqg "SinoSikat?: Turning My Safety Off")」
-[^sinosikat-songs-magic]: [SinoSikat?] YouTube: 「[Magic](https://www.youtube.com/watch?v=SD6MzricKs0 "SinoSikat?: Magic")」
-[^sinosikat-songs-tragic-beauty]: [SinoSikat?] YouTube: 「[Tragic Beauty](https://www.youtube.com/watch?v=rMcLcclR1oc "SinoSikat?: Tragic Beauty")」
-[^sinosikat-songs-telepono]: [SinoSikat?] YouTube: 「[Telepono](https://www.youtube.com/watch?v=Z2nOpA1IwnI "SinoSikat?: Telepono")」
-[^sinosikat-songs-pag-ibig]: [SinoSikat?] YouTube: 「[Pag-ibig](https://www.youtube.com/watch?v=C6hE0k-jKRI "SinoSikat?: Pag-ibig")」
+[^sinosikat-songs-nung-iniwan-mo-ako]: [SinoSikat?] YouTube: 《[Nung Iniwan Mo Ako](https://www.youtube.com/watch?v=IvLDviNa38A "SinoSikat?: Nung Iniwan Mo Ako")》
+[^sinosikat-songs-turning-my-safety-off]: [SinoSikat?] YouTube: 《[Turning My Safety Off](https://www.youtube.com/watch?v=nCPkRlgBtqg "SinoSikat?: Turning My Safety Off")》
+[^sinosikat-songs-magic]: [SinoSikat?] YouTube: 《[Magic](https://www.youtube.com/watch?v=SD6MzricKs0 "SinoSikat?: Magic")》
+[^sinosikat-songs-tragic-beauty]: [SinoSikat?] YouTube: 《[Tragic Beauty](https://www.youtube.com/watch?v=rMcLcclR1oc "SinoSikat?: Tragic Beauty")》
+[^sinosikat-songs-telepono]: [SinoSikat?] YouTube: 《[Telepono](https://www.youtube.com/watch?v=Z2nOpA1IwnI "SinoSikat?: Telepono")》
+[^sinosikat-songs-pag-ibig]: [SinoSikat?] YouTube: 《[Pag-ibig](https://www.youtube.com/watch?v=C6hE0k-jKRI "SinoSikat?: Pag-ibig")》
 
 ## 2005
 
@@ -583,7 +583,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2005
 - First sales: 2006-07-17
-  - Song: 「Pasan」 (also an OST for 「Lineage 2」 South-East Asia)
+  - Song: 《Pasan》 (also an OST for 《Lineage 2》 South-East Asia)
 
 {{< video
   id="TzYhSms3fCc"
@@ -622,7 +622,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2006
 - First sales: 2007
-  - Song: 「Sugarpop」
+  - Song: 《Sugarpop》
 
 {{< video
   id="xDpcaWSNMO4"
@@ -637,8 +637,8 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Chocolate」 [^sugarpop-songs-chocolate] (original by ***Soul Control*** in 2004)
-  - 「Name Game」 [^sugarpop-songs-name-game] (original by ***Shirley Ellis*** in 1964)
+  - 《Chocolate》 [^sugarpop-songs-chocolate] (original by ***Soul Control*** in 2004)
+  - 《Name Game》 [^sugarpop-songs-name-game] (original by ***Shirley Ellis*** in 1964)
 - Authority control:
   - [ISNI](https://isni.org/isni/0000000469811100)
   - [MusicBrainz](https://musicbrainz.org/artist/841656a4-bab5-441f-95f8-072460f211fb)
@@ -655,8 +655,8 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Sugarpop)
 
-[^sugarpop-songs-chocolate]: [SugarPop] YouTube: 「[Chocolate](https://www.youtube.com/watch?v=qH9KlVBiwM4 "SugarPop: Chocolate")」 (original by *Soul Control* in 2004)
-[^sugarpop-songs-name-game]: [SugarPop] YouTube: 「[Name Gmae](https://www.youtube.com/watch?v=IGS33wjoGZ4 "SugarPop: Name Game")」 (original by *Shirley Ellis* in 1964)
+[^sugarpop-songs-chocolate]: [SugarPop] YouTube: 《[Chocolate](https://www.youtube.com/watch?v=qH9KlVBiwM4 "SugarPop: Chocolate")》 (original by *Soul Control* in 2004)
+[^sugarpop-songs-name-game]: [SugarPop] YouTube: 《[Name Gmae](https://www.youtube.com/watch?v=IGS33wjoGZ4 "SugarPop: Name Game")》 (original by *Shirley Ellis* in 1964)
 
 ## 2007
 
@@ -665,7 +665,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2007
 - First sales: 2008
-  - Song: 「K.I.T.T.Y」
+  - Song: 《K.I.T.T.Y》
 
 {{< video
   id="py7mVshJRzs"
@@ -702,7 +702,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2008
 - First sales: 2009-09-07
-  - Song: 「Up Up, Down Down」
+  - Song: 《Up Up, Down Down》
 
 {{< video
   id="fZGj814cNZ8"
@@ -717,7 +717,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「12:51」 [^krissy-and-ericka-songs-12-51]
+  - 《12:51》 [^krissy-and-ericka-songs-12-51]
 - Authority control:
   - [Discogs](https://www.discogs.com/artist/4708930-Krissy-amp-Ericka)
   - [MusicBrainz](https://musicbrainz.org/artist/eaa840ae-d927-4bb5-93d3-f651439f6478)
@@ -736,7 +736,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Krissy_%26_Ericka)
 
-[^krissy-and-aricka-songs-12-51]: [Krissy & Ericka] YouTube: 「[12:51](https://www.youtube.com/watch?v=OciCJiEWhAU "Krissy & Ericka: 12:51")」
+[^krissy-and-aricka-songs-12-51]: [Krissy & Ericka] YouTube: 《[12:51](https://www.youtube.com/watch?v=OciCJiEWhAU "Krissy & Ericka: 12:51")》
 
 ### La Diva {#la-diva-djYRqlQsn2kFb5Q6N}
 
@@ -744,7 +744,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2008-05
 - First sales: 2009-11
-  - Song: 「Kasiping Ka」
+  - Song: 《Kasiping Ka》
 
 {{< video
   id="Ltg8yCyDB4I"
@@ -759,10 +759,10 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「One Last Goodbye」 [^la-diva-songs-one-last-goodbye]
-  - 「Rosalinda」 (fast) [^la-diva-songs-rosalinda-fast] OST for the Filipino adaptation of Mexican drama 「Rosalinda」
-  - 「Rosalinda」 (slow) [^la-diva-songs-rosalinda-slow] OST for the Filipino adaptation of Mexican drama 「Rosalinda」
-  - 「I'm Yours」 [^la-diva-songs-i-am-yours] (original by ***Jason Mraz*** in 2008)
+  - 《One Last Goodbye》 [^la-diva-songs-one-last-goodbye]
+  - 《Rosalinda》 (fast) [^la-diva-songs-rosalinda-fast] OST for the Filipino adaptation of Mexican drama 《Rosalinda》
+  - 《Rosalinda》 (slow) [^la-diva-songs-rosalinda-slow] OST for the Filipino adaptation of Mexican drama 《Rosalinda》
+  - 《I'm Yours》 [^la-diva-songs-i-am-yours] (original by ***Jason Mraz*** in 2008)
 - Did you know?
   - ***La Diva*** sold more than 20,000 albums in the Philippines.
   - They are also known as the fourth best-selling female group in the country, after ***Sexbomb Girls***, ***Aegis***, and ***Mocha Girls***.
@@ -785,10 +785,10 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
   - [Official Community](https://sopladiva.smfforfree.com)
   - [Wikipedia](https://en.wikipedia.org/wiki/La_Diva_(group))
 
-[^la-diva-songs-one-last-goodbye]: [La Diva] YouTube: 「[One Last Goodbye](https://www.youtube.com/watch?v=tt3kPUAWqiA "La Diva: One Last Goodbye")」
-[^la-diva-songs-rosalinda-fast]: [La Diva] YouTube: 「[Rosalinda](https://www.youtube.com/watch?v=kD0s3R9pvV8 "La Diva: Rosalinda (fast)")」 (fast) OST for the Filipino adaptation of Mexican drama 「Rosalinda」
-[^la-diva-songs-rosalinda-slow]: [La Diva] YouTube: 「[Rosalinda](https://www.youtube.com/watch?v=QVp01T_euCM "La Diva: Rosalinda (slow)")」 (slow) OST for the Filipino adaptation of Mexican drama 「Rosalinda」
-[^la-diva-songs-i-am-yours]: [La Diva] YouTube: 「[I'm Yours](https://www.youtube.com/watch?v=Wgd1O40xmzU "La Diva: I'm Yours")」 (original by *Jason Mraz* in 2008)
+[^la-diva-songs-one-last-goodbye]: [La Diva] YouTube: 《[One Last Goodbye](https://www.youtube.com/watch?v=tt3kPUAWqiA "La Diva: One Last Goodbye")》
+[^la-diva-songs-rosalinda-fast]: [La Diva] YouTube: 《[Rosalinda](https://www.youtube.com/watch?v=kD0s3R9pvV8 "La Diva: Rosalinda (fast)")》 (fast) OST for the Filipino adaptation of Mexican drama 《Rosalinda》
+[^la-diva-songs-rosalinda-slow]: [La Diva] YouTube: 《[Rosalinda](https://www.youtube.com/watch?v=QVp01T_euCM "La Diva: Rosalinda (slow)")》 (slow) OST for the Filipino adaptation of Mexican drama 《Rosalinda》
+[^la-diva-songs-i-am-yours]: [La Diva] YouTube: 《[I'm Yours](https://www.youtube.com/watch?v=Wgd1O40xmzU "La Diva: I'm Yours")》 (original by *Jason Mraz* in 2008)
 
 ### 4th Impact {#4th-impact-JKDb5XdWfhpQY8tcZ}
 
@@ -796,7 +796,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name: DREAMERS
 - Debut: 2001
 - First sales: 2008-09-01
-  - Song: 「Alam Ko, Alam Mo」
+  - Song: 《Alam Ko, Alam Mo》
 
 {{< video
   id="pFr2pEqTJIc"
@@ -811,8 +811,8 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Unleash The Diva」 [^4th-impact-songs-unleash-the-diva] (original by ***Zsa Zsa Padilla*** in 2004)
-  - 「K(NO)W MORE」 [^4th-impact-songs-know-more]
+  - 《Unleash The Diva》 [^4th-impact-songs-unleash-the-diva] (original by ***Zsa Zsa Padilla*** in 2004)
+  - 《K(NO)W MORE》 [^4th-impact-songs-know-more]
 - Did you know?
   - They won 16 gold medals, 4 outstanding plaques, and proclaimed as the Junior Vocal Group Grand Champion in the 2006 *World Championships of Performing Arts*.
   - In 2009, they also went by *The Gollayan Sisters* based on their middle name.
@@ -844,8 +844,8 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
   - [Patreon](https://www.patreon.com/4thimpact)
   - [Wikipedia](https://en.wikipedia.org/wiki/4th_Impact)
 
-[^4th-impact-songs-unleash-the-diva]: [4th Impact] YouTube: 「[Unleash The Diva](https://www.youtube.com/watch?v=XKp2k0eKIPo "4th Impact: Unleash The Diva")」 (original by ***Zsa Zsa Padilla*** in 2004)
-[^4th-impact-songs-know-more]: [4th Impact] YouTube: 「[K(NO)W MORE](https://www.youtube.com/watch?v=p3w4_0pJotI "4th Impact: K(NO)W MORE")」
+[^4th-impact-songs-unleash-the-diva]: [4th Impact] YouTube: 《[Unleash The Diva](https://www.youtube.com/watch?v=XKp2k0eKIPo "4th Impact: Unleash The Diva")》 (original by ***Zsa Zsa Padilla*** in 2004)
+[^4th-impact-songs-know-more]: [4th Impact] YouTube: 《[K(NO)W MORE](https://www.youtube.com/watch?v=p3w4_0pJotI "4th Impact: K(NO)W MORE")》
 [^4th-impact-copyright-name]: Evening Standard: [The X Factor 2015: Girl band 4th Power forced to change name after legal dispute](https://www.standard.co.uk/culture/tvfilm/the-x-factor-2015-girl-band-4th-power-forced-to-change-name-after-legal-dispute-a2955076.html)
 
 ## 2009
@@ -856,7 +856,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - Fandom name:
 - Debut: 2009
 - First sales: 2010-06
-  - Song: 「Gusto Ko Lang Ng Girlfriend」
+  - Song: 《Gusto Ko Lang Ng Girlfriend》
 
 {{< video
   id="6BifV0VwQRg"
@@ -871,10 +871,10 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Kargo」 [^eevee-songs-kargo] OST for 「Stuck On You」
-  - 「Di Ko Kayang Tanggapin」 [^eevee-songs-di-ko-kayang-tanggapin] (original by ***April Boy Regino*** in 1997)
+  - 《Kargo》 [^eevee-songs-kargo] OST for 《Stuck On You》
+  - 《Di Ko Kayang Tanggapin》 [^eevee-songs-di-ko-kayang-tanggapin] (original by ***April Boy Regino*** in 1997)
 - Did you know?
-  - Their name, ***Eevee***, was based on the 「Pokemon」 of the same name.
+  - Their name, ***Eevee***, was based on the 《Pokemon》 of the same name.
 - Authority control:
   - [MusicBrainz](https://musicbrainz.org/artist/e7f37f87-dd20-4a8e-8aaf-310b4990e900)
   - YourOnly.One MD: 0XIEWm7HnKYo3A0Wu
@@ -894,14 +894,14 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 - More:
   - [Wikipedia](https://en.wikipedia.org/wiki/Eevee_(band))
 
-[^eevee-songs-kargo]: [Eevee] YouTube: 「[Kargo](https://www.youtube.com/watch?v=pddQm0GgWxo "Eevee: Kargo")」 OST for 「Stuck On You」
-[^eevee-songs-di-ko-kayang-tanggapin]: [Eevee] YouTube: 「[Di Ko Kayang Tanggapin](https://www.youtube.com/watch?v=Ls8EovJAZm8 "Eevee: Di Ko Kayang Tanggapin")」 (original by ***April Boy Regino*** in 1997)
+[^eevee-songs-kargo]: [Eevee] YouTube: 《[Kargo](https://www.youtube.com/watch?v=pddQm0GgWxo "Eevee: Kargo")》 OST for 《Stuck On You》
+[^eevee-songs-di-ko-kayang-tanggapin]: [Eevee] YouTube: 《[Di Ko Kayang Tanggapin](https://www.youtube.com/watch?v=Ls8EovJAZm8 "Eevee: Di Ko Kayang Tanggapin")》 (original by ***April Boy Regino*** in 1997)
 
 ### Eurasia {#eurasia-SgFG17NTDlFbgl55b}
 
 - Fandom name:
 - Debut: 2010
-  - Song: 「Working Girls」 OST for 「Working Girls」 (original by ***Chona Cruz*** in 1984)
+  - Song: 《Working Girls》 OST for 《Working Girls》 (original by ***Chona Cruz*** in 1984)
 
 {{< video
   id="n-_DGUHTSRA"
@@ -931,7 +931,7 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 
 - Fandom name:
 - Debut: 2009-12-13
-  - Song: 「Crazy Crazy」
+  - Song: 《Crazy Crazy》
 
 {{< video
   id="Dpuw7AMlDyM"
@@ -946,9 +946,9 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
 >}}
 
 - Sample songs:
-  - 「Prinsesa」 [^pop-girls-songs-prinsesa]
-  - 「Sige Sige Sayaw」 [^pop-girls-songs-sige-sige-sayaw]
-  - 「Baby Boy」 [^pop-girls-songs-baby-boy]
+  - 《Prinsesa》 [^pop-girls-songs-prinsesa]
+  - 《Sige Sige Sayaw》 [^pop-girls-songs-sige-sige-sayaw]
+  - 《Baby Boy》 [^pop-girls-songs-baby-boy]
 - Authority control:
   - [ISNI](https://isni.org/isni/0000000470612467)
   - [MusicBrainz](https://musicbrainz.org/artist/bdf5d2a6-0218-41ff-bc8f-6a0e99cb7803)
@@ -964,9 +964,9 @@ The ***2nd Generation of P-pop Music*** was from 2000 up to 2009.
   - [Facebook](https://fb.com/POPGIRLS)
   - [Twitter](https://twitter.com/ItsPopGirls)
 
-[^pop-girls-songs-prinsesa]: [Pop Girls] YouTube: 「[Prinsesa](https://www.youtube.com/watch?v=BRslms5WeBs "Pop Girls: Prinsesa")」
-[^pop-girls-songs-sige-sige-sayaw]: [Pop Girls] YouTube: 「[Sige Sige Sayaw](https://www.youtube.com/watch?v=2bpCtXuNkso "Pop Girls: Sige Sige Sayaw")」
-[^pop-girls-songs-baby-boy]: [Pop Girls] YouTube: 「[Baby Boy](https://www.youtube.com/watch?v=gigaWIEzMlM "Pop Girls: Baby Boy")」
+[^pop-girls-songs-prinsesa]: [Pop Girls] YouTube: 《[Prinsesa](https://www.youtube.com/watch?v=BRslms5WeBs "Pop Girls: Prinsesa")》
+[^pop-girls-songs-sige-sige-sayaw]: [Pop Girls] YouTube: 《[Sige Sige Sayaw](https://www.youtube.com/watch?v=2bpCtXuNkso "Pop Girls: Sige Sige Sayaw")》
+[^pop-girls-songs-baby-boy]: [Pop Girls] YouTube: 《[Baby Boy](https://www.youtube.com/watch?v=gigaWIEzMlM "Pop Girls: Baby Boy")》
 
 ---
 
