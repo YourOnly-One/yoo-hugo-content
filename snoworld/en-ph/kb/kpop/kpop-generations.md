@@ -89,10 +89,10 @@ If you prefer this approach, there is no harm in it. Think of it as "when did th
 
 With me so far? Based on the above, here are the K-pop music acts per generation:
 
-- [1st Generation: 1992–2001]({{< ref "/kpop-1st-gen.md" >}} "1st Generation K-pop")
-- [2nd Generation: 2002–2011]({{< ref "/kpop-2nd-gen.md" >}} "2nd Generation K-pop")
-- [3rd Generation: 2012–2021]({{< ref "/kpop-3rd-gen.md" >}} "3rd Generation K-pop")
-- [4th Generation: 2022–2031]({{< ref "/kpop-4th-gen.md" >}} "4th Generation K-pop")
+- {{< reflangtitle path="kpop-1st-gen.md" >}}
+- {{< reflangtitle path="kpop-2nd-gen.md" >}}
+- {{< reflangtitle path="kpop-3rd-gen.md" >}}
+- {{< reflangtitle path="kpop-4th-gen.md" >}}
 
 ### (EXTRA) Border Years: 2001–2002
 

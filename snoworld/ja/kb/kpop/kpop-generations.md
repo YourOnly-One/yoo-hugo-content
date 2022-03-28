@@ -2,15 +2,15 @@
 title = "K-POP世代の最も首尾一貫したリスト"
 description = "バンド、グループ、ソロ活動のための韓国のポピュラー音楽世代への客観的なアプローチ。"                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
-date = "2022-02-08T19:40:00+09:00"                                        # manually adjust to local timezone
-#lastmod = "2022-01-18T07:00:00+09:00                                        # manually adjust to local timezone
+date = "2022-02-08T19:40:00"                                        # manually adjust to local timezone
+#lastmod = "2022-01-18T07:00:00+09:00"                                        # manually adjust to local timezone
 
-#aliases = [""]
+aliases = ["kpop-generations-202218"]
 slug = "kpop-generations"
 translationKey = "kpop-generations-202218"
-relCanonical = "https://im.youronly.one/snoworld/ja/kb/kpop/kpop-generations-202218/"                                                   # the actual URL of the post; also used for disqus ID and url
+relCanonical = "https://im.youronly.one/snoworld/ja/kb/kpop/kpop-generations-202239/"                                                   # the actual URL of the post; also used for disqus ID and url
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "kpop-generations-202218"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["snoworld"]
 categories = ["literature"]                                                   # taxonomy
@@ -89,10 +89,10 @@ The notion of generation is widely used in the everyday world to make sense of d
 
 これまで私と一緒に？ 上記に基づいて、世代ごとのK-popミュージックアクトは次のとおりです。
 
-- [第1世代：1992–2001]({{< relref path="kpop-1st-gen.md" lang="en-ph" >}} "第1世代：1992–2001") (英語)
-- [第2世代：2002–2011]({{< relref path="kpop-2nd-gen.md" lang="en-ph" >}} "第2世代：2002–2011") (英語)
-- [第3世代：2012–2021]({{< relref path="kpop-3rd-gen.md" lang="en-ph" >}} "第3世代：2012–2021") (英語)
-- [第4世代：2022–2031]({{< relref path="kpop-4th-gen.md" lang="en-ph" >}} "第4世代：2022–2031") (英語)
+- 英語： {{< reflangtitle path="kpop-1st-gen.md" >}}
+- 英語： {{< reflangtitle path="kpop-2nd-gen.md" >}}
+- 英語： {{< reflangtitle path="kpop-3rd-gen.md" >}}
+- 英語： {{< reflangtitle path="kpop-4th-gen.md" >}}
 
 ### （追加）国境年：2001–2002
 
