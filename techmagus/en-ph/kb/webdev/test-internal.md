@@ -49,7 +49,7 @@ SUMMARY
 
 <!--more-->
 
-{{< reflang path="test-internal.md" >}}
+{{< reflangtitle path="test-internal.md" >}}
 
 ## Complicated setup
 
