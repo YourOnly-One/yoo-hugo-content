@@ -14,7 +14,7 @@ relCanonical = "https://im.youronly.one/p/linklist/"                            
 
 #channels = [""]
 #categories = [""]                                                   # taxonomy
-keywords = ["YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+keywords = ["linklist", "blogroll", "YourOnlyOne", "YourOnly.One", "I'M YourOnly.One", "I'M YourOnlyOne"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
 #tags = [""]                                                         # taxonomy
 

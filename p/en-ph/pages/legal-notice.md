@@ -2,7 +2,7 @@
 title = "Legal Notice"
 description = "YourOnly.One™ Legal Notice"
 
-date = "2020-03-25T06:00:00+00:00"
+date = "2020-03-25T06:03:00+00:00"
 lastmod = "2021-10-31T12:17:00+00:00"
 
 #aliases = ["", ""]
@@ -14,7 +14,7 @@ lastmod = "2021-10-31T12:17:00+00:00"
 
 #channels = [""]
 #categories = [""]                                                   # taxonomy
-keywords = ["YourOnlyOne", "YourOnly.One"]                                                     # meta keywords
+keywords = ["YourOnlyOne", "YourOnly.One", "I'M YourOnly.One", "I'M YourOnlyOne"]                                                     # meta keywords
 #series = [""]                                                       # subset of series taxonomy
 #tags = [""]                                                         # taxonomy
 
