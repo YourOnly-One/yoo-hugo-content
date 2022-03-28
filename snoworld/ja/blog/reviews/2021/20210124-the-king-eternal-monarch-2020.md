@@ -4,15 +4,15 @@ description = "レビュー2020年のナンバーワン韓国ドラマ、 더 �
 summary = "レビュー2020年のナンバーワン韓国ドラマ、 더 킹: 영원의 군주 The King: Eternal Monarch."																											# for summary text in list displays
 
 date = "2021-01-25T00:17:10+09:00"
-lastmod= "2021-01-25T00:17:10+09:00"
+lastmod = "2021-01-25T00:17:10+09:00"
 
-aliases = ["/ja/더-킹-영원의-군주-the-king-eternal-monarch-2020-202124"] # Permanent timezone
+aliases = ["더-킹-영원의-군주-the-king-eternal-monarch-2020-202124"] # Permanent timezone
 slug = "더 킹: 영원의 군주 The King: Eternal Monarch (2020)"
 translationKey = "더 킹: 영원의 군주 The King: Eternal Monarch (2020)"
 #url = ""																														# the full path to the content from the web root. It makes no assumptions about the path of the content file. It also ignores any language prefixes of the multilingual feature.
-relCanonical = "https://im.youronly.one/snoworld/ja/더-킹-영원의-군주-the-king-eternal-monarch-2020-202124/"																									# only needed when this is not the original post
+relCanonical = "https://im.youronly.one/snoworld/ja/더-킹-영원의-군주-the-king-eternal-monarch-2020-202125/"																									# only needed when this is not the original post
 #disqus_url = ""                                                    # automatic in YourOnly.One setup
-#disqus_identifier = ""                                             # highly recommended by Disqus; automatic in YourOnly.One setup
+disqus_identifier = "더-킹-영원의-군주-the-king-eternal-monarch-2020-202124"                                             # highly recommended by Disqus; automatic in YourOnly.One setup
 
 channels = ["snoworld"]
 categories = ["tv"]                           # taxonomy
