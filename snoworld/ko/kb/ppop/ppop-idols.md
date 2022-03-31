@@ -394,9 +394,9 @@ The notion of generation is widely used in the everyday world to make sense of d
   attribrel="noopener external"
 >}}
 
-<!-- Archived License (2022-03-21T14:28:07): https://web.archive.org/web/20220321051251/https://www.newgrounds.com/art/view/ikkimay/anime-pop-idol -->
-<!-- Archived License (2022-03-21T14:28:07): https://web.archive.org/web/20220321051255/http://web.archive.org/screenshot/https://www.newgrounds.com/art/view/ikkimay/anime-pop-idol -->
-<!-- Archived License (2022-03-21T14:28:07): https://archive.is/9yQPy -->
+<!-- NOTE: Archived License (2022-03-21T14:28:07): https://web.archive.org/web/20220321051251/https://www.newgrounds.com/art/view/ikkimay/anime-pop-idol -->
+<!-- NOTE: Archived License (2022-03-21T14:28:07): https://web.archive.org/web/20220321051255/http://web.archive.org/screenshot/https://www.newgrounds.com/art/view/ikkimay/anime-pop-idol -->
+<!-- NOTE: Archived License (2022-03-21T14:28:07): https://archive.is/9yQPy -->
 
 ---
 
