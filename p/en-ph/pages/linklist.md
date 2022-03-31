@@ -1,9 +1,9 @@
 +++
 title = "YourOnly.One Linklist"
-description = ""                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
+description = "YourOnly.One recommended websites."                                                    # For Schema.org; OpenGraph; Twitter Cards; and post summary
 
 date = "2021-12-18T15:37:21+08:00"                                        # manually adjust to local timezone
-lastmod = "2021-12-19T14:14:41+08:00"                                        # manually adjust to local timezone
+#lastmod = "2021-12-19T14:14:41+08:00"                                        # manually adjust to local timezone
 
 #aliases = [""]
 slug = "linklist"
@@ -21,7 +21,7 @@ keywords = ["linklist", "blogroll", "YourOnlyOne", "YourOnly.One", "I'M YourOnly
 comments = false
 #weight = ""                                                        # post weight, if we want granular control of post order
 
-#featured = true
+featured = true
 #math = true
 toc = true
 

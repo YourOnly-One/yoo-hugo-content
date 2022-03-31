@@ -21,7 +21,7 @@ keywords = ["gift", "YourOnlyOne", "YourOnly.One", "I'M YourOnly.One", "I'M Your
 comments = false
 #weight = ""                                                        # post weight, if we want granular control of post order
 
-#featured = true
+featured = true
 #math = true
 toc = true
 
