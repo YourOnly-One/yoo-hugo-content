@@ -44,4 +44,8 @@ images = [""]                                                       # used by og
   #rel = "noopener external nofollow"
 +++
 
-Our contact form is not available yet. Feel free to contact us directly in any of our social media accounts.
+Kindly use this form to contact **YourOnly.One**.
+
+<!--more-->
+
+{{< iframe src="https://tally.so/embed/meVE03?alignLeft=1&hideTitle=1&transparentBackground=1" >}}
