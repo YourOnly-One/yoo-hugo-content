@@ -44,7 +44,7 @@ images = [""]                                                       # used by og
   #rel = "noopener external nofollow"
 +++
 
-If you require additional information or have any questions about our Terms of Service, please feel free to {{< reflangtitle path="contact-us.md" lang="en-ph" >}}.
+If you require additional information or have any questions about our Terms of Service, please feel free to {{< reflangtitle path="contact-us.md" >}}.
 
 ## Introduction
 
@@ -182,9 +182,9 @@ If a provision of these terms and conditions is determined by any court or other
 
 ## Entire agreement
 
-These terms and conditions, together with YourOnly.One's {{< reflangtitle path="privacy-policy.md" lang="en-ph" >}} and {{< reflangtitle path="legal-notice.md" lang="en-ph" >}}, constitute the entire agreement between you and YourOnly.One in relation to your use of WebSite, and supersede all previous agreements in respect of your use of this website.
+These terms and conditions, together with YourOnly.One's {{< reflangtitle path="privacy-policy.md" >}} and {{< reflangtitle path="legal-notice.md" >}}, constitute the entire agreement between you and YourOnly.One in relation to your use of WebSite, and supersede all previous agreements in respect of your use of this website.
 
-You can contact YourOnly.One via our {{< reflangtitle path="contact-us.md" lang="en-ph" >}}.
+You can contact YourOnly.One via our {{< reflangtitle path="contact-us.md" >}}.
 
 ## Update
 
